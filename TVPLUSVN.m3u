@@ -1,5 +1,4 @@
-
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml"
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="http://images.zaltv.club/logo/vtv1hd.png", VTV1 FHD
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="http://images.zaltv.club/logo/vtv2hd.png", VTV2 FHD
