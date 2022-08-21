@@ -1,10 +1,5 @@
 
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml"
-#EXTM3U url-tvg="http://gg.gg/coocaaE" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
-#EXTM3U
-#EXTINF:-1 group-title="Uplist: 00:00 - 00/00" Logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU", Thanks watch !
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTM3U
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="http://images.zaltv.club/logo/vtv1hd.png", VTV1 FHD
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="http://images.zaltv.club/logo/vtv2hd.png", VTV2 FHD
