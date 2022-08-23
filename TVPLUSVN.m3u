@@ -181,7 +181,38 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" Logo="http://images.zaltv.club/logo/cctv-5+.png", CCTV5+ HD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-
+#EXTINF:0  group="Thể thao",[TW]ELEVEN 1 
+http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+#EXTINF:0  group="Thể thao",[TW]ELEVEN 2 
+http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+#EXTINF:0 group="Thể thao",CBS Sports HQ
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0 group="Thể thao",Pluto TV Fitness
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0 group="Thể thao",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0 group="Thể thao",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0 group="Thể thao",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0 group="Thể thao",Pluto TV Yoga
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+ #EXTINF:0  group="Thể thao",Sky Sports Action
+ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53985
+ #EXTINF:0  group="Thể thao",Sky Sports F1
+ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/82729
+ #EXTINF:0  group="Thể thao",Sky Sports Football
+ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53980
+ #EXTINF:0  group="Thể thao",Sky Sports Golf
+ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53981
+#EXTINF:0  group="Thể thao",Sky Sports Main Event
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53982
+#EXTINF:0  group="Thể thao",Sky Sports Mix
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53983
+#EXTINF:0  group="Thể thao", Sky Sports News
+ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53984
+#EXTINF:0  group="Thể thao", Sky Sports Premier League
+ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53986
 ---------------------------------------GIẢI TRÍ----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU", Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
