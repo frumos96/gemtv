@@ -8,11 +8,9 @@ https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="http://images.zaltv.club/logo/vtv4hd.png", VTV4 FHD
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="http://images.zaltv.club/logo/vtv5tnb.png", VTV5 TNB
-#http://vietanhtv.xyz/vtvgo.php?id=7
-https://dl.dropboxusercontent.com/s/mlf4poarp91c72e/hls/vtv5tnb/index.m3u8
+http://vietanhtv.xyz/vtvgo.php?id=7
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="http://images.zaltv.club/logo/vtv5tn.png", VTV5 TN
-#http://vietanhtv.xyz/vtvgo.php?id=163
-https://dl.dropboxusercontent.com/s/chva76tdb6g7qlx/hls/vtv5tn/index.m3u8
+http://vietanhtv.xyz/vtvgo.php?id=163
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="http://images.zaltv.club/logo/vtv5hd.png", VTV5 FHD
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Vtv" logo="http://images.zaltv.club/logo/vtv6hd.png", VTV6 FHD
@@ -34,6 +32,10 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/r3Jiu5Q.png", HTV9 HD
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinhlong1hd.png", Vĩnh Long 1 HD
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinhlong2hd.png", Vĩnh Long 2 HD
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="https://i.imgur.com/pAqskAN.png", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://vthanhtivi.cf/ic/228.png", AXN HD
@@ -53,9 +55,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/hollywoodclassics.png", Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/box_hits.png", Box Hits
-https://dl.dropboxusercontent.com/s/28ty97que0ave8x/hls/boxhits/index.m3u8
+http://live.television4you.xyz:8081/boxhits/mpegts
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/box_channel.png", Box
-https://dl.dropboxusercontent.com/s/vbw1it91f0wi3g6/hls/box/index.m3u8	
+https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1	
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE 
 https://stream.sugustv.tk:443/live/44DEA644318541B38AC21C2BB507FF9B/12.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE 
@@ -126,18 +128,14 @@ https://sugustvh.duckdns.org/ksp1
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 SU
 https://sugustvh.duckdns.org/ksp2
 
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+kids.png", K+KIDS VT
-http://aisharelamcho.duckdns.org/aisharelamcho/KKIDS1308.aslc/mpegts
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE VT
-http://aisharelamcho.duckdns.org/aisharelamcho/KCINE1308.aslc/mpegts
+http://103.179.188.40:8080/kcine/nosharingpls
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE VT
-http://aisharelamcho.duckdns.org/aisharelamcho/KLIFE1308.aslc/mpegts
+http://103.179.188.40:8080/klife/nosharingpls
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 VT
-http://aisharelamcho.duckdns.org/aisharelamcho/KSP11308.aslc/mpegts
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 VT #
-http://103.180.133.235/aisharelamcho/KSP11308.aslc/mpegts
+http://103.179.188.40:8080/ksport1/nosharingpls
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 VT
-http://aisharelamcho.duckdns.org/aisharelamcho/KSP21308.aslc/mpegts
+http://103.179.188.40:8080/ksport2/nosharingpls
 
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE 
 http://103.179.188.40:8080/kcine
@@ -170,49 +168,6 @@ http://cdn.zaltv.xyz/1661392231/vietteltv_live/paramount.stream/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/hits.png", Hits
 http://cdn.zaltv.xyz/1661392231/vietteltv_live/hit.stream/index.m3u8
 
----------------------------------------THỂ THAO----------------------------------------
-#EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://i.imgur.com/A8RNAwQ.png", HTV Thể Thao #
-http://sv1.cvacetv.ga:8080/htvtt
-#EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://a.jsrdn.com/hls/23064/kozoom-tv/thumbh_20220531_190547.jpg", KOZOOM TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://a.jsrdn.com/hls/22964/billiard-tv/thumbh_20210622_195955.png", BILLIARD TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Thể thao" Logo="http://images.zaltv.club/logo/cctv-5.png", CCTV5 HD
-http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Thể thao" Logo="http://images.zaltv.club/logo/cctv-5+.png", CCTV5+ HD
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:0  group="Thể thao",[TW]ELEVEN 1 
-http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
-#EXTINF:0  group="Thể thao",[TW]ELEVEN 2 
-http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-#EXTINF:0 group="Thể thao",CBS Sports HQ
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0 group="Thể thao",Pluto TV Fitness
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0 group="Thể thao",Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0 group="Thể thao",Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0 group="Thể thao",Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0 group="Thể thao",Pluto TV Yoga
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0  group="Thể thao",Sky Sports Action
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53985
-#EXTINF:0  group="Thể thao",Sky Sports F1
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/82729
-#EXTINF:0  group="Thể thao",Sky Sports Football
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53980
-#EXTINF:0  group="Thể thao",Sky Sports Golf
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53981
-#EXTINF:0  group="Thể thao",Sky Sports Main Event
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53982
-#EXTINF:0  group="Thể thao",Sky Sports Mix
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53983
-#EXTINF:0  group="Thể thao", Sky Sports News
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53984
-#EXTINF:0  group="Thể thao", Sky Sports Premier League
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53986
 ---------------------------------------GIẢI TRÍ----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU", Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -347,8 +302,6 @@ https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Htv" logo="http://images.zaltv.club/logo/htv9hd.png", HTV9 HD
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Htv" logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/200872-HTVCoop.png", HTVC CO.OP HD
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Htv" logo="http://images.zaltv.club/logo/htv-thethao.png", HTV Thể Thao HD
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Htv" logo="http://images.zaltv.club/logo/htvc-thuanviet.png", HTVC Thuận Việt HD
@@ -449,16 +402,8 @@ https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/canthohd.png", Cần Thơ HD
 https://vips-livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="https://i.imgur.com/V3NhGyb.png", Ðà Nẵng 1 HD
-https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="https://i.imgur.com/qLxtQIc.png", Ðà Nẵng 2 HD
-https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/daclac.png", Ðắk Lắk HD
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/dak-nong-ptd.png", Ðắk Nông HD
-https://htv-drm-live-cdn.fptplay.net/htvonline/daknong.480p.nimble.tms/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/dienbien.png", Ðiện Biên HD
-https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/dong-nai-rtv-dn1.png", Ðồng Nai 1 HD
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/dong-nai-rtv-dn2.png", Ðồng Nai 2 HD
@@ -471,8 +416,6 @@ https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
 http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/gia-lai-thgl.png", Gia Lai HD
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/ha-giang-hgtv.png", Hà Giang HD
-https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/ha-nam-hanam.png", Hà Nam HD
 https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/hanoi1hd.png", Hà Nội 1 HD
@@ -493,8 +436,6 @@ https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/haiphong-plus.png", Hải Phòng 2 HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/hoa-binh-hbtv.png", Hòa Bình HD
-https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/hau-giang-hgtv.png", Hậu Giang HD
 http://livecdn.fptplay.net/sda/haugiang_2000.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/hungyen-hd.png", Hưng Yên HD
@@ -521,8 +462,6 @@ https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/phu-yen.png", Phú Yên HD
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/quang-binh.png", Quảng Bình HD
-https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/quang-nam-qrt.png", Quảng Nam HD
 https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/quang-ngai.png", Quảng Ngãi HD
@@ -531,8 +470,6 @@ https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/quang-ninh-qtv3.png", Quảng Ninh 2 HD
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/quang-tri.png", Quảng Trị HD
-https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/soc-trang-stv1.png", Sóc Trăng 1 HD
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/soc-trang-stv2.png", Sóc Trăng 2 HD
@@ -553,20 +490,88 @@ https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/tuyen-quang-ttv.png", Tuyên Quang HD
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinhlong1hd.png", Vĩnh Long 1 HD
-https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinhlong2hd.png", Vĩnh Long 2 HD
-https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinhlong3hd.png", Vĩnh Long 3 HD
-https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinhlong4hd.png", Vĩnh Long 4 HD
-https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinh-phuc-vp.png", Vĩnh Phúc HD
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vungtau_hd.png", Vũng Tàu HD
 https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/yenbai.png", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
+---------------------------------------MUSIC----------------------------------------
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://a.jsrdn.com/hls/23014/only-music/thumbh_20220207_221307.jpg", Only Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/VHOdzjd.jpg", VEVO Pop FHD
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=b72b3d44-8d24-4833-8786-6ea77b1f7935&rendition=1080&session_id=00445cfb-bf4d-7983-d2bb-dabab3c362d5&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.ibb.co/fQjkFFk/kralpop.jpg", Kral Pop
+https://tbientv.xyz/channel/?kralpop
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png", KPOP HD
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunkist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/FeFMOxH.png", MTV HD
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/2UBIyT5.png", Music Box HD
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/KWg9F4c.png", VIVA HD
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png", 1HD Music
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="http://images.zaltv.club/logo/clubbingtv.png", ClubbingTV HD
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="http://images.zaltv.club/logo/v2.jpg", V2BEAT HD
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/1200px-VH1_2020.svg.png", VH1 HD
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG", MTV Biggest Pop HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG", MTV Yo! HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG", MTV Block Party HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG", MTV Spankin' New HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+---------------------------------------KÊNH KHÁC----------------------------------------
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/man.png", Man
+https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/hls/boxman/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/man.png", Man #
+https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
+#https://stream.sugustv.tk:443/live/44DEA644318541B38AC21C2BB507FF9B/282.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/woman.png", Woman
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/planet-earth.png", Planet Earth
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/dr_fit.png", Dr.Fit
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="https://cdn.hqth.me/logo/217.png", KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/bbcearth.png", BBC Earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/afn.png", Asian Food Network
+https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/discovery.png", Discovery
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://mod.cht.com.tw/img/channel/channelpic/253.png", Discovery Asia
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/national-geographic-hd.png", National Geographic
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/Outdoor_Channel.png", Outdoor Channel
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="https://cdn.hqth.me/logo/226.png", Nat Geo Wild
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://onetv.click/logo/blueantent.jpg", Blue Ant Entertainment
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://onetv.click/logo/blueantext.jpg", Blue Ant Extreme
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/animal_planet.png", Animal Planet
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/hgtv.png", HGTV
+http://cdn.zaltv.xyz/1656378667/vietteltv_live/hgtv.stream/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/da-vinc.png", Da Vinci HD
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="https://mytv.com.vn/upload/channel/65.png", TV5Monde Asie
+https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/history.png", History HD
+http://sever.vietanhiptv.tk/history/mpegts
+
+
 
 ---------------------------------------THIẾU NHI----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" group="Thiếu nhi" logo="https://dl.dropboxusercontent.com/s/lslvqe41s8j7itv/PBS", PBS Kids HD
@@ -661,78 +666,94 @@ http://live-vn.cvacetv.ga:8080/live2
 http://live-vn.cvacetv.ga:8080/live3
 #EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="http://images.zaltv.club/logo/live.gif", Live Events 4K
 http://live-vn.cvacetv.ga:8080/4KUHD
----------------------------------------MUSIC----------------------------------------
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://a.jsrdn.com/hls/23014/only-music/thumbh_20220207_221307.jpg", Only Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/VHOdzjd.jpg", VEVO Pop FHD
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=b72b3d44-8d24-4833-8786-6ea77b1f7935&rendition=1080&session_id=00445cfb-bf4d-7983-d2bb-dabab3c362d5&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.ibb.co/fQjkFFk/kralpop.jpg", Kral Pop
-https://tbientv.xyz/channel/?kralpop
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png", KPOP HD
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunkist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/FeFMOxH.png", MTV HD
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/2UBIyT5.png", Music Box HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/KWg9F4c.png", VIVA HD
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png", 1HD Music
-https://sc.id-tv.kz/1hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="http://images.zaltv.club/logo/clubbingtv.png", ClubbingTV HD
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="http://images.zaltv.club/logo/v2.jpg", V2BEAT HD
-http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/1200px-VH1_2020.svg.png", VH1 HD
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG", MTV Biggest Pop HD
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG", MTV Yo! HD
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG", MTV Block Party HD
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG", MTV Spankin' New HD
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Espn HD" tvg-logo="http://worldiptv.xyz/chlogos/ESPN.ar.png" group="Sport",BR:Espn HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159601
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group="Sport",BR:ESPN 2 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159598
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group="Sport",BR:ESPN 3 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159599
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG"group="Sport",BR:ESPN Extra HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159600
+#EXTINF:-1 tvg-id="ab3.be" tvg-name="BE: Voo Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1nl.be.png" group-title="Sport",VooSport 1 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/73449
+#EXTINF:-1 tvg-id="" tvg-name="BE: Voo Sport World 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",VooSport World 1 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/135972
+#EXTINF:-1 tvg-id="" tvg-name="BE: Voo Sport World 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",VooSport World 2 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/135973
+#EXTINF:-1 tvg-id="" tvg-name="BE: Voo Sport World 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",VooSport World 3 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/135974
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: Digi Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png" group="Sport",DigiSport1 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/70943
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group="Sport",DigiSport2 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/70944
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group="Sport",DigiSport3 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/70945
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group="Sport",DigiSport4 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/70947
 
----------------------------------------KÊNH KHÁC----------------------------------------
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/man.png", Man
-https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/hls/boxman/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/man.png", Man #
-https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
-#https://stream.sugustv.tk:443/live/44DEA644318541B38AC21C2BB507FF9B/282.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/woman.png", Woman
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/planet-earth.png", Planet Earth
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/dr_fit.png", Dr.Fit
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="https://cdn.hqth.me/logo/217.png", KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/bbcearth.png", BBC Earth
-https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/afn.png", Asian Food Network
-https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/discovery.png", Discovery
-https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://mod.cht.com.tw/img/channel/channelpic/253.png", Discovery Asia
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/national-geographic-hd.png", National Geographic
-https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/Outdoor_Channel.png", Outdoor Channel
-https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="https://cdn.hqth.me/logo/226.png", Nat Geo Wild
-https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://onetv.click/logo/blueantent.jpg", Blue Ant Entertainment
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://onetv.click/logo/blueantext.jpg", Blue Ant Extreme
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/animal_planet.png", Animal Planet
-https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/hgtv.png", HGTV
-http://cdn.zaltv.xyz/1656378667/vietteltv_live/hgtv.stream/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/da-vinc.png", Da Vinci HD
-https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="https://mytv.com.vn/upload/channel/65.png", TV5Monde Asie
-https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/history.png", History HD
-http://sever.vietanhiptv.tk/history/mpegts
+---------------------------------------THỂ THAO----------------------------------------
+#EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://i.imgur.com/A8RNAwQ.png", HTV Thể Thao #
+http://sv1.cvacetv.ga:8080/htvtt
+#EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://a.jsrdn.com/hls/23064/kozoom-tv/thumbh_20220531_190547.jpg", KOZOOM TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://a.jsrdn.com/hls/22964/billiard-tv/thumbh_20210622_195955.png", BILLIARD TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Thể thao" Logo="http://images.zaltv.club/logo/cctv-5.png", CCTV5 HD
+http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Thể thao" Logo="http://images.zaltv.club/logo/cctv-5+.png", CCTV5+ HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:0  group="Thể thao",[TW]ELEVEN 1 
+http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+#EXTINF:0  group="Thể thao",[TW]ELEVEN 2 
+http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+#EXTINF:0 group="Thể thao",CBS Sports HQ
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0 group="Thể thao",Pluto TV Fitness
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0 group="Thể thao",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0 group="Thể thao",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0 group="Thể thao",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0 group="Thể thao",Pluto TV Yoga
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0  group="Thể thao",Sky Sports Action
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53985
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sport Action HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Sky_Sports_Action_HD.png" group="Thể thao",UK:SkySport Action HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/94996
+#EXTINF:0  group="Thể thao",Sky Sports Football
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53980
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Sky_Sports_Football_HD.png" group="Thể thao",UK:SkySport Football HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95002
+#EXTINF:0  group="Thể thao",Sky Sports Main Event
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53982
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sports_Main_Event_HD.png" group="Thể thao",UK:SkySport MainEvents
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95005
+#EXTINF:0  group="Thể thao",Sky Sports Mix
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53983
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports MIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_Mix_HD.png" group="Thể thao",UK:SkySports MIX
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95010
+#EXTINF:0  group="Thể thao", Sky Sports News
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53984
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sport News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sports_News_HD_UK.png" group="Thể thao",UK:SkySport News
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95007
+#EXTINF:0  group="Thể thao", Sky Sports Premier League
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53986
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group="Thể thao",UK:SkySport PremierLeague HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95009
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sport Arena HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sky_Sports_Arena_HD.png" group="Thể thao",UK:SkySport Arena HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/94997
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sport Cricket HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Sky_Sports_Cricket_HD.png" group="Thể thao",UK:SkySport Cricket HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/94999
+#EXTINF:0  group="Thể thao",Sky Sports F1
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/82729
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sport F1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png" group="Thể thao"",UK:SkySport F1 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95001
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: Sky Sport Racing" tvg-logo="http://worldiptv.xyz/chlogos/SkySportsRacing.uk.png" group="Thể thao",UK:SkySport Racing
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/94827
+#EXTINF:0  group="Thể thao",Sky Sports Golf
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53981
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sport Golf HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Sky_Sports_Golf_HD.png" group="Thể thao",UK:SkySport Golf HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95004
 
