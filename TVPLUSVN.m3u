@@ -690,6 +690,25 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/70944
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/70945
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group="Sport",DigiSport4 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/70947
+#EXTINF:-1 group="Sport",AL: Super Sport 1 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/161887
+#EXTINF:- group="Sport"1,AL: Super Sport 2 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/161883
+#EXTINF:-1 group="Sport",AL: Super Sport 3 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/161886
+#EXTINF:-1 group="Sport",AL: Super Sport 4 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/161885
+#EXTINF:-1 group="Sport",AL: Super Sport 5 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/161884
+
+#EXTINF:-1 group="Sport",BG: Diema Sport HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69539
+#EXTINF:-1 group="Sport",BG: Diema Sport 1 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69537
+#EXTINF:-1 group="Sport",BG: Diema Sport 2 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69538
+#EXTINF:-1 group="Sport",BG: Diema Sport 3 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69653
 
 ---------------------------------------THỂ THAO----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://i.imgur.com/A8RNAwQ.png", HTV Thể Thao #
