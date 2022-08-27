@@ -636,15 +636,6 @@ https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Lives Event" Logo="https://fptplay.vn/_nuxt/img/logo-fpt-play.06da7da.png", F Sprot 10
 https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="Lives Event" Logo="https://meco.mytv.vn/static/channel/801.png?ver=19", MyTV Thể Thao
-https://stream.sugustv.tk/live/F74982122641DE1111C5F2EC587034EE/209.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Lives Event" Logo="https://meco.mytv.vn/static/channel/802.png?ver=19", MyTV Phim
-https://stream.sugustv.tk/live/F74982122641DE1111C5F2EC587034EE/210.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Lives Event" Logo="https://meco.mytv.vn/static/channel/803.png?ver=19", MyTV Nhạc
-https://stream.sugustv.tk/live/F74982122641DE1111C5F2EC587034EE/211.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Lives Event" Logo="https://meco.mytv.vn/static/channel/804.png?ver=19", MyTV Giải Trí
-https://stream.sugustv.tk/live/F74982122641DE1111C5F2EC587034EE/212.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group="Lives Event" Logo="https://fptplay.vn/_nuxt/img/logo-fpt-play.06da7da.png", F Event
 https://livecdn.fptplay.net/schedule/f-event_hls.smil/playlist.m3u8
 
@@ -666,37 +657,37 @@ http://live-vn.cvacetv.ga:8080/live2
 http://live-vn.cvacetv.ga:8080/live3
 #EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="http://images.zaltv.club/logo/live.gif", Live Events 4K
 http://live-vn.cvacetv.ga:8080/4KUHD
-#EXTINF:-1,USA Network
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/8259
-#EXTINF:-1,Peacook NBC Sport
+#EXTINF:-1 Logo=""https://img.sport-tv-guide.live/images/tv-station-nbc-77.png"  group="Sport",Peacook NBC Sport
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347953
-#EXTINF:-1,Peacook PL
+#EXTINF:-1  Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png" group="Sport",Peacook Premier League
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347954
-#EXTINF:-1,Peacook 1
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 1
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347955
-#EXTINF:-1,Peacook 2
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 2
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347956
-#EXTINF:-1,Peacook 3
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 3
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347957
-#EXTINF:-1,Peacook 4
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 4
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347958
-#EXTINF:-1,Peacook 5
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 5
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347959
-#EXTINF:-1,Peacook 6
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 6
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347960
-#EXTINF:-1,Peacook 7
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 7
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347961
-#EXTINF:-1,Peacook 8
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 8
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347962
-#EXTINF:-1,Peacook 9
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 9
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347963
-#EXTINF:-1,Peacook 10
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 10
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347964
-#EXTINF:-1,Peacook 11
+#EXTINF:-1group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 11
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347965
-#EXTINF:-1,Peacook 12
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 12
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347966
-#EXTINF:-1,Peacook 13
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 13
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347967
 #EXTINF:-1 tvg-id="" tvg-name="BR: Espn HD" tvg-logo="http://worldiptv.xyz/chlogos/ESPN.ar.png" group="Sport",BR:Espn HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159601
@@ -722,58 +713,58 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/70944
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/70945
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group="Sport",DigiSport4 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/70947
-#EXTINF:-1 group="Sport",AL: Super Sport 1 HD
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png",AL: Super Sport 1 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161887
-#EXTINF:- group="Sport"1,AL: Super Sport 2 HD
+#EXTINF:- group="Sport"1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-2-692.png",AL: Super Sport 2 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161883
-#EXTINF:-1 group="Sport",AL: Super Sport 3 HD
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-3-693.png",AL: Super Sport 3 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161886
-#EXTINF:-1 group="Sport",AL: Super Sport 4 HD
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-4-694.png",AL: Super Sport 4 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161885
-#EXTINF:-1 group="Sport",AL: Super Sport 5 HD
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-5-695.png",AL: Super Sport 5 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161884
 
-#EXTINF:-1 group="Sport",BG: Diema Sport HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-1059.png" group="Sport",BG: Diema Sport HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/69539
-#EXTINF:-1 group="Sport",BG: Diema Sport 1 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-1059.png" group="Sport",BG: Diema Sport 1 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/69537
-#EXTINF:-1 group="Sport",BG: Diema Sport 2 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-2-1060.png" group="Sport",BG: Diema Sport 2 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/69538
-#EXTINF:-1 group="Sport",BG: Diema Sport 3 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png"  group="Sport",BG: Diema Sport 3 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/69653
 #EXTINF:-1 group="Sport",ONE 1 HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38714
 #EXTINF:-1 group="Sport",ONE 2 HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38713
-#EXTINF:-1 group="Sport",Sport 1 HD IL
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png"  group="Sport",Sport 1 HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38711
-#EXTINF:-1 group="Sport",Sport 1 IL
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group="Sport",Sport 1 IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38712
-#EXTINF:-1 group="Sport",Sport 2 HD IL
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group="Sport",Sport 2 HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38710
-#EXTINF:-1 group="Sport",Sport 3 HD IL
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group="Sport",Sport 3 HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38709
-#EXTINF:-1 group="Sport",Sport 4 HD IL
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-4-1024.png" group="Sport",Sport 4 HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38708
-#EXTINF:-1 group="Sport",Sport 5 Gold IL
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-gold-1028.png" group="Sport",Sport 5 Gold IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38700
-#EXTINF:-1 group="Sport",Sport 5 HD IL
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-5-1025.png" group="Sport",Sport 5 HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38705
-#EXTINF:-1 group="Sport",Sport 5 Live HD IL
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-live-1027.png" group="Sport",Sport 5 Live HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38701
-#EXTINF:-1 group="Sport",Sport 5+ Stars HD IL
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-stars-1828.png" group="Sport",Sport 5+ Stars HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38703
-#EXTINF:- group="Sport"1,Sport 5+ HD IL
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png" group="Sport"1,Sport 5+ HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38702
-#EXTINF:-1 group="Sport",Sport 5 UHD 4K IL [Only On 4K Devices]
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-mobile-1029.png"  group="Sport",Sport 5 UHD 4K IL [Only On 4K Devices]
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/59033
-#EXTINF:-1 group="Sport",ASTRO SUPERSPORTS 1 HD TH MY
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-253.png",ASTRO SUPERSPORTS 1 HD TH MY
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
-#EXTINF:-1 group="Sport",ASTRO SUPERSPORTS 2 HD TH MY
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-2-254.png",ASTRO SUPERSPORTS 2 HD TH MY
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
-#EXTINF:-1 group="Sport",ASTRO SUPERSPORTS 3 HD TH MY
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-3-255.png",ASTRO SUPERSPORTS 3 HD TH MY
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
-#EXTINF:-1 group="Sport",ASTRO SUPERSPORTS 4 HD TH MY
+#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-4-256.png",ASTRO SUPERSPORTS 4 HD TH MY
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
 
 ---------------------------------------THỂ THAO----------------------------------------
@@ -842,3 +833,68 @@ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53981
 #EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sport Golf HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Sky_Sports_Golf_HD.png" group="Thể thao",UK:SkySport Golf HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/95004
 
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频 1
+http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频 2
+http://39.134.66.66/PLTV/88888888/224/3221225615/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频 3
+http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频, 4
+http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png", 咪咕视频, 5
+http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频, 6
+http://39.134.66.66/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频, 7
+http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png", 咪咕视频 8
+http://39.134.66.66/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png", 咪咕视频, 9
+http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频, 10
+http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频, 11
+http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png", 咪咕视频, 12
+http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png", 咪咕视频, 12A
+http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频 13
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png", 咪咕视频, 14
+http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 15
+http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 16
+http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 17
+http://39.134.66.66/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 18
+http://39.134.66.66/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 19
+http://39.134.66.66/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 20
+http://39.134.66.66/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 21
+http://39.134.66.66/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 22
+http://39.134.66.66/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png" ,咪咕视频, 23
+http://39.134.66.66/PLTV/88888888/224/3221225745/index.m3u8
+#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png",咪咕视频, 24
+http://39.134.66.66/PLTV/88888888/224/3221225747/index.m3u8
+#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png",咪咕视频, 25
+http://39.134.66.66/PLTV/88888888/224/3221225749/index.m3u8
+#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png",咪咕视频, 26
+http://39.134.66.66/PLTV/88888888/224/3221225751/index.m3u8
+#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png" ,咪咕视频, 27
+http://39.134.66.66/PLTV/88888888/224/3221225752/index.m3u8
+#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png",咪咕视频, 28
+http://39.134.66.66/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png",咪咕视频, 29
+http://39.134.66.66/PLTV/88888888/224/3221225755/index.m3u8
+#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png",咪咕视频, 30
+http://39.134.66.66/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png" ,咪咕视频, 31
+http://39.134.66.66/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png" ,咪咕视频, 32
+http://39.134.66.66/PLTV/88888888/224/3221225758/index.m3u8
