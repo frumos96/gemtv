@@ -32,9 +32,9 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="htv9hd" type="stream" channelId="-1" logo="https://i.imgur.com/r3Jiu5Q.png", HTV9 HD
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="thvl1hd"type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinhlong1hd.png", Vĩnh Long 1 HD
+#EXTINF:0 tvg-id="vinhlong1hd"type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinhlong1hd.png", Vĩnh Long 1 HD
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="thvl2hd"type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinhlong2hd.png", Vĩnh Long 2 HD
+#EXTINF:0 tvg-id="vinhlong2hd"type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinhlong2hd.png", Vĩnh Long 2 HD
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="https://i.imgur.com/pAqskAN.png", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
@@ -44,6 +44,8 @@ http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="https://i.imgur.com/Lod13YD.png", KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="sctv4hd" type="stream" channelId="-1" group="Sctv" logo="http://images.zaltv.club/logo/sctv4.png", SCTV4 - Giải trí
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/sctv16.png", SCTV16 HD
 https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="https://i.imgur.com/F0N0TmU.jpg", Cinemax HD
