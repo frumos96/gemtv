@@ -650,6 +650,26 @@ http://live-vn.cvacetv.ga:8080/live2
 http://live-vn.cvacetv.ga:8080/live3
 #EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="http://images.zaltv.club/logo/live.gif", Live Events 4K
 http://live-vn.cvacetv.ga:8080/4KUHD
+#EXTINF:-1 group="Sport",DE:|VIP| Sky Sport 1 HD DE
+http://venomtt.com:8000/kdcxxD1U/543545/76215
+#EXTINF:-1 group="Sport",DE:|VIP| Sky Sport 10 DE
+http://venomtt.com:8000/kdcxxD1U/543545/76216
+#EXTINF:-1 group="Sport",DE:|VIP| Sky Sport 2 HD DE
+http://venomtt.com:8000/kdcxxD1U/543545/76217
+#EXTINF:-1 ,DE:|VIP| Sky Sport 3 HD DE
+http://venomtt.com:8000/kdcxxD1U/543545/76218
+#EXTINF:-1,DE:|VIP| Sky Sport 4 DE
+http://venomtt.com:8000/kdcxxD1U/543545/76219
+#EXTINF:-1,DE:|VIP| Sky Sport 5 DE
+http://venomtt.com:8000/kdcxxD1U/543545/76220
+#EXTINF:-1,DE:|VIP| Sky Sport 6 DE
+http://venomtt.com:8000/kdcxxD1U/543545/76221
+#EXTINF:-1,DE:|VIP| Sky Sport 7 DE
+http://venomtt.com:8000/kdcxxD1U/543545/76222
+#EXTINF:-1,DE:|VIP| Sky Sport 8 DE
+http://venomtt.com:8000/kdcxxD1U/543545/76223
+#EXTINF:-1,DE:|VIP| Sky Sport 9 DE
+http://venomtt.com:8000/kdcxxD1U/543545/76224
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/8259
 #EXTINF:-1 Logo=""https://img.sport-tv-guide.live/images/tv-station-nbc-77.png"  group="Sport",Peacook NBC Sport
@@ -698,6 +718,12 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/135972
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/135973
 #EXTINF:-1 tvg-id="" tvg-name="BE: Voo Sport World 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",VooSport World 3 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/135974
+#EXTINF:-1,BE - PLAY SPORT 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/78670
+#EXTINF:-1,BE - PLAY SPORT 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/78671
+#EXTINF:-1,BE - PLAY SPORT 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/78672
 #EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: Digi Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png" group="Sport",DigiSport1 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/70943
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group="Sport",DigiSport2 HD
@@ -706,6 +732,14 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/70944
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/70945
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group="Sport",DigiSport4 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/70947
+#EXTINF:-1,|RO| DIGI SPORT 1
+http://venomtt.com:8000/kdcxxD1U/543545/179647
+#EXTINF:-1,|RO| DIGI SPORT 2
+http://venomtt.com:8000/kdcxxD1U/543545/179648
+#EXTINF:-1,|RO| DIGI SPORT 3
+http://venomtt.com:8000/kdcxxD1U/543545/179649
+#EXTINF:-1,|RO| DIGI SPORT 4
+http://venomtt.com:8000/kdcxxD1U/543545/179650
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png",AL: Super Sport 1 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161887
 #EXTINF:- group="Sport"1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-2-692.png",AL: Super Sport 2 HD
@@ -716,7 +750,26 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/161886
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161885
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-5-695.png",AL: Super Sport 5 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161884
-
+#EXTINF:-1,|ALBA| SUPER SPORT 1 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191641
+#EXTINF:-1,|ALBA| SUPER SPORT 1 4K.
+http://venomtt.com:8000/kdcxxD1U/543545/191640
+#EXTINF:-1,|ALBA| SUPER SPORT 2 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191639
+#EXTINF:-1,|ALBA| SUPER SPORT 2 4K..
+http://venomtt.com:8000/kdcxxD1U/543545/191638
+#EXTINF:-1,|ALBA| SUPER SPORT 3 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191637
+#EXTINF:-1,|ALBA| SUPER SPORT 3 4K.
+http://venomtt.com:8000/kdcxxD1U/543545/191636
+#EXTINF:-1,|ALBA| SUPER SPORT 4 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191635
+#EXTINF:-1,|ALBA| SUPER SPORT 4 4K. (ONLY MATCH TIME)
+http://venomtt.com:8000/kdcxxD1U/543545/191634
+#EXTINF:-1,|ALBA| SUPER SPORT 5 HD.
+http://venomtt.com:8000/kdcxxD1U/543545/191633
+#EXTINF:-1,|ALBA| SUPER SPORT 5 4K.
+http://venomtt.com:8000/kdcxxD1U/543545/191632
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-1059.png" group="Sport",BG: Diema Sport HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/69539
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-1059.png" group="Sport",BG: Diema Sport 1 HD
@@ -890,3 +943,15 @@ http://39.134.66.66/PLTV/88888888/224/3221225756/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225757/index.m3u8
 #EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png" ,咪咕视频, 32
 http://39.134.66.66/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1,PT: Eleven Sport 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/22520
+#EXTINF:-1,PT: Eleven Sport 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/22519
+#EXTINF:-1,PT: Eleven Sport 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/22518
+#EXTINF:-1,PT: Eleven Sport 4 HD
+http://venomtt.com:8000/kdcxxD1U/543545/22517
+#EXTINF:-1,PT: Eleven Sport 5 HD
+http://venomtt.com:8000/kdcxxD1U/543545/22516
+#EXTINF:-1,PT: Eleven Sport 6 HD
+http://venomtt.com:8000/kdcxxD1U/543545/22515
