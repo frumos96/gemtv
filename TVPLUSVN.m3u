@@ -60,20 +60,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http:
 http://live.television4you.xyz:8081/boxhits/mpegts
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/box_channel.png", Box
 https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1	
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE 
-https://stream.sugustv.tk:443/live/5FE314B10ED9AD210CB1FB7689787DC6/334.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE 
-https://stream.sugustv.tk:443/live/5FE314B10ED9AD210CB1FB7689787DC6/335.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+kids.png", K+KIDS 
-https://stream.sugustv.tk:443/live/5FE314B10ED9AD210CB1FB7689787DC6/336.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 
-https://stream.sugustv.tk:443/live/5FE314B10ED9AD210CB1FB7689787DC6/337.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 #
-https://stream.sugustv.tk:443/live/9764666F9475F1D668A82711B51923DB/15.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 
-https://stream.sugustv.tk:443/live/5FE314B10ED9AD210CB1FB7689787DC6/338.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 #
-https://stream.sugustv.tk:443/live/2337A946F6BEFA94CD79164513E72CB5/16.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="http://images.zaltv.club/logo/vtc3hd.png", VTC3 HD
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://i.imgur.com/A8RNAwQ.png", HTV Thể Thao HD
@@ -112,34 +98,31 @@ https://onsportlive.vtvcab.vn/hls/ONVOLLEYBALL_CL/04.m3u8
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
 ---------------------------------------K PLUS----------------------------------------
+#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE 
+https://stream.sugustv.tk:443/live/0E8F3CABE7B6CD0C0FA29EBF76EF9B60/12.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE 
+https://stream.sugustv.tk:443/live/0E8F3CABE7B6CD0C0FA29EBF76EF9B60/13.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+kids.png", K+KIDS 
+https://stream.sugustv.tk:443/live/0E8F3CABE7B6CD0C0FA29EBF76EF9B60/14.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 
+https://stream.sugustv.tk:443/live/0E8F3CABE7B6CD0C0FA29EBF76EF9B60/15.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 #
+http://livevietanhtv.vinaddns.com:8080/k1fhd
+#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 
+https://stream.sugustv.tk:443/live/0E8F3CABE7B6CD0C0FA29EBF76EF9B60/16.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 #
+http://livevietanhtv.vinaddns.com:8080/k2fhd
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE VA
-http://51.79.203.60:9981/stream/channelid/1361378371?ticket=D63192DBDA5389B38A0A0436750C04E1F044632E&profile=pass
+http://livevietanhtv.vinaddns.com:8080/live/kcinefhd
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE VA
-http://51.79.203.60:9981/stream/channelid/865163271?ticket=37EF632BA353E29E2459B385C0232EA0D4EB149B&profile=pass
+http://livevietanhtv.vinaddns.com:8080/live/klifefhd
+#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+kids.png", K+KIDS VA
+http://livevietanhtv.vinaddns.com:8080/kkids
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 VA
-http://51.79.203.60:9981/stream/channelid/2013990108?ticket=892ADC8EE4A7CA4A72F6C4D0CB0363F23EF2E942&profile=pass
+http://livevietanhtv.vinaddns.com:8080/k1fhd
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 VA
-http://51.79.203.60:9981/stream/channelid/1787645354?ticket=57254495E4BD3E1288DA70DF453C619D8280D213&profile=pass
- 
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE SU 
-https://stream.sugustv.tk/live/53588A01306372DA5F47F1401AD6E7AC/12.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE SU 
-https://stream.sugustv.tk/live/53588A01306372DA5F47F1401AD6E7AC/13.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+kids.png", K+KIDS SU 
-https://stream.sugustv.tk/live/53588A01306372DA5F47F1401AD6E7AC/14.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 SU 
-https://stream.sugustv.tk/live/53588A01306372DA5F47F1401AD6E7AC/15.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 SU 
-https://stream.sugustv.tk/live/53588A01306372DA5F47F1401AD6E7AC/16.m3u8
+http://livevietanhtv.vinaddns.com:8080/k2fhd
 
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE VT
-http://103.179.188.40:8080/kcine/nosharingpls
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE VT
-http://103.179.188.40:8080/klife/nosharingpls
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 VT
-http://103.179.188.40:8080/ksport1/nosharingpls
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 VT
-http://103.179.188.40:8080/ksport2/nosharingpls
 
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/sctv16.png", SCTV16 #
