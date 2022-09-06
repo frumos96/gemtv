@@ -653,6 +653,18 @@ http://venomtt.com:8000/kdcxxD1U/543545/76222
 http://venomtt.com:8000/kdcxxD1U/543545/76223
 #EXTINF:-1,DE:|VIP| Sky Sport 9 DE
 http://venomtt.com:8000/kdcxxD1U/543545/76224
+#EXTINF:-1,DE: Dazn Sport
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/13863
+#EXTINF:-1,DE: Dazn Sport HD+
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95382
+#EXTINF:-1,DE: Dazn Sport 2
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/13864
+#EXTINF:-1,DE: Dazn Sport 2 HD+
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95383
+#EXTINF:-1,DE: Dazn Sport Event HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/161877
+#EXTINF:-1,DE: Sport Digital HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/5612
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/8259
 #EXTINF:-1 Logo=""https://img.sport-tv-guide.live/images/tv-station-nbc-77.png"  group="Sport",Peacook NBC Sport
@@ -761,9 +773,27 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/69537
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/69538
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png"  group="Sport",BG: Diema Sport 3 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/69653
-#EXTINF:-1 group="Sport",ONE 1 HD IL
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-nova-sport-1058.png" ,BG: Nova Sport HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69590
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-1-1445.png" ,BG: MAX Sport 1 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69644
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-2-1446.png" ,BG: Max Sport 2 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69577
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-2-1446.png" ,BG: Max Sports 2 HD+
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69574
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-3-1447.png" ,BG: MAX Sport 3 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69645
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-max-sport-4-1448.png" ,BG: MAX Sport 4 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69646
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-ring-bg-1062.png" ,BG: Ring HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69595
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" ,BG: Sport Plus HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69653
+#EXTINF:-1Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" ,BG: Sportal HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69654
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-one-sport-1588.png"  group="Sport",ONE 1 HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38714
-#EXTINF:-1 group="Sport",ONE 2 HD IL
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-one-sport-1588.png" group="Sport",ONE 2 HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38713
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png"  group="Sport",Sport 1 HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38711
@@ -861,80 +891,37 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/94827
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53981
 #EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sport Golf HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Sky_Sports_Golf_HD.png" group="Thể thao",UK:SkySport Golf HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/95004
-
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频 1
-http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频 2
-http://39.134.66.66/PLTV/88888888/224/3221225615/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频 3
-http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频, 4
-http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png", 咪咕视频, 5
-http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频, 6
-http://39.134.66.66/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频, 7
-http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png", 咪咕视频 8
-http://39.134.66.66/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png", 咪咕视频, 9
-http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频, 10
-http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png",咪咕视频, 11
-http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png", 咪咕视频, 12
-http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-pptv-sport-china-1786.png", 咪咕视频, 13
-http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png", 咪咕视频, 14
-http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 15
-http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 16
-http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 17
-http://39.134.66.66/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 18
-http://39.134.66.66/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 19
-http://39.134.66.66/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 20
-http://39.134.66.66/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 21
-http://39.134.66.66/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png",咪咕视频, 22
-http://39.134.66.66/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-qq-sports-1785.png" ,咪咕视频, 23
-http://39.134.66.66/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png",咪咕视频, 24
-http://39.134.66.66/PLTV/88888888/224/3221225747/index.m3u8
-#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png",咪咕视频, 25
-http://39.134.66.66/PLTV/88888888/224/3221225749/index.m3u8
-#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png",咪咕视频, 26
-http://39.134.66.66/PLTV/88888888/224/3221225751/index.m3u8
-#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png" ,咪咕视频, 27
-http://39.134.66.66/PLTV/88888888/224/3221225752/index.m3u8
-#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png",咪咕视频, 28
-http://39.134.66.66/PLTV/88888888/224/3221225754/index.m3u8
-#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png",咪咕视频, 29
-http://39.134.66.66/PLTV/88888888/224/3221225755/index.m3u8
-#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png",咪咕视频, 30
-http://39.134.66.66/PLTV/88888888/224/3221225756/index.m3u8
-#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png" ,咪咕视频, 31
-http://39.134.66.66/PLTV/88888888/224/3221225757/index.m3u8
-#EXTINF:-1 Logo="https://img.cmvideo.cn/publish/noms/2021/10/08/1O334F973IMI7.png" ,咪咕视频, 32
-http://39.134.66.66/PLTV/88888888/224/3221225758/index.m3u8
-#EXTINF:-1,PT: Eleven Sport 1 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dk-tv3-1220.png" group="Thể thao",DK: TV3 Sport HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159623
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group="Thể thao",PT: Eleven Sports 1 FHD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159576
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group="Thể thao",PT: Eleven Sport 1 HD
 http://venomtt.com:8000/kdcxxD1U/543545/22520
-#EXTINF:-1,PT: Eleven Sport 2 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group="Thể thao",PT: Eleven Sports 2 FHD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159577
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group="Thể thao",PT: Eleven Sport 2 HD
 http://venomtt.com:8000/kdcxxD1U/543545/22519
-#EXTINF:-1,PT: Eleven Sport 3 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group="Thể thao",PT: Eleven Sports 3 FHD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159578
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group="Thể thao",PT: Eleven Sport 3 HD
 http://venomtt.com:8000/kdcxxD1U/543545/22518
-#EXTINF:-1,PT: Eleven Sport 4 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1503.png" group="Thể thao",PT: Eleven Sports 4 FHD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159579
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1503.png" group="Thể thao",PT: Eleven Sport 4 HD
 http://venomtt.com:8000/kdcxxD1U/543545/22517
-#EXTINF:-1,PT: Eleven Sport 5 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1504.png" group="Thể thao",PT: Eleven Sports 5 FHD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159580
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1504.png" group="Thể thao",PT: Eleven Sport 5 HD
 http://venomtt.com:8000/kdcxxD1U/543545/22516
-#EXTINF:-1,PT: Eleven Sport 6 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1505.png" group="Thể thao",PT: Eleven Sports 6 FHD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159581
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1505.png" group="Thể thao",PT: Eleven Sport 6 HD
 http://venomtt.com:8000/kdcxxD1U/543545/22515
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group="Thể thao",RU: Match 1 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159612
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-match-football-2-734.png" group="Thể thao",RU: Match 2 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159613
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-match-football-3-735.png" group="Thể thao",RU: Match 3 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159614
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-cbc-sport-1188.png" group="Thể thao",AZ: CBC Sport
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/1086
