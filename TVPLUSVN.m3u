@@ -145,6 +145,8 @@ https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 http://cdn.zaltv.xyz/1661392231/vietteltv_live/paramount.stream/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/hits.png", Hits
 http://cdn.zaltv.xyz/1661392231/vietteltv_live/hit.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1200px-Rakuten_TV_logo.svg.png" group="Phim",RakutenTV$
+http://tvlive.my.id:25461/mat/mat/385
 
 ---------------------------------------GIẢI TRÍ----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU", Nature 4k
@@ -819,12 +821,34 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38702
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/59033
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-253.png",ASTRO SUPERSPORTS 1 HD TH MY
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro Supersports 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group="Sport" ,AstroSupersports 1
+http://tvlive.my.id:25461/mat/mat/32
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-2-254.png",ASTRO SUPERSPORTS 2 HD TH MY
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro Supersports 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group="Sport" ,AstroSupersports 2
+http://tvlive.my.id:25461/mat/mat/33
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-3-255.png",ASTRO SUPERSPORTS 3 HD TH MY
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro Supersports 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group="Sport" ,AstroSupersports 3
+http://tvlive.my.id:25461/mat/mat/41
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-4-256.png",ASTRO SUPERSPORTS 4 HD TH MY
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro Supersports 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group="Sport" ,AstroSupersports 4
+http://tvlive.my.id:25461/mat/mat/42
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersports 5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group="Sport" ,AstroSupersports 5
+http://tvlive.my.id:25461/mat/mat/43
+#EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="ShareExt@IPTV_Sports",SPOTV
+http://tvlive.my.id:25461/mat/mat/27
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" group-title="ShareExt@IPTV_Sports",SPOTV 2
+http://tvlive.my.id:25461/mat/mat/28
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sports 1 ID" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group="Sport" ,BeinSports 1 ID
+http://tvlive.my.id:25461/mat/mat/45
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="Bein Sports 3 ID" tvg-logo="https://i.ibb.co/r3QBT9h/BEINSPORTS3.png" group="Sport" ,BeinSports 3 ID
+http://tvlive.my.id:25461/mat/mat/48
+#EXTINF:-1 tvg-name="Sports TV" tvg-logo="https://www.logolynx.com/images/logolynx/49/49ebc79edbe4b5571b385790853881de.png"  group="Sport",SportsTV
+http://tvlive.my.id:25461/mat/mat/56
+#EXTINF:-1  tvg-logo="https://s.id/1gRI4"  group="Sport",MATRIX TV - ChampionTV 5
+http://tvlive.my.id:25461/mat/mat/387
 
 ---------------------------------------THỂ THAO----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://i.imgur.com/A8RNAwQ.png", HTV Thể Thao #
