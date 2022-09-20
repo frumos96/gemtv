@@ -237,49 +237,50 @@ http://live.vthanhtivi.pw:8080/onvolleyball
 ---------------------------------------SCTV----------------------------------------
 
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/bg3VGsW/SCTV1.png", SCTV1ˢᵛ²
-http://vtsstr4.sctv.vn:1935/live/SCTV_HD_Hai_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_Hai_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv2hd" tvg-logo="https://i.ibb.co/m5trC9G/SCTV2.png", SCTV2ˢᵛ²
-http://vtsstr4.sctv.vn:1935/live/sctv2_HD_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/sctv2_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv3hd" tvg-logo="https://i.ibb.co/9vrymzJ/SCTV3.png", SCTV3ˢᵛ²SEE TV HD
-http://vtsstr4.sctv.vn:1935/live/SCTVHDThieunhi_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTVHDThieunhi_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv4hd" tvg-logo="https://i.ibb.co/hLdbFB4/SCTV4.png", SCTV4ˢᵛ²
-http://vtsstr4.sctv.vn:1935/live/SCTV_HD_GiaiTri_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/5hGNfBz/SCTV7.png", SCTV7ˢᵛ²SHOW TV
-http://vtsstr4.sctv.vn:1935/live/SCTV_HD_SanKhau_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv8hd" tvg-logo="https://i.ibb.co/Pmydd5Q/SCTV8.png", SCTV8ˢᵛ²VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv9hd" tvg-logo="https://i.ibb.co/grbyNXH/SCTV9.png", SCTV9ˢᵛ²
-http://vtsstr4.sctv.vn:1935/live/SCTV_HD_PhimChauA_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sct110hd" tvg-logo="https://i.imgur.com/F89Gy8h.jpg", SCTV11ˢᵛ²TV Star 
-http://vtsstr4.sctv.vn:1935/live/SCTVVHNT_HD_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTVVHNT_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv12hd" tvg-logo="https://i.ibb.co/S7Q00XT/SCTV12.png", SCTV12ˢᵛ²
-http://vtsstr4.sctv.vn:1935/live/SCTV12_HD_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV12_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv13hd" tvg-logo="https://i.ibb.co/3BNx7fS/SCTV13.png", SCTV13ˢᵛ²Lady TV
-http://vtsstr4.sctv.vn:1935/live/SCTVHDPhunuGiadinh_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/kHMtBpL/SCTV14.png", SCTV14ˢᵛ²Kenh Phim Viet
-http://vtsstr4.sctv.vn:1935/live/SCTV_HD_PhimViet_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_PhimViet_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15ˢᵛ²SSPORT2
-http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.sml/CDAM.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/XZJFWNd/SCTV16.png", SCTV16ˢᵛ²Phim Nuoc ngoai Ðac Sa
-http://vtsstr4.sctv.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv17hd" tvg-logo="https://i.ibb.co/QK2D2vt/SCTV17.png", SCTV17ˢᵛ²SSPORT
-http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.sml/CDAM.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv18hd" tvg-logo="https://i.ibb.co/7Kz7hS6/SCTV18.png", SCTV18ˢᵛ²Kenh 18
-http://vtsstr4.sctv.vn:1935/live/SCTV18_HD_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV18_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="SCTV19HD" tvg-logo="https://i.ibb.co/Ttydy6z/SCTV19.png", SCTV19ˢᵛ²Channel T
-http://vtsstr4.sctv.vn:1935/live/SCTV19_HD_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV19_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="SCTV20hd" tvg-logo="https://i.ibb.co/RyF60Dj/SCTV20.png", SCTV20ˢᵛ²
-http://vtsstr4.sctv.vn:1935/live/SCTV20_HD_new.sml/playlist.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV20_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv21hd" tvg-logo="https://i.ibb.co/qWdSdyM/SCTV21.png", SCTV21ˢᵛ²
 http://vtsstr4.tv24.vn:1935/live/SCTV21_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv22hd" tvg-logo="https://i.ibb.co/Vpgwgb0/SCTV22.png", SCTV22ˢᵛ²
 http://vtsstr4.tv24.vn:1935/live/SCTV22_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/DYgY6pd/SCTV-TH.png", SCTV PTHˢᵛ²Phim Tong Hop
-http://vtsstr4.sctv.vn:1935/live/SCTVHDPhimTH_new.sml/chunklist.b2692000.m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTVHDPhimTH_new.smil/chunklist.b2692000.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD SSPORTS 3
 http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
+
 
 ---------------------------------------HTV----------------------------------------
 #EXTINF:0 tvg-id="htv1"type="stream" channelId="-1" group="Htv" logo="http://images.zaltv.club/logo/htv1.png", HTV1 HD
@@ -1136,7 +1137,7 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/306059.ts
 #EXTINF:-1 tvg-id="beinsportsxtra2ar.qa" tvg-name="AR| beIN SPORTS XTRA 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygwEMi1ZSBH4aaN7y_SY-QYZ4zzcYEbyY-W8qM2XdTUI.png" group-title="SHAREEXT@beIN SPORTS HD & SD | LIVE",beINSPORTS XTRA 2 HD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/306061.ts
 #EXTINF:-1 tvg-id="beinsportsnbaar.qa" tvg-name="AR| beIN SPORTS NBA HEVC" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyreh-oP5Ga73VA1SHurE6RtH6ieqZmrGfeTk0HZaklu1.png" group-title="SHAREEXT@beIN SPORTS HD & SD | LIVE",beINSPORTS NBA HEVC
-http://king-tv.online:8080/gisle@/FDPWGufCmY/306062.t
+http://king-tv.online:8080/gisle@/FDPWGufCmY/306062.ts
 
 
 #EXTINF:-1 tvg-id="espn.za" tvg-name="DSTV: ESPN 1 HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoEuNr92D1Zd_3NqQHhMt_joe_ukoilCfHhds8__WpUV2r2gIxuKywj1rR8DLgb-zx9F2SwjlfTU-Ayso24VcIo3oKkwJt0ZGLsgKYodNg4a5KtUmGXRVd2GFLNa8UhP2fte97Hya2kG5TFVEavLx1HdmP7NqYeX4YofLlfJoaPdC.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",ESPN1 HD (AZ)
@@ -1149,6 +1150,8 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/111537.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/111542.ts
 #EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="DSTV: SuperSport Blitz HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyohqPx0_b-pdZvfNiflFEgTcVrFJZJy8zVk_YOw0Ff-AQgr8mAkbhRtv_vU5910n9w.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Blitz HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/111534.ts
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="DSTV: SuperSport Blitz HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyohqPx0_b-pdZvfNiflFEgTcVrFJZJy8zVk_YOw0Ff-AQgr8mAkbhRtv_vU5910n9w.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Blitz HD (AZ)#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116676
 #EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="DSTV: SuperSport Blitz Africa HD (ZW)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymKc-bSooj16Y4j40qrPXUEljned3HNMzczzCaimH91-.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Blitz Africa HD (ZW)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/111536.ts
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="DSTV: SuperSport Blitz Africa (NZ)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymKc-bSooj16Y4j40qrPXUEljned3HNMzczzCaimH91-.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Blitz Africa (NZ)
@@ -1159,171 +1162,148 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/133950.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183100.ts
 #EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="DSTV: SuperSport PSL HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXysvsHVbgbWaWkXcIL6c0JW51qQmwmpGjuqJDa6PUG2ei.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport PSL HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183117.ts
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="DSTV: SuperSport PSL HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXysvsHVbgbWaWkXcIL6c0JW51qQmwmpGjuqJDa6PUG2ei.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport PSL HD (AZ)#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116687
 #EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="DSTV: SUPERSPORT PSL HD (NG)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXysvsHVbgbWaWkXcIL6c0JW51qQmwmpGjuqJDa6PUG2ei.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SUPERSPORT PSL HD (NG)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/119516.ts
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="DSTV: SuperSport Premier League HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vHprEU4n85DP9SAvHiQj5iLLCtkDDlZBkTK6Wd8rnExZvTHjDVv_tajs7cYMroxoX.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport PremierLeague HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183121.ts
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="DSTV: SuperSport Premier League HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vHprEU4n85DP9SAvHiQj5iLLCtkDDlZBkTK6Wd8rnExZvTHjDVv_tajs7cYMroxoX.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport PremierLeague HD (AZ)#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116685
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="DSTV: SuperSport Premier League HD (UG)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymMugvsxMlIBfGqR4EL3-G61mhI4wnIE_eSpFZV6qiVw.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport PremierLeague HD (UG)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/119524.ts
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="DSTV: SuperSport LaLiga HD (ZA)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vId8Wjg7sCQ1O45S4Sn9GxD5GSjbugnT2bqCE6hl0FnDgdq7g-2J-yxKynhlj3J9H.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport LaLiga HD (ZA)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/119515.ts
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="DSTV: SuperSport LaLiga HD (ZA)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vId8Wjg7sCQ1O45S4Sn9GxD5GSjbugnT2bqCE6hl0FnDgdq7g-2J-yxKynhlj3J9H.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport LaLiga HD (ZA)#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116684
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="DSTV: SuperSport LaLiga Africa HD (UG)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vId8Wjg7sCQ1O45S4Sn9GxD5GSjbugnT2bqCE6hl0FnDgdq7g-2J-yxKynhlj3J9H.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport LaLiga Africa HD (UG)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183127.ts
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="DSTV: SuperSport Football HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3v4uIn2iWg9ZvCQSpAFLKyP5ihzjvUG6ipotXgKdA91k9e-bB3oRmLwr1GkMICFfPk.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Football HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183104.ts
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="DSTV: SuperSport Football HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3v4uIn2iWg9ZvCQSpAFLKyP5ihzjvUG6ipotXgKdA91k9e-bB3oRmLwr1GkMICFfPk.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Football HD (AZ)#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116686
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="DSTV: SuperSport Football Africa HD (ZW)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3v4uIn2iWg9ZvCQSpAFLKyP5ihzjvUG6ipotXgKdA91k9e-bB3oRmLwr1GkMICFfPk.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Football Africa HD (ZW)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183106.ts
 #EXTINF:-1 tvg-id="supersportfootballplus.za" tvg-name="DSTV: SuperSport Football Plus Africa" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Football Plus Africa
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183111.ts
+#EXTINF:-1 tvg-id="supersportfootballplus.za" tvg-name="DSTV: SuperSport Football Plus Africa" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Football Plus Africa#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116683
 #EXTINF:-1 tvg-id="supersportfootballplus.za" tvg-name="DSTV: SuperSport Football Plus Africa HD (ZW)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Football Plus Africa HD (ZW)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183110.ts
 #EXTINF:-1 tvg-id="supersportaction.za" tvg-name="DSTV: SuperSport Action HD (AZ)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Action HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/199227.ts
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="DSTV: SuperSport Action HD (AZ)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Action HD (AZ)#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116688
 #EXTINF:-1 tvg-id="supersportaction.za" tvg-name="DSTV: SuperSport Action Africa HD (NG)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Action Africa HD (NG)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/245152.ts
 #EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="DSTV: SuperSport Tennis HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vf_N4-5_uIbZ0XJkg-jznPyMdmAdrB4qY3tEMcjEjhDDc345Ml6uzre6wLlvEw6E0.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Tennis HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113285.ts
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="DSTV: SuperSport Tennis HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vf_N4-5_uIbZ0XJkg-jznPyMdmAdrB4qY3tEMcjEjhDDc345Ml6uzre6wLlvEw6E0.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Tennis HD (AZ)#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116682
 #EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="DSTV: SuperSport Tennis Africa HD (NG)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vf_N4-5_uIbZ0XJkg-jznPyMdmAdrB4qY3tEMcjEjhDDc345Ml6uzre6wLlvEw6E0.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Tennis Africa HD (NG)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/199129.ts
 #EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="DSTV: SuperSport Variety 1 HD (AZ)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 1 HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/172359.ts
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="DSTV: SuperSport Variety 1 HD (AZ)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 1 HD (AZ)#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116689
 #EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="DSTV: SuperSport Variety 1 Africa HD (NG)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 1 Africa HD (NG)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183093.ts
 #EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="DSTV: SuperSport Variety 2 HD (AZ)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 2 HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113277.ts
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="DSTV: SuperSport Variety 2 HD (AZ)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 2 HD (AZ)#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116690
 #EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="DSTV: SuperSport Variety 3 HD (AZ)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 3 HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/245162.ts
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="DSTV: SuperSport Variety 3 HD (AZ)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 3 HD (AZ)#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116691
 #EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="DSTV: SuperSport Variety 3 Africa HD (NG)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 3 Africa HD (NG)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/133935.ts
 #EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="DSTV: SuperSport Variety 4 HD (AZ)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 4 HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/143345.ts
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="DSTV: SuperSport Variety 4 HD (AZ)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 4 HD (AZ)#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116692
 #EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="DSTV: SuperSport Variety 4 Africa HD (NG)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Variety 4 Africa HD (NG)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113294.ts
 #EXTINF:-1 tvg-id="emovies.za" tvg-name="DSTV: SuperSport Liyu HD (Ethiopia)" tvg-logo="" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Liyu HD (Ethiopia)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113291.ts
 #EXTINF:-1 tvg-id="XHD" tvg-name="DSTV: SuperSport Máximo 1 HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vgfFSf0zZgxlC2gqzg4bdPyDM-BFZXDAoBK8Nn67BXnnC2eCqjNY4si7FtrHDwWmp.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Máximo 1 HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113246.ts
+#EXTINF:-1 tvg-id="XHD" tvg-name="DSTV: SuperSport Máximo 1 HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vgfFSf0zZgxlC2gqzg4bdPyDM-BFZXDAoBK8Nn67BXnnC2eCqjNY4si7FtrHDwWmp.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Máximo 1 HD (AZ)#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116675
 #EXTINF:-1 tvg-id="comedycentral.za" tvg-name="DSTV: SuperSport Máximo 2 HD" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vgFGeiAepsKgVic2i2AuTkc0KU0Y2zg7tX2V3lu2Bx1BEu1os2UlfNJgqR6G55Ao5.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Máximo 2 HD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113299.ts
-#EXTINF:-1 tvg-id="WWE" tvg-name="DSTV: WWE Channel HD (ZA)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vHoyx80Fwgboh4cBq7laPJcMGLadbhsB1eeRvekWuGz69CPcMiYEJwudBdGLcrfAX.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",WWE Channel HD (ZA)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/113260.ts
-#EXTINF:-1 tvg-id="supersportwwe.za" tvg-name="DSTV: WWE Channel HD (NZ)" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vHoyx80Fwgboh4cBq7laPJcMGLadbhsB1eeRvekWuGz69CPcMiYEJwudBdGLcrfAX.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",WWE Channel HD (NZ)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/133948.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Play HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyrdMikETiQFzvwRBjWdx5UPqgaXxMhaC118UzpNwM49c.pn" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Play HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/245161.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Play HD (AZ)" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyrdMikETiQFzvwRBjWdx5UPqgaXxMhaC118UzpNwM49c.pn" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport Play HD (AZ)#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116674
 #EXTINF:-1 tvg-id="supersportott1.za" tvg-name="DSTV: SuperSport OTT 1 HD" tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vqwrnduMWUDna3gPi1Q9DOtEseFxIK3V8vuf9n5CE1RInbvrYJrgrLHRXQgo91JUc.png" group-title="SHAREEXT@DSTV AFRICA FHD | LIVE",SuperSport OTT 1 HD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/133954.ts
-#EXTINF:-1,AF: SUPERSPORT PLAY HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116674
-#EXTINF:-1,AF: SUPERSPORT MAXIMO 1
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116675
-#EXTINF:-1,AF: SUPERSPORT BLITZ HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116676
-#EXTINF:-1,AF: SUPERSPORT EVENTS HD
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-ott-2-2581.png",AF: SUPERSPORT EVENTS HD
 http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116677
-#EXTINF:-1,AF: SUPERSPORT MOTORSPORT HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116678
-#EXTINF:-1,AF: SUPERSPORT GOLF HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116679
-#EXTINF:-1,AF: SUPERSPORT CRICKET HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116680
-#EXTINF:-1,AF: SUPERSPORT RUGBY HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116681
-#EXTINF:-1,AF: SUPERSPORT TENNIS HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116682
-#EXTINF:-1,AF: SUPERSPORT FOOTBAL PLUS HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116683
-#EXTINF:-1,AF: SUPERSPORT LALIGA HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116684
-#EXTINF:-1,AF: SUPERSPORT PREMIER LEAGUE HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116685
-#EXTINF:-1,AF: SUPERSPORT FOOTBALL HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116686
-#EXTINF:-1,AF: SUPERSPORT PSL HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116687
-#EXTINF:-1,AF: SUPERSPORT ACTION HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116688
-#EXTINF:-1,AF: SUPERSPORT VARIETY 1 HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116689
-#EXTINF:-1,AF: SUPERSPORT VARIETY 2 HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116690
-#EXTINF:-1,AF: SUPERSPORT VARIETY 3 HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116691
-#EXTINF:-1,AF: SUPERSPORT VARIETY 4 HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116692
 
----------------------------------------SPORT SPAIN----------------------------------------
-#EXTINF:-1 group="Sport Spain",Dazn 1 HD
+
+---------------------------------------SPORT SPAIN LATINO----------------------------------------
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",Dazn 1 HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/87599
-#EXTINF:-1 group="Sport Spain",Dazn 2 HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",Dazn 2 HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/87598
-#EXTINF:-1 group="Sport Spain",Dazn 3 HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2512.png",Dazn 3 HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/87731
-#EXTINF:-1 group="Sport Spain",Dazn 4 HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2513.png",Dazn 4 HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/87732
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones HD
-http://cdn.kira.cf:2021/8412822881932/3969190550654/86213
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones HD+
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-plus-1475.png",M. Liga de Campeones HD+
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88893
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones 2 HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M. Liga de Campeones HD
+http://cdn.kira.cf:2021/8412822881932/3969190550654/86213
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png",M. Liga de Campeones 2 HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/74316
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones 3 HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png",M. Liga de Campeones 3 HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/66217
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones 4 HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png",M. Liga de Campeones 4 HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/66218
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones 5 HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png",M. Liga de Campeones 5 HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88867
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones 6 HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png",M. Liga de Campeones 6 HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88870
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones 7 HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png",M. Liga de Campeones 7 HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88873
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones 8 HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png",M. Liga de Campeones 8 HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88876
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones 9 HD
-http://cdn.kira.cf:2021/8412822881932/3969190550654/88879
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones 10 HD
-http://cdn.kira.cf:2021/8412822881932/3969190550654/88882
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones 11 HD
-http://cdn.kira.cf:2021/8412822881932/3969190550654/88885
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones 12 HD
-http://cdn.kira.cf:2021/8412822881932/3969190550654/88888
-#EXTINF:-1 group="Sport Spain",M. Liga de Campeones 13 HD
-http://cdn.kira.cf:2021/8412822881932/3969190550654/88891
-#EXTINF:-1 group="Sport Spain",M. Deportes HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-1-2501.png",M. Deportes HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/74323
-#EXTINF:-1 group="Sport Spain",M. Deportes 2 HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png",M. Deportes 2 HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/71296
-#EXTINF:-1 group="Sport Spain",M. Deportes 5 HD
-http://cdn.kira.cf:2021/8412822881932/3969190550654/86214
-#EXTINF:-1 group="Sport Spain",M. Deportes 4 HD
-http://cdn.kira.cf:2021/8412822881932/3969190550654/86215
-#EXTINF:-1 group="Sport Spain",M. Deportes 3 HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png",M. Deportes 3 HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/86216
-#EXTINF:-1 group="Sport Spain",GOL PLAY HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M. Deportes 5 HD
+http://cdn.kira.cf:2021/8412822881932/3969190550654/86214
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M. Deportes 4 HD
+http://cdn.kira.cf:2021/8412822881932/3969190550654/86215
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png",GOL PLAY HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/74321
-#EXTINF:-1 group="Sport Spain",#Vamos HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png",#Vamos HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/86209
-#EXTINF:-1 group="Sport Spain",Teledeporte HD
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png",Teledeporte HD
 http://cdn.kira.cf:2021/8412822881932/3969190550654/74322
-#EXTINF:-1 group="Sport Spain",ESPN 1 HD Colombia
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-espn-co-1258.png",ESPN 1 HD Colombia
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88851
-#EXTINF:-1 group="Sport Spain",ESPN 2 HD  Colombia
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-espn-2-co-1259.png",ESPN 2 HD  Colombia
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88852
-#EXTINF:-1 group="Sport Spain",ESPN 3 HD Colombia
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-espn-3-co-1252.png",ESPN 3 HD Colombia
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88853
-#EXTINF:-1 group="Sport Spain",ESPN 1 HD Argentina
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-espn-ar-1250.png",ESPN 1 HD Argentina
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88848
-#EXTINF:-1 group="Sport Spain",ESPN 2 HD Argentina
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-espn-2-ar-1251.png",ESPN 2 HD Argentina
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88849
-#EXTINF:-1 group="Sport Spain",ESPN 3 Argentina
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-espn-3-ar-1252.png",ESPN 3 Argentina
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88850
-#EXTINF:-1 group="Sport Spain",ESPN 1 HD Mexico
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-mx-espn-937.png",ESPN 1 HD Mexico
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88843
-#EXTINF:-1 group="Sport Spain",ESPN 2 HD Mexico
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-mx-espn-2-938.png",ESPN 2 HD Mexico
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88844
-#EXTINF:-1 group="Sport Spain",ESPN 3 HD Mexico
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-mx-espn-3-9399.png",ESPN 3 HD Mexico
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88845
-#EXTINF:-1 group="Sport Spain",ESPN XTRA HD Mexico
+#EXTINF:-1 group="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-espn-extra-ar-2036.png",ESPN XTRA HD Mexico
 http://cdn.kira.cf:2021/8412822881932/3969190550654/88842
 #EXTINF:-1 tvg-id="" tvg-name="BR: Espn HD" tvg-logo="http://worldiptv.xyz/chlogos/ESPN.ar.png" group="Sport Spain",BR:Espn HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159601
@@ -1333,6 +1313,7 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/159598
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159599
 #EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG"group="Sport Spain",BR:ESPN Extra HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159600
+
 ---------------------------------------SPORT INDIA----------------------------------------
 #EXTINF:-1 tvg-id="ddsports.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8ZL7Y7EV_20SgjeEAA_sxCy3tljLgiLIUBytpETY9g-D.png" group-title="Lives Event",DD SPORTS
 http://king-tv.online:8080/gisle@/FDPWGufCmY/372953.ts
@@ -1362,36 +1343,36 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/372950.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/372951.ts
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IND: STAR SPORTS 1 FHD (D2H)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDFcWJ3n8AzK2y5tT4ctD_f.png" group-title="Lives Event",STARSPORTS 1 FHD (D2H)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/372915.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IND: STAR SPORTS 1 FHD (D2H)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDFcWJ3n8AzK2y5tT4ctD_f.png" group-title="Lives Event",STARSPORTS 1 FHD ENGLISH
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/93724
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IND: STAR SPORTS 1 HINDI FHD (D2H)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLCqAxmB1grJsiBqaOFDZxVgb4SZf4z7l-pc4GSBXZ-k0A.png" group-title="Lives Event",STARSPORTS 1 HINDI FHD (D2H)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/372918.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IND: STAR SPORTS 1 HINDI FHD (D2H)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLCqAxmB1grJsiBqaOFDZxVgb4SZf4z7l-pc4GSBXZ-k0A.png" group-title="Lives Event",STARSPORTS 1 HINDI FHD (D2H)
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/93725
 #EXTINF:-1 tvg-id="starsports1kannada.in" tvg-name="IND: STAR SPORTS 1 KANNADA" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDoOPcMFa00yEnzqmliK-lmQ83pQc1KZIuz8qTbsTFY3Q.png" group-title="Lives Event",STARSPORTS 1 KANNADA
 http://king-tv.online:8080/gisle@/FDPWGufCmY/372920.ts
+#EXTINF:-1 tvg-id="starsports1kannada.in" tvg-name="IND: STAR SPORTS 1 KANNADA" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDoOPcMFa00yEnzqmliK-lmQ83pQc1KZIuz8qTbsTFY3Q.png" group-title="Lives Event",STARSPORTS 1 KANNADA
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/93728
 #EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IND: STAR SPORTS 1 TAMIL" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDI-Pcf1LLPeFtQ86Y7eGaKym-36l6ovZ-YhfabK4I_zw.png" group-title="Lives Event",STARSPORTS 1 TAMIL
 http://king-tv.online:8080/gisle@/FDPWGufCmY/372921.ts
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IND: STAR SPORTS 1 TAMIL" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDI-Pcf1LLPeFtQ86Y7eGaKym-36l6ovZ-YhfabK4I_zw.png" group-title="Lives Event",STARSPORTS 1 TAMIL#
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/93731
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IND: STAR SPORTS 2 FHD (D2H)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBWnglMlCY_VQQYt1iLZBrJ.png" group-title="Lives Event",STARSPORTS 2 FHD (D2H)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/372924.ts
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IND: STAR SPORTS SELECT 1 FHD (D2H)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="Lives Event",STARSPORTS SELECT 1 FHD (D2H)
-http://king-tv.online:8080/gisle@/FDPWGufCmY/372927.ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IND: STAR SPORTS SELECT 2 FHD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="Lives Event",STARSPORTS SELECT 2 FHD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/372929.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IND: STAR SPORTS 2 FHD (D2H)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBWnglMlCY_VQQYt1iLZBrJ.png" group-title="Lives Event",STARSPORTS 2 FHD (D2H)
+http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/93726
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IND: STAR SPORTS 3 (D2H)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDJ-7Egpg5CVIpHBcNSb4fJ.png" group-title="Lives Event",STARSPORTS 3(D2H)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/372933.ts
-#EXTINF:-1,SPORTS: STAR SPORTS 1 HD ENGLISH
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/93724
-#EXTINF:-1,SPORTS: STAR SPORTS 1 HD HINDI
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/93725
-#EXTINF:-1,SPORTS: STAR SPORTS 2 HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/93726
-#EXTINF:-1,SPORTS: STAR SPORTS 3
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="IND: STAR SPORTS 3 (D2H)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDJ-7Egpg5CVIpHBcNSb4fJ.png" group-title="Lives Event",STARSPORTS 3(D2H)
 http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/93727
-#EXTINF:-1,SPORTS: STAR SPORTS FIRST
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/93728
-#EXTINF:-1,SPORTS: STAR SPORTS SELECT 1 HD
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IND: STAR SPORTS SELECT 1 FHD (D2H)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="Lives Event",STARSPORTS SELECT 1 FHD (D2H)
+http://king-tv.online:8080/gisle@/FDPWGufCmY/372927.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IND: STAR SPORTS SELECT 1 FHD (D2H)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="Lives Event",STARSPORTS SELECT 1 FHD (D2H)#
 http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/93729
-#EXTINF:-1,SPORTS: STAR SPORTS SELECT 2 HD
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IND: STAR SPORTS SELECT 2 FHD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="Lives Event",STARSPORTS SELECT 2 FHD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/372929.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IND: STAR SPORTS SELECT 2 FHD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="Lives Event",STARSPORTS SELECT 2 FHD#
 http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/93730
-#EXTINF:-1,SPORTS: STAR SPORTS TAMIL
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/93731
 
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/c-more-sport-1-finland.png",FI: C MORE SPORT 1 FHD
 http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/100095
