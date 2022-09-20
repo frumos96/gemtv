@@ -68,18 +68,6 @@ https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://i.imgur.com/A8RNAwQ.png", HTV Thể Thao HD
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_4000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtvcab6.vn" tvg-name="VN: ON SPORTS+" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylf4etGFFTV9B9evywdk9wZSpFSYnPmuzZ9SyR_CXYpo.png" group="Thể thao",VN:ON_SPORTS+
-http://king-tv.online:8080/gisle@/FDPWGufCmY/363743.ts
-#EXTINF:-1 tvg-id="vtvcab3.vn" tvg-name="VN: VTVCAB3 - ON SPORTS - THỂ THAO TV HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXykbDnk-UJSO1CBsBuhyKbUqzmQvIyozKOE397BGoovZa.png" group="Thể thao",VN:VTVCAB3-ON_SPORTS-THỂ THAOTV HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/363747.ts
-#EXTINF:-1 tvg-id="vtvcab6.vn" tvg-name="VN: VTVCAB6 - ON SPORTS+" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylf4etGFFTV9B9evywdk9wZSpFSYnPmuzZ9SyR_CXYpo.png" group="Thể thao",VN:VTVCAB6-ON_SPORTS+
-http://king-tv.online:8080/gisle@/FDPWGufCmY/363750.ts
-#EXTINF:-1 tvg-id="vtvcab16.vn" tvg-name="VN: VTVCAB16 - ON FOOTBALL HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXynupmpr561pSwGADgvzUZjD9CLicKExLOLeJ0wXKwllZ.png" group="Thể thao",VN:VTVCAB16-ON_FOOTBALL HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/363759.ts
-#EXTINF:-1 tvg-id="vtvcab18.vn" tvg-name="VN: VTVCAB18 - ON SPORTS TV NEWS PREMIUM - TIN TỨC THỂ THAO HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyq4avk2VASWJQRtQNggkZAYzuJlEEFZAcFwg7jB-GNdy.png" group="Thể thao",VN:VTVCAB18-ON_SPORTS TV NEWS PREMIUM - TIN TỨC THỂ THAO HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/363761.ts
-#EXTINF:-1 tvg-id="vtvcab23.vn" tvg-name="VN: VTVCAB23 - ON GOLF PREMIUM" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyt3IVMeHV7jEbnb_Y7fxtRqaoLTyD2FDPJZGKkA11pti.png" group="Thể thao",VN:VTVCAB23-ON_GOLF PREMIUM
-http://king-tv.online:8080/gisle@/FDPWGufCmY/363766.ts
 
 ---------------------------------------K PLUS----------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="VN: K+ SPORT 1 HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8UHBH5UyIqshx-mkNoZJJLphHkSbrti6jyyL7b3buJa6.png" group="K+",VN:K+SPORT 1 HD
@@ -179,6 +167,8 @@ https://api.vthanhtivi.pw/v1/getlink/vieon2/f5729e7e-bf42-4e7d-988e-6204f94062b4
 https://api.vthanhtivi.pw/v1/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+ sv2
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/196
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+ sv3
+http://king-tv.online:8080/gisle@/FDPWGufCmY/363743.ts
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/${start}/${offset}", VTVcab 7 - Sức khỏe và Cuộc sống
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226
@@ -202,6 +192,8 @@ https://api.vthanhtivi.pw/v1/getlink/vieon2/5aea9637-1080-4f0b-a1b4-a8c9d4c3a536
 https://api.vthanhtivi.pw/v1/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD sv2
 http://live.vthanhtivi.pw:8080/vtvcab16
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD sv3
+http://king-tv.online:8080/gisle@/FDPWGufCmY/363761.ts
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/25.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/1b029a49-b0fe-4ac5-b1cf-a9cb782ed0ec/${start}/${offset}", VTVcab 17 - Yeah1TV
 https://api.vthanhtivi.pw/v1/getlink/vtvgo/195
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/987374ca-de49-4612-a159-b71f7880d134/${start}/${offset}", ON Sports News
@@ -209,6 +201,8 @@ https://api.vthanhtivi.pw/v1/getlink/vtvgo/195
 https://api.vthanhtivi.pw/v1/getlink/vieon2/987374ca-de49-4612-a159-b71f7880d134
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News sv2
 http://live.vthanhtivi.pw:8080/vtvcab18
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News sv3
+http://king-tv.online:8080/gisle@/FDPWGufCmY/363743.ts
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", VTVcab 19 - Vie Dramas
 https://api.vthanhtivi.pw/v1/getlink/mytv_web/201/hd
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/28.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/2eb37e8d-2abf-4bce-aa44-b3b9a4460469/${start}/${offset}", VTVcab 20 - VFamily
@@ -241,76 +235,50 @@ http://live.vthanhtivi.pw:8080/onvff
 http://live.vthanhtivi.pw:8080/onvolleyball
 
 ---------------------------------------SCTV----------------------------------------
-#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/bg3VGsW/SCTV1.png", SCTV1ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?166265640015b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_Hai_new.sml/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv2hd" tvg-logo="https://i.ibb.co/m5trC9G/SCTV2.png", SCTV2ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?166265640025b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv3hd" tvg-logo="https://i.ibb.co/9vrymzJ/SCTV3.png", SCTV3ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?166265640035b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
+http://vtsstr4.sctv.vn:1935/live/sctv2_HD_new.sml/playlist.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv3hd" tvg-logo="https://i.ibb.co/9vrymzJ/SCTV3.png", SCTV3ˢᵛ²SEE TV HD
+http://vtsstr4.sctv.vn:1935/live/SCTVHDThieunhi_new.sml/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv4hd" tvg-logo="https://i.ibb.co/hLdbFB4/SCTV4.png", SCTV4ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?166265640045b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv5hd" tvg-logo="https://i.ibb.co/8DMRX6x/SCTV5.png", SCTV5ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?166265640055b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_GiaiTri_new.sml/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/tv360/?id=232&hd=2
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/5hGNfBz/SCTV7.png", SCTV7ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?166265640075b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv8hd" tvg-logo="https://i.ibb.co/Pmydd5Q/SCTV8.png", SCTV8ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?166265640085b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
+http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/5hGNfBz/SCTV7.png", SCTV7ˢᵛ²SHOW TV
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_SanKhau_new.sml/playlist.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv8hd" tvg-logo="https://i.ibb.co/Pmydd5Q/SCTV8.png", SCTV8ˢᵛ²VITV
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv9hd" tvg-logo="https://i.ibb.co/grbyNXH/SCTV9.png", SCTV9ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?166265640095b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv10hd" tvg-logo="https://i.ibb.co/BzN2D80/SCTV10.png", SCTV10ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?1662656400105b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_PhimChauA_new.sml/playlist.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sct110hd" tvg-logo="https://i.imgur.com/F89Gy8h.jpg", SCTV11ˢᵛ²TV Star 
+http://vtsstr4.sctv.vn:1935/live/SCTVVHNT_HD_new.sml/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv12hd" tvg-logo="https://i.ibb.co/S7Q00XT/SCTV12.png", SCTV12ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?1662656400125b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv13hd" tvg-logo="https://i.ibb.co/3BNx7fS/SCTV13.png", SCTV13ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?1662656400135b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/kHMtBpL/SCTV14.png", SCTV14ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?1662656400145b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?1662656400155b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/XZJFWNd/SCTV16.png", SCTV16ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?1662656400165b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv17hd" tvg-logo="https://i.ibb.co/QK2D2vt/SCTV17.png", SCTV17ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?1662656400175b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv18hd" tvg-logo="https://i.ibb.co/7Kz7hS6/SCTV18.png", SCTV18ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?1662656400185b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="SCTV19HD" tvg-logo="https://i.ibb.co/Ttydy6z/SCTV19.png", SCTV19ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?1662656400195b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV12_HD_new.sml/playlist.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv13hd" tvg-logo="https://i.ibb.co/3BNx7fS/SCTV13.png", SCTV13ˢᵛ²Lady TV
+http://vtsstr4.sctv.vn:1935/live/SCTVHDPhunuGiadinh_new.sml/playlist.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/kHMtBpL/SCTV14.png", SCTV14ˢᵛ²Kenh Phim Viet
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_PhimViet_new.sml/playlist.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15ˢᵛ²SSPORT2
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.sml/CDAM.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/XZJFWNd/SCTV16.png", SCTV16ˢᵛ²Phim Nuoc ngoai Ðac Sa
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_new.sml/playlist.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv17hd" tvg-logo="https://i.ibb.co/QK2D2vt/SCTV17.png", SCTV17ˢᵛ²SSPORT
+http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.sml/CDAM.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv18hd" tvg-logo="https://i.ibb.co/7Kz7hS6/SCTV18.png", SCTV18ˢᵛ²Kenh 18
+http://vtsstr4.sctv.vn:1935/live/SCTV18_HD_new.sml/playlist.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="SCTV19HD" tvg-logo="https://i.ibb.co/Ttydy6z/SCTV19.png", SCTV19ˢᵛ²Channel T
+http://vtsstr4.sctv.vn:1935/live/SCTV19_HD_new.sml/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="SCTV20hd" tvg-logo="https://i.ibb.co/RyF60Dj/SCTV20.png", SCTV20ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?1662656400205b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
+http://vtsstr4.sctv.vn:1935/live/SCTV20_HD_new.sml/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv21hd" tvg-logo="https://i.ibb.co/qWdSdyM/SCTV21.png", SCTV21ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?1662656400215b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
+http://vtsstr4.tv24.vn:1935/live/SCTV21_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv22hd" tvg-logo="https://i.ibb.co/Vpgwgb0/SCTV22.png", SCTV22ˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?1662656400225b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/DYgY6pd/SCTV-TH.png", SCTV PTHˢᵛ²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44
-https://www.tbientv.xyz/channel/sctv?16626564005b384ce32d8cdef02bc3a139d4cac0a22bb029e8/m3u8
-#EXTINF:-1 tvg-id="btv5hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD
+http://vtsstr4.tv24.vn:1935/live/SCTV22_HD_new.smil/playlist.m3u8
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/DYgY6pd/SCTV-TH.png", SCTV PTHˢᵛ²Phim Tong Hop
+http://vtsstr4.sctv.vn:1935/live/SCTVHDPhimTH_new.sml/chunklist.b2692000.m3u8
+#EXTINF:-1 tvg-id="btv5hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD SSPORTS 3
 http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
 
 ---------------------------------------HTV----------------------------------------
@@ -550,6 +518,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sc
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/dr_fit.png", Dr.Fit
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 type="stream" channelId="-1" group="Kênh khác" logo="https://photos.live-tv-channels.org/tv-logo/ae-gem-fit-2728-300x225.jpg",IR: GEM FIT
+http://iptvtree.net:8080/ace2524d/15a571c413/166807
 #EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="https://cdn.hqth.me/logo/217.png", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/bbcearth.png", BBC Earth
@@ -964,10 +934,16 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/159581
 http://venomtt.com:8000/kdcxxD1U/543545/22515
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group="Thể thao",RU: Match 1 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159612
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group="Thể thao",RU: Match! Futbol 1
+http://iptvtree.net:8080/ace2524d/15a571c413/12812
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-match-football-2-734.png" group="Thể thao",RU: Match 2 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159613
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-match-football-2-734.png" group="Thể thao",RU: Match Futbol 2
+http://iptvtree.net:8080/ace2524d/15a571c413/55800
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-match-football-3-735.png" group="Thể thao",RU: Match 3 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159614
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-match-football-3-735.png" group="Thể thao",RU: Match Futbol 3
+http://iptvtree.net:8080/ace2524d/15a571c413/55802
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-cbc-sport-1188.png" group="Thể thao",AZ: CBC Sport
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/1086
 ---------------------------------------LIVES EVENT F------------------------------
