@@ -627,13 +627,13 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/95383
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161877
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/8259
-#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network #
+#EXTINF:-1 group="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network #
 http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/158023
-#EXTINF:-1 group="Sport" Logo=""https://img.sport-tv-guide.live/images/tv-station-nbc-77.png",Peacook NBC Sport
+#EXTINF:-1 group="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nbc-77.png",Peacook NBC Sport
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347953
-#EXTINF:-1 group="Sport" Logo=""https://img.sport-tv-guide.live/images/tv-station-nbc-77.png",CBS Sport
+#EXTINF:-1 group="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nbc-77.png",CBS Sport
 http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/159608
-#EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png" group="Sport",Peacook Premier League
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png" group="Sport",Peacook Premier League
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347954
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 1
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347955
@@ -679,18 +679,26 @@ http://venomtt.com:8000/kdcxxD1U/543545/78672
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/70943
 #EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: Digi Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png" group="Sport",DigiSport1 HD#
 http://venomtt.com:8000/kdcxxD1U/543545/179647
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: Digi Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png" group="Sport",DigiSport1 HD sv2
+http://iptvtree.net:8080/ace2524d/15a571c413/71457
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group="Sport",DigiSport2 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/70944
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group="Sport",DigiSport2 HD#
 http://venomtt.com:8000/kdcxxD1U/543545/179648
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group="Sport",DigiSport2 HD sv2
+http://iptvtree.net:8080/ace2524d/15a571c413/71459
 #EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group="Sport",DigiSport3 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/70945
 #EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group="Sport",DigiSport3 HD#
 http://venomtt.com:8000/kdcxxD1U/543545/179649
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group="Sport",DigiSport3 HD sv2
+http://iptvtree.net:8080/ace2524d/15a571c413/2243
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group="Sport",DigiSport4 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/70947
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group="Sport",DigiSport4 HD#
 http://venomtt.com:8000/kdcxxD1U/543545/179650
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group="Sport",DigiSport4 HD sv2
+http://iptvtree.net:8080/ace2524d/15a571c413/4219
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png",AL: Super Sport 1 HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161887
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png",|ALBA| SUPER SPORT 1 HD.
@@ -853,6 +861,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" Logo="http://images.zaltv.club/logo/cctv-5+.png", CCTV5+ HD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Thể thao" Logo="http://images.zaltv.club/logo/cctv-5+.png", CCTV5+ HD#
+http://king-tv.online:8080/live/gisle@/FDPWGufCmY/272393.ts
 #EXTINF:0  group="Thể thao",[TW]ELEVEN 1 
 http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 #EXTINF:0  group="Thể thao",[TW]ELEVEN 2 
@@ -1022,9 +1032,6 @@ http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204641.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="Lives Event",Beinsport_1(true)
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204654.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="Lives Event"",CCTV5+
-http://king-tv.online:8080/live/gisle@/FDPWGufCmY/272393.ts
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="Lives Event",NOWsport_1
 http://king-tv.online:8080/gisle@/FDPWGufCmY/370037.ts
