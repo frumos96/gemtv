@@ -70,14 +70,24 @@ https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_4000.stream/chunklist.m3u8
 
 ---------------------------------------K PLUS----------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="VN: K+ SPORT 1 HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8UHBH5UyIqshx-mkNoZJJLphHkSbrti6jyyL7b3buJa6.png" group="K+",VN:K+SPORT 1 HD
+#EXTINF:-1 tvg-id="ksport1hd" tvg-logo="http://onetv.click/logo/ksport1hd.jpg" group="K+",K+SPORT1HD TV360
 http://king-tv.online:8080/gisle@/FDPWGufCmY/363735.ts
-#EXTINF:-1 tvg-id="" tvg-name="VN: K+ SPORT 1" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8UHBH5UyIqshx-mkNoZJJLphHkSbrti6jyyL7b3buJa6.png" group="K+",VN:K+SPORT 1(sd)
+#EXTINF:-1 tvg-id="ksport1hd" tvg-logo="http://onetv.click/logo/ksport1hd.jpg" group="K+",K+SPORT1SD TV360
 http://king-tv.online:8080/gisle@/FDPWGufCmY/363736.ts
-#EXTINF:-1 tvg-id="" tvg-name="VN: K+ SPORT 2 HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8UHBH5UyIqshx-mkNoZJJLqSUpISPS3DfuHXoXk_p8v3.png" group="K+",VN:K+SPORT 2 HD
+#EXTINF:-1 group-title="Kplus1" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg"group="K+",K+SPORT2HD TV360
 http://king-tv.online:8080/gisle@/FDPWGufCmY/363737.ts
-#EXTINF:-1 tvg-id="" tvg-name="VN: K+ SPORT 2" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8UHBH5UyIqshx-mkNoZJJLqSUpISPS3DfuHXoXk_p8v3.png" group="K+",VN:K+SPORT 2(sd)
+#EXTINF:-1 group-title="Kplus1" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg" group="K+",K+SPORT2SD TV360
 http://king-tv.online:8080/gisle@/FDPWGufCmY/363738.ts
+#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE CLIPTV
+http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kplushd/chunklist_b3128000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE CLIPTV
+http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:knshd/chunklist_b3128000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+kids.png", K+KIDS CLIPTV
+
+#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 CLIPTV
+http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kpcmyhd/chunklist_b3128000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 CLIPTV
+http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kpchd/chunklist_b3128000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE # 
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/334.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE #
@@ -237,7 +247,7 @@ http://live.vthanhtivi.pw:8080/onvolleyball
 ---------------------------------------SCTV----------------------------------------
 
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/bg3VGsW/SCTV1.png", SCTV1ˢᵛ²
-http://vtsstr4.sctv.vn:1935/live/SCTV_HD_Hai_new.smil/playlist.m3u8
+https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv2hd" tvg-logo="https://i.ibb.co/m5trC9G/SCTV2.png", SCTV2ˢᵛ²
 http://vtsstr4.sctv.vn:1935/live/sctv2_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv3hd" tvg-logo="https://i.ibb.co/9vrymzJ/SCTV3.png", SCTV3ˢᵛ²SEE TV HD
@@ -259,7 +269,7 @@ http://vtsstr4.sctv.vn:1935/live/SCTV12_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv13hd" tvg-logo="https://i.ibb.co/3BNx7fS/SCTV13.png", SCTV13ˢᵛ²Lady TV
 http://vtsstr4.sctv.vn:1935/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/kHMtBpL/SCTV14.png", SCTV14ˢᵛ²Kenh Phim Viet
-http://vtsstr4.sctv.vn:1935/live/SCTV_HD_PhimViet_new.smil/playlist.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8#|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15ˢᵛ²SSPORT2
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/XZJFWNd/SCTV16.png", SCTV16ˢᵛ²Phim Nuoc ngoai Ðac Sa
@@ -273,7 +283,7 @@ http://vtsstr4.sctv.vn:1935/live/SCTV19_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="SCTV20hd" tvg-logo="https://i.ibb.co/RyF60Dj/SCTV20.png", SCTV20ˢᵛ²
 http://vtsstr4.sctv.vn:1935/live/SCTV20_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv21hd" tvg-logo="https://i.ibb.co/qWdSdyM/SCTV21.png", SCTV21ˢᵛ²
-http://vtsstr4.tv24.vn:1935/live/SCTV21_HD_new.smil/playlist.m3u8
+http://vtsstr7.tv24.vn:1935/live/SCTV21_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv22hd" tvg-logo="https://i.ibb.co/Vpgwgb0/SCTV22.png", SCTV22ˢᵛ²
 http://vtsstr4.tv24.vn:1935/live/SCTV22_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/DYgY6pd/SCTV-TH.png", SCTV PTHˢᵛ²Phim Tong Hop
