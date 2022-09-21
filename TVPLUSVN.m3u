@@ -22,16 +22,16 @@ https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv9hd"type="stream" channelId="-1" group="Vtv" logo="http://images.zaltv.club/logo/vtv9hd.png", VTV9HD
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="hanoi1hd" group="Ðịa phương" logo="http://images.zaltv.club/logo/hanoi1hd.png", Hà Nội 1 HD
+#EXTINF:0 tvg-id="hanoi1" group="Ðịa phương" logo="http://images.zaltv.club/logo/hanoi1hd.png", Hà Nội 1 HD
 https://live.hanoitv.vn/hntvlive/tv1live480.m3u8
-#EXTINF:0 tvg-id="hanoi2hd" group="Ðịa phương" logo="http://images.zaltv.club/logo/hanoi2hd.png", Hà Nội 2 HD
+#EXTINF:0 tvg-id="hanoi2" group="Ðịa phương" logo="http://images.zaltv.club/logo/hanoi2hd.png", Hà Nội 2 HD
 https://live.hanoitv.vn/hntvlive/tv2live.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/V3NhGyb.png", Ðà Nẵng TV1 HD
+#EXTINF:0 tvg-id="danang1" logo="https://i.imgur.com/V3NhGyb.png", Ðà Nẵng TV1 HD
 https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/qLxtQIc.png", Ðà Nẵng TV2 HD
+#EXTINF:0 tvg-id="danang2" logo="https://i.imgur.com/qLxtQIc.png", Ðà Nẵng TV2 HD
 #https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:0 tvg-id="htv7hd"type="stream" channelId="-1" logo="https://i.imgur.com/L8fXB1M.png", HTV7 HD
+#EXTINF:0 tvg-id="htv7hd" type="stream" channelId="-1" logo="https://i.imgur.com/L8fXB1M.png", HTV7 HD
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="htv9hd" type="stream" channelId="-1" logo="https://i.imgur.com/r3Jiu5Q.png", HTV9 HD
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b2500000.m3u8
@@ -51,19 +51,19 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="sctv4hd" type="stream" channelId="-1" group="Sctv" logo="http://images.zaltv.club/logo/sctv4.png", SCTV4 - Giải trí
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/sctv16.png", SCTV16 HD
+#EXTINF:0 tvg-id="sctv16hd" group="Phim" logo="http://images.zaltv.club/logo/sctv16.png", SCTV16 HD
 https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="https://i.imgur.com/F0N0TmU.jpg", Cinemax HD
 https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="https://imgur.com/UmfhBQU.png", HBO HD
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/boxmovie1.png", Box Movie 1
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/hollywoodclassics.png", Hollywood Classics
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/box_hits.png", Box Hits
+#EXTINF:0 tvg-id="boxmovie1" group="Phim" logo="http://images.zaltv.club/logo/boxmovie1.png", Box Movie 1 SCTV
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="hollywoodclassics" group="Phim" logo="http://images.zaltv.club/logo/hollywoodclassics.png", Hollywood Classics SCTV
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="boxhits" group="Phim" logo="http://images.zaltv.club/logo/box_hits.png", Box Hits
 http://live.television4you.xyz:8081/boxhits/mpegts
-#EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/box_channel.png", Box
+#EXTINF:0 tvg-id="inthebox" group="Phim" logo="http://images.zaltv.club/logo/box_channel.png", Box
 https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1	
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="http://images.zaltv.club/logo/vtc3hd.png", VTC3 HD
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
@@ -102,17 +102,17 @@ https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/338.m3u8
 
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/sctv16.png", SCTV16 #
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/boxmovie1.png", Box Movie 1 #
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s2/index.m3u8?cc|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="boxmovie1" group="Phim" logo="http://images.zaltv.club/logo/boxmovie1.png", Box Movie 1 #
 #https://code.television4you.xyz/getlink/nethubtv?id=9328&itb=1
 http://dl.dropboxusercontent.com/s/u607615uzi4ynmy/hls/boxmovie1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/hollywoodclassics.png", Hollywood Classics #
+#EXTINF:0 tvg-id="hollywoodclassics" group="Phim" logo="http://images.zaltv.club/logo/hollywoodclassics.png", Hollywood Classics #
 #https://code.television4you.xyz/getlink/nethubtv?id=9331&itb=1
 http://dl.dropboxusercontent.com/s/bd1dqz0nirvbyrk/hls/hollywood/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/box_hits.png", Box Hits #
+#EXTINF:0 tvg-id="boxhits" group="Phim" logo="http://images.zaltv.club/logo/box_hits.png", Box Hits #
 #http://live.television4you.xyz:8081/boxhits/mpegts
 http://dl.dropboxusercontent.com/s/lebjoxjk0lu68pw/hls/boxhits/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/box_channel.png", Box #
+#EXTINF:0 tvg-id="inthebox" group="Phim" logo="http://images.zaltv.club/logo/box_channel.png", Box #
 #https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
 http://dl.dropboxusercontent.com/s/vee7zsr0i4n5zq0/hls/box/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/cinemaworld.png", CinemaWorld
@@ -215,7 +215,7 @@ http://live.vthanhtivi.pw:8080/vtvcab18
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News sv3
 http://king-tv.online:8080/gisle@/FDPWGufCmY/363743.ts
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", VTVcab 19 - Vie Dramas
-https://api.vthanhtivi.pw/v1/getlink/mytv_web/201/hd
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8#|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/28.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/2eb37e8d-2abf-4bce-aa44-b3b9a4460469/${start}/${offset}", VTVcab 20 - VFamily
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon2/2eb37e8d-2abf-4bce-aa44-b3b9a4460469
@@ -231,22 +231,7 @@ https://api.vthanhtivi.pw/v1/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf sv2
 http://live.vthanhtivi.pw:8080/vtvcab23
 
-#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png", ON Sports ENG
-http://live.vthanhtivi.pw:8080/onsporteng
-#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/773357dd-37b8-4731-ad9a-d4ae900bc733.png", ON Football ENG
-http://live.vthanhtivi.pw:8080/onfootballeng
-#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png", ON Sports News ENG
-http://live.vthanhtivi.pw:8080/onspnewseng
-#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON Golf ENG
-http://live.vthanhtivi.pw:8080/ongolfeng
-
-#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/c9f48c4f-a407-4d48-90ce-dd7ec9422c0c.jpg", ON VFF
-http://live.vthanhtivi.pw:8080/onvff
-#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://imgonsport.vtvcab.vn/image-upload/720x405/19717a3c-6ae7-412d-8dc8-9a5b50a4f4dd.jpg", ON Volleyball
-http://live.vthanhtivi.pw:8080/onvolleyball
-
 ---------------------------------------SCTV----------------------------------------
-
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/bg3VGsW/SCTV1.png", SCTV1ˢᵛ²
 https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv2hd" tvg-logo="https://i.ibb.co/m5trC9G/SCTV2.png", SCTV2ˢᵛ²
@@ -260,7 +245,7 @@ http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/5hGNfBz/SCTV7.png", SCTV7ˢᵛ²SHOW TV
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv8hd" tvg-logo="https://i.ibb.co/Pmydd5Q/SCTV8.png", SCTV8ˢᵛ²VITV
-http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv9hd" tvg-logo="https://i.ibb.co/grbyNXH/SCTV9.png", SCTV9ˢᵛ²
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sct110hd" tvg-logo="https://i.imgur.com/F89Gy8h.jpg", SCTV11ˢᵛ²TV Star 
@@ -268,7 +253,7 @@ http://vtsstr4.sctv.vn:1935/live/SCTVVHNT_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv12hd" tvg-logo="https://i.ibb.co/S7Q00XT/SCTV12.png", SCTV12ˢᵛ²
 http://vtsstr4.sctv.vn:1935/live/SCTV12_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv13hd" tvg-logo="https://i.ibb.co/3BNx7fS/SCTV13.png", SCTV13ˢᵛ²Lady TV
-http://vtsstr4.sctv.vn:1935/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
+https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/kHMtBpL/SCTV14.png", SCTV14ˢᵛ²Kenh Phim Viet
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8#|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15ˢᵛ²SSPORT2
@@ -284,14 +269,13 @@ http://vtsstr4.sctv.vn:1935/live/SCTV19_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="SCTV20hd" tvg-logo="https://i.ibb.co/RyF60Dj/SCTV20.png", SCTV20ˢᵛ²
 http://vtsstr4.sctv.vn:1935/live/SCTV20_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv21hd" tvg-logo="https://i.ibb.co/qWdSdyM/SCTV21.png", SCTV21ˢᵛ²
-http://vtsstr7.tv24.vn:1935/live/SCTV21_HD_new.smil/playlist.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8#|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv22hd" tvg-logo="https://i.ibb.co/Vpgwgb0/SCTV22.png", SCTV22ˢᵛ²
 http://vtsstr4.tv24.vn:1935/live/SCTV22_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/DYgY6pd/SCTV-TH.png", SCTV PTHˢᵛ²Phim Tong Hop
-http://vtsstr4.sctv.vn:1935/live/SCTVHDPhimTH_new.smil/chunklist.b2692000.m3u8
+https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD SSPORTS 3
 http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
-
 
 ---------------------------------------HTV----------------------------------------
 #EXTINF:0 tvg-id="htv1"type="stream" channelId="-1" group="Htv" logo="http://images.zaltv.club/logo/htv1.png", HTV1 HD
@@ -519,17 +503,17 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 ---------------------------------------KÊNH KHÁC----------------------------------------
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/man.png", Man
+#EXTINF:0 tvg-id="man" group="Kênh khác" logo="http://images.zaltv.club/logo/man.png", Man
 https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/hls/boxman/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/man.png", Man #
+#EXTINF:0 tvg-id="man" group="Kênh khác" logo="http://images.zaltv.club/logo/man.png", Man #
 https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
 #https://stream.sugustv.tk:443/live/44DEA644318541B38AC21C2BB507FF9B/282.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/woman.png", Woman
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/planet-earth.png", Planet Earth
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/dr_fit.png", Dr.Fit
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="woman" group="Kênh khác" logo="http://images.zaltv.club/logo/woman.png", Woman
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="planetearthhd" group="Kênh khác" logo="http://images.zaltv.club/logo/planet-earth.png", Planet Earth
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="drfithd" group="Kênh khác" logo="http://images.zaltv.club/logo/dr_fit.png", Dr.Fit
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:-1 type="stream" channelId="-1" group="Kênh khác" logo="https://photos.live-tv-channels.org/tv-logo/ae-gem-fit-2728-300x225.jpg",IR: GEM FIT
 http://iptvtree.net:8080/ace2524d/15a571c413/166807
 #EXTINF:0 group="Thể thao" Logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/11/pluot-tv-fitness-deporte.jpg.png",Pluto TV Fitness
@@ -556,8 +540,6 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/history.png", History HD
 http://sever.vietanhiptv.tk/history/mpegts
-
-
 
 ---------------------------------------THIẾU NHI----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" group="Thiếu nhi" logo="https://dl.dropboxusercontent.com/s/lslvqe41s8j7itv/PBS", PBS Kids HD
