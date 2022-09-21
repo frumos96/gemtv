@@ -1006,33 +1006,41 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/364152.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/364157.ts
 #EXTINF:-1 tvg-id="" tvg-name="PH: TAP SPORTS" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8ZoSLHTAe_d3Y1wM-N0jUjkth8_c3MzK1mO-oUMvBmJS.png" group-title="Lives Event",PH:TAP_SPORTS
 http://king-tv.online:8080/gisle@/FDPWGufCmY/364252.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="Lives Event",TrueEpl_1
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="Lives Event",True Premier League 1 HD
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204632.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="Lives Event",TrueEpl_2
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="Lives Event",True Premier League 2 HD
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204633.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-3-1820.png" group-title="Lives Event",TrueEpl_3
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-3-1820.png" group-title="Lives Event",True Premier League 3 HD
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204634.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="Lives Event",TrueSports_1
-http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204641.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-1-1077.png" group-title="Lives Event",Beinsport_1(true)
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="Lives Event",TRUE Sport 1 HD 
+http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204641.ts#
+EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/pptv-logo-png.png",PPTV HD
+https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",TRUE Sport 1 HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115531
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",TRUE Sport 2 HD 
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115533
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png"",TRUE Sport 3 HD 
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115537
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-1-1077.png" group-title="Lives Event",True Beinsport1
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204654.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="Lives Event",NOWsport_1
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="Lives Event",NOW sport_1
 http://king-tv.online:8080/gisle@/FDPWGufCmY/370037.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-2-1990.png" group-title="Lives Event",NOWsport_2
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-2-1990.png" group-title="Lives Event",NOW sport_2
 http://king-tv.online:8080/gisle@/FDPWGufCmY/370038.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-3-1991.png" group-title="Lives Event",NOWsport_3
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-3-1991.png" group-title="Lives Event",NOW sport_3
 http://king-tv.online:8080/gisle@/FDPWGufCmY/370039.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-4-1992.png" group-title="Lives Event",NOWsport_4
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-4-1992.png" group-title="Lives Event",NOW sport_4
 http://king-tv.online:8080/gisle@/FDPWGufCmY/370040.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-5-1993.png" group-title="Lives Event",NOWsport_5
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-5-1993.png" group-title="Lives Event",NOW sport_5
 http://king-tv.online:8080/gisle@/FDPWGufCmY/370041.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-6-1994.png" group-title="Lives Event",NOWsport_6
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-6-1994.png" group-title="Lives Event",NOW sport_6
 http://king-tv.online:8080/gisle@/FDPWGufCmY/370042.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-7-1997.png" group-title="Lives Event",NOWsport_7
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-7-1997.png" group-title="Lives Event",NOW sport_7
 http://king-tv.online:8080/gisle@/FDPWGufCmY/370043.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-premier-league-1-1982.png" group-title="Lives Event",NowSports Premier League 1
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/370044.ts
-
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-premier-league-2-1983.png" group-title="Lives Event",NowSports Premier League 2
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/370044.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-premier-league-3-1984.png" group-title="Lives Event",NowSports Premier League 3
