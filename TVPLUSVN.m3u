@@ -37,13 +37,11 @@ https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="htv9hd" type="stream" channelId="-1" logo="https://i.imgur.com/r3Jiu5Q.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtvcab1hd" tvg-logo="https://i.ibb.co/JF1bm7n/VTVCAB1.png", VTVcab1 | Vie Giải Trí
-https://vtsstr7.tv24.vn/live/VTVcab1.smil/playlist.m3u8
 #EXTINF:0 tvg-id="vinhlong1hd"type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinhlong1hd.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 1 HD
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vinhlong2hd"type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinhlong2hd.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 2 HD
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="htvcphimhd" group="Phim" logo="https://i.imgur.com/pAqskAN.png", HTVC Phim HD
+#EXTINF:0 tvg-id="htvcphimhd" group="Phim" logo="https://i.imgur.com/pAqskAN.png"  catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:0 tvg-id="axnhd" group="Phim" logo="http://vthanhtivi.cf/ic/228.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
@@ -98,53 +96,54 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/363736.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/363737.ts
 #EXTINF:-1 group-title="Kplus1" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg" group="K+",K+SPORT2SD TV360
 http://king-tv.online:8080/gisle@/FDPWGufCmY/363738.ts
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE CLIPTV
+#EXTINF:0 tvg-id="kcinehd" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE CLIPTV
 http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kplushd/chunklist_b3128000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE CLIPTV
+#EXTINF:0 tvg-id="klifehd" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE CLIPTV
 http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:knshd/chunklist_b3128000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+kids.png", K+KIDS CLIPTV
+#EXTINF:0 tvg-id="kkidshd" group="K+" logo="http://images.zaltv.club/logo/k+kids.png", K+KIDS CLIPTV
 
 #EXTINF:0 tvg-id="ksport1hd" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 CLIPTV
 http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kpcmyhd/chunklist_b3128000.m3u8
 #EXTINF:0 tvg-id="ksport2hd" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 CLIPTV
 http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kpchd/chunklist_b3128000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE # 
+#EXTINF:0 tvg-id="kcinehd" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE # 
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/334.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE #
+#EXTINF:0 tvg-id="klifehd" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE #
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/335.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+kids.png", K+KIDS #
+#EXTINF:0 tvg-id="kkidshd" group="K+" logo="http://images.zaltv.club/logo/k+kids.png", K+KIDS #
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/336.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 #
+#EXTINF:0 tvg-id="ksport1hd" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 #
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/337.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 #
+#EXTINF:0 tvg-id="ksport2hd" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 #
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/338.m3u8
 
 ---------------------------------------PHIM----------------------------------------
-#EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/cinemaworld.png", CinemaWorld
+#EXTINF:0 tvg-id="cinemaworldhd" group="Phim" logo="http://images.zaltv.club/logo/cinemaworld.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/paramount.png", Paramount Channel
+#EXTINF:0 tvg-id="paramouthd" group="Phim" logo="http://images.zaltv.club/logo/paramount.png", Paramount Channel
 http://cdn.zaltv.xyz/1661392231/vietteltv_live/paramount.stream/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/hits.png", Hits
 http://cdn.zaltv.xyz/1661392231/vietteltv_live/hit.stream/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/afn.png", Asian Food Network
+#EXTINF:0 tvg-id="afnhd" group="Kênh khác" logo="http://images.zaltv.club/logo/afn.png", Asian Food Network
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/discovery.png", Discovery
+#EXTINF:0 tvg-id="discoveryhd" group="Kênh khác" logo="http://images.zaltv.club/logo/discovery.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://mod.cht.com.tw/img/channel/channelpic/253.png", Discovery Asia
+#EXTINF:0 tvg-id="discoveryasiahd" group="Kênh khác" logo="http://mod.cht.com.tw/img/channel/channelpic/253.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/national-geographic-hd.png", National Geographic
+#EXTINF:0 tvg-id="ngchd" group="Kênh khác" logo="http://images.zaltv.club/logo/national-geographic-hd.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/Outdoor_Channel.png", Outdoor Channel
+#EXTINF:0 tvg-id="outdoorfhd" group="Kênh khác" logo="http://images.zaltv.club/logo/Outdoor_Channel.png", Outdoor Channel
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="https://cdn.hqth.me/logo/226.png", Nat Geo Wild
+#EXTINF:0 tvg-id="ngwhd" group="Kênh khác" logo="https://cdn.hqth.me/logo/226.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://onetv.click/logo/blueantent.jpg", Blue Ant Entertainment
+#EXTINF:0 tvg-id="blueantent" group="Kênh khác" logo="http://onetv.click/logo/blueantent.jpg", Blue Ant Entertainment
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://onetv.click/logo/blueantext.jpg", Blue Ant Extreme
+#EXTINF:0 tvg-id="blueantext" group="Kênh khác" logo="http://onetv.click/logo/blueantext.jpg", Blue Ant Extreme
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1200px-Rakuten_TV_logo.svg.png" group="Phim",RakutenTV$
 http://tvlive.my.id:25461/mat/mat/385
-#EXTINF:0 type="stream" channelId="-1" group="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
+#EXTINF:0 tvg-id="hallmark" group="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
+http://mytv.fun:8080/qmoy6sepeq/c6vnvjzpvq/685299
 http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/158099
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1920px-LMN_logo_2019.svg.png", Lifetime Movie Network HD
 http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/158145
@@ -161,8 +160,9 @@ https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://images.zaltv.club/logo/fashionhd-4k.png", FashionTV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#-*--VTVCAB-*--#
+#-*------------------------------------------VTVCAB-*------------------------------------------#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",  VTVcab 1 - Vie Giải trí HD
+https://vtsstr7.tv24.vn/live/VTVcab1.smil/playlist.m3u8
 https://api.vthanhtivi.pw/v1/getlink/vieon/vie-giai-tri-hd
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/ad62967c-f8f2-4bb1-84bc-637282f14799/${start}/${offset}", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -329,23 +329,23 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil /chunklist_b5000000.m3u8
 
 ---------------------------------------VTC----------------------------------------
-#EXTINF:0 type="stream" channelId="-1" group="Vtc" logo="http://images.zaltv.club/logo/vtc1hd.png", VTC1 HD
+#EXTINF:0 tvg-id="vtc1" group="Vtc" logo="http://images.zaltv.club/logo/vtc1hd.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc1-hd/${start}/${offset}", VTC1 HD
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Vtc" logo="http://images.zaltv.club/logo/vtc2hd.png", VTC2 HD
+#EXTINF:0 tvg-id="vtc1" group="Vtc" logo="http://images.zaltv.club/logo/vtc2hd.png", VTC2 HD
 https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Vtc" logo="http://images.zaltv.club/logo/vtc3hd.png", VTC3 HD
+#EXTINF:0 tvg-id="vtc3hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc3hd.png", VTC3 HD
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Vtc" logo="http://images.zaltv.club/logo/vtc4hd.png", VTC4 HD
+#EXTINF:0 tvg-id="vtc4hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc4hd.png", VTC4 HD
 https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Vtc" logo="http://images.zaltv.club/logo/vtc5hd.png", VTC5 HD
+#EXTINF:0 tvg-id="vtc5hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc5hd.png", VTC5 HD
 https://vips-livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Vtc" logo="http://images.zaltv.club/logo/vtc6.png", VTC6 HD
+#EXTINF:0 tvg-id="vtc6hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc6.png", VTC6 HD
 https://vips-livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Vtc" logo="http://images.zaltv.club/logo/vtc7hd.png", VTC7 HD
+#EXTINF:0 tvg-id="vtc7hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc7hd.png" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}, VTC7 HD
 https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Vtc" logo="http://images.zaltv.club/logo/vtc8.png", VTC8 HD
+#EXTINF:0 tvg-id="vtc8hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc8.png", VTC8 HD
 https://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Vtc" logo="http://images.zaltv.club/logo/vtc9hd.png", VTC9 HD
+#EXTINF:0 tvg-id="vtc9hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc9hd.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc9-hd/${start}/${offset}", VTC9 HD
 https://vips-livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Vtc" logo="http://images.zaltv.club/logo/vtc10.png", VTC10 HD
 https://vips-livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
@@ -355,43 +355,43 @@ https://vips-livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Vtc" logo="http://images.zaltv.club/logo/vtc13hd.png", VTC13 HD
 https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Vtc" logo="http://images.zaltv.club/logo/vtc14hd.png", VTC14 HD
+#EXTINF:0 tvg-id="vtc14hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc14hd.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc14-hd/${start}/${offset}", VTC14 HD
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Vtc" logo="http://images.zaltv.club/logo/vtc16hd.png", VTC16 HD
+#EXTINF:0 tvg-id="vtc16" group="Vtc" logo="http://images.zaltv.club/logo/vtc16hd.png", VTC16 HD
 https://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 ---------------------------------------TRUNG ƯƠNG----------------------------------------
-#EXTINF:0 tvg-id="vovtvhd" type="stream" channelId="-1" group="Trung ương" logo="https://i.imgur.com/yyftSZg.png", VOV TV HD
+#EXTINF:0 tvg-id="vovtvhd" group="Trung ương" logo="https://i.imgur.com/yyftSZg.png", VOV TV HD
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="antvhd" type="stream" channelId="-1" group="Trung ương" logo="https://i.imgur.com/8goldzC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
+#EXTINF:0 tvg-id="antvhd"  group="Trung ương" logo="https://i.imgur.com/8goldzC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="quochoi" type="stream" channelId="-1" group="Trung ương" logo="https://i.imgur.com/pyQJnZz.png", QHVN HD
+#EXTINF:0 tvg-id="quochoi" group="Trung ương" logo="https://i.imgur.com/pyQJnZz.png", QHVN HD
 https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="qpvnhd" type="stream" channelId="-1" group="Trung ương" logo="https://i.imgur.com/fBvkVen.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
+#EXTINF:0 tvg-id="qpvnhd"  group="Trung ương" logo="https://i.imgur.com/fBvkVen.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
 https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="nhandan" type="stream" channelId="-1" group="Trung ương" logo="https://i.imgur.com/7zgsFIK.png", THND HD 
+#EXTINF:0 tvg-id="nhandan"  group="Trung ương" logo="https://i.imgur.com/7zgsFIK.png", THND HD 
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="ttxvnhd" type="stream" channelId="-1" group="Trung ương" logo="https://i.imgur.com/AAWIPHz.png", TTXVN HD 
+#EXTINF:0 tvg-id="ttxvnhd"  group="Trung ương" logo="https://i.imgur.com/AAWIPHz.png", TTXVN HD 
 http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 
 ---------------------------------------ÐỊA PHƯƠNG----------------------------------------
-#EXTINF:0 tvg-id="angiang"type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/angiang-hd.png", An Giang HD
+#EXTINF:0 tvg-id="angiang"group="Ðịa phương" logo="http://images.zaltv.club/logo/angiang-hd.png", An Giang HD
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="bacgiang"type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/bacgiang_hd.png", Bắc Giang HD
 https://vips-livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="bacninh"type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/btv.png", Bắc Ninh HD
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-duong-btv1.png", Bình Dương 1 HD
+#EXTINF:0 tvg-id="binhduong1" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-duong-btv1.png", Bình Dương 1 HD
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-duong-btv2.png", Bình Dương 2 HD
+#EXTINF:0 tvg-id="binhduong2" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-duong-btv2.png", Bình Dương 2 HD
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-duong-btv3.png", Bình Dương 3 HD
+#EXTINF:0 tvg-id="binhduong3" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-duong-btv3.png", Bình Dương 3 HD
 https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-duong-btv4.png", Bình Dương 4 HD
+#EXTINF:0 tvg-id="binhduong4" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-duong-btv4.png", Bình Dương 4 HD
 https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-duong-btv6.png", Bình Dương 6 HD
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Ðịa phương" tvg-logo="https://i.ibb.co/XJngd96/99.png"  tvg-id="anvienhd",BTV9 - An Viên
+#EXTINF:-1 tvg-id="anvienhd" group-title="Ðịa phương" tvg-logo="https://i.ibb.co/XJngd96/99.png",BTV9 - An Viên
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-dinh-btv.png", Bình Ðịnh HD
 https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
@@ -407,9 +407,9 @@ https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/daclac.png", Ðắk Lắk HD
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/dong-nai-rtv-dn1.png", Ðồng Nai 1 HD
+#EXTINF:0 tvg-id="dongnai1" group="Ðịa phương" logo="http://images.zaltv.club/logo/dong-nai-rtv-dn1.png", Ðồng Nai 1 HD
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/dong-nai-rtv-dn2.png", Ðồng Nai 2 HD
+#EXTINF:0 tvg-id="dongnai2" group="Ðịa phương" logo="http://images.zaltv.club/logo/dong-nai-rtv-dn2.png", Ðồng Nai 2 HD
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/dong-thap-thdt.png", Ðồng Tháp 1 HD
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
@@ -487,7 +487,7 @@ https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vinh-phuc-vp.png", Vĩnh Phúc HD
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/vungtau_hd.png", Vũng Tàu HD
+#EXTINF:0 tvg-id="baria"  group="Ðịa phương" logo="http://images.zaltv.club/logo/vungtau_hd.png", Vũng Tàu HD
 https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/yenbai.png", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
@@ -557,7 +557,7 @@ http://cdn.zaltv.xyz/1656378667/vietteltv_live/hgtv.stream/index.m3u8
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="https://mytv.com.vn/upload/channel/65.png", TV5Monde Asie
 https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/history.png", History HD
+#EXTINF:0 tvg-id="historyhd" group="Kênh khác" logo="http://images.zaltv.club/logo/history.png", History HD
 http://sever.vietanhiptv.tk/history/mpegts
 
 ---------------------------------------THIẾU NHI----------------------------------------
@@ -594,14 +594,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/
 #EXTINF:0 type="stream" channelId="-1" group="Thiếu nhi" logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids_Logo.png", Rotana Kids HD
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
 ---------------------------------------SPORT----------------------------------------
-#EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="http://images.zaltv.club/logo/live.gif", Live Events 1
-http://live-vn.cvacetv.ga:8080/live1
-#EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="http://images.zaltv.club/logo/live.gif", Live Events 2
-http://live-vn.cvacetv.ga:8080/live2
-#EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="http://images.zaltv.club/logo/live.gif", Live Events 3
-http://live-vn.cvacetv.ga:8080/live3
-#EXTINF:0 type="stream" channelId="-1" group="Sport" Logo="http://images.zaltv.club/logo/live.gif", Live Events 4K
-http://live-vn.cvacetv.ga:8080/4KUHD
 #EXTINF:-1 group-title="Sport" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 1
 http://live.vthanhtivi.pw:8080/on1
 #EXTINF:-1 group-title="Sport" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 2
