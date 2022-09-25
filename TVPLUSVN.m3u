@@ -96,16 +96,16 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/363736.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/363737.ts
 #EXTINF:-1 group-title="Kplus1" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg" group="K+",K+SPORT2SD TV360
 http://king-tv.online:8080/gisle@/FDPWGufCmY/363738.ts
-#EXTINF:0 tvg-id="kcinehd" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE CLIPTV
-http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kplushd/chunklist_b3128000.m3u8
-#EXTINF:0 tvg-id="klifehd" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE CLIPTV
-http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:knshd/chunklist_b3128000.m3u8
-#EXTINF:0 tvg-id="kkidshd" group="K+" logo="http://images.zaltv.club/logo/k+kids.png", K+KIDS CLIPTV
-
-#EXTINF:0 tvg-id="ksport1hd" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 CLIPTV
-http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kpcmyhd/chunklist_b3128000.m3u8
-#EXTINF:0 tvg-id="ksport2hd" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 CLIPTV
-http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kpchd/chunklist_b3128000.m3u8
+#EXTINF:0 tvg-id="kcinehd" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE 
+http://128.199.160.36/ch1/index.m3u8
+#EXTINF:0 tvg-id="klifehd" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE 
+http://128.199.160.36/ch2/index.m3u8
+#EXTINF:0 tvg-id="kkidshd" group="K+" logo="http://images.zaltv.club/logo/k+kids.png", K+KIDS 
+http://128.199.160.36/ch3/index.m3u8
+#EXTINF:0 tvg-id="ksport1hd" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 
+http://128.199.160.36/ch4/index.m3u8
+#EXTINF:0 tvg-id="ksport2hd" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 
+http://128.199.160.36/ch5/index.m3u8
 #EXTINF:0 tvg-id="kcinehd" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE # 
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/334.m3u8
 #EXTINF:0 tvg-id="klifehd" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE #
