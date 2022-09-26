@@ -82,6 +82,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?cc|Referer=http:/
 http://iptvtree.net:8080/ace2524d/15a571c413/166807
 #EXTINF:0 group="Thể thao" Logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/11/pluot-tv-fitness-deporte.jpg.png",Pluto TV Fitness
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://i.scdn.co/image/ab67616d0000b2738d4ed08da3db1481c04c44a0", Relax Music
+http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/6446
+http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/27513
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="http://images.zaltv.club/logo/vtc3hd.png", VTC3 HD
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://i.imgur.com/A8RNAwQ.png", HTV Thể Thao HD
