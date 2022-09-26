@@ -70,6 +70,8 @@ http://live.television4you.xyz:8081/boxhits/mpegts
 #EXTINF:0 tvg-id="inthebox" group="Phim" logo="http://images.zaltv.club/logo/box_channel.png", Box
 https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1	
 http://vietanhtv.xyz/nethub.php?id=9336&itb=1
+#EXTINF:0 tvg-id="inthebox" group="Phim" logo="https://play-lh.googleusercontent.com/L40FnQ8nF8zRtUdALz9b23JirsxYA5-0_fkRUlFBMymud09ctBCFrNui4l-ES_V6Uw", IQIYI
+http://ku03.wanicelife.com:8880/12m0322/772227687/71038
 #EXTINF:0 tvg-id="man" group="Kênh khác" logo="http://images.zaltv.club/logo/man.png", Man
 https://vietanhtv.xyz/nethub.php?id=9332&itb=1
 #EXTINF:0 tvg-id="woman" group="Kênh khác" logo="http://images.zaltv.club/logo/woman.png", Woman
@@ -555,7 +557,7 @@ https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/animal_planet.png", Animal Planet
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/hgtv.png", HGTV
-http://cdn.zaltv.xyz/1656378667/vietteltv_live/hgtv.stream/index.m3u8
+http://ku03.wanicelife.com:8880/12m0322/772227687/71096
 #EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="http://images.zaltv.club/logo/da-vinc.png", Da Vinci HD
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="https://mytv.com.vn/upload/channel/65.png", TV5Monde Asie
