@@ -146,6 +146,20 @@ https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="blueantext" group="Kênh khác" logo="http://onetv.click/logo/blueantext.jpg", Blue Ant Extreme
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gem_TV_logo_2020.png/270px-Gem_TV_logo_2020.png" group-title="Phim",GEM
+http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="Phim",K+
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_%282020%29.png/300px-One_TV_Asia_logo_%282020%29.png" group-title="Phim",ONE_ASIA
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="Phim",TVN_ASIA
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#EXTINF:-1  tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="Phim",TVN_MOVIES
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Celestial_Movies_%282003-.n.v.%29.png/revision/latest?cb=20210214084108" group-title="Phim",CELESTIAL_MOVIES
+http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700" group-title="Phim",CCM
+http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1200px-Rakuten_TV_logo.svg.png" group="Phim",RakutenTV$
 http://tvlive.my.id:25461/mat/mat/385
 #EXTINF:0 tvg-id="hallmark" group="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
@@ -709,12 +723,6 @@ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53983
 #EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sport Arena HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sky_Sports_Arena_HD.png" group="Thể thao",UK:SkySport Arena HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/94997
 http://king-tv.online:8080/gisle@/FDPWGufCmY/158246.ts
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: Bt Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/BTSport1.uk.png" group-title="Thể thao",UK:Bt_Sport 1 HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/95052
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/BTSport3.uk.png" group-title="Thể thao",UK:BT_Sport 3 HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/95055
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/BTSport2.uk.png" group-title="Thể thao",UK:BT_Sport 2 HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/95053
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dk-tv3-1220.png" group="Thể thao",DK: TV3 Sport HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159623
 #EXTINF:-1 group="Sport" Logo="http://images.zaltv.club/logo/live.gif",DE:|VIP| Sport Digital HD
