@@ -143,10 +143,10 @@ http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1200px-Rakuten_TV_logo.svg.png" group="Phim",RakutenTV$
 http://tvlive.my.id:25461/mat/mat/385
 #EXTINF:0 tvg-id="hallmark" group="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
-http://mytv.fun:8080/qmoy6sepeq/c6vnvjzpvq/685299
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/158099
+http://ku03.wanicelife.com:8880/12m0322/772227687/3125
+http://hwdata.xyz:80/btinternal@/5616061093/22816
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1920px-LMN_logo_2019.svg.png", Lifetime Movie Network HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/158145
+http://ku03.wanicelife.com:8880/12m0322/772227687/3114
 
 ---------------------------------------GIẢI TRÍ----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU", Nature 4k
@@ -590,13 +590,35 @@ https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Lives Event" Logo="https://fptplay.vn/_nuxt/img/logo-fpt-play.06da7da.png", Event 4
 https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/playlist.m3u8
+#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: TUDNxtra01
+http://hwdata.xyz:80/btinternal@/5616061093/97242
+#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: TUDNxtra02
+http://hwdata.xyz:80/btinternal@/5616061093/97243
+#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: TUDNxtra03
+http://hwdata.xyz:80/btinternal@/5616061093/97244
+#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: TUDNxtra04
+http://hwdata.xyz:80/btinternal@/5616061093/97245
+#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: TUDNxtra05
+http://hwdata.xyz:80/btinternal@/5616061093/97246
+#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: TUDNxtra06
+http://hwdata.xyz:80/btinternal@/5616061093/97247
+#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: TUDNxtra07
+http://hwdata.xyz:80/btinternal@/5616061093/97248
+#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: TUDNxtra08
+http://hwdata.xyz:80/btinternal@/5616061093/97249
+#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: TUDNxtra09
+http://hwdata.xyz:80/btinternal@/5616061093/97250
+#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: TUDNxtra10
+http://hwdata.xyz:80/btinternal@/5616061093/97251
 
 ---------------------------------------SPORT ASEAN----------------------------------------
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORT ASEAN",Astro SuperSport 1 FHD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/379978.ts
+http://hwdata.xyz:80/btinternal@/5616061093/77043
 #http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORT ASEAN",Astro SuperSport 2 FHD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/379980.ts
+http://hwdata.xyz:80/btinternal@/5616061093/77042
 #http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="SPORT ASEAN",Astro SuperSport 3 FHD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/379982.ts
@@ -605,6 +627,7 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/379982.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/379984.ts
 #http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SPORT ASEAN",Astro SuperSport 5 FHD
+http://hwdata.xyz:80/btinternal@/5616061093/108228
 http://king-tv.online:8080/gisle@/FDPWGufCmY/379986.ts
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="http://dmtn.tv:8080/images/ya5l5yM1bhT_tvxGIMbFwjN-o6yFm6jJToyFhgbtpbw1Cn22_YSFkjZsn0szbGSU8iCwFyRgfimmLqjN0YxT01cKPk4q_bJRAf72d5E8Ga8.png" group-title="SPORT ASEAN",Astro SuperSport 5 HD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/379987.ts
@@ -674,6 +697,7 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115537
 http://4digital.ddns.net:11224/ts/0
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="SPORT ASEAN",NOW sport_1
+http://hwdata.xyz:80/btinternal@/5616061093/27312
 http://king-tv.online:8080/gisle@/FDPWGufCmY/370037.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-2-1990.png" group-title="SPORT ASEAN",NOW sport_2
 http://king-tv.online:8080/gisle@/FDPWGufCmY/370038.ts
@@ -681,6 +705,8 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/370038.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/370039.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-4-1992.png" group-title="SPORT ASEAN",NOW sport_4
 http://king-tv.online:8080/gisle@/FDPWGufCmY/370040.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-4k-1978.png" group-title="SPORT ASEAN",NOW sport 4K
+http://hwdata.xyz:80/btinternal@/5616061093/108706
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-premier-league-1-1982.png" group-title="SPORT ASEAN",NowSports Premier League 1
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/370044.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-premier-league-2-1983.png" group-title="SPORT ASEAN",NowSports Premier League 2
@@ -690,11 +716,13 @@ http://king-tv.online:8080/live/gisle@/FDPWGufCmY/370044.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-premier-league-4-1985.png" group-title="SPORT ASEAN",NowSports Premier League 4
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/370044.ts
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/221-hub-premier-1.png" group-title="SPORT ASEAN",Hub_premier1
+http://hwdata.xyz:80/btinternal@/5616061093/76890
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/382359.ts
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/232-hub-premier-2.png" group-title="SPORT ASEAN",Hub_premierligue_1
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/382360.ts
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/232-hub-premier-2.png" group-title="SPORT ASEAN",Hub_premierligue_2
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/382361.ts
+
 
 ---------------------------------------SPORT EUROPE----------------------------------------
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sport News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sports_News_HD_UK.png" group="SPORT EUROPE",UK:SkySport News
@@ -718,6 +746,18 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/95010
 #EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sport Arena HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sky_Sports_Arena_HD.png" group="SPORT EUROPE",UK:SkySport Arena HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/94997
 #http://king-tv.online:8080/gisle@/FDPWGufCmY/158246.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png" group="SPORT EUROPE",UK: BT Sport 1
+http://hwdata.xyz:80/btinternal@/5616061093/110132
+http://hwdata.xyz:80/btinternal@/5616061093/76892
+http://hwdata.xyz:80/btinternal@/5616061093/104041
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png" group="SPORT EUROPE",UK: BT Sport 2
+http://hwdata.xyz:80/btinternal@/5616061093/110130
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group="SPORT EUROPE",UK: BT Sport 3
+http://hwdata.xyz:80/btinternal@/5616061093/110128
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-espn-98.png" group="SPORT EUROPE",UK: BT Sport 4
+http://hwdata.xyz:80/btinternal@/5616061093/110133
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-ultimate-1922.png" group-title="SPORT EUROPE",BT Sport UHD
+http://hwdata.xyz:80/btinternal@/5616061093/86837
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tv3-plus-442.png" group="SPORT EUROPE",DK: TV3
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/250
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tv3-max-1219.png" group="SPORT EUROPE",DK: TV3 MAX
@@ -885,45 +925,57 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/306061.ts
 
 ---------------------------------------SPORT AFRICA----------------------------------------
 #EXTINF:-1 tvg-id="supersportblitz.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-blitz-300.png" group-title="SPORT AFRICA",SuperSport Blitz HD
+http://hwdata.xyz:80/btinternal@/5616061093/23524
 http://king-tv.online:8080/gisle@/FDPWGufCmY/111534.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/111536.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/111541.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-six-296.png" group-title="SPORT AFRICA",SuperSport Blitz HD
+http://hwdata.xyz:80/btinternal@/5616061093/23515
 #EXTINF:-1 tvg-id="supersportpsl.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="SPORT AFRICA",SuperSport PSL HD
+http://hwdata.xyz:80/btinternal@/5616061093/23513
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183117.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/119516.ts
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="SPORT AFRICA",SuperSport PremierLeague HD+
+http://hwdata.xyz:80/btinternal@/5616061093/23514
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183121.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/119524.ts
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-seven-297.png" group-title="SPORT AFRICA",SuperSport LaLiga HD 
+http://hwdata.xyz:80/btinternal@/5616061093/23512
 http://king-tv.online:8080/gisle@/FDPWGufCmY/119515.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183127.ts
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="SPORT AFRICA",SuperSport Football HD 
+http://hwdata.xyz:80/btinternal@/5616061093/23519
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183106.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183104.ts
 #EXTINF:-1 tvg-id="supersportfootballplus.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-football-plus-2669.png" group-title="SPORT AFRICA",SuperSport Football Plus Africa
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183111.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183110.ts
 #EXTINF:-1 tvg-id="supersportaction.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-fourteen-1144.png" group-title="SPORT AFRICA",SuperSport Action HD (AZ)
+http://hwdata.xyz:80/btinternal@/5616061093/23518
 http://king-tv.online:8080/gisle@/FDPWGufCmY/199227.ts
-#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="DSTV: SuperSport Action Africa HD (NG)" tvg-logo="" group-title="SPORT AFRICA",SuperSport Action Africa HD (NG)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/245152.ts
 #EXTINF:-1 tvg-id="supersporttennis.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-ten-665.png" group-title="SPORT AFRICA",SuperSport Tennis HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113285.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/199129.ts
 #EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-one-291.png" group-title="SPORT AFRICA",SuperSport Variety 1 HD (AZ)
+http://hwdata.xyz:80/btinternal@/5616061093/23517
 http://king-tv.online:8080/gisle@/FDPWGufCmY/172359.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183093.ts
 #EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-two-292.png" group-title="SPORT AFRICA",SuperSport Variety 2 HD (AZ)
+http://hwdata.xyz:80/btinternal@/5616061093/23516
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113277.ts
 #EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-three-293.png" group-title="SPORT AFRICA",SuperSport Variety 3 HD (AZ)
+http://hwdata.xyz:80/btinternal@/5616061093/23521
 http://king-tv.online:8080/gisle@/FDPWGufCmY/245162.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/133935.ts
 #EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-four-294.png" group-title="SPORT AFRICA",SuperSport Variety 4 HD (AZ)
+http://hwdata.xyz:80/btinternal@/5616061093/23520
 http://king-tv.online:8080/gisle@/FDPWGufCmY/143345.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113294.ts
 #EXTINF:-1 tvg-id="emovies.za" tvg-logo="https://qa.dstvafrica.com/media/15388/microsoftteams-image-3.png" group-title="SPORT AFRICA",SuperSport Liyu HD (Ethiopia)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113291.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-maximo-1-301.png" group-title="SPORT AFRICA",SuperSport Máximo 1 HD (AZ)
+http://hwdata.xyz:80/btinternal@/5616061093/23525
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113246.ts
 #EXTINF:-1 tvg-id="comedycentral.za"  tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vgFGeiAepsKgVic2i2AuTkc0KU0Y2zg7tX2V3lu2Bx1BEu1os2UlfNJgqR6G55Ao5.png" group-title="SPORT AFRICA",SuperSport Máximo 2 HD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113299.ts
@@ -931,8 +983,8 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/113299.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/245161.ts
 #EXTINF:-1 tvg-id="supersportott1.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-ott-1-2580.png" group-title="SPORT AFRICA",SuperSport OTT 1 HD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/133954.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-ott-2-2581.png",AF: SUPERSPORT EVENTS HD
-http://www.sansat.net:25461/ueRMKALkgmL080Z/ZhiPGZxaCvdS5ZX/116677
+
+
 
 ---------------------------------------SPORT INDIA----------------------------------------
 #EXTINF:-1 tvg-id="ddsports.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8ZL7Y7EV_20SgjeEAA_sxCy3tljLgiLIUBytpETY9g-D.png" group-title="SPORT INDIA",DD SPORTS
@@ -1044,12 +1096,15 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/159599
 #EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG"group="Sport Spain",BR:ESPN Extra HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159600
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network
+http://ku03.wanicelife.com:8880/12m0322/772227687/3089
 http://casaip.tv:8000/3357ystocy/2oyelh8zpu/211339
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/8259
 #EXTINF:-1 group="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nbc-77.png",Peacook NBC Sport
+http://ku03.wanicelife.com:8880/12m0322/772227687/30025
+http://hwdata.xyz:80/btinternal@/5616061093/111405
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347953
 #EXTINF:-1 group="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nbc-77.png",CBS Sport
-
+http://ku03.wanicelife.com:8880/12m0322/772227687/30036
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png" group="Sport",Peacook Premier League
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347954
 #EXTINF:-1 group="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 1
