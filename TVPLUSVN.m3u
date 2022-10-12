@@ -1222,20 +1222,34 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/69595
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/69653
 #EXTINF:-1Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group="SPORT EX-YU",BG: Sportal HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/69654
-#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/ArenaSport1.hr.png" group="SPORT EX-YU",ArenaSport 1 HD
+#EXTINF:-1 tvg-logo="http://worldiptv.xyz/chlogos/ArenaSport1.hr.png" group="SPORT EX-YU",ArenaSport 1 CROATIA
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258129.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 2" tvg-logo="http://worldiptv.xyz/chlogos/ArenaSport2.hr.png" group="SPORT EX-YU",ArenaSport 2
+#EXTINF:-1  tvg-logo="http://worldiptv.xyz/chlogos/ArenaSport2.hr.png" group="SPORT EX-YU",ArenaSport 2 CROATIA
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258128.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 3" tvg-logo="http://worldiptv.xyz/chlogos/ArenaSport3.hr.png" group="SPORT EX-YU",ArenaSport 3
+#EXTINF:-1  tvg-logo="http://worldiptv.xyz/chlogos/ArenaSport3.hr.png" group="SPORT EX-YU",ArenaSport 3 CROATIA
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258127.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 4" tvg-logo="http://worldiptv.xyz/chlogos/ArenaSport4.hr.png" group="SPORT EX-YU",ArenaSport 4
+#EXTINF:-1  tvg-logo="http://worldiptv.xyz/chlogos/ArenaSport4.hr.png" group="SPORT EX-YU",ArenaSport 4 CROATIA
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258126ts
-#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 5" tvg-logo="http://worldiptv.xyz/chlogos/ArenaSport5.hr.png" group="SPORT EX-YU",ArenaSport 5
+#EXTINF:-1  tvg-logo="http://worldiptv.xyz/chlogos/ArenaSport5.hr.png" group="SPORT EX-YU",ArenaSport 5 CROATIA
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258125.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 6" tvg-logo="http://worldiptv.xyz/chlogos/ArenaSport6.hr.png" group="SPORT EX-YU",ArenaSport 6 
+#EXTINF:-1 tvg-logo="http://worldiptv.xyz/chlogos/ArenaSport6.hr.png" group="SPORT EX-YU",ArenaSport 6 CROATIA
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258124.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 10" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-arena-sport-10-2630.png" group="SPORT EX-YU",ArenaSport 10
-http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258123.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-1-319.png" group="SPORT EX-YU",ArenaSport 1 SERBIA
+http://m5ip.club:8080/Zeljko62/a12FfaXnKW/671
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-2-320.png" group="SPORT EX-YU",ArenaSport 2 SERBIA
+http://m5ip.club:8080/Zeljko62/a12FfaXnKW/672
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-3-321.png" group="SPORT EX-YU",ArenaSport 3 SERBIA
+http://m5ip.club:8080/Zeljko62/a12FfaXnKW/673
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-4-322.png" group="SPORT EX-YU",ArenaSport 4 SERBIA
+http://m5ip.club:8080/Zeljko62/a12FfaXnKW/674
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-5-323.png" group="SPORT EX-YU",ArenaSport 5 SERBIA
+http://m5ip.club:8080/Zeljko62/a12FfaXnKW/675
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-premium-1-2696.png" group="SPORT EX-YU",ArenaSport 1 Premium SERBIA
+http://m5ip.club:8080/Zeljko62/a12FfaXnKW/31283
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-premium-2-2697.png" group="SPORT EX-YU",ArenaSport 2 Premium SERBIA
+http://m5ip.club:8080/Zeljko62/a12FfaXnKW/31284
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-premium-3-2698.png" group="SPORT EX-YU",ArenaSport 3 Premium SERBIA
+http://m5ip.club:8080/Zeljko62/a12FfaXnKW/31285
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS : SPORT KLUB 1" tvg-logo="http://p2086.securepoint.io:2086/images/17584a75c3f522d3ebb348fe2dc06356.png" group="SPORT EX-YU",Sport Klub 1 FHD 
 http://live-vn.cvacetv.ga:9981/stream/channelid/1289181753
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258029.ts
