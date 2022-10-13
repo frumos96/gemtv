@@ -205,8 +205,6 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8?cc|Referer=http://
 http://live.vthanhtivi.pw:8080/vtvcab16
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD ENG
 https://livevlive.vtvcab.vn/hls/OS_ONFOOTBALLTA/sc-gaFEAQ/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/25.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/1b029a49-b0fe-4ac5-b1cf-a9cb782ed0ec/${start}/${offset}", VTVcab 17 - Yeah1TV
-https://tbtv.us/channel/vtvcab?17
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/987374ca-de49-4612-a159-b71f7880d134/${start}/${offset}", ON Sports News
 http://live.vthanhtivi.pw:8080/vtvcab18
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News ENG
@@ -470,9 +468,9 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 #EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.ibb.co/fQjkFFk/kralpop.jpg", Kral Pop
 https://www.tbientv.xyz/channel/?kralpop
 #EXTINF:0 group-title="Music" tvg-id="5948" tvg-logo="http://epg.it999.ru/img2/5948.png" tvg-rec="0",Megogo live HD UA
-http://5.61.54.61/iptv/A8GNCVWLMQQ8MM/15234/index.m3u8
+http://5.61.54.61/iptv/V5AAK6MWN34TAR/15234/index.m3u8
 #EXTINF:0 group-title="Music" tvg-id="6273" tvg-logo="http://epg.it999.ru/img2/6273.png" tvg-rec="0",FRESH Russian Pop HD
-http://5.61.54.61/iptv/A8GNCVWLMQQ8MM/18085/index.m3u8
+http://5.61.54.61/iptv/V5AAK6MWN34TAR/18085/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png", KPOP HD
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunkist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/FeFMOxH.png", MTV HD
