@@ -595,9 +595,10 @@ https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Lives Event" Logo="https://fptplay.vn/_nuxt/img/logo-fpt-play.06da7da.png", Event 4
 https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/playlist.m3u8
-#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: TUDNxtra01
+#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: ZONA TUDN
+http://ku03.wanicelife.com:8880/12m0322/772227687/58695
 http://hwdata.xyz:80/btinternal@/5616061093/97242
-#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: TUDNxtra02
+#EXTINF:-1 group="Lives Event" Logo="https://img.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",USA: TUDNxtra
 http://ku03.wanicelife.com:8880/12m0322/772227687/57951
 http://hwdata.xyz:80/btinternal@/5616061093/97243
 
@@ -798,10 +799,10 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/549
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/175366
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fi-viasat-sport-premium-521.png" group="SPORT EUROPE",FI: VIASAT SPORT PREMIUM HD
 
-#EXTINF:-1 group="Sport" Logo="http://images.zaltv.club/logo/live.gif" group="SPORT EUROPE",DE:|VIP| Sport Digital HD
-http://balans1.com:8080/mustafakoroglu/SaHaLHpsOj/122974
 #EXTINF:-1 Logo="http://images.zaltv.club/logo/live.gif" group="SPORT EUROPE",DE: Sport Digital HD#
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/5612
+http://ku03.wanicelife.com:8880/12m0322/772227687/2613
+
 #EXTINF:-1 group="Sport" Logo="http://worldiptv.xyz/chlogos/SkySport1.de.png" group="SPORT EUROPE",Sky Sport 1 HD DE
 http://venomtt.com:8000/kdcxxD1U/543545/76215
 #EXTINF:-1 group="Sport" Logo="http://worldiptv.xyz/chlogos/SkySport2.de.png" group="SPORT EUROPE",Sky Sport 2 HD DE
@@ -812,6 +813,14 @@ http://venomtt.com:8000/kdcxxD1U/543545/76218
 http://venomtt.com:8000/kdcxxD1U/543545/76219
 #EXTINF:-1 Logo="http://worldiptv.xyz/chlogos/SkySport5.de.png" group="SPORT EUROPE",Sky Sport 5 DE
 http://venomtt.com:8000/kdcxxD1U/543545/76220
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-austria-165.png" group="SPORT EUROPE",Sky Sport Austria 1
+http://ku03.wanicelife.com:8880/12m0322/772227687/2617
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-austria-2-1814.png" group="SPORT EUROPE",Sky Sport Austria 2
+http://ku03.wanicelife.com:8880/12m0322/772227687/29158
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-austria-3-1815.png" group="SPORT EUROPE",Sky Sport Austria 3
+http://ku03.wanicelife.com:8880/12m0322/772227687/29003
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-austria-4-1816.png" group="SPORT EUROPE",Sky Sport Austria 6
+http://ku03.wanicelife.com:8880/12m0322/772227687/29020
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group="SPORT EUROPE",DE: Dazn Sport
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/13863
 #EXTINF:-1Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group="SPORT EUROPE",DE: Dazn Sport HD+
@@ -951,9 +960,11 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/306061.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/111534.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/111536.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/111541.ts
-http://hwdata.xyz:80/btinternal@/5616061093/23524
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-six-296.png" group-title="SPORT AFRICA",SuperSport Blitz HD
+http://ku03.wanicelife.com:8880/12m0322/772227687/60789
 http://hwdata.xyz:80/btinternal@/5616061093/23515
+http://hwdata.xyz:80/btinternal@/5616061093/23524
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-six-296.png" group-title="SPORT AFRICA",SuperSport GRANDSTAND HD
+http://ku03.wanicelife.com:8880/12m0322/772227687/60793
 #EXTINF:-1 tvg-id="supersportpsl.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="SPORT AFRICA",SuperSport PSL HD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/183117.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/119516.ts
@@ -991,7 +1002,7 @@ http://hwdata.xyz:80/btinternal@/5616061093/23516
 http://king-tv.online:8080/gisle@/FDPWGufCmY/245162.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/133935.ts
 http://hwdata.xyz:80/btinternal@/5616061093/23521
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-four-294.png" group-title="SPORT AFRICA",SuperSport Variety 4 HD (AZ)
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-four-294.png" group-title="SPORT AFRICA",SuperSport Variety 4 HD (AZ)
 http://king-tv.online:8080/gisle@/FDPWGufCmY/143345.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113294.ts
 http://hwdata.xyz:80/btinternal@/5616061093/23520
@@ -1003,8 +1014,10 @@ http://hwdata.xyz:80/btinternal@/5616061093/23525
 #EXTINF:-1 tvg-id="comedycentral.za"  tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vgFGeiAepsKgVic2i2AuTkc0KU0Y2zg7tX2V3lu2Bx1BEu1os2UlfNJgqR6G55Ao5.png" group-title="SPORT AFRICA",SuperSport Máximo 2 HD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/113299.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Play HD (AZ)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-play-1468.png" group-title="SPORT AFRICA",SuperSport Play HD (AZ)
+http://ku03.wanicelife.com:8880/12m0322/772227687/60802
 http://king-tv.online:8080/gisle@/FDPWGufCmY/245161.ts
 #EXTINF:-1 tvg-id="supersportott1.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-ott-1-2580.png" group-title="SPORT AFRICA",SuperSport OTT 1 HD
+http://ku03.wanicelife.com:8880/12m0322/772227687/60797
 http://king-tv.online:8080/gisle@/FDPWGufCmY/133954.ts
 
 
