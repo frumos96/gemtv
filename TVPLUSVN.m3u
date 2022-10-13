@@ -132,13 +132,17 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gem_TV_logo_2020.png/270px-Gem_TV_logo_2020.png" group-title="Phim",GEM
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/770
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="Phim",K+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="Phim",KPLUS HD
+http://ku03.wanicelife.com:8880/12m0322/772227687/71111
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/18
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_%282020%29.png/300px-One_TV_Asia_logo_%282020%29.png" group-title="Phim",ONE_ASIA
+http://ku03.wanicelife.com:8880/12m0322/772227687/71053
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37370
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="Phim",TVN_ASIA
+http://ku03.wanicelife.com:8880/12m0322/772227687/71055
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37372
 #EXTINF:-1  tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="Phim",TVN_MOVIES
+http://ku03.wanicelife.com:8880/12m0322/772227687/71059
 http://iptvtree.net:8080/ace2524d/15a571c413/157596
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37376
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1200px-Rakuten_TV_logo.svg.png" group="Phim",RakutenTV$
@@ -268,7 +272,7 @@ https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15ˢᵛ²SSPORT2
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/XZJFWNd/SCTV16.png", SCTV16ˢᵛ²Phim Nuoc ngoai Ðac Sa
+#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/XZJFWNd/SCTV16.png", SCTV16ˢᵛ²Phim Nuoc ngoai Ðac SaC
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv17hd" tvg-logo="https://i.ibb.co/QK2D2vt/SCTV17.png", SCTV17ˢᵛ²SSPORT
 http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
@@ -795,10 +799,11 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/13625
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/75494
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/c-more-sport-1-finland.png" group="SPORT EUROPE",FI: C MORE SPORT 1 FHD
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/549
+http://ku03.wanicelife.com:8880/12m0322/772227687/51549
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fi-viasat-sport-ultra-hd-2015.png" group="SPORT EUROPE",FI: Viasat Sport Ultra HD
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/175366
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fi-viasat-sport-premium-521.png" group="SPORT EUROPE",FI: VIASAT SPORT PREMIUM HD
-
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fi-viasat-sport-premium-521.png" group="SPORT EUROPE",SE: VIASAT SPORT PREMIUM HD
+http://ku03.wanicelife.com:8880/12m0322/772227687/51476
 #EXTINF:-1 Logo="http://images.zaltv.club/logo/live.gif" group="SPORT EUROPE",DE: Sport Digital HD#
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/5612
 http://ku03.wanicelife.com:8880/12m0322/772227687/2613
@@ -1259,14 +1264,19 @@ http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258125.ts
 #EXTINF:-1 tvg-logo="http://worldiptv.xyz/chlogos/ArenaSport6.hr.png" group="SPORT EX-YU",ArenaSport 6 CROATIA
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258124.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-1-319.png" group="SPORT EX-YU",ArenaSport 1 SERBIA
+http://ku03.wanicelife.com:8880/12m0322/772227687/49119
 http://m5ip.club:8080/Zeljko62/a12FfaXnKW/671
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-2-320.png" group="SPORT EX-YU",ArenaSport 2 SERBIA
+http://ku03.wanicelife.com:8880/12m0322/772227687/49118
 http://m5ip.club:8080/Zeljko62/a12FfaXnKW/672
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-3-321.png" group="SPORT EX-YU",ArenaSport 3 SERBIA
+http://ku03.wanicelife.com:8880/12m0322/772227687/49117
 http://m5ip.club:8080/Zeljko62/a12FfaXnKW/673
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-4-322.png" group="SPORT EX-YU",ArenaSport 4 SERBIA
+http://ku03.wanicelife.com:8880/12m0322/772227687/49116
 http://m5ip.club:8080/Zeljko62/a12FfaXnKW/674
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-5-323.png" group="SPORT EX-YU",ArenaSport 5 SERBIA
+http://ku03.wanicelife.com:8880/12m0322/772227687/49115
 http://m5ip.club:8080/Zeljko62/a12FfaXnKW/675
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-premium-1-2696.png" group="SPORT EX-YU",ArenaSport 1 Premium SERBIA
 http://m5ip.club:8080/Zeljko62/a12FfaXnKW/31283
