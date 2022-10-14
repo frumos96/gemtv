@@ -97,15 +97,15 @@ https://vips-livecdn.fptplay.net/hda3/htvcthethao_4000.stream/chunklist.m3u8
 
 ---------------------------------------K PLUS----------------------------------------
 #EXTINF:0 tvg-id="kcinehd" group="K+" logo="http://images.zaltv.club/logo/k+cine.png", K+CINE 
-http://188.166.214.111:8000/1f
+https://stream.sugustv.tk/live/sugusnew/sugustv/12.m3u8
 #EXTINF:0 tvg-id="klifehd" group="K+" logo="http://images.zaltv.club/logo/k+life.png", K+LIFE 
-http://188.166.214.111:8000/2f
+https://stream.sugustv.tk/live/sugusnew/sugustv/13.m3u8
 #EXTINF:0 tvg-id="kkidshd" group="K+" logo="http://images.zaltv.club/logo/k+kids.png", K+KIDS 
-http://188.166.214.111:8000/5f
+https://stream.sugustv.tk/live/sugusnew/sugustv/14.m3u8
 #EXTINF:0 tvg-id="ksport1hd" group="K+" logo="http://images.zaltv.club/logo/k+sport1.png", K+SPORT1 
-http://188.166.214.111:8000/3f
+https://stream.sugustv.tk/live/sugusnew/sugustv/15.m3u8
 #EXTINF:0 tvg-id="ksport2hd" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 
-http://188.166.214.111:8000/4f
+https://stream.sugustv.tk/live/sugusnew/sugustv/16.m3u8
 
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:0 tvg-id="cinemaworldhd" group="Phim" logo="http://images.zaltv.club/logo/cinemaworld.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
