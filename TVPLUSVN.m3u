@@ -67,10 +67,12 @@ http://live.vthanhtivi.pw:8081/hollywood/index.m3u8
 #EXTINF:0 tvg-id="boxhits" group="Phim" logo="http://images.zaltv.club/logo/box_hits.png", Box Hits
 https://dl.dropboxusercontent.com/s/6d5e82zxqiy2x7q/hls/boxhits/index.m3u8
 #EXTINF:0 tvg-id="inthebox" group="Phim" logo="http://images.zaltv.club/logo/box_channel.png", Box
+https://dl.dropboxusercontent.com/s/clj1ma5lod0p9fg/box/s2/index.m3u8
 https://dl.dropboxusercontent.com/s/clj1ma5lod0p9fg/hls/box/index.m3u8
 #EXTINF:0 tvg-id="inthebox" group="Phim" logo="https://play-lh.googleusercontent.com/L40FnQ8nF8zRtUdALz9b23JirsxYA5-0_fkRUlFBMymud09ctBCFrNui4l-ES_V6Uw", IQIYI
 http://ku03.wanicelife.com:8880/12m0322/772227687/71038
 #EXTINF:0 tvg-id="man" group="Kênh khác" logo="http://images.zaltv.club/logo/man.png", Man
+https://dl.dropboxusercontent.com/s/gy2gmb6xbs60yrw/man/s2/index.m3u8	
 http://123host.television4you.xyz/cliptv.php?id=837
 #EXTINF:0 tvg-id="woman" group="Kênh khác" logo="http://images.zaltv.club/logo/woman.png", Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
@@ -337,9 +339,9 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil /chunklist_b5000000.m3u8
 
 ---------------------------------------VTC----------------------------------------
-#EXTINF:0 tvg-id="vtc1" group="Vtc" logo="http://images.zaltv.club/logo/vtc1hd.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc1-hd/${start}/${offset}", VTC1 HD
+#EXTINF:0 tvg-id="vtc1hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc1hd.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc1-hd/${start}/${offset}", VTC1 HD
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="vtc1" group="Vtc" logo="http://images.zaltv.club/logo/vtc2hd.png", VTC2 HD
+#EXTINF:0 tvg-id="vtc2hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc2hd.png", VTC2 HD
 https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vtc3hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc3hd.png", VTC3 HD
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
@@ -349,7 +351,7 @@ https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vtc6hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc6.png", VTC6 HD
 https://vips-livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vtc7hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc7hd.png" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}, VTC7 HD
+#EXTINF:0 tvg-id="vtc7hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc7hd.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}, VTC7 HD
 https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vtc8hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc8.png", VTC8 HD
 https://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
@@ -386,11 +388,11 @@ http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="angiang" group="Ðịa phương" logo="http://images.zaltv.club/logo/angiang-hd.png", An Giang HD
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="baria"  group="Ðịa phương" logo="http://images.zaltv.club/logo/vungtau_hd.png", Vũng Tàu HD
-https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
+http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8
 #EXTINF:0 tvg-id="bacgiang" type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/bacgiang_hd.png", Bắc Giang HD
 https://vips-livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="bacninh" type="stream" channelId="-1" group="Ðịa phương" logo="http://images.zaltv.club/logo/btv.png", Bắc Ninh HD
-https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
+https://api.vthanhtivi.pw/v1/getlink/mytv_web/360/hd
 #EXTINF:0 tvg-id="binhduong1" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-duong-btv1.png", Bình Dương 1 HD
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="binhduong2" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-duong-btv2.png", Bình Dương 2 HD
@@ -609,23 +611,23 @@ http://hwdata.xyz:80/btinternal@/5616061093/97243
 
 ---------------------------------------SPORT ASEAN----------------------------------------
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORT ASEAN",Astro SuperSport 1 FHD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
 http://hwdata.xyz:80/btinternal@/5616061093/77043
 http://king-tv.online:8080/gisle@/FDPWGufCmY/379978.ts
-#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORT ASEAN",Astro SuperSport 2 FHD
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
 http://hwdata.xyz:80/btinternal@/5616061093/77042
 http://king-tv.online:8080/gisle@/FDPWGufCmY/379980.ts
-#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="SPORT ASEAN",Astro SuperSport 3 FHD
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
 http://hwdata.xyz:80/btinternal@/5616061093/77041
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
 http://king-tv.online:8080/gisle@/FDPWGufCmY/379982.ts
 #EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SPORT ASEAN",Astro SuperSport 4 FHD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
 http://king-tv.online:8080/gisle@/FDPWGufCmY/379984.ts
-#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
 http://hwdata.xyz:80/btinternal@/5616061093/77040
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SPORT ASEAN",Astro SuperSport 5 FHD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/379986.ts
@@ -675,14 +677,14 @@ http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=1
 #EXTINF:0  group="Thể thao"  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-2-1660.png" group-title="SPORT ASEAN",[TW]ELEVEN 2 
 http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="SPORT ASEAN",True Premier League 1 HD
-http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204632.ts
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
+http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204632.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="SPORT ASEAN",True Premier League 2 HD
-http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204633.ts
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
+http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204633.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-3-1820.png" group-title="SPORT ASEAN",True Premier League 3 HD
-http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204634.ts
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
+http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204634.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORT ASEAN",TRUE Sport 1 HD 
 http://king-tv.online:8080/live/gisle@/FDPWGufCmY/204641.ts
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="SPORT ASEAN", PPTV HD
@@ -695,7 +697,6 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115533
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115537
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-1-1077.png" group-title="SPORT ASEAN",True Beinsport1
 http://4digital.ddns.net:11224/ts/0
-
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="SPORT ASEAN",NOW sport_1
 http://hwdata.xyz:80/btinternal@/5616061093/27312
 http://king-tv.online:8080/gisle@/FDPWGufCmY/370037.ts
@@ -736,32 +737,32 @@ http://hwdata.xyz:80/btinternal@/5616061093/109320
 
 ---------------------------------------SPORT EUROPE----------------------------------------
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sport News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sports_News_HD_UK.png" group="SPORT EUROPE",UK:SkySport News
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/95007
 http://king-tv.online:8080/gisle@/FDPWGufCmY/158236.ts
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95007
 http://hwdata.xyz:80/btinternal@/5616061093/12231
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group="SPORT EUROPE",UK:SkySport PremierLeague HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/95009
 http://king-tv.online:8080/gisle@/FDPWGufCmY/158242.ts
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95009
 http://hwdata.xyz:80/btinternal@/5616061093/12233
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sport Action HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Sky_Sports_Action_HD.png" group="SPORT EUROPE",UK:SkySport Action HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/94996
 http://king-tv.online:8080/gisle@/FDPWGufCmY/158248.ts
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/94996
 http://hwdata.xyz:80/btinternal@/5616061093/14162
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Sky_Sports_Football_HD.png" group="SPORT EUROPE",UK:SkySport Football HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/95002
 http://king-tv.online:8080/gisle@/FDPWGufCmY/158240.ts
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95002
 http://hwdata.xyz:80/btinternal@/5616061093/12221
 #EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sports_Main_Event_HD.png" group="SPORT EUROPE",UK:SkySport MainEvents
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/95005
 http://king-tv.online:8080/gisle@/FDPWGufCmY/158238.ts
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/95005
 http://hwdata.xyz:80/btinternal@/5616061093/10676
 #EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports MIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_Mix_HD.png" group="SPORT EUROPE",UK:SkySports MIX
 http://king-tv.online:8080/gisle@/FDPWGufCmY/158244.ts
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/95010
 http://hwdata.xyz:80/btinternal@/5616061093/12229
 #EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sport Arena HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sky_Sports_Arena_HD.png" group="SPORT EUROPE",UK:SkySport Arena HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/94997
 http://king-tv.online:8080/gisle@/FDPWGufCmY/158246.ts
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/94997
 http://hwdata.xyz:80/btinternal@/5616061093/12212
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png" group="SPORT EUROPE",UK: BT Sport 1
 http://iptvtree.net:8080/ace2524d/15a571c413/270
