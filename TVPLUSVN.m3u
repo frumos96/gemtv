@@ -92,9 +92,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c927
 #EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://i.scdn.co/image/ab67616d0000b2738d4ed08da3db1481c04c44a0", Relax Music
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/6446
 #http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/27513
-#EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="http://images.zaltv.club/logo/vtc3hd.png", VTC3 HD
-https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Thể thao" logo="https://i.imgur.com/A8RNAwQ.png", HTV Thể Thao HD
+#EXTINF:0 tvg-id="vtc7hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc7hd.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7 HD
+https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0  group="Thể thao" logo="https://i.imgur.com/A8RNAwQ.png", HTV Thể Thao HD
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_4000.stream/chunklist.m3u8
 
 ---------------------------------------K PLUS----------------------------------------
