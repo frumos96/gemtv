@@ -124,10 +124,12 @@ https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="ngchd" group="Kênh khác" logo="http://images.zaltv.club/logo/national-geographic-hd.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="outdoorfhd" group="Kênh khác" logo="http://images.zaltv.club/logo/Outdoor_Channel.png", Outdoor Channel
-https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="ngwhd" group="Kênh khác" logo="https://cdn.hqth.me/logo/226.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group="Kênh khác" logo="https://images4.imagebam.com/71/bf/96/MEFIXCS_o.png", Nat Geo People
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/1626
+#EXTINF:0 tvg-id="outdoorfhd" group="Kênh khác" logo="http://images.zaltv.club/logo/Outdoor_Channel.png", Outdoor Channel
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="blueantent" group="Kênh khác" logo="http://onetv.click/logo/blueantent.jpg", Blue Ant Entertainment
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="blueantext" group="Kênh khác" logo="http://onetv.click/logo/blueantext.jpg", Blue Ant Extreme
@@ -147,8 +149,8 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37372
 http://ku03.wanicelife.com:8880/12m0322/772227687/71059
 http://iptvtree.net:8080/ace2524d/15a571c413/157596
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37376
-#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1200px-Rakuten_TV_logo.svg.png" group="Phim",RakutenTV$
-http://tvlive.my.id:25461/mat/mat/385
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c4/74/ef/MEFJ23P_t.png" group="Phim",SE: C More First
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/5832
 #EXTINF:0 tvg-id="hallmark" group="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
 http://ku03.wanicelife.com:8880/12m0322/772227687/3125
 http://hwdata.xyz:80/btinternal@/5616061093/22816
@@ -351,7 +353,7 @@ https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vtc6hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc6.png", VTC6 HD
 https://vips-livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vtc7hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc7hd.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}, VTC7 HD
+#EXTINF:0 tvg-id="vtc7hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc7hd.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7 HD
 https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vtc8hd" group="Vtc" logo="http://images.zaltv.club/logo/vtc8.png", VTC8 HD
 https://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
@@ -536,6 +538,7 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Kênh khác" logo="https://mytv.com.vn/upload/channel/65.png", TV5Monde Asie
 https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="historyhd" group="Kênh khác" logo="http://images.zaltv.club/logo/history.png", History HD
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/5834
 http://sever.vietanhiptv.tk/history/mpegts
 
 ---------------------------------------THIẾU NHI----------------------------------------
@@ -641,6 +644,10 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/379990.ts
 http://king-tv.online:8080/gisle@/FDPWGufCmY/383409.ts
 #EXTINF:-1 tvg-id="" tvg-name="MY| Astro Supersport 4K UHD 2" tvg-logo="http://dmtn.tv:8080/images/ya5l5yM1bhT_tvxGIMbFwjN-o6yFm6jJToyFhgbtpbw1Cn22_YSFkjZsn0szbGSU8iCwFyRgfimmLqjN0YxT022hKJcSUEOC9ITUaY_cUME.png" group-title="SPORT ASEAN",Astro Supersport_UHD 2
 http://king-tv.online:8080/gisle@/FDPWGufCmY/383410.ts
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-spor-smart-654.png"  group="SPORT ASEAN",Sposmart TR
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/8104
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-spor-smart-2-2567.png"  group="SPORT ASEAN",Sposmart 2 TR
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/4734
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-one-sport-1588.png"  group="SPORT ASEAN",ONE 1 HD IL
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38714
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-one-sport-1588.png" group="SPORT ASEAN",ONE 2 HD IL
@@ -797,14 +804,32 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/54123
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159623
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/13625
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dk-tv3-1220.png" group="SPORT EUROPE",DK: TV3 Sport 2 HD
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/2235
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/75494
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/c-more-sport-1-finland.png" group="SPORT EUROPE",FI: C MORE SPORT 1 FHD
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/549
 http://ku03.wanicelife.com:8880/12m0322/772227687/51549
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/c-more-sport-1-finland.png" group="SPORT EUROPE",SE: C MORE SPORT 1 FHD
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/2233
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-c-more-live-484.png" group="SPORT EUROPE",SE: C MORE FOTBOLL 1 FHD
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/1505
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-c-more-live-2-485.png" group="SPORT EUROPE",SE: C MORE LIVE 2 FHD
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/1460
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-c-more-live-3-486.png" group="SPORT EUROPE",SE: C MORE LIVE 3 FHD
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/5553
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-c-more-fotboll-482.png" group="SPORT EUROPE",FI: C MORE SPORT 1 FHD
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/2230
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-viasat-fotball-494.png" group="SPORT EUROPE",SE: VIASAT FOTBOLL HD
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/2236
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-se-viasat-sport-533.png" group="SPORT EUROPE",SE: V SPORT 1 HD
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/2240
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fi-viasat-sport-ultra-hd-2015.png" group="SPORT EUROPE",FI: Viasat Sport Ultra HD
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/175366
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fi-viasat-sport-premium-521.png" group="SPORT EUROPE",SE: VIASAT SPORT PREMIUM HD
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/2241
 http://ku03.wanicelife.com:8880/12m0322/772227687/51476
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-viasat-sport-extra-1918.png" group="SPORT EUROPE",SE: V SPORT EXTRA HD
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/12011
 #EXTINF:-1 Logo="http://images.zaltv.club/logo/live.gif" group="SPORT EUROPE",DE: Sport Digital HD#
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/5612
 http://ku03.wanicelife.com:8880/12m0322/772227687/2613
