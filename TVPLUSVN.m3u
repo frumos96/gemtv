@@ -157,6 +157,10 @@ http://ku03.wanicelife.com:8880/12m0322/772227687/3125
 http://hwdata.xyz:80/btinternal@/5616061093/22816
 #EXTINF:0 type="stream" channelId="-1" group="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1920px-LMN_logo_2019.svg.png", Lifetime Movie Network HD
 http://ku03.wanicelife.com:8880/12m0322/772227687/3114
+#EXTINF:0 group="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/SBS_World_Movies_logo_2019.svg/300px-SBS_World_Movies_logo_2019.svg.png", AU: SBS World Movies
+http://58.96.43.228:9981/stream/channelid/808262435?ticket=DA54CCFBD71A64807EE57FA9BBECC179D140B263&profile=pass
+#EXTINF:0 group="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/SBS_Viceland_logo_2016.png/375px-SBS_Viceland_logo_2016.png", AU: SBS Viceland
+http://58.96.43.228:9981/stream/channelid/1625859261?ticket=C2A03CD567456F72A124B5C7D45B1F1EAC82FCD7&profile=pass
 
 ---------------------------------------GIẢI TRÍ----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU", Nature 4k
@@ -512,6 +516,20 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 ---------------------------------------KÊNH KHÁC----------------------------------------
+#EXTINF:0 group="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS 
+http://210.97.86.161:9981/stream/channelid/463719103?ticket=3E3DD97757B8C14F4E123814F65420854206FD73&profile=pass
+#EXTINF:0 group="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/330px-KBS_2_logo.svg.png", KBS2
+http://210.97.86.161:9981/stream/channelid/441756618?ticket=4EA6DE9CC2D198CABDEC96D9E438E20E5B488987&profile=pass
+#EXTINF:0 group="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/300px-Munhwa_Broadcasting_Company.svg.png",MBC
+http://210.97.86.161:9981/stream/channelid/589724442?ticket=AD601BBECA660D11D0921B59D9288904A07C44C3&profile=pass
+#EXTINF:0 group="Phim" logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-korea.png", SBS Sport
+http://121.176.2.26:9981/stream/channelid/67?ticket=B55584C1EDF6FE74D10FA376A798EE7551FBCB82
+#EXTINF:0 group="Phim" logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-korea.png", SBS SportV2
+http://220.118.153.181:9981/stream/channelid/11?ticket=02BB2533BB2DA9F2C4B592854FBF7827CD367C99
+#EXTINF:0 group="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/330px-SPOTV_logo.svg.png",KR: SPOTV
+http://220.118.153.181:9981/stream/channelid/12?ticket=5FC8C413F9E0B7BFC089B1E0F19F62BD1135E9BD
+#EXTINF:0 group="Phim" logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png",KR: SPOTV2
+http://220.118.153.181:9981/stream/channelid/42?ticket=1DB68B3669158500E4AF7B4CF7C0325F8E50794E
 #EXTINF:-1 tvg-id="Channel3.th" group="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
 https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png", CH5 HD
