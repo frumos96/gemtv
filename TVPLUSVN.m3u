@@ -175,6 +175,20 @@ http://ku03.wanicelife.com:8880/12m0322/772227687/3114
 http://58.96.43.228:9981/stream/channelid/808262435?ticket=DA54CCFBD71A64807EE57FA9BBECC179D140B263&profile=pass
 #EXTINF:0 group="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/SBS_Viceland_logo_2016.png/375px-SBS_Viceland_logo_2016.png", AU: SBS Viceland
 http://58.96.43.228:9981/stream/channelid/1625859261?ticket=C2A03CD567456F72A124B5C7D45B1F1EAC82FCD7&profile=pass
+#EXTINF:0 group="Phim" logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Store_Premiere_2020_2.png/revision/latest/scale-to-width-down/300?cb=20220731162347",UK: Sky Store Premiere
+http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019822
+#EXTINF:-1 group="Phim" tvg-logo="https://apkmody.io/wp-content/uploads/2022/01/Disney-MOD-APK-cover-1440x720.jpg",UK: Disney+ Premiere 1
+http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020018
+#EXTINF:-1 group="Phim" tvg-logo="https://apkmody.io/wp-content/uploads/2022/01/Disney-MOD-APK-cover-1440x720.jpg",UK: Disney+ Premiere 2
+http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1020019
+#EXTINF:-1 group="Phim" tvg-logo="https://nbcpalmsprings.com/wp-content/uploads/sites/8/2022/07/Yy247gYvzaMZXprhZHXy4E.jpg",UK: Netflix Premiere 1
+http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019872
+#EXTINF:-1 group="Phim" tvg-logo="https://nbcpalmsprings.com/wp-content/uploads/sites/8/2022/07/Yy247gYvzaMZXprhZHXy4E.jpg",UK: Netflix Premiere 2
+http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1019873
+#EXTINF:-1 group="Phim" tvg-logo="https://img4.hulu.com/user/v3/artwork/f812637b-6186-48e4-9b63-85167ba2cf17?base_image_bucket_name=image_manager&base_image=824d0495-a96b-4a94-8064-8faee8f9551e&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22png%22%7D,%7B%22trim%22:true%7D%5D",Hulu Originals 1
+http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1053718
+#EXTINF:-1 group="Phim" tvg-logo="https://img4.hulu.com/user/v3/artwork/f812637b-6186-48e4-9b63-85167ba2cf17?base_image_bucket_name=image_manager&base_image=824d0495-a96b-4a94-8064-8faee8f9551e&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22png%22%7D,%7B%22trim%22:true%7D%5D",Hulu Originals 2
+http://teeveetv.one:2052/SYNTAXONEplay736282929/Pz4NScL832N6/1053719
 
 ---------------------------------------GIẢI TRÍ----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU", Nature 4k
