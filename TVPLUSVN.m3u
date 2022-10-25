@@ -757,8 +757,12 @@ http://king-tv.online:8080/live/gisle@/FDPWGufCmY/272393.ts
 http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 #EXTINF:0  group="Thể thao"  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-2-1660.png" group-title="SPORT ASEAN",[TW]ELEVEN 2 
 http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="SPORT ASEAN",True bEIN SPORT 1
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="SPORT ASEAN",True bEIN SPORT 
 http://ku03.wanicelife.com:8880/12m0322/772227687/71104
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-1-1077.png" group-title="SPORT ASEAN",True Bein Sport 1 HD
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115807
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png" group-title="SPORT ASEAN",True Bein Sport 2 HD
+http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115809
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="SPORT ASEAN",True bEIN SPORT 3
 http://ku03.wanicelife.com:8880/12m0322/772227687/71105
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="SPORT ASEAN",True Premier League 1 HD
@@ -790,26 +794,19 @@ http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115537
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115537
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" group-title="SPORT ASEAN",True Sport1
 http://4digital.ddns.net:11224/ts/0
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-1-1077.png" group-title="SPORT ASEAN",True Bein Sport 1 HD
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115807
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png" group-title="SPORT ASEAN",True Bein Sport 2 HD
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115809
 
 
 ---------------------------------------SPORT EUROPE----------------------------------------
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sport News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sports_News_HD_UK.png" group="SPORT EUROPE",UK:SkySport News
-http://tivixs.com:80/Tolga_yilmazcelik7172/bhPTM4RkLd/95007
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/95007
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group="SPORT EUROPE",UK:SkySport PremierLeague HD
 http://ku03.wanicelife.com:8880/12m0322/772227687/2877
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/95009
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sport Action HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Sky_Sports_Action_HD.png" group="SPORT EUROPE",UK:SkySport Action HD
 http://ku03.wanicelife.com:8880/12m0322/772227687/2880
-http://tivixs.com:80/Tolga_yilmazcelik7172/bhPTM4RkLd/94996
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/94996
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Sky_Sports_Football_HD.png" group="SPORT EUROPE",UK:SkySport Football HD
 http://ku03.wanicelife.com:8880/12m0322/772227687/2870
-http://tivixs.com:80/Tolga_yilmazcelik7172/bhPTM4RkLd/95002
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/95002
 #EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sports_Main_Event_HD.png" group="SPORT EUROPE",UK:SkySport MainEvents
 http://19.1222908.net:8019/UV7fEV39UY/6NOHgz9Q5n/323816
@@ -820,7 +817,6 @@ http://ku03.wanicelife.com:8880/12m0322/772227687/2882
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/95010
 #EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sport Arena HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sky_Sports_Arena_HD.png" group="SPORT EUROPE",UK:SkySport Arena HD
 http://ku03.wanicelife.com:8880/12m0322/772227687/2902
-http://tivixs.com:80/Tolga_yilmazcelik7172/bhPTM4RkLd/94997
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/94997
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png" group="SPORT EUROPE",UK: BTSport 1 HD
 http://ku03.wanicelife.com:8880/12m0322/772227687/2943
@@ -850,18 +846,13 @@ http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/2385
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dk-tv3-1220.png" group="SPORT EUROPE",DK: TV3 Sport HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159623
 http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/9596
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dk-tv3-1220.png" group="SPORT EUROPE",DK: TV3 Sport 2 HD
-http://tivixs.com:80/Tolga_yilmazcelik7172/bhPTM4RkLd/159623
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/75494
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tv-2-sport-1-1582.png" group="SPORT EUROPE",NO: TV2 Sport HD
 http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/2143
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tv-2-sport-premium-1-510.png" group="SPORT EUROPE",NO: TV2 Sport Premium 1 HD
 http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/2147
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tv-2-sport-premium-2-511.png" group="SPORT EUROPE",NO: TV2 Sport Premium 2 HD
 http://ku03.wanicelife.com:8880/12m0322/772227687/31535
-http://tivixs.com:80/Tolga_yilmazcelik7172/bhPTM4RkLd/159638
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/c-more-sport-1-finland.png" group="SPORT EUROPE",FI: C MORE SPORT 1 FHD
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/549
 http://ku03.wanicelife.com:8880/12m0322/772227687/51549
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-c-more-fotboll-482.png" group="SPORT EUROPE",SE: C MORE FOTBOLL 1 FHD
 http://89.41.180.98:2082/322891/322891/550
@@ -874,8 +865,8 @@ http://appfactory.group:8080/1d6yJjzClb/szTHbHoovD/867
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/5612
 http://ku03.wanicelife.com:8880/12m0322/772227687/2613
 #EXTINF:-1 group="Sport" Logo="http://worldiptv.xyz/chlogos/SkySport1.de.png" group="SPORT EUROPE",Sky Sport 1 HD DE
-http://iptvtree.net:8080/ace2524d/15a571c413/202100
 http://venomtt.com:8000/kdcxxD1U/543545/76215
+http://iptvtree.net:8080/ace2524d/15a571c413/202100
 #EXTINF:-1 group="Sport" Logo="http://worldiptv.xyz/chlogos/SkySport2.de.png" group="SPORT EUROPE",Sky Sport 2 HD DE
 http://iptvtree.net:8080/ace2524d/15a571c413/8215
 http://venomtt.com:8000/kdcxxD1U/543545/76217
@@ -883,7 +874,6 @@ http://venomtt.com:8000/kdcxxD1U/543545/76217
 http://iptvtree.net:8080/ace2524d/15a571c413/72238
 http://venomtt.com:8000/kdcxxD1U/543545/76218
 #EXTINF:-1 Logo="http://worldiptv.xyz/chlogos/SkySport4.de.png" group="SPORT EUROPE",Sky Sport 4 DE
-
 http://venomtt.com:8000/kdcxxD1U/543545/76219
 #EXTINF:-1 Logo="http://worldiptv.xyz/chlogos/SkySport5.de.png" group="SPORT EUROPE",Sky Sport 5 DE
 http://venomtt.com:8000/kdcxxD1U/543545/76220
@@ -1350,18 +1340,13 @@ http://platinumxmedia.xyz:8080/ivan/ivan/116541
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-premium-3-2698.png" group="SPORT EX-YU",ArenaSport 3 Premium SERBIA
 http://platinumxmedia.xyz:8080/ivan/ivan/116542
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS : SPORT KLUB 1" tvg-logo="http://p2086.securepoint.io:2086/images/17584a75c3f522d3ebb348fe2dc06356.png" group="SPORT EX-YU",Sport Klub 1 FHD 
-
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258029.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS : SPORT KLUB 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-sportklub-2-326.png" group="SPORT EX-YU",Sport Klub 2 FHD 
-
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258028.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS : SPORT KLUB 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-sportklub-3-327.png" group="SPORT EX-YU",Sport Klub 3 FHD 
-
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258027.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS : SPORT KLUB 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-sportklub-4-328.png" group="SPORT EX-YU",Sport Klub 4 FHD 
-
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258026.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS : SPORT KLUB 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-sportklub-5-329.png" group="SPORT EX-YU",Sport Klub 5 FHD 
-
 http://mat4k.com:8080/live/G7LEdAfEwc/En5QGza6NM/258025.ts
 
