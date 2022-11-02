@@ -432,12 +432,12 @@ https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="btv3hd" group-title="Địa phương" tvg-logo="http://logo.vagroup.pw/118.png",Bình Dương 3 HD
 https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="binhduong4" group-title="Địa phương" tvg-logo="http://logo.vagroup.pw/119.png",Bình Dương 1 HD
+#EXTINF:-1  tvg-id="binhduong4" group-title="Địa phương" tvg-logo="http://logo.vagroup.pw/119.png",Bình Dương 4 HD
 https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="Ðịa phương" tvg-logo="https://i.ibb.co/XJngd96/99.png",BTV9 - An Viên
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="binhphuoc1" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-phuoc-bptv1.png", Bình Phước 1 HD
-https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+http://103.90.220.236/bptvlive/tv1live.m3u8
 #EXTINF:0 tvg-id="binhphuoc2" group="Ðịa phương" logo="http://images.zaltv.club/logo/binh-phuoc-bptv2.png", Bình Phước 2 HD
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="cantho" group="Ðịa phương" logo="http://images.zaltv.club/logo/canthohd.png", Cần Thơ HD
