@@ -457,12 +457,11 @@ https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hanam" group="Ðịa phương" logo="http://images.zaltv.club/logo/ha-nam-hanam.png", Hà Nam HD
 https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hitv" group="Ðịa phương" logo="https://meco.mytv.vn/static/channel/92.png?ver=14", HaNoicab 1
-https://api.vthanhtivi.pw/v1/getlink/tv360/32/0
+https://api.vthanhtivi.pw/v1/getlink/tv360_s2/32/0
 #EXTINF:0 tvg-id="youtv" group="Ðịa phương"  tvg-logo="https://i.ibb.co/h9ZpW1H/hanoicab2.png", Hanoicab2 - YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="antg" group="Ðịa phương"  tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115200
-https://api.vthanhtivi.pw/v1/getlink/tv360/21/0
 #EXTINF:0 tvg-id="haiduong" group="Ðịa phương" logo="http://images.zaltv.club/logo/haiduonghd.png", Hải Dương HD
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="haiphong" group="Ðịa phương" logo="http://images.zaltv.club/logo/hai-phong-thp.png", Hải Phòng HD
