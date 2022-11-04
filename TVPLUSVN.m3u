@@ -114,6 +114,38 @@ https://stream.sugustv.tk/live/sugusnew/sugustv/14.m3u8
 https://stream.sugustv.tk/live/sugusnew/sugustv/15.m3u8
 #EXTINF:0 tvg-id="ksport2hd" group="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 
 https://stream.sugustv.tk/live/sugusnew/sugustv/16.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MUhMjNRWi7thEBq8D5kfXw","kid":"LBiIAkpIOki5i0jME/+znA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+ Cine HD (VieON) 
+#EXTVLCOPT:http-user-agent=Exoplayer
+
+https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/691a32e530ebbceaede7ac78f373cb30/1667615445428/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd?token=MGRiMTc3YTEtNzExYi0xMDQ5LTVjOGEtODQ0NDkxNDBkMmVkfHNtYXJ0dHZ8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8NTFhY2NiMmMtMWRlMC00YTVjLTlkOGEtYjEzOWEyMmI5MDEyfGxpdmV0dnxBQzIwMnwxYzc5MzYwMzY2NGU3ZWU5ZWJiNTM3Zjg1MTMzM2ExMg==
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iWFGjPZD4yqU9SR4AW5SVQ", "kid":"ogbfU5DaMZ+fM7ofpIpEhg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" group-title="K+", K+Life HD (Vieon)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/8930a2a65f1520f3a49ffc622e2ebc03/1667615445565/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd?token=MGRiMTc3YTEtNzExYi0xMDQ5LTVjOGEtODQ0NDkxNDBkMmVkfHNtYXJ0dHZ8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8NDAzNjQyN2EtNjUzMi00ZDA5LWJlMWYtYWFmNTg3M2M3ZTQ3fGxpdmV0dnxBQzIwM3w2MmU4ZTY5Y2IzNGY3OTMzNTQyZjc0OTMwNjYwYTg1Yg==
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vz3g6rR3Y5W4RUjWN75Zgg", "kid":"AJwgucFiNFCwPW9Xjn6RMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" group-title="K+",K+Sport1 HD (Vieon)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/617d24deaf8ba00eb55cd69c7fcca966/1667615445687/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd?token=MGRiMTc3YTEtNzExYi0xMDQ5LTVjOGEtODQ0NDkxNDBkMmVkfHNtYXJ0dHZ8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8MWU1ZTk0ODAtMTNkMC00YTNjLTk3MGItNzgyODgwMDNkNzI4fGxpdmV0dnxBQzIwNHw3NGJiNDdlMTI5Y2ZhODAyZTllNzEyZTZlYWM5Yjg1Zg==
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C1m6hYwbfPIkTFdtonYsgg","kid":"PGQuhgq+PfqKyJcA93BvqA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" group-title="K+",K+Sport2 HD (Vieon)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
+https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/b859d1fff6878184a013eb6152656f89/1667615445798/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd?token=MGRiMTc3YTEtNzExYi0xMDQ5LTVjOGEtODQ0NDkxNDBkMmVkfHNtYXJ0dHZ8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8YWUwZTk3ZTItNzJlMi00MDNlLTk1NTAtMWIyMGM0NjgzZDlmfGxpdmV0dnxBQzIwNXw3MjcyNWUzNDA0NGJkOWY5ZDg5YWM0OTU3OGYzZjc1MA==
+#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png" group-title="K+",K+KIDS HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-fpt-003-livecdn-vthn2-vnd.vieon.vn/4dabd9e68dd43483628169218bc6e2cb/1667615445994/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd?token=MGRiMTc3YTEtNzExYi0xMDQ5LTVjOGEtODQ0NDkxNDBkMmVkfHNtYXJ0dHZ8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8MjYwZjNhYTgtNWU0OC00MDI1LWJlYTQtZmZlZGQ3MTI5NjI0fGxpdmV0dnxBQzIwNnw2YWRmYWNlNDBhMTg2NjEzYzIzNDFmOWQ5YmJiODgyMw==
 
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:0 tvg-id="cinemaworldhd" group="Phim" logo="http://images.zaltv.club/logo/cinemaworld.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
