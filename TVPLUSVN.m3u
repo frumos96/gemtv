@@ -114,38 +114,7 @@ https://stream.sugustv.tk/live/sugusnew/sugustv/14.m3u8
 https://stream.sugustv.tk/live/sugusnew/sugustv/15.m3u8
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+" logo="http://images.zaltv.club/logo/k+sport2.png", K+SPORT2 
 https://stream.sugustv.tk/live/sugusnew/sugustv/16.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MUhMjNRWi7thEBq8D5kfXw","kid":"LBiIAkpIOki5i0jME/+znA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+ Cine HD (VieON) 
-#EXTVLCOPT:http-user-agent=Exoplayer
 
-https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/691a32e530ebbceaede7ac78f373cb30/1667615445428/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd?token=MGRiMTc3YTEtNzExYi0xMDQ5LTVjOGEtODQ0NDkxNDBkMmVkfHNtYXJ0dHZ8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8NTFhY2NiMmMtMWRlMC00YTVjLTlkOGEtYjEzOWEyMmI5MDEyfGxpdmV0dnxBQzIwMnwxYzc5MzYwMzY2NGU3ZWU5ZWJiNTM3Zjg1MTMzM2ExMg==
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iWFGjPZD4yqU9SR4AW5SVQ", "kid":"ogbfU5DaMZ+fM7ofpIpEhg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" group-title="K+", K+Life HD (Vieon)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/8930a2a65f1520f3a49ffc622e2ebc03/1667615445565/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd?token=MGRiMTc3YTEtNzExYi0xMDQ5LTVjOGEtODQ0NDkxNDBkMmVkfHNtYXJ0dHZ8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8NDAzNjQyN2EtNjUzMi00ZDA5LWJlMWYtYWFmNTg3M2M3ZTQ3fGxpdmV0dnxBQzIwM3w2MmU4ZTY5Y2IzNGY3OTMzNTQyZjc0OTMwNjYwYTg1Yg==
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vz3g6rR3Y5W4RUjWN75Zgg", "kid":"AJwgucFiNFCwPW9Xjn6RMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" group-title="K+",K+Sport1 HD (Vieon)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/617d24deaf8ba00eb55cd69c7fcca966/1667615445687/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd?token=MGRiMTc3YTEtNzExYi0xMDQ5LTVjOGEtODQ0NDkxNDBkMmVkfHNtYXJ0dHZ8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8MWU1ZTk0ODAtMTNkMC00YTNjLTk3MGItNzgyODgwMDNkNzI4fGxpdmV0dnxBQzIwNHw3NGJiNDdlMTI5Y2ZhODAyZTllNzEyZTZlYWM5Yjg1Zg==
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C1m6hYwbfPIkTFdtonYsgg","kid":"PGQuhgq+PfqKyJcA93BvqA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" group-title="K+",K+Sport2 HD (Vieon)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/b859d1fff6878184a013eb6152656f89/1667615445798/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd?token=MGRiMTc3YTEtNzExYi0xMDQ5LTVjOGEtODQ0NDkxNDBkMmVkfHNtYXJ0dHZ8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8YWUwZTk3ZTItNzJlMi00MDNlLTk1NTAtMWIyMGM0NjgzZDlmfGxpdmV0dnxBQzIwNXw3MjcyNWUzNDA0NGJkOWY5ZDg5YWM0OTU3OGYzZjc1MA==
-#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png" group-title="K+",K+KIDS HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-fpt-003-livecdn-vthn2-vnd.vieon.vn/4dabd9e68dd43483628169218bc6e2cb/1667615445994/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd?token=MGRiMTc3YTEtNzExYi0xMDQ5LTVjOGEtODQ0NDkxNDBkMmVkfHNtYXJ0dHZ8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8MjYwZjNhYTgtNWU0OC00MDI1LWJlYTQtZmZlZGQ3MTI5NjI0fGxpdmV0dnxBQzIwNnw2YWRmYWNlNDBhMTg2NjEzYzIzNDFmOWQ5YmJiODgyMw==
 
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Phim" logo="http://images.zaltv.club/logo/cinemaworld.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
@@ -179,16 +148,19 @@ https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="http://images.zaltv.club/logo/hgtv.png", HGTV
 http://vagroup-title.pw/tv360.php?id=99&q=2
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gem_TV_logo_2020.png/270px-Gem_TV_logo_2020.png" group-title="Phim",GEM
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/770
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="Phim",KPLUS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="Phim",KPLUS HD
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54227
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_%282020%29.png/300px-One_TV_Asia_logo_%282020%29.png" group-title="Phim",ONE_ASIA
-http://iptvtree.net:8080/ace2524d/15a571c413/165077
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37370
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="Phim",TVN_ASIA
+#EXTINF:-1 tvg-id="GEM.sg" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/x64s18m/GEM.png" group-title="Phim",SONY GEM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
+https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
+#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="Sony One" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="Phim",SONY ONE_ASIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba8842e119ee61ac7c613e1e6a1e3e10:46ed2370a8cc4cef2665e03e110f9455
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="Phim",TVN_ASIA
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/54268
-#EXTINF:-1  tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="Phim",TVN_MOVIES
+#EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="Phim",TVN_MOVIES
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/54237
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Phim",UK: Rakuten TV
 http://platinumxmedia.xyz:8080/ivan/ivan/252
@@ -797,6 +769,7 @@ http://angeltv.biz:6969/jessica/jessica/14902
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORT ASEAN",Astro SuperSport 2 FHD
+https://webudi.openhd.lol/lb/premium124/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121199&extension=ts&play_token=SqVsO3O6I2
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
@@ -805,9 +778,11 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121200&extension=ts&play_token=O5Nw5KvFJ4
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
 #EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SPORT ASEAN",Astro SuperSport 4 FHD
+https://webudi.openhd.lol/lb/premium126/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121201&extension=ts&play_token=Qf3Pe4Yuep
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SPORT ASEAN",Astro SuperSport 5 FHD
+https://webudi.openhd.lol/lb/premium43/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121202&extension=ts&play_token=IfgkirxGGk
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/15252
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/54250
@@ -1124,73 +1099,54 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/1086
 
 ---------------------------------------BEIN SPORT ----------------------------------------
 #EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN SPORTS PREMIUM 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylp5fQN2WlloPJvYlNcWQgiwP1sB6xZCcsbOLxOyk_co.png" group-title="BEIN SPORT",beINSPORTS PREMIUM 1 HD 50FPS
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/12870
+https://webudi.openhd.lol/lb/premium98/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS PREMIUM 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylyDkSBz4CMKbrq5CbCc90jGAzvbzqR5Sq7fjB4EobHd.png" group-title="BEIN SPORT",beINSPORTS PREMIUM 2 HD 50FPS
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26298
+https://webudi.openhd.lol/lb/premium99/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN SPORTS PREMIUM 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvTStaro4Ynnjh8f5TkdQrasyGgtudCESF097SZYiZW_.png" group-title="BEIN SPORT",beINSPORTS PREMIUM 3 HD 50FPS
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/12889
+https://webudi.openhd.lol/lb/premium100/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN SPORTS 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygAomraa0QMezNho-6kfJHLy67UECyyeq2GPRWkZBr1M.png" group-title="BEIN SPORT",beINSPORTS 1 HD 50FPS
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26184
-http://appfactory.group-title:8080/1d6yJjzClb/szTHbHoovD/322
+https://webudi.openhd.lol/lb/premium91/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN SPORTS 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="BEIN SPORT",beINSPORTS 2 HD 50FPS
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26297
-http://appfactory.group-title:8080/1d6yJjzClb/szTHbHoovD/322
+https://webudi.openhd.lol/lb/premium92/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN SPORTS 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymSyr0X-Tev19MUqEQ9KxaXQhcVMJ_CUVKAWNH-ER8Zm.png" group-title="BEIN SPORT",beINSPORTS 3 HD 50FPS
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/12875
-http://appfactory.group-title:8080/1d6yJjzClb/szTHbHoovD/319
+https://webudi.openhd.lol/lb/premium93/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvU8lUHvjH_yEIb4_inoojSrsi8Uk2nfzJJLahI2VV-D.png" group-title="BEIN SPORT",beINSPORTS 4 HD 50FPS
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/12878
-http://appfactory.group-title:8080/1d6yJjzClb/szTHbHoovD/318
+https://webudi.openhd.lol/lb/premium94/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN SPORTS 5 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyhdqjW7EE5oQSNPCq7ZxqB_i77sie-1CPDRDP0sQ0bWS.png" group-title="BEIN SPORT",beINSPORTS 5 HD 50FPS
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/12880
-http://appfactory.group-title:8080/1d6yJjzClb/szTHbHoovD/317
+https://webudi.openhd.lol/lb/premium95/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyg_HGlhKZZsOBIDJOzUaTyiGpNWuHa-1s4wozBbDoCfQ.png" group-title="BEIN SPORT",beINSPORTS 6 HD 50FPS
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/12882
-http://appfactory.group-title:8080/1d6yJjzClb/szTHbHoovD/316
+https://webudi.openhd.lol/lb/premium96/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqpVjhp-5dsCyN3AD3x1O_yquB07rTsL9QAszSx6EBng.png" group-title="BEIN SPORT",beINSPORTS 7 HD 50FPS
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/12885
-http://appfactory.group-title:8080/1d6yJjzClb/szTHbHoovD/315
+https://webudi.openhd.lol/lb/premium97/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name="beIN SPORTS EN 1 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylUsWOFbZ_5mi-YhZg30nfjem9RCzo7aKVRRSwMOLV_8.png" group-title="BEIN SPORT",beINSPORTS EN 1 HD
+https://webudi.openhd.lol/lb/premium61/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 http://hds-iptv.com:2052/jules/jules/1592
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26261
-http://iptvtree.net:8080/ace2524d/15a571c413/110
-http://appfactory.group-title:8080/1d6yJjzClb/szTHbHoovD/330
 #EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-name="beIN SPORTS EN 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjf23n4CK1FPCVfUXyPZnXWQdpB6BLstNAWtfBxHqjmv.png" group-title="BEIN SPORT",beINSPORTS EN 2 HD
 http://hds-iptv.com:2052/jules/jules/2933
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26262
-http://iptvtree.net:8080/ace2524d/15a571c413/111
-http://appfactory.group-title:8080/1d6yJjzClb/szTHbHoovD/329
+https://webudi.openhd.lol/lb/premium90/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
 #EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-name="beIN SPORTS EN 3 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym8DWQHK2_ENw2lG0hi8P54fxgij1yxAF3SOe57RV8Yv.png" group-title="BEIN SPORT",beINSPORTS EN 3 HD
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26289
-http://iptvtree.net:8080/ace2524d/15a571c413/267769
-http://appfactory.group-title:8080/1d6yJjzClb/szTHbHoovD/331
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-extra-1-1164.png" group-title="BEIN SPORT",beINSports Xtra 1
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26280
-http://iptvtree.net:8080/ace2524d/15a571c413/290037
-#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-extra-2-1165.png" group-title="BEIN SPORT",beINSports Xtra 2
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/12891
-http://iptvtree.net:8080/ace2524d/15a571c413/283294
-#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-1-400.png" group-title="BEIN SPORT",beINSports 1 FRANCE
+https://webudi.openhd.lol/lb/premium46/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-1-400.png" group-title="BEIN SPORT",beINSports 1 FRANCE
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/3682
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/118340
 http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26291
-#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png" group-title="BEIN SPORT",beINSports 2 FRANCE
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png" group-title="BEIN SPORT",beINSports 2 FRANCE
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/118341
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/47302
 http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26292
-#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-3-402.png" group-title="BEIN SPORT",beINSports 3 FRANCE
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-3-402.png" group-title="BEIN SPORT",beINSports 3 FRANCE
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/3680
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/118345
 http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26293
-#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="BEIN SPORT",beINSports 3 TURKEY PL
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="BEIN SPORT",beINSports 3 TURKEY PL
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/1549
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/97937
-#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="BEIN SPORT",beINSports 4 TURKEY BUNDESLIGA
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="BEIN SPORT",beINSports 4 TURKEY BUNDESLIGA
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/49946
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/97939
-#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="BEIN SPORT",beINSports Max 1 TURKEY 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="BEIN SPORT",beINSports Max 1 TURKEY 
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/101955
-#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-2-743.png" group-title="BEIN SPORT",beINSports Max 2 TURKEY 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-2-743.png" group-title="BEIN SPORT",beINSports Max 2 TURKEY 
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/101956
 
 ---------------------------------------SPORT AFRICA----------------------------------------
