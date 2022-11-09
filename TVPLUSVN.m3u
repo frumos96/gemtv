@@ -60,15 +60,17 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="boxmovie1" group-title="Phim" logo="http://images.zaltv.club/logo/boxmovie1.png", Box Movie 1 SCTV
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-#http://live.vthanhtivi.pw:8081/boxmovie1/index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="Phim" logo="http://images.zaltv.club/logo/hollywoodclassics.png", Hollywood Classics SCTV
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-http://live.vthanhtivi.pw:8081/hollywood/index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
 #EXTINF:0 tvg-id="boxhits" group-title="Phim" logo="http://images.zaltv.club/logo/box_hits.png", Box Hits
-http://live.vthanhtivi.pw:8080/boxhits
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/88.m3u8
+https://b.dl.dropboxusercontent.com/s/s53baiewsrrwl4s/boxhits/s2/index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/mytv_web/105/hd
 #EXTINF:0 tvg-id="inthebox" group-title="Phim" logo="http://images.zaltv.club/logo/box_channel.png", Box
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/87.m3u8
+https://b.dl.dropboxusercontent.com/s/2ph6r5ilqesx74y/box/s2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Iqiyi_Logo_Baru.png" group-title="Phim",IQIYI
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54213
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/290508
