@@ -76,12 +76,16 @@ http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54213
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/290508
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/15222
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="Phim",CCTV_6.MOVIE
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/508.m3u8
 http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CCTV-8.png/revision/latest?cb=20220111072628" group-title="Phim",CCTV_8.DRAMA
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/510.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vm1c74Jy/UPLOAD-1648809294.png" group-title="Phim",CELESTIAL MOVIES HD
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54217
 #EXTINF:0 tvg-id="foxlife" group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1920px-Fox_life_logo.svg.png",FoxLife
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/165083
 #EXTINF:0 tvg-id="man" group-title="Kênh khác" logo="http://images.zaltv.club/logo/man.png", Man
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/282.m3u8
 https://b.dl.dropboxusercontent.com/s/hozh2hp8cgrpfcr/man/s2/index.m3u8
 #EXTINF:0 tvg-id="woman" group-title="Kênh khác" logo="http://images.zaltv.club/logo/woman.png", Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
@@ -364,6 +368,7 @@ http://vtsstr4.sctv.vn:1935/live/SCTV12_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv13hd" tvg-logo="https://i.ibb.co/3BNx7fS/SCTV13.png", SCTV13ˢᵛ²Lady TV
 https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/kHMtBpL/SCTV14.png", SCTV14ˢᵛ²Kenh Phim Viet
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/413.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15ˢᵛ²SSPORT2
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
@@ -378,6 +383,7 @@ http://vtsstr4.sctv.vn:1935/live/SCTV19_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="SCTV20hd" tvg-logo="https://i.ibb.co/RyF60Dj/SCTV20.png", SCTV20ˢᵛ²
 http://vtsstr4.sctv.vn:1935/live/SCTV20_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv21hd" tvg-logo="https://i.ibb.co/qWdSdyM/SCTV21.png", SCTV21ˢᵛ²
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/420.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv22hd" tvg-logo="https://i.ibb.co/Vpgwgb0/SCTV22.png", SCTV22ˢᵛ²
 http://vtsstr4.tv24.vn:1935/live/SCTV22_HD_new.smil/playlist.m3u8
@@ -485,6 +491,7 @@ http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8
 #EXTINF:0 tvg-id="bacgiang" type="stream" channelId="-1" group-title="Ðịa phương" logo="http://images.zaltv.club/logo/bacgiang_hd.png", Bắc Giang HD
 https://vips-livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="bacninh" type="stream" channelId="-1" group-title="Ðịa phương" logo="http://images.zaltv.club/logo/btv.png", Bắc Ninh HD
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/294.m3u8
 http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
 #EXTINF:0 tvg-id="binhduong1" group-title="Ðịa phương" logo="http://images.zaltv.club/logo/binh-duong-btv1.png", Bình Dương 1 HD
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
@@ -579,6 +586,7 @@ http://5.61.54.61/iptv/V5AAK6MWN34TAR/15234/index.m3u8
 http://5.61.54.61/iptv/V5AAK6MWN34TAR/18085/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png", KPOP HD
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunkist.m3u8
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/498.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/FeFMOxH.png", MTV HD
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/2UBIyT5.png", Music Box HD
@@ -605,8 +613,9 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 ---------------------------------------KÊNH KHÁC----------------------------------------
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS 
 http://210.97.86.161:9981/stream/channelid/463719103?ticket=3E3DD97757B8C14F4E123814F65420854206FD73&profile=pass
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/481.m3u8
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/330px-KBS_2_logo.svg.png", KBS2
-http://210.97.86.161:9981/stream/channelid/441756618?ticket=4EA6DE9CC2D198CABDEC96D9E438E20E5B488987&profile=pass
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/496.m3u8
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/300px-Munhwa_Broadcasting_Company.svg.png",MBC
 http://210.97.86.161:9981/stream/channelid/589724442?ticket=AD601BBECA660D11D0921B59D9288904A07C44C3&profile=pass
 #EXTINF:0 group-title="Phim" logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-korea.png", SBS Sport
@@ -916,8 +925,10 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38702
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-mobile-1029.png"  group-title="SPORT ASEAN",YES Sport 5 UHD 4K IL [Only On 4K Devices]
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/59033
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="SPORT ASEAN", CCTV5 HD
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/468.m3u8
 https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5+.png" group-title="SPORT ASEAN", CCTV5+ HD
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/469.m3u8
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 #EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-1-1659.png" group-title="SPORT ASEAN",[TW]ELEVEN 1 
 http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
@@ -928,14 +939,10 @@ http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1079
 http://hds-iptv.com:2052/jules/jules/1848
 #EXTINF:0 Logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-4k-1978.png" group-title="SPORT ASEAN", Now Sports 4K UHD
 http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1088
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="SPORT ASEAN", SPO TV 1
-https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="SPORT ASEAN", SPO TV 2
-https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="SPORT ASEAN", SPO TV 1
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/287.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="SPORT ASEAN", SPO TV 2
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/288.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-1-1077.png" group-title="SPORT ASEAN",True Bein Sport 1 HD
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115807
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png" group-title="SPORT ASEAN",True Bein Sport 2 HD
