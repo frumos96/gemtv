@@ -59,8 +59,8 @@ https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/102.m3u8
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vinhlong2hd"type="stream" channelId="-1" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/104.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 2 HD
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="htvcphimhd" group-title="Phim" logo="https://i.imgur.com/pAqskAN.png"  catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
+#EXTINF:0 tvg-id="htvcphimhd" group-title="Phim" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/108.m3u8
 #EXTINF:0 tvg-id="axnhd" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="warnertvhd" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
@@ -76,18 +76,24 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s2/index.m3u8?cc|Referer=ht
 https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="hbohd" group-title="Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="boxmovie1" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
+#EXTINF:0 tvg-id="boxmovie1" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="boxmovie1" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1ˢᵛ² 
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/89.m3u8
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classicsˢᵛ² 
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/89.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/88.m3u8
+#EXTINF:0 tvg-id="boxhits" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hitsˢᵛ² 
 https://b.dl.dropboxusercontent.com/s/s53baiewsrrwl4s/boxhits/s2/index.m3u8
 https://api.vthanhtivi.pw/v1/getlink/mytv_web/105/hd
 #EXTINF:0 tvg-id="inthebox" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", Box
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/87.m3u8
+#EXTINF:0 tvg-id="inthebox" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", Boxˢᵛ² 
 https://b.dl.dropboxusercontent.com/s/2ph6r5ilqesx74y/box/s2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Iqiyi_Logo_Baru.png" group-title="Phim",IQIYI
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54213
@@ -103,8 +109,10 @@ http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54217
 #EXTINF:0 tvg-id="foxlife" group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1920px-Fox_life_logo.svg.png",FoxLife
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/165083
 #EXTINF:0 tvg-id="man" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/11.png", Man
-https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/282.m3u8
 https://b.dl.dropboxusercontent.com/s/hozh2hp8cgrpfcr/man/s2/index.m3u8
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/282.m3u8
+#EXTINF:0 tvg-id="man" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/11.png", Manˢᵛ²
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/94.m3u8
 #EXTINF:0 tvg-id="woman" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/163/2
@@ -117,7 +125,8 @@ https://api.vthanhtivi.pw/v1/getlink/tv360/135/2
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/91.m3u8
 #EXTINF:0 tvg-id="drfithd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-http://live.vthanhtivi.pw:8081/drfit/index.m3u8
+#EXTINF:0 tvg-id="drfithd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fitˢᵛ²
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/93.m3u8
 #EXTINF:-1  group-title="Kênh khác" logo="https://photos.live-tv-channels.org/tv-logo/ae-gem-fit-2728-300x225.jpg",IR: GEM FIT
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/166807
 #EXTINF:0 group-title="Thể thao" Logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/11/pluot-tv-fitness-deporte.jpg.png",Pluto TV Fitness
@@ -222,12 +231,14 @@ https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="blueantext" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/229.png", Blue Ant Extreme
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="bbcearth" group-title="Kênh khác" logo="http://images.zaltv.club/logo/bbcearth.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
+#EXTINF:0 tvg-id="bbcearth" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/210.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" ggroup-title="Kênh khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
 https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
-http://vagroup-title.pw/tv360.php?id=99&q=2
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/240.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/300px-HBO_Signature_Asia.png",HBO_Signature
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/258.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="Phim",KPLUS HD
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54227
 #EXTINF:-1 tvg-id="GEM.sg" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/x64s18m/GEM.png" group-title="Phim",SONY GEM
@@ -433,6 +444,7 @@ http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
 ---------------------------------------HTV----------------------------------------
 
 #EXTINF:-1 tvg-id="htv1" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1 HD
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/97.m3u8
 https://api.vthanhtivi.pw/v1/getlink/htv/2631
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 - Vie Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -530,11 +542,12 @@ http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
 #EXTINF:0 tvg-id="hanam" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/140.png", Hà Nam HD
 https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hitv" group-title="Ðịa phương" logo="https://meco.mytv.vn/static/channel/92.png?ver=14", HaNoicab 1
-https://api.vthanhtivi.pw/v1/getlink/tv360_s2/32/0
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/205.m3u8
 #EXTINF:0 tvg-id="youtv" group-title="Ðịa phương"  tvg-logo="https://i.ibb.co/h9ZpW1H/hanoicab2.png", Hanoicab2 - YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/206.m3u8
 #EXTINF:0 tvg-id="antg" group-title="Ðịa phương"  tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115200
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/207.m3u8
 #EXTINF:0 tvg-id="haiduong" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/144.png", Hải Dương HD
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="haiphong" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/145.png", Hải Phòng HD
@@ -542,7 +555,7 @@ https://live.thhp.vn/thp/index.m3u8
 #EXTINF:0 tvg-id="haiphongplus" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/146.png", Hải Phòng + HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:0 tvg-id="hungyen" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/149.png", Hưng Yên HD
-https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/392.m3u8
 #EXTINF:0 tvg-id="namdinh" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/159.png", Nam Ðịnh HD
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="nghean" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/160.png", Nghệ An HD
@@ -558,7 +571,7 @@ http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:0 tvg-id="thainguyen" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/176.png", Thái Nguyên 1 HD
 http://103.90.220.236/tntvlive/tv1live.m3u8
 #EXTINF:0 tvg-id="thanhhoa" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/178.png", Thanh Hóa HD
-https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/382.m3u8
 #EXTINF:0 tvg-id="tuyenquang" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/182.png", Tuyên Quang HD
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vinhphuc" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/183.png", Vĩnh Phúc HD
