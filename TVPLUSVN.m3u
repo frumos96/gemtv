@@ -99,7 +99,6 @@ https://b.dl.dropboxusercontent.com/s/2ph6r5ilqesx74y/box/s2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Iqiyi_Logo_Baru.png" group-title="Phim",IQIYI
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54213
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/290508
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/15222
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="Phim",CCTV_6.MOVIE
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/508.m3u8
 http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
@@ -256,7 +255,7 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/158349
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba8842e119ee61ac7c613e1e6a1e3e10:46ed2370a8cc4cef2665e03e110f9455
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="Phim",TVN_ASIA
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/54268
 #EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="Phim",TVN_MOVIES
@@ -264,16 +263,10 @@ http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/54237
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Phim",UK: Rakuten TV
 http://platinumxmedia.xyz:8080/ivan/ivan/252
 #EXTINF:0 tvg-id="hallmark" group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
-http://divine.ddns.me:8080/2oiazsCf5E/ZOSwbDzk2D/2847
-http://divine.ddns.me:8080/2oiazsCf5E/ZOSwbDzk2D/1275
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/9691
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/145962
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/46898
-http://dominoiptv.com:2082/waseem2022/waseem2022/32126
-http://89.41.180.98:2082/322891/322891/66577
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1920px-LMN_logo_2019.svg.png", Lifetime Movie Network HD
 http://angeltv.biz:6969/jessica/jessica/14921
-http://divine.ddns.me:8080/2oiazsCf5E/ZOSwbDzk2D/952
 http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100473
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/23830
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/SBS_World_Movies_logo_2019.svg/300px-SBS_World_Movies_logo_2019.svg.png", AU: SBS World Movies
