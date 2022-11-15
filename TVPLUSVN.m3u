@@ -156,6 +156,14 @@ https://stream.sugustv.tk/live/sugusnew/sugustv/14.m3u8
 https://stream.sugustv.tk/live/sugusnew/sugustv/15.m3u8
 #EXTINF:0 tvg-id="ksport2hd" group-title="💚| K+" logo="https://i.ibb.co/9TVkkNn/2.webp", K+SPORT2 
 https://stream.sugustv.tk/live/sugusnew/sugustv/16.m3u8
+#EXTINF:0 tvg-id="kcinehd" group-title="💚| K+" logo="https://i.ibb.co/h8FLFc7/3.webp", K+CINE MyTv
+http://plus.vthanhtivi.pw:80/NGXHAI/HAI12345/1.ts
+#EXTINF:0 tvg-id="klifehd" group-title="K+" logo="https://i.ibb.co/MS363r3/4.webp", K+LIFE MyTv
+http://plus.vthanhtivi.pw:80/NGXHAI/HAI12345/2.ts
+#EXTINF:0 tvg-id="ksport1hd" group-title="💚| K+" logo="https://i.ibb.co/rbMrqGf/1.webp", K+SPORT1 MyTv  
+http://plus.vthanhtivi.pw:80/NGXHAI/HAI12345/3.ts
+#EXTINF:0 tvg-id="ksport2hd" group-title="💚| K+" logo="https://i.ibb.co/9TVkkNn/2.webp", K+SPORT2 MyTv 
+http://plus.vthanhtivi.pw:80/NGXHAI/HAI12345/4.ts
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+" tvg-logo="https://i.ibb.co/h8FLFc7/3.webp", K+Cine HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
