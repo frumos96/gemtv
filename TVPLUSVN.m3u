@@ -256,18 +256,21 @@ https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/258.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="Phim",KPLUS HD
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54227
 #EXTINF:-1 tvg-id="GEM.sg" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/x64s18m/GEM.png" group-title="Phim",SONY GEM
+http://iptvid.my.id/hmm/sgem.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 #EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="Sony One" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="Phim",SONY ONE_ASIA
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/158349
+http://iptvid.my.id/hmm/sone.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba8842e119ee61ac7c613e1e6a1e3e10:46ed2370a8cc4cef2665e03e110f9455
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="Phim",TVN_ASIA
-http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/54268
+http://iptvid.my.id/hmm/tvn.m3u8
+#http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/54268
 #EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="Phim",TVN_MOVIES
-http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/54237
+http://iptvid.my.id/hmm/tvnmovie.m3u8 
+#http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/54237
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Phim",UK: Rakuten TV
 http://platinumxmedia.xyz:8080/ivan/ivan/252
 #EXTINF:0 tvg-id="hallmark" group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
@@ -1025,14 +1028,14 @@ https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8?cc|Refere
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="SPORT ASEAN", PPTV HD
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd1.png" group-title="SPORT ASEAN",TRUE Sport 1 HD
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115531
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115531
+#http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115531
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd2.png" group-title="SPORT ASEAN",TRUE Sport 2 HD 
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115533
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115533
+#http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115533
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd3.png" group-title="SPORT ASEAN",TRUE Sport 3 HD 
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115537
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115537
+#http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115537
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" group-title="SPORT ASEAN",True Sport1
 http://4digital.ddns.net:11224/ts/0
 
@@ -1091,12 +1094,15 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/159623
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/119093
 http://appfactory.group-title:8080/1d6yJjzClb/szTHbHoovD/9596
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tv-2-sport-1-1582.png" group-title="SPORT EUROPE",NO: TV2 Sport HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159624
 http://iptv-volkan.net:8000/live/dindin8453543856354/rstgdrgh87777465485241/1940.ts
 http://appfactory.group-title:8080/1d6yJjzClb/szTHbHoovD/2143
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tv-2-sport-premium-1-510.png" group-title="SPORT EUROPE",NO: TV2 Sport Premium 1 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159638
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/51523
 http://appfactory.group-title:8080/1d6yJjzClb/szTHbHoovD/2147
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tv-2-sport-premium-2-511.png" group-title="SPORT EUROPE",NO: TV2 Sport Premium 2 HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159639
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/115556
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/c-more-sport-1-finland.png" group-title="SPORT EUROPE",FI: C MORE SPORT 1 FHD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/10976
