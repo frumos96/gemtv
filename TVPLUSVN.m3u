@@ -78,7 +78,8 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="hbohd" group-title="Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="boxmovie1" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
+https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
+#https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="boxmovie1" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1ˢᵛ² 
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/89.m3u8
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
@@ -86,7 +87,7 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classicsˢᵛ² 
-https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/89.m3u8
+https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/88.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hitsˢᵛ² 
@@ -114,11 +115,13 @@ https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/282.m3u8
 #EXTINF:0 tvg-id="man" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/11.png", Manˢᵛ²
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/94.m3u8
 #EXTINF:0 tvg-id="woman" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
+https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/163/2
 #EXTINF:0 tvg-id="woman" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/195.png", Womanˢᵛ²
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/95.m3u8
 #EXTINF:0 tvg-id="planetearthhd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
+https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 https://api.vthanhtivi.pw/v1/getlink/tv360/135/2
 #EXTINF:0 tvg-id="planetearthhd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earthˢᵛ²
@@ -815,63 +818,63 @@ http://divine.ddns.me:8080/2oiazsCf5E/ZOSwbDzk2D/2884
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/146008
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2790.ts
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/8259
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/8259
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nbc-77.png",Peacook NBC Sport
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347953
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347953
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nbc-77.png",CBS Sport
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8245
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 1
 http://angeltv.biz:6969/jessica/jessica/108331
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347955
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347955
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347955
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 2
 http://angeltv.biz:6969/jessica/jessica/108332
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347956
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347956
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347956
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 3
 http://angeltv.biz:6969/jessica/jessica/108333
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347957
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347957
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347957
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 4
 http://angeltv.biz:6969/jessica/jessica/108334
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347958
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347958
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347958
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 5
 http://angeltv.biz:6969/jessica/jessica/108335
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347959
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347959
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347959
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 6
 http://angeltv.biz:6969/jessica/jessica/108336
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347960
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347960
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347960
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 7
 http://angeltv.biz:6969/jessica/jessica/108337
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347961
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347961
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347961
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 8
 http://angeltv.biz:6969/jessica/jessica/108338
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347962
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347962
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347962
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 9
 http://angeltv.biz:6969/jessica/jessica/108339
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347963
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347963
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347963
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 10
 http://angeltv.biz:6969/jessica/jessica/108340
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347964
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347964
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347964
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 11
 http://angeltv.biz:6969/jessica/jessica/108341
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347965
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347965
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347965
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 12
 http://angeltv.biz:6969/jessica/jessica/108342
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347966
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347966
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347966
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-peacock-2443.png",Peacook 13
 http://angeltv.biz:6969/jessica/jessica/108343
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347967
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/347967
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/347967
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-flow-sports-premier-league-1594.png",Flow Sports RUSH EVENT 1
 http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1513355
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-flow-sports-premier-league-1594.png",Flow Sports RUSH EVENT 2
@@ -894,21 +897,21 @@ http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1513336
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORT ASEAN",Astro SuperSport 1 FHD
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121198&extension=ts&play_token=BOAeBoOX3V
 http://angeltv.biz:6969/jessica/jessica/14902
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115615
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORT ASEAN",Astro SuperSport 2 FHD
 https://webudi.openhd.lol/lb/premium124/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121199&extension=ts&play_token=SqVsO3O6I2
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115616
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="SPORT ASEAN",Astro SuperSport 3 FHD
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121200&extension=ts&play_token=O5Nw5KvFJ4
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115617
 #EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SPORT ASEAN",Astro SuperSport 4 FHD
 https://webudi.openhd.lol/lb/premium126/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121201&extension=ts&play_token=Qf3Pe4Yuep
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115618
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SPORT ASEAN",Astro SuperSport 5 FHD
 https://webudi.openhd.lol/lb/premium43/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:25:2e:46&stream=121202&extension=ts&play_token=IfgkirxGGk
@@ -930,49 +933,49 @@ http://platinumxmedia.xyz:8080/ivan/ivan/40154
 http://mytv.fun:80/w65gz1kim/kns9p5osoo/695146
 http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/4734
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-one-sport-1588.png"  group-title="SPORT ASEAN",ONE 1 HD IL
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38714
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/38714
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-one-sport-1588.png" group-title="SPORT ASEAN",ONE 2 HD IL
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38713
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/38713
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="SPORT ASEAN",YES Sport 1 HD IL
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38711
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/38711
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png"group-title="SPORT ASEAN",YES Sport 1 IL
 http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/32784
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/14115
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38712
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/38712
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="SPORT ASEAN",YES Sport 2 HD IL
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38710
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/38710
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/14116
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/3307
 http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/32785
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="SPORT ASEAN",YES Sport 3 HD IL
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38709
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/38709
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/51450
 http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/32786
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-4-1024.png" group-title="SPORT ASEAN",YES Sport 4 HD IL
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38708
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/38708
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/53393
 http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/32787
 http://dominoiptv.com:2082/waseem2022/waseem2022/208752
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-gold-1028.png" group-title="SPORT ASEAN",YES Sport 5 Gold IL
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38700
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/38700
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/51451
 http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/32781
 http://dominoiptv.com:2082/waseem2022/waseem2022/208756
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-5-1025.png" group-title="SPORT ASEAN",YES Sport 5 HD IL
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38705
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/38705
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/3309
 http://dominoiptv.com:2082/waseem2022/waseem2022/208753
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-live-1027.png" group-title="SPORT ASEAN",YES Sport 5 Live HD IL
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38701
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/38701
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/3308
 http://dominoiptv.com:2082/waseem2022/waseem2022/208754
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-stars-1828.png" group-title="SPORT ASEAN",YES Sport 5+ Stars HD IL
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38703
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/38703
 http://dominoiptv.com:2082/waseem2022/waseem2022/208755
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png" group-title="SPORT ASEAN",YES Sport 5+ HD IL
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/38702
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/38702
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-mobile-1029.png"  group-title="SPORT ASEAN",YES Sport 5 UHD 4K IL [Only On 4K Devices]
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/59033
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/59033
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="SPORT ASEAN", CCTV5 HD
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/468.m3u8
 https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
@@ -997,28 +1000,54 @@ http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115807
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png" group-title="SPORT ASEAN",True Bein Sport 2 HD
 http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115809
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png" group-title="SPORT ASEAN",True Premier League 1 HD
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115760
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115758
+
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png" group-title="SPORT ASEAN",True Premier League 2 HD
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115509
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115762
+
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png" group-title="SPORT ASEAN",True Premier League 3 HD
-http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115511
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115510
+
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="SPORT ASEAN", PPTV HD
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd1.png" group-title="SPORT ASEAN",TRUE Sport 1 HD
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115531
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115531
 #http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115531
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd2.png" group-title="SPORT ASEAN",TRUE Sport 2 HD 
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115533
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115533
 #http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115533
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd3.png" group-title="SPORT ASEAN",TRUE Sport 3 HD 
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115537
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115537
 #http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/115537
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" group-title="SPORT ASEAN",True Sport1
 http://4digital.ddns.net:11224/ts/0
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORT ASEAN",HubPremier 4K UHD 
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348096
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORT ASEAN",HubPremier 1 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348097
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORT ASEAN",HubPremier 2 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348098
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORT ASEAN",HubPremier 3 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348099
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORT ASEAN",HubPremier 4 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348100
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORT ASEAN",HubPremier 5 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348101
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORT ASEAN",HubPremier 6 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348102
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORT ASEAN",HubPremier 7 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348103
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORT ASEAN",HubPremier 8 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348104
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORT ASEAN",HubPremier 9 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348105
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORT ASEAN",HubPremier 10 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348106
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORT ASEAN",HubPremier 11 FHD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348107
 
 ---------------------------------------SPORT EUROPE----------------------------------------
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sport News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sports_News_HD_UK.png" group-title="SPORT EUROPE",UK:SkySport News
@@ -1230,54 +1259,39 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/1086
 
 ---------------------------------------BEIN SPORT ----------------------------------------
 #EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN SPORTS PREMIUM 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylp5fQN2WlloPJvYlNcWQgiwP1sB6xZCcsbOLxOyk_co.png" group-title="BEIN SPORT",beINSPORTS PREMIUM 1 HD 50FPS
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/9
-http://2111.space:8080/live/hossam1/hossam1/1832.ts
-https://webudi.openhd.lol/lb/premium98/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+6http://clientsportals.com:2095/f778W3He/yj7FXRjr/94498
 #EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS PREMIUM 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylyDkSBz4CMKbrq5CbCc90jGAzvbzqR5Sq7fjB4EobHd.png" group-title="BEIN SPORT",beINSPORTS PREMIUM 2 HD 50FPS
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/8
-http://2111.space:8080/live/hossam1/hossam1/1833.ts
-https://webudi.openhd.lol/lb/premium99/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/94494
+
 #EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN SPORTS PREMIUM 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvTStaro4Ynnjh8f5TkdQrasyGgtudCESF097SZYiZW_.png" group-title="BEIN SPORT",beINSPORTS PREMIUM 3 HD 50FPS
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/11
-http://2111.space:8080/live/hossam1/hossam1/1834.ts
-https://webudi.openhd.lol/lb/premium100/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/94490
+
 #EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN SPORTS 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygAomraa0QMezNho-6kfJHLy67UECyyeq2GPRWkZBr1M.png" group-title="BEIN SPORT",beINSPORTS 1 HD 50FPS
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/1
-http://tv.iptvforver.com:25461/Oojj6nCCia/6Ey4514RAE/10962
-https://webudi.openhd.lol/lb/premium91/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/94486
 #EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN SPORTS 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="BEIN SPORT",beINSPORTS 2 HD 50FPS
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/2
-https://webudi.openhd.lol/lb/premium92/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/94482
 #EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN SPORTS 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymSyr0X-Tev19MUqEQ9KxaXQhcVMJ_CUVKAWNH-ER8Zm.png" group-title="BEIN SPORT",beINSPORTS 3 HD 50FPS
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/48879
-https://webudi.openhd.lol/lb/premium93/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/94478
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvU8lUHvjH_yEIb4_inoojSrsi8Uk2nfzJJLahI2VV-D.png" group-title="BEIN SPORT",beINSPORTS 4 HD 50FPS
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/4
-http://tv.iptvforver.com:25461/Oojj6nCCia/6Ey4514RAE/10965
-https://webudi.openhd.lol/lb/premium94/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/94474
 #EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN SPORTS 5 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyhdqjW7EE5oQSNPCq7ZxqB_i77sie-1CPDRDP0sQ0bWS.png" group-title="BEIN SPORT",beINSPORTS 5 HD 50FPS
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/5
-http://tv.iptvforver.com:25461/Oojj6nCCia/6Ey4514RAE/10966
-https://webudi.openhd.lol/lb/premium95/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/94470
+
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyg_HGlhKZZsOBIDJOzUaTyiGpNWuHa-1s4wozBbDoCfQ.png" group-title="BEIN SPORT",beINSPORTS 6 HD 50FPS
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/6
-https://webudi.openhd.lol/lb/premium96/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/94466
+
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqpVjhp-5dsCyN3AD3x1O_yquB07rTsL9QAszSx6EBng.png" group-title="BEIN SPORT",beINSPORTS 7 HD 50FPS
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/7
-https://webudi.openhd.lol/lb/premium97/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/94462
+
 #EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name="beIN SPORTS EN 1 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylUsWOFbZ_5mi-YhZg30nfjem9RCzo7aKVRRSwMOLV_8.png" group-title="BEIN SPORT",beINSPORTS EN 1 HD
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54470
-http://tv.iptvforver.com:25461/Oojj6nCCia/6Ey4514RAE/10969
-https://webudi.openhd.lol/lb/premium61/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
-http://hds-iptv.com:2052/jules/jules/1592
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/94452
+
 #EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-name="beIN SPORTS EN 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjf23n4CK1FPCVfUXyPZnXWQdpB6BLstNAWtfBxHqjmv.png" group-title="BEIN SPORT",beINSPORTS EN 2 HD
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54469
-http://tv.iptvforver.com:25461/Oojj6nCCia/6Ey4514RAE/10970
-http://hds-iptv.com:2052/jules/jules/2933
-https://webudi.openhd.lol/lb/premium90/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/94448
+
 #EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-name="beIN SPORTS EN 3 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym8DWQHK2_ENw2lG0hi8P54fxgij1yxAF3SOe57RV8Yv.png" group-title="BEIN SPORT",beINSPORTS EN 3 HD
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54471
-https://webudi.openhd.lol/lb/premium46/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/94444
+
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-1-400.png" group-title="BEIN SPORT",beINSports 1 FRANCE
 http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/3682
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png" group-title="BEIN SPORT",beINSports 2 FRANCE
