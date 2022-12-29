@@ -629,7 +629,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/VHOdzjd.jpg", VEVO Pop FHD
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=b72b3d44-8d24-4833-8786-6ea77b1f7935&rendition=1080&session_id=00445cfb-bf4d-7983-d2bb-dabab3c362d5&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
 #EXTINF:0 group-title="Music" logo="https://i.ibb.co/fQjkFFk/kralpop.jpg", Kral Pop TR
-http://tv.iptvforver.com:25461/Oojj6nCCia/6Ey4514RAE/9337
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3803
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://images4.imagebam.com/95/36/70/MEFOBDK_o.png", UpperaTV AT
 http://platinumxmedia.xyz:8080/ivan/ivan/92265
@@ -1288,30 +1287,16 @@ http://clientsportals.com:2095/f778W3He/yj7FXRjr/94452
 
 #EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-name="beIN SPORTS EN 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjf23n4CK1FPCVfUXyPZnXWQdpB6BLstNAWtfBxHqjmv.png" group-title="BEIN SPORT",beINSPORTS EN 2 HD
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94448
-
 #EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-name="beIN SPORTS EN 3 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym8DWQHK2_ENw2lG0hi8P54fxgij1yxAF3SOe57RV8Yv.png" group-title="BEIN SPORT",beINSPORTS EN 3 HD
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94444
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-1-400.png" group-title="BEIN SPORT",beINSports 1 FRANCE
-http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/3682
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png" group-title="BEIN SPORT",beINSports 2 FRANCE
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/118341
-http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/47302
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26292
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-3-402.png" group-title="BEIN SPORT",beINSports 3 FRANCE
-http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/3680
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/118345
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26293
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="BEIN SPORT",beINSports 1 TURKEY 
+http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNGh2arrmyll-PXtWVpuO8x0/ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-2-743.png" group-title="BEIN SPORT",beINSports 2 TURKEY 
+http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNEofYgYf8Vj-GQSImOXLcfk/ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="BEIN SPORT",beINSports 3 TURKEY PL
-http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/1549
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/97937
+http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNIcGxNh58e0hDb_KqYtdCNE/ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="BEIN SPORT",beINSports 4 TURKEY BUNDESLIGA
-http://server.sibfungold.info:8080/scoffy45/Pv6FBscof45pSPdo/49946
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/97939
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="BEIN SPORT",beINSports Max 1 TURKEY 
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/101955
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-2-743.png" group-title="BEIN SPORT",beINSports Max 2 TURKEY 
-http://line.365tv.xyz:8060/lucky/jfdnndsfs/101956
+http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNPAmMtvJBpj81VJ4yATLYfZcfuJ34xa1qX8MHHR6BjZV/ts
 
 ---------------------------------------SPORT AFRICA----------------------------------------
 #EXTINF:-1 tvg-id="supersportblitz.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-blitz-300.png" group-title="SPORT AFRICA",SuperSport Blitz HD
@@ -1490,36 +1475,30 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/70947
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116837.ts
 http://venomtt.com:8000/kdcxxD1U/543545/179650
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png" group-title="SPORT EX-YU",AL: Super Sport 1 HD
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/65413.ts
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161887
 http://venomtt.com:8000/kdcxxD1U/543545/191641
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png" group-title="SPORT EX-YU",|ALBA| SUPER SPORT NEW 4K.
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116928.ts
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1313
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-2-692.png" group-title="SPORT EX-YU",AL: Super Sport 2 HD
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/65414.ts
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161883
 #http://venomtt.com:8000/kdcxxD1U/543545/191639
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-2-692.png" group-title="SPORT EX-YU",|ALBA| SUPER SPORT 2 4K..
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116923.ts
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1312
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-3-693.png" group-title="SPORT EX-YU",AL: Super Sport 3 HD
-http://tv.iptvforver.com:25461/Oojj6nCCia/6Ey4514RAE/10125
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/65415.ts
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161886
 http://venomtt.com:8000/kdcxxD1U/543545/191637
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-3-693.png" group-title="SPORT EX-YU",|ALBA| SUPER SPORT 3 4K.
-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116930.ts
+http://media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116930.ts
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1319
 #EXTINF:-1 logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-4-694.png" group-title="SPORT EX-YU",AL: Super Sport 4 HD
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/65416.ts
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161885
 http://venomtt.com:8000/kdcxxD1U/543545/191635
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-4-694.png" group-title="SPORT EX-YU",|ALBA| SUPER SPORT 4 4K. (ONLY MATCH TIME)
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116931.ts
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1318
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-5-695.png" group-title="SPORT EX-YU",AL: Super Sport 5 HD
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/65417.ts
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161884
 http://venomtt.com:8000/kdcxxD1U/543545/191633
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-5-695.png" group-title="SPORT EX-YU",|ALBA| SUPER SPORT 5 4K.
@@ -1529,20 +1508,11 @@ http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/1860
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/3638
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-7-697.png" group-title="SPORT EX-YU",|ALBA| SUPER SPORT 7 4K.
 http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/174441
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-1059.png" group-title="SPORT EX-YU",BG: Diema Sport HD
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/9095.ts
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/9181
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-1059.png" group-title="SPORT EX-YU",BG: Diema Sport 1 HD
-http://tv.iptvforver.com:25461/Oojj6nCCia/6Ey4514RAE/10725
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/9181
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/69537
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-2-1060.png" group-title="SPORT EX-YU",BG: Diema Sport 2 HD
-http://tv.iptvforver.com:25461/Oojj6nCCia/6Ey4514RAE/10724
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/9094.ts
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/9180
-#http://jadetv.de:80/eagleiptv/SsFAljPDDi/69538
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/69538
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="Sport",BG: Diema Sport 3 HD
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/9179
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/69653
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-nova-sport-1058.png" group-title="SPORT EX-YU",BG: Nova Sport HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/69590
