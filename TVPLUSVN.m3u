@@ -40,10 +40,6 @@ https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/8.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9 Viettel
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/9.m3u8
-#EXTINF:0 tvg-id="hanoi1" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/141.png", Hà Nội 1 HD
-https://live.hanoitv.vn/hntvlive/tv1live480.m3u8
-#EXTINF:0 tvg-id="hanoi2" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/142.png", Hà Nội 2 HD
-https://live.hanoitv.vn/hntvlive/tv2live.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_720p/chunks_dvr_range-${start}-${offset}.m3u8", HanoiTV1 HD
 https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_720p/chunks_dvr_range-${start}-${offset}.m3u8", HanoiTV2 HD
