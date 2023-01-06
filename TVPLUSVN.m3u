@@ -130,7 +130,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?cc|Referer=http:/
 #EXTINF:0 tvg-id="drfithd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fitˢᵛ²
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/93.m3u8
 #EXTINF:-1  group-title="Kênh khác" logo="https://photos.live-tv-channels.org/tv-logo/ae-gem-fit-2728-300x225.jpg",IR: GEM FIT
-http://iptvtree.net:8080/cipo/R3vwiPGU8YAb4r57ed8j/166807
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/192766
 #EXTINF:0 group-title="Thể thao" Logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/11/pluot-tv-fitness-deporte.jpg.png",Pluto TV Fitness
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:0 group-title="Thể thao" logo="https://i.scdn.co/image/ab67616d0000b2738d4ed08da3db1481c04c44a0", Relax Music
@@ -627,6 +627,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=b72b3d44-8d24-4833-8786-6ea77b1f7935&rendition=1080&session_id=00445cfb-bf4d-7983-d2bb-dabab3c362d5&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
 #EXTINF:0 group-title="Music" logo="https://i.ibb.co/fQjkFFk/kralpop.jpg", Kral Pop TR
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3803
+#EXTINF:0 group-title="Music" logo="https://dash.tvzinos.com/assets/images/channel/66893.jpg", Gem Latino IR
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/192770
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://images4.imagebam.com/95/36/70/MEFOBDK_o.png", UpperaTV AT
 http://platinumxmedia.xyz:8080/ivan/ivan/92265
 #EXTINF:0 group-title="Music" tvg-id="5948" tvg-logo="http://epg.it999.ru/img2/5948.png" tvg-rec="0",Megogo live HD UA
@@ -703,6 +705,8 @@ https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://mytv.com.vn/upload/channel/65.png", TV5Monde Asie
 https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="s.id/1v6rp ", Travelxp HD
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93675
 #EXTINF:0 tvg-id="historyhd" group-title="Kênh khác" logo="http://images.zaltv.club/logo/history.png", History HD
 http://iptvtree.net:8080/ace2524d/15a571c413/162519
 http://sever.vietanhiptv.tk/history/mpegts
@@ -1213,20 +1217,22 @@ http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044056
 http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044057
 
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2ocvTunhT7cC5aTeuuvqgVK.png" group-title="SPORT INDIA",SONY_SIX FHD(D2H)
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93723
 http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044054
-
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDFcWJ3n8AzK2y5tT4ctD_f.png" group-title="SPORT INDIA",STARSPORTS 1 FHD (D2H)
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93724
 http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043709
-
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBWnglMlCY_VQQYt1iLZBrJ.png" group-title="SPORT INDIA",STARSPORTS 2 FHD (D2H)
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93726
 http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043713
-
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-star-sports-3-228.png" group-title="SPORT INDIA",STARSPORTS 3 FHD (D2H)
 http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043708
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="SPORT INDIA",STARSPORTS SELECT 1 FHD (D2H)
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93729
 http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043712
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="SPORT INDIA",STARSPORTS SELECT 2 FHD
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93730
 http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043711
 
 ---------------------------------------SPORT SPAIN LATINO----------------------------------------
