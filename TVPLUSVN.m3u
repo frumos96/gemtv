@@ -149,15 +149,17 @@ https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 
 ---------------------------------------K PLUS----------------------------------------
 #EXTINF:0 tvg-id="kcinehd" group-title="💚| K+" logo="https://i.ibb.co/h8FLFc7/3.webp", K+CINE 
-https://stream.sugustv.tk/live/sugusnew/sugustv/12.m3u8
+https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/12.m3u8
 #EXTINF:0 tvg-id="klifehd" group-title="K+" logo="https://i.ibb.co/MS363r3/4.webp", K+LIFE 
-https://stream.sugustv.tk/live/sugusnew/sugustv/13.m3u8
+https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/13.m3u8
 #EXTINF:0 tvg-id="kkidshd" group-title="💚| K+" logo="https://i.ibb.co/gP7GDwp/5.webp", K+KIDS 
-https://stream.sugustv.tk/live/sugusnew/sugustv/14.m3u8
+https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/14.m3u8
 #EXTINF:0 tvg-id="ksport1hd" group-title="💚| K+" logo="https://i.ibb.co/rbMrqGf/1.webp", K+SPORT1 
-https://stream.sugustv.tk/live/sugusnew/sugustv/15.m3u8
+https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/337.m3u8
+#https://stream.sugustv.tk/live/sugusnew/sugustv/15.m3u8
 #EXTINF:0 tvg-id="ksport2hd" group-title="💚| K+" logo="https://i.ibb.co/9TVkkNn/2.webp", K+SPORT2 
-https://stream.sugustv.tk/live/sugusnew/sugustv/16.m3u8
+https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/338.m3u8
+#https://stream.sugustv.tk/live/sugusnew/sugustv/16.m3u8
 #EXTINF:0 tvg-id="kcinehd" group-title="💚| K+" logo="https://i.ibb.co/h8FLFc7/3.webp", K+CINE MyTv
 http://103.56.160.133:8081/vagroup/cliptv/kcine/index.m3u8
 #EXTINF:0 tvg-id="klifehd" group-title="K+" logo="https://i.ibb.co/MS363r3/4.webp", K+LIFE MyTv
