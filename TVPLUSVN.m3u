@@ -661,12 +661,6 @@ https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png", CH7 HD
 https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
-#EXTINF:-1 tvg-id="WOWOWPrime.jp" group-title="Kênh khác" tvg-logo="https://kuma-video.com/wp-content/uploads/2020/04/prime.jpg" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1501/video-${start}-${offset}.m3u8", WOWOW Prime
-https://code.television4you.xyz/getlink/yoitv?id=HloiOsNhiBm-DF9vVfFMTw==
-#EXTINF:-1 tvg-id="WOWOWLive.jp" group-title="Kênh khác" tvg-logo="https://www.ztv.co.jp/assets/img/pages/service/tv/digital/channel/10/10-02.jpg" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1503/video-${start}-${offset}.m3u8", WOWOW Live
-https://code.television4you.xyz/getlink/yoitv?id=g8s69Z5bxLZgAoqqFT8iDg==
-#EXTINF:-1 tvg-id="WOWOWCinema.jp" group-title="Kênh khác" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/23-WOWOW-CINEMA.jpg" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1502/video-${start}-${offset}.m3u8", WOWOW Cinema
-https://code.television4you.xyz/getlink/yoitv?id=iF6iKCiap5agDJYZhyVjwg=
 #EXTINF:0 group-title="Kênh khác" Logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLHR6jpCIAjidRj2MWoKV2peCsroGT3lx4uA&usqp=CAU",Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:0 group-title="Kênh khác" Logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLHR6jpCIAjidRj2MWoKV2peCsroGT3lx4uA&usqp=CAU",Pluto TV Sports
@@ -1239,17 +1233,13 @@ http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1043711
 
 ---------------------------------------SPORT SPAIN LATINO----------------------------------------
 #EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",Dazn 1 HD SPAIN
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/153286.ts
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/69392
 #EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",Dazn 2 HD SPAIN
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/69373
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/153287.ts
 #EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2512.png",Dazn 3 HD SPAIN
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/69393
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/153288.ts
 #EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2513.png",Dazn 4 HD SPAIN
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/69395
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/153289.ts
 #EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-fox-deportes-62.png",Fox Deportes USA
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/94
 #EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-univision-deportes-1-810.png",TUDN USA
@@ -1260,28 +1250,14 @@ http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/69136
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/69185
 #EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-vamos-1601.png",#Vamos HD
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/69186
-#EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png",M. Liga de Campeones 5 HD
-http://cdn.kira.cf:2021/8412822881932/3969190550654/88867
-#EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png",RMC Sport 1 HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/63175
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116839.ts
-#EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rmc-sport-2-1428.png",RMC Sport  2 HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/63176
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116840.ts
-#EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rmc-sport-3-1429.png",RMC Sport  3 HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/63177
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116840.ts
-#EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rmc-sport-4-1430.png",RMC Sport  4 HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/63178
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116840.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: Espn HD" tvg-logo="http://worldiptv.xyz/chlogos/ESPN.ar.png" group-title="Sport Spain",BR:Espn HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/159601
+#EXTINF:-1 tvg-id="" tvg-name="BR: Espn HD" tvg-logo="http://worldiptv.xyz/chlogos/ESPN.ar.png" group-title="Sport Spain",MX:Espn HD
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/26542
 #EXTINF:-1 tvg-name="BR: ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Sport Spain",BR:ESPN 2 HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/159598
-#EXTINF:-1 tvg-name="BR: ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Sport Spain",BR:ESPN 3 HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/159599
-#EXTINF:-1 tvg-name="BR: ESPN Extra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="Sport Spain",BR:ESPN Extra HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/159600
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/369
+#EXTINF:-1 tvg-name="BR: ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Sport Spain",MX:ESPN 3 HD
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/371
+#EXTINF:-1 tvg-name="BR: ESPN Extra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="Sport Spain",MX:ESPN Extra HD
+http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/365
 
 ---------------------------------------SPORT EX-YU----------------------------------------
 #EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: Digi Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png" group-title="SPORT EX-YU",DigiSport1 HD
@@ -1289,9 +1265,7 @@ http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70943
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group-title="SPORT EX-YU",DigiSport2 HD
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70944
 #EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group-title="SPORT EX-YU",DigiSport3 HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/70945
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116836.ts
-http://venomtt.com:8000/kdcxxD1U/543545/179649
+http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70945
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group-title="SPORT EX-YU",DigiSport4 HD
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70947
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png" group-title="SPORT EX-YU",AL: Super Sport 1 HD
