@@ -5,11 +5,13 @@ https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 Viettel
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/1.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2
-https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+http://live-zlr1.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2 Viettel
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/2.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3
-https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+http://live-ali2.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3 Viettel
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/3.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV4
@@ -21,11 +23,13 @@ https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
 #EXTINF:0 tvg-id="vtv5tn" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5
+http://live-ali4.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Viettel
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/5.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ HD
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p3M.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ HD Viettel
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/6.m3u8
 #EXTINF:0 tvg-id="vtv7hd"  group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/9.png"catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7
@@ -45,7 +49,8 @@ https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_720p/chunks_dvr_range-${start}-${offset}.m3u8", HanoiTV2 HD
 https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
 #EXTINF:0 tvg-id="danang1" group-title="Ðịa phương" logo="https://i.imgur.com/V3NhGyb.png", Ðà Nẵng TV1 HD
-https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
+https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/347.m3u8
+#https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="danang2" group-title="Ðịa phương" logo="https://i.imgur.com/qLxtQIc.png", Ðà Nẵng TV2 HD
 #https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
@@ -387,7 +392,7 @@ http://vtsstr4.sctv.vn:1935/live/SCTV12_HD_new.smil/playlist.m3u8
 https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/kHMtBpL/SCTV14.png", SCTV14ˢᵛ² Kenh Phim Viet
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/413.m3u8
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8?cc|Referer=http://sctvonline.vn/
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15ˢᵛ² SSPORT2
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/XZJFWNd/SCTV16.png", SCTV16ˢᵛ² Phim Nuoc ngoai Ðac SaC
@@ -416,17 +421,13 @@ http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/97.m3u8
 https://api.vthanhtivi.pw/v1/getlink/htv/2631
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 - Vie Channel
-#EXTVLCOPT:http-user-agent=VThanhTivi
 #https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3 - Heo TV
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv-key/${start}/${offset}", HTV Key
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -435,10 +436,8 @@ https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/55.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/56.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Gia đình HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -717,6 +716,12 @@ http://vn2.cvacetv.ga/4KUHD
 http://vn2.cvacetv.ga/live1
 #EXTINF:-1 group-title="Lives Event" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 2
 http://vn2.cvacetv.ga/live2
+#EXTINF:-1 group-title="Lives Event" tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO 4K
+http://donglao2.duckdns.org:81/astro4k/mpegts?token=360
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORT ASEAN",HubPremier 4K UHD 
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/348096
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT EUROPE",Now Sports Premier League 4K
+http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/69862
 #EXTINF:-1 logo="https://bep40.me/tv/bep40tvkplus.png", B4TV 1(Chỉ phát sóng khi có trận đấu)
 https://maper.info/Juara1-shareext
 #EXTINF:-1 logo="https://bep40.me/tv/bep40tvkplus.png", B4TV 2(Chỉ phát sóng khi có trận đấu)
@@ -855,16 +860,13 @@ http://clientsportals.com:2095/f778W3He/yj7FXRjr/38713
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="SPORT ASEAN",YES Sport 1 HD IL
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/38711
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png"group-title="SPORT ASEAN",YES Sport 1 IL
-http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/14785
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/38712
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="SPORT ASEAN",YES Sport 2 HD IL
-http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/14787
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/38710
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="SPORT ASEAN",YES Sport 3 HD IL
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/38709
 http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/91282
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-4-1024.png" group-title="SPORT ASEAN",YES Sport 4 HD IL
-http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/40609
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/38708
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-gold-1028.png" group-title="SPORT ASEAN",YES Sport 5 Gold IL
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/38700
@@ -874,13 +876,10 @@ http://clientsportals.com:2095/f778W3He/yj7FXRjr/38705
 http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/91281
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/38701
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-stars-1828.png" group-title="SPORT ASEAN",YES Sport 5+ Stars HD IL
-http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/14788
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/38703
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png" group-title="SPORT ASEAN",YES Sport 5+ HD IL
-http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/282063
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/38702
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-mobile-1029.png"  group-title="SPORT ASEAN",YES Sport 5 UHD 4K IL [Only On 4K Devices]
-http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/172323
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/59033
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="SPORT ASEAN", CCTV5 HD
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/468.m3u8
@@ -921,8 +920,6 @@ http://clientsportals.com:2095/f778W3He/yj7FXRjr/115537
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/90/23/cc/MEHTVIJ_t.PNG" group-title="SPORT ASEAN",Skynet Sport HD MYR
 http://4digital.ddns.net:11224/ts/0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="SPORT ASEAN",HubPremier 4K UHD 
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/348096
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORT ASEAN",HubPremier 1 FHD
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348097
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORT ASEAN",HubPremier 1 FHD#
@@ -973,8 +970,6 @@ http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/1389
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/1309
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-espn-98.png" group-title="SPORT EUROPE",UK: BTSport ESPN HD
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/1391
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-ultimate-1922.png" group-title="SPORT EUROPE",NoW PL 4K
-http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/69862
 #EXTINF:-1 Logo="http://images.zaltv.club/logo/live.gif" group-title="SPORT EUROPE",DE: Sport Digital HD#
 http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/3509
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/5612
@@ -996,8 +991,6 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/95383
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161877
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="SPORT EUROPE",PT: Eleven Sports 1 FHD
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66311
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159576
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/159576
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="SPORT EUROPE",PT: Eleven Sports 2 FHD
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66312
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="SPORT EUROPE",PT: Eleven Sports 3 FHD
@@ -1084,17 +1077,14 @@ http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/66612
 http://supermega.vip:25461/cheryl/cheryl/56769
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="SPORT AFRICA",SuperSport PremierLeague HD+
 http://supermega.vip:25461/cheryl/cheryl/56768
-
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-seven-297.png" group-title="SPORT AFRICA",SuperSport LaLiga HD 
 http://supermega.vip:25461/cheryl/cheryl/56765
-
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="SPORT AFRICA",SuperSport Football HD 
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/66615
 #EXTINF:-1 tvg-id="supersportaction.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-fourteen-1144.png" group-title="SPORT AFRICA",SuperSport Action HD (AZ)
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/66614
 #EXTINF:-1 tvg-id="supersporttennis.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-ten-665.png" group-title="SPORT AFRICA",SuperSport Tennis HD (AZ)
 http://supermega.vip:25461/cheryl/cheryl/56771
-
 #EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-one-291.png" group-title="SPORT AFRICA",SuperSport Variety 1 HD (AZ)
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/68392
 #EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-two-292.png" group-title="SPORT AFRICA",SuperSport Variety 2 HD (AZ)
@@ -1105,7 +1095,6 @@ http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/66606
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/66616
 #EXTINF:-1 tvg-id="emovies.za" tvg-logo="https://qa.dstvafrica.com/media/15388/microsoftteams-image-3.png" group-title="SPORT AFRICA",SuperSport Liyu HD (Ethiopia)
 http://supermega.vip:25461/cheryl/cheryl/225456
-
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-maximo-1-301.png" group-title="SPORT AFRICA",SuperSport Máximo 1 HD (AZ)
 http://supermega.vip:25461/cheryl/cheryl/56766
 #EXTINF:-1 tvg-id="comedycentral.za"  tvg-logo="http://dmtn.tv:8080/images/aJTvUHXjYJJv4ccPZ0fcoPLaFJsvlBQ-QouyDyh_wmLM3aqhX_SmPjEG5eqRez3vgFGeiAepsKgVic2i2AuTkc0KU0Y2zg7tX2V3lu2Bx1BEu1os2UlfNJgqR6G55Ao5.png" group-title="SPORT AFRICA",SuperSport Máximo 2 HD
@@ -1126,17 +1115,13 @@ https://tv.googledrivelinks.com/live.php?c=Ten3_HD&q=800&e=.m3u8
 https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDFcWJ3n8AzK2y5tT4ctD_f.png" group-title="SPORT INDIA",STARSPORTS 1 FHD (D2H)
 http://txm1.flysat.live:2089/9152894094/3603122011/203433
-
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBWnglMlCY_VQQYt1iLZBrJ.png" group-title="SPORT INDIA",STARSPORTS 2 FHD (D2H)
 http://txm1.flysat.live:2089/9152894094/3603122011/203430
-
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-star-sports-3-228.png" group-title="SPORT INDIA",STARSPORTS 3 FHD (D2H)
 http://208.86.19.13:81/7322.stream/index.m3u8
 http://txm1.flysat.live:2089/9152894094/3603122011/203429
-
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="SPORT INDIA",STARSPORTS SELECT 1 FHD (D2H)
 http://txm1.flysat.live:2089/9152894094/3603122011/203428
-
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="SPORT INDIA",STARSPORTS SELECT 2 FHD
 http://txm1.flysat.live:2089/9152894094/3603122011/203427
 
