@@ -221,7 +221,7 @@ https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/240.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/300px-HBO_Signature_Asia.png",HBO_Signature
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/258.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="Phim",KPLUS HD
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54227
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787.m3u8
 #EXTINF:-1 tvg-id="GEM.sg" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/x64s18m/GEM.png" group-title="Phim",SONY GEM
 http://iptvid.my.id/hmm/sgem.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
