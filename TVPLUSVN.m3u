@@ -170,13 +170,24 @@ https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/337.m3u8
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/338.m3u8
 #https://stream.sugustv.tk/live/sugusnew/sugustv/16.m3u8
 #EXTINF:0 tvg-id="kcinehd" group-title="💚| K+" logo="https://i.ibb.co/h8FLFc7/3.webp", K+CINE MyTv
-http://103.56.160.133:8081/vagroup/cliptv/kcine/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://vagroup.pw/keodmthanghuycopy/m3u/cliptv/kcinehd/playlist.m3u8
+https://iplogger.com/2XQqE6.m3u8
+#http://karenshare.leeminho-sport.com:8880/KAREN_SHARE/kcine.php?user=admin&pass=tranviet
 #EXTINF:0 tvg-id="klifehd" group-title="K+" logo="https://i.ibb.co/MS363r3/4.webp", K+LIFE MyTv
-http://103.56.160.133:8081/vagroup/cliptv/klife/index.m3u8
-#EXTINF:0 tvg-id="ksport1hd" group-title="💚| K+" logo="https://i.ibb.co/rbMrqGf/1.webp", K+SPORT1 MyTv  
-http://103.56.160.133:8081/vagroup/cliptv/ksport1/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://iplogger.com/2X3eE6.m3u8
+#http://karenshare.leeminho-sport.com:8880/KAREN_SHARE/klife.php?user=admin&pass=tranviet
+#EXTINF:0 tvg-id="ksport1hd" group-title="💚| K+" logo="https://i.ibb.co/rbMrqGf/1.webp", K+SPORT1 MyTv 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://vagroup.pw/keodmthanghuycopy/m3u/cliptv/ksport1hd/playlist.m3u8
+https://iplogger.com/2XyrE6.m3u8
+#http://karenshare.leeminho-sport.com:8880/KAREN_SHARE/ksport1.php?user=admin&pass=tranviet
 #EXTINF:0 tvg-id="ksport2hd" group-title="💚| K+" logo="https://i.ibb.co/9TVkkNn/2.webp", K+SPORT2 MyTv 
-http://103.56.160.133:8081/vagroup/cliptv/ksport2/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://vagroup.pw/keodmthanghuycopy/m3u/cliptv/ksport2hd/playlist.m3u8
+https://iplogger.com/2XhtE6.m3u8
+#http://karenshare.leeminho-sport.com:8880/KAREN_SHARE/ksport2.php?user=admin&pass=tranviet
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/Kplus_Cine_2021.png/revision/latest?cb=20220127021623&path-prefix=vi", K+CINE HD
 https://longpt.net/vtvcabon/k-plus-1.m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest?cb=20220127020322&path-prefix=vi", K+LIFE HD
