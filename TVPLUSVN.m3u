@@ -743,12 +743,14 @@ http://donglao2.duckdns.org:81/astro4k/mpegts?token=360
 http://donglao2.duckdns.org:81/digi4k/mpegts?token=360
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT EUROPE",Now Sports Premier League 4K
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69862
+#EXTINF:-1 logo="https://bep40.me/tv/bep40tvkplus.png", B4TV (Chỉ phát sóng khi có trận đấu)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/3955444031076
 #EXTINF:-1 logo="https://bep40.me/tv/bep40tvkplus.png", B4TV 1(Chỉ phát sóng khi có trận đấu)
-https://maper.info/Juara1-shareext
+http://103.75.186.169:5080/LiveApp/streams/b4tv.m3u8
 #EXTINF:-1 logo="https://bep40.me/tv/bep40tvkplus.png", B4TV 2(Chỉ phát sóng khi có trận đấu)
-https://maper.info/Juara2-shareext
-#EXTINF:-1 logo="https://bep40.me/tv/bep40tvkplus.png", B4TV1 5(Chỉ phát sóng khi có trận đấu)
-https://maper.info/Juara5-shareext
+http://103.75.186.169:5080/LiveApp/streams/b4tv1.m3u8
+#EXTINF:-1 logo="https://bep40.me/tv/bep40tvkplus.png", B4TV 3(Chỉ phát sóng khi có trận đấu)
+http://103.75.186.169:5080/LiveApp/streams/b4tv2.m3u8
 #EXTINF:-1 group-title="Lives Event" tvg-logo="http://logo.vagroup-title.pw/fptplay.png", F Sports 1
 https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Lives Event" tvg-logo="http://logo.vagroup-title.pw/fptplay.png", F Sports 2
