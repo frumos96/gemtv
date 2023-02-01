@@ -91,23 +91,20 @@ https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="boxmovie1" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1ˢᵛ² 
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/89.m3u8
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/hollywoodclassics
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classicsˢᵛ² 
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/88.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hitsˢᵛ² 
 https://b.dl.dropboxusercontent.com/s/s53baiewsrrwl4s/boxhits/s2/index.m3u8
-https://api.vthanhtivi.pw/v1/getlink/mytv_web/105/hd
 #EXTINF:0 tvg-id="inthebox" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", Box
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/87.m3u8
 #EXTINF:0 tvg-id="inthebox" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", Boxˢᵛ² 
 https://b.dl.dropboxusercontent.com/s/2ph6r5ilqesx74y/box/s2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Iqiyi_Logo_Baru.png" group-title="Phim",IQIYI
-http://mxu03.wanicelife.com:8880/6ms080037/42979514/71038
+https://iplogger.com/Iqyi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="Phim",CCTV_6.MOVIE
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/508.m3u8
 http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
