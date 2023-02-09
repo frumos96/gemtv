@@ -253,13 +253,20 @@ http://103.167.167.5:8111/play/a02u/index.m3u8
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157596
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65HtxwHs/cropped-cropped-cropped-Untitled-design-2.png" group-title="Phim",Movies Hub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Phim",UK: Rakuten TV
-http://platinumxmedia.xyz:8080/ivan/ivan/252
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1488259539422097408/Hljgm4y0_400x400.jpg" group-title="Phim",DiziSmart Max HD
+http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya78M56MYKkdykIGjeq5_CB5b/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="Phim",DiziSmart_Premium HD
+http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya7-M7ZpT_oFDs8IH-kzD6lhy/ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png" group-title="Phim",UK: Prime TV
+http://budtvlight.com:25461/budtvsports/wTu27rKVNU/40834
 #EXTINF:0 tvg-id="hallmark" group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/43784
+http://budtvlight.com:25461/budtvsports/wTu27rKVNU/1919
 #http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/55
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1920px-LMN_logo_2019.svg.png", Lifetime Movie Network HD
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/50
+#EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png", Lifetime US HD
+http://budtvlight.com:25461/budtvsports/wTu27rKVNU/47181
+http://budtvlight.com:25461/budtvsports/wTu27rKVNU/1922
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/SBS_World_Movies_logo_2019.svg/300px-SBS_World_Movies_logo_2019.svg.png", AU: SBS World Movies
 http://58.96.43.228:9981/stream/channelid/808262435?ticket=DA54CCFBD71A64807EE57FA9BBECC179D140B263&profile=pass
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/SBS_Viceland_logo_2016.png/375px-SBS_Viceland_logo_2016.png", AU: SBS Viceland
@@ -620,7 +627,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/VHOdzjd.jpg", VEVO Pop FHD
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=b72b3d44-8d24-4833-8786-6ea77b1f7935&rendition=1080&session_id=00445cfb-bf4d-7983-d2bb-dabab3c362d5&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
 #EXTINF:0 group-title="Music" logo="https://i.ibb.co/fQjkFFk/kralpop.jpg", Kral Pop TR
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3803
+http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya7-h74X1VMRwaKvmN7bWgdft/ts
 #EXTINF:0 group-title="Music" logo="https://dash.tvzinos.com/assets/images/channel/66893.jpg", Gem Latino IR
 http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/192770
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://images4.imagebam.com/95/36/70/MEFOBDK_o.png", UpperaTV AT
@@ -696,6 +703,7 @@ https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="s.id/1v6rp ", Travelxp HD
 http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93675
 #EXTINF:0 tvg-id="historyhd" group-title="Kênh khác" logo="http://images.zaltv.club/logo/history.png", History HD
+http://budtvlight.com:25461/budtvsports/wTu27rKVNU/1967
 http://iptvtree.net:8080/ace2524d/15a571c413/162519
 http://sever.vietanhiptv.tk/history/mpegts
 
@@ -1104,26 +1112,34 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/312844
 ---------------------------------------SPORT EX-YU----------------------------------------
 #EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: Digi Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png" group-title="SPORT EX-YU",DigiSport1 HD
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70943
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1173.ts
+http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya7-G8DPmKJTrO2OeBjdpgDlS/ts
+#http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1173.ts
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group-title="SPORT EX-YU",DigiSport2 HD
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70944
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1174.ts
+http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya7-tMpPl9fEKDULyZXTc7I_D/ts
+#http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1174.ts
 #EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group-title="SPORT EX-YU",DigiSport3 HD
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1175.ts
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70945
+http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya7_jbgH5BEq78Ohyt-Avbq7z/ts
+#http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1175.ts
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group-title="SPORT EX-YU",DigiSport4 HD
+http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya784ClgDpP8yzPcsBExNR34D/ts
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70947
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png" group-title="SPORT EX-YU",AL: Super Sport 1 HD
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/161887
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-2-692.png" group-title="SPORT EX-YU",AL: Super Sport 2 HD
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/26503.ts
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/161883
+http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya7_W0Ej4yzoZx8a_nUI0FBBE/ts
+#http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/26503.ts
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-3-693.png" group-title="SPORT EX-YU",AL: Super Sport 3 HD
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/161886
+http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya79KEym0HeqqhYdfl_qXZ63j/ts
 #EXTINF:-1 logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-4-694.png" group-title="SPORT EX-YU",AL: Super Sport 4 HD
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/26505.ts
+http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya79WL3LrRT3t246P_1ghGKQK/ts
+#http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/26505.ts
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-5-695.png" group-title="SPORT EX-YU",AL: Super Sport 5 HD
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/26506.ts
+http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya7-Ws17D9FMedGNDYs34FS-Q/ts
+#http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/26506.ts
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-6-696.png" group-title="SPORT EX-YU",|ALBA| SUPER SPORT 6 4K.
 http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/26507.ts
 #EXTINF:-1 Logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-kosova-1.png" group-title="SPORT EX-YU",SuperSport Kosova 1 HD.
@@ -1138,3 +1154,9 @@ http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/69539
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/69538
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="SPORT EX-YU",BG: Diema Sport 3 HD
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/69537
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group-title="SPORT EX-YU",RU: Match! Football 1 HD SERIA
+http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya79qJClFv0D9SgaJnzfFRlDe/ts
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="SPORT EX-YU",RU: Match! Football 2 HD
+http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/69537
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="SPORT EX-YU",RU: Match! Football 3 HD BUNDES
+http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya7-lgPTpRA2Xr8HNVLq7tH6g/ts
