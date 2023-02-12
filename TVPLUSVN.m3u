@@ -743,18 +743,20 @@ http://vn2.cvacetv.ga/live1
 http://vn2.cvacetv.ga/live2
 #EXTINF:-1 group-title="Lives Event" tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO 4K
 http://donglao2.duckdns.org:81/astro4k/mpegts?token=360
-#EXTINF:-1 tvg-logo="https://www.media-max.ro/wp-content/uploads/2020/05/Digi-4k-disponibil-temporar-necriptat.png" group-title="SPORT ASEAN",DiGi 4K UHD 
-http://donglao2.duckdns.org:81/digi4k/mpegts?token=360
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-hd-940.png" group-title="SPORT ASEAN",ESPN 4K UHD 
+http://lmtv.me:80/3Xa6ZR/7yzVQY/95654
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT EUROPE",Now Sports Premier League 4K
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69862
-#EXTINF:-1 logo="https://bep40.me/tv/bep40tvkplus.png", B4TV (Chỉ phát sóng khi có trận đấu)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/3955444031076
-#EXTINF:-1 logo="https://bep40.me/tv/bep40tvkplus.png", B4TV 1(Chỉ phát sóng khi có trận đấu)
-http://103.75.186.169:5080/LiveApp/streams/b4tv.m3u8
-#EXTINF:-1 logo="https://bep40.me/tv/bep40tvkplus.png", B4TV 2(Chỉ phát sóng khi có trận đấu)
-http://103.75.186.169:5080/LiveApp/streams/b4tv1.m3u8
-#EXTINF:-1 logo="https://bep40.me/tv/bep40tvkplus.png", B4TV 3(Chỉ phát sóng khi có trận đấu)
-http://103.75.186.169:5080/LiveApp/streams/b4tv2.m3u8
+#EXTINF:-1 logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png" group-title="Lives Event",V Sport Premier League HD(Chỉ phát sóng khi có trận đấu)
+http://bandookk.xyz:8000/Geniptv/persian_share/30093
+#EXTINF:-1 logo="https://www.lyngsat.com/logo/tv/vv/v-sport-premier-league-1.svg" group-title="Lives Event", V Sport Premier League 1  HD(Chỉ phát sóng khi có trận đấu)
+http://bandookk.xyz:8000/Geniptv/persian_share/30094
+#EXTINF:-1 logo="https://www.lyngsat.com/logo/tv/vv/v-sport-premier-league-2.svg" group-title="Lives Event",V Sport Premier League 2 HD(Chỉ phát sóng khi có trận đấu)
+http://bandookk.xyz:8000/Geniptv/persian_share/30095
+#EXTINF:-1 logo="https://www.lyngsat.com/logo/tv/vv/v-sport-premier-league-3.svg" group-title="Lives Event",V Sport Premier League 3 HD(Chỉ phát sóng khi có trận đấu)
+http://bandookk.xyz:8000/Geniptv/persian_share/30096
+#EXTINF:-1 logo="https://www.lyngsat.com/logo/tv/vv/v-sport-premier-league-4.svg" group-title="Lives Event",V Sport Premier League 4 HD(Chỉ phát sóng khi có trận đấu)
+http://bandookk.xyz:8000/Geniptv/persian_share/30097
 #EXTINF:-1 group-title="Lives Event" tvg-logo="http://logo.vagroup-title.pw/fptplay.png", F Sports 1
 https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Lives Event" tvg-logo="http://logo.vagroup-title.pw/fptplay.png", F Sports 2
