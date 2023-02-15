@@ -678,6 +678,12 @@ http://220.118.153.181:9981/stream/channelid/11?ticket=02BB2533BB2DA9F2C4B592854
 http://220.118.153.181:9981/stream/channelid/12?ticket=5FC8C413F9E0B7BFC089B1E0F19F62BD1135E9BD
 #EXTINF:0 group-title="Phim" logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png",KR: SPOTV2
 http://220.118.153.181:9981/stream/channelid/42?ticket=1DB68B3669158500E4AF7B4CF7C0325F8E50794E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"  group-title="Kênh khác" , SCTV_se🇮🇩
+https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"  group-title="Kênh khác" , SCTV_vid🇮🇩
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"  group-title="Kênh khác" , SCTV_xp🇮🇩
+http://online-teve.xp3.biz/vidio/204.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" group-title="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
 https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png", CH5 HD
@@ -822,33 +828,33 @@ http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="MY| Astro ARENA 2 FHD" tvg-logo="http://dmtn.tv:8080/images/ya5l5yM1bhT_tvxGIMbFwjN-o6yFm6jJToyFhgbtpbw1Cn22_YSFkjZsn0szbGSU8iCwFyRgfimmLqjN0YxT00eokXXI2UYBtcWqRxiW-ew.png" group-title="SPORT ASEAN",Astro ARENA 2 FHD
 http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-one-sport-1588.png"  group-title="SPORT ASEAN",ONE 1 HD IL
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/38714
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38714
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-one-sport-1588.png" group-title="SPORT ASEAN",ONE 2 HD IL
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/38713
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38713
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="SPORT ASEAN",YES Sport 1 HD IL
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/38711
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38711
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png"group-title="SPORT ASEAN",YES Sport 1 IL
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/38712
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38712
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="SPORT ASEAN",YES Sport 2 HD IL
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/38710
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38710
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="SPORT ASEAN",YES Sport 3 HD IL
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/38709
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38709
 http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/91282
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-4-1024.png" group-title="SPORT ASEAN",YES Sport 4 HD IL
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/38708
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38708
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-gold-1028.png" group-title="SPORT ASEAN",YES Sport 5 Gold IL
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/38700
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38700
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-5-1025.png" group-title="SPORT ASEAN",YES Sport 5 HD IL
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/38705
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38705
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-live-1027.png" group-title="SPORT ASEAN",YES Sport 5 Live HD IL
 http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/91281
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/38701
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-stars-1828.png" group-title="SPORT ASEAN",YES Sport 5+ Stars HD IL
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/38703
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38703
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png" group-title="SPORT ASEAN",YES Sport 5+ HD IL
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/38702
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38702
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-mobile-1029.png"  group-title="SPORT ASEAN",YES Sport 5 UHD 4K IL [Only On 4K Devices]
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/59033
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/59033
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="SPORT ASEAN", CCTV5 HD
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/468.m3u8
 https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
@@ -868,32 +874,32 @@ http://103.167.167.5:8111/play/a02m/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png" group-title="SPORT ASEAN",True Bein Sport 3 HD INDONESIA
 http://103.167.167.5:8111/play/a02n/index.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png" group-title="SPORT ASEAN",True Premier League 1 HD
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115758
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115758
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png" group-title="SPORT ASEAN",True Premier League 2 HD
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115762
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115762
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png" group-title="SPORT ASEAN",True Premier League 3 HD
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115510
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115510
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="SPORT ASEAN", PPTV HD
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd1.png" group-title="SPORT ASEAN",TRUE Sport 1 HD
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115531
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115531
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd2.png" group-title="SPORT ASEAN",TRUE Sport 2 HD 
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115533
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115533
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd3.png" group-title="SPORT ASEAN",TRUE Sport 3 HD 
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115537
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115537
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/90/23/cc/MEHTVIJ_t.PNG" group-title="SPORT ASEAN",TRUE Sport HD THAI
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/90/23/cc/MEHTVIJ_t.PNG" group-title="SPORT ASEAN",Skynet Sport HD MYR
 http://4digital.ddns.net:11224/ts/0
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORT ASEAN",HubPremier 1 FHD
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/348097
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/348097
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORT ASEAN",HubPremier 1 FHD#
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348097&extension=ts&play_token=FzoklzfqN1
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="SPORT ASEAN",HubPremier 2 FHD
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/348098
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/348098
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="SPORT ASEAN",HubPremier 2 FHD#
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=FzoklzfqN1
 
@@ -1019,7 +1025,7 @@ http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67160
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/94448
 #EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-name="beIN SPORTS EN 3 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym8DWQHK2_ENw2lG0hi8P54fxgij1yxAF3SOe57RV8Yv.png" group-title="BEIN SPORT",beINSPORTS EN 3 HD
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67161
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/94444
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/94444
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="BEIN SPORT",beINSports 1 TURKEY 
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1142.ts
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNGh2arrmyll-PXtWVpuO8x0/ts
