@@ -685,19 +685,17 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"  group-title="Kênh khác" , SCTV_xp🇮🇩
 http://online-teve.xp3.biz/vidio/204.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" group-title="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
-https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png", CH5 HD
-https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png", CH7 HD
-https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
-#EXTINF:0 group-title="Kênh khác" Logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLHR6jpCIAjidRj2MWoKV2peCsroGT3lx4uA&usqp=CAU",Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0 group-title="Kênh khác" Logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLHR6jpCIAjidRj2MWoKV2peCsroGT3lx4uA&usqp=CAU",Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0 group-title="Kênh khác" Logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLHR6jpCIAjidRj2MWoKV2peCsroGT3lx4uA&usqp=CAU",Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:0 group-title="Kênh khác" Logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLHR6jpCIAjidRj2MWoKV2peCsroGT3lx4uA&usqp=CAU",Pluto TV Yoga
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
+#EXTINF:-1 group-title="Kênh khác"  tvg-logo="https://i.imgur.com/9apyiI0.png", ONE HD
+https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://i.imgur.com/RSQLFiU.png" group- title="Kênh khác",CH 8
+https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8
+#EXTINF:-1 group-title="Kênh khác"  tvg-logo="https://i.imgur.com/S4dSUQ7.png", MCOT HD
+https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/217.png", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="http://images.zaltv.club/logo/animal_planet.png", Animal Planet
@@ -883,7 +881,7 @@ https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8?cc|Refere
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115510
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="SPORT ASEAN", PPTV HD
-https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd1.png" group-title="SPORT ASEAN",TRUE Sport 1 HD
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115531
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd2.png" group-title="SPORT ASEAN",TRUE Sport 2 HD 
