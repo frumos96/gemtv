@@ -217,7 +217,7 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="ngwhd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/207.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="Kênh khác" logo="https://images4.imagebam.com/71/bf/96/MEFIXCS_o.png", Nat Geo People
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/1626
+http://viptv.me:80/logantv/ACXhn9BC5m/73706
 #EXTINF:0 tvg-id="outdoorfhd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="blueantent" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/228.png", Blue Ant Entertainment
@@ -260,7 +260,8 @@ http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya7-M7Zp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png" group-title="Phim",UK: Prime TV
 http://budtvlight.com:25461/budtvsports/wTu27rKVNU/40834
 #EXTINF:0 tvg-id="hallmark" group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
-http://budtvlight.com:25461/budtvsports/wTu27rKVNU/1919
+http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/277
+#http://budtvlight.com:25461/budtvsports/wTu27rKVNU/1919
 #http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/55
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1920px-LMN_logo_2019.svg.png", Lifetime Movie Network HD
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/50
@@ -831,15 +832,22 @@ http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38714
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38713
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="SPORT ASEAN",YES Sport 1 HD IL
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38711
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png"group-title="SPORT ASEAN",YES Sport 1 IL
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png"group-title="SPORT ASEAN",YES Sport 1 IL#
+http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19164.ts
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38712
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="SPORT ASEAN",YES Sport 2 HD IL
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38710
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="SPORT ASEAN",YES Sport 2 HD IL#
+http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19165.ts
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="SPORT ASEAN",YES Sport 3 HD IL
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38709
 http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/91282
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="SPORT ASEAN",YES Sport 3 HD IL#
+http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19166.ts
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-4-1024.png" group-title="SPORT ASEAN",YES Sport 4 HD IL
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38708
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-4-1024.png" group-title="SPORT ASEAN",YES Sport 4 HD IL#
+http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19167.ts
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-gold-1028.png" group-title="SPORT ASEAN",YES Sport 5 Gold IL
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38700
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-5-1025.png" group-title="SPORT ASEAN",YES Sport 5 HD IL
@@ -848,6 +856,7 @@ http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38705
 http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/91281
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/38701
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-stars-1828.png" group-title="SPORT ASEAN",YES Sport 5+ Stars HD IL
+http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19168.ts
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38703
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png" group-title="SPORT ASEAN",YES Sport 5+ HD IL
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38702
