@@ -370,27 +370,6 @@ https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/38.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/${start}/${offset}", ON Golf
 https://856175157.r.vtvcdn.com/ondrm/THETHAO_GOLF_HD/m30_index.m3u8
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/39.m3u8
-#EXTINF:0 group-title="🧡| VTVcab"  tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Sports TV1
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT1/sc-gaFEAA/m30_index.m3u8
-#EXTINF:0 group-title="🧡| VTVcab" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Sports TV2
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT2/sc-gaFEAQ/m30_index.m3u8?cc
-#EXTINF:0 group-title="🧡| VTVcab"  tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Sports TV3
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT3/sc-gaFEAQ/m30_index.m3u8?cc
-#EXTINF:0 group-title="🧡| VTVcab"  tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Sports TV4
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT4/sc-gaFEAQ/m30_index.m3u8?cc
-#EXTINF:0 group-title="🧡| VTVcab" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Sports TV5
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT5/sc-gaFEAQ/m30_index.m3u8?cc
-#EXTINF:0 group-title="🧡| VTVcab" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Sports TV6
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT6/sc-gaFEAQ/m30_index.m3u8?cc
-#EXTINF:0 group-title="🧡| VTVcab" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Sports TV7
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT7/sc-gaFEAQ/m30_index.m3u8?cc
-#EXTINF:0 group-title="🧡| VTVcab" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Sports TV8
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT8/sc-gaFEAQ/m30_index.m3u8?cc
-#EXTINF:0 group-title="🧡| VTVcab" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Sports TV9
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT9/sc-gaFEAQ/m30_index.m3u8?cc
-#EXTINF:0 group-title="🧡| VTVcab"  tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Sports TV10
-https://livevlive.vtvcab.vn/hls/OS_ONSPORT10/sc-gaFEAQ/m30_index.m3u8?cc
-
 ---------------------------------------SCTV----------------------------------------
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/bg3VGsW/SCTV1.png", SCTV1ˢᵛ²
 https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
@@ -747,11 +726,11 @@ http://vn2.cvacetv.ga/live1
 #EXTINF:-1 group-title="Lives Event" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 2
 http://vn2.cvacetv.ga/live2
 #EXTINF:-1 group-title="Lives Event" tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO 4K
-http://donglao2.duckdns.org:81/astro4k/mpegts?token=360
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016545&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-hd-940.png" group-title="SPORT ASEAN",ESPN 4K UHD 
 http://lmtv.me:80/3Xa6ZR/7yzVQY/95654
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORT EUROPE",Now Sports Premier League 4K
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69862
+#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="SPORT EUROPE",BEIN Sports Premier League 4K
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016544&extension=ts&play_token=
 #EXTINF:-1 logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png" group-title="Lives Event",V Sport Premier League HD(Chỉ phát sóng khi có trận đấu)
 http://bandookk.xyz:8000/Geniptv/persian_share/30093
 #EXTINF:-1 logo="https://www.lyngsat.com/logo/tv/vv/v-sport-premier-league-1.svg" group-title="Lives Event", V Sport Premier League 1  HD(Chỉ phát sóng khi có trận đấu)
@@ -1120,16 +1099,20 @@ https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/203064
 
 ---------------------------------------SPORT SPAIN LATINO----------------------------------------
 #EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",Dazn 1 HD SPAIN
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69392
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431572.ts
+#http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69392
 #http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303780
 #EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",Dazn 2 HD SPAIN
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69373
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431573.ts
+#http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69373
 #http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303782
 #EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2512.png",Dazn 3 HD SPAIN
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69393
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431574.ts
+#http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69393
 #http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303784
 #EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2513.png",Dazn 4 HD SPAIN
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69395
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431575.ts
+#http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69395
 #http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303786
 #EXTINF:-1 group-title="Sport Spain" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-fox-deportes-62.png",Fox Deportes USA
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/94
