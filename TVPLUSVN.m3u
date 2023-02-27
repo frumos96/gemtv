@@ -633,16 +633,11 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/1200px-VH1_2020.svg.png", VH1 HD
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG", MTV Biggest Pop HD
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG", MTV Yo! HD
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG", MTV Block Party HD
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG", MTV Spankin' New HD
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 ---------------------------------------KÊNH KHÁC----------------------------------------
+#EXTINF:-1 group-title="Phim" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",Telemundo Internacional MX
+http://hidra.live:80/wxFYeXT7K/do95R3pgW2/302728
+#https://nandplay.club:2053/8ZSmRY3kn5/AZ4mRz2rTsuR/1188
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS 
 http://210.97.86.161:9981/stream/channelid/463719103?ticket=3E3DD97757B8C14F4E123814F65420854206FD73&profile=pass
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/481.m3u8
@@ -771,10 +766,8 @@ https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Lives Event" Logo="https://fptplay.vn/_nuxt/img/logo-fpt-play.06da7da.png", Event 4
 https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",Telemundo USA
-https://nandplay.club:2053/8ZSmRY3kn5/AZ4mRz2rTsuR/1188
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-universo-723.png",UNIVERSO USA
-
+http://hidra.live:80/wxFYeXT7K/do95R3pgW2/35149
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1
 #EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-flow-sports-1-1553.png",Flow Sports 1
@@ -1132,6 +1125,8 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/34664
 #EXTINF:-1 tvg-name="BR: ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Sport Spain",AR:ESPN 3 HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/34667
 #http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/371
+#EXTINF:-1 tvg-name="BR: ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Sport Spain",MX:ESPN 4 HD
+http://hidra.live:80/wxFYeXT7K/do95R3pgW2/312866
 #EXTINF:-1 tvg-name="BR: ESPN Extra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="Sport Spain",AR:ESPN Extra HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/312844
 #http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/365
