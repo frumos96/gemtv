@@ -216,6 +216,8 @@ https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="ngwhd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/207.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="Kênh khác" logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png?fit=960%2C540&ssl=1", WILDEARTH
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311819.ts
 #EXTINF:0 group-title="Kênh khác" logo="https://images4.imagebam.com/71/bf/96/MEFIXCS_o.png", Nat Geo People
 http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/138419
 http://viptv.me:80/logantv/ACXhn9BC5m/73706
@@ -260,13 +262,13 @@ http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/129145
 http://budtvlight.com:25461/budtvsports/wTu27rKVNU/40834
 #EXTINF:0 tvg-id="hallmark" group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
 http://balkantv.net:25461/libertassnova/285JgksRxuc35fc7MKsm6q5S/6986
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92949.ts
 http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/277
-#http://budtvlight.com:25461/budtvsports/wTu27rKVNU/1919
-#http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/55
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1920px-LMN_logo_2019.svg.png", Lifetime Movie Network HD
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93027.ts
 #http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/50
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png", Lifetime US HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93024.ts
 http://budtvlight.com:25461/budtvsports/wTu27rKVNU/47181
 http://budtvlight.com:25461/budtvsports/wTu27rKVNU/1922
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/SBS_World_Movies_logo_2019.svg/300px-SBS_World_Movies_logo_2019.svg.png", AU: SBS World Movies
@@ -346,8 +348,6 @@ https://856175157.r.vtvcdn.com/ondrm/YEAH1_TV/m20_index.m3u8
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/34.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/987374ca-de49-4612-a159-b71f7880d134/${start}/${offset}", ONSportsNews HDˢᵛ²
 https://856175157.r.vtvcdn.com/ondrm/THETHAO_TINTUC_HD/sc-gaFEAQ/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News ENG
-https://livevlive.vtvcab.vn/hls/OS_ONSPORTNEWSTA/sc-gaFEAQ/m30_index.m3u8?cc
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", VTVcab19 - Vie Dramas
 https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", VTVcab19 - Vie Dramasˢᵛ²
@@ -655,16 +655,22 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"  group-title="Kênh khác" , SCTV_xp🇮🇩
 http://online-teve.xp3.biz/vidio/204.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" group-title="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png", CH5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png", CH7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
 #EXTINF:-1 group-title="Kênh khác"  tvg-logo="https://i.imgur.com/9apyiI0.png", ONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://i.imgur.com/RSQLFiU.png" group- title="Kênh khác",CH 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8
 #EXTINF:-1 group-title="Kênh khác"  tvg-logo="https://i.imgur.com/S4dSUQ7.png", MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/217.png", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
@@ -674,12 +680,12 @@ https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://mytv.com.vn/upload/channel/65.png", TV5Monde Asie
 https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="s.id/1v6rp ", Travelxp HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/300px-2018_Travel_Channel_logo.svg.png ", Travel Channel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93513.ts
 http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93675
 #EXTINF:0 tvg-id="historyhd" group-title="Kênh khác" logo="http://images.zaltv.club/logo/history.png", History HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92973.ts
 http://budtvlight.com:25461/budtvsports/wTu27rKVNU/1967
-http://iptvtree.net:8080/ace2524d/15a571c413/162519
-http://sever.vietanhiptv.tk/history/mpegts
 
 ---------------------------------------THIẾU NHI----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="https://dl.dropboxusercontent.com/s/lslvqe41s8j7itv/PBS", PBS Kids HD
@@ -761,10 +767,13 @@ https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Lives Event" Logo="https://fptplay.vn/_nuxt/img/logo-fpt-play.06da7da.png", Event 4
 https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-universo-723.png",UNIVERSO USA
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-universo-723.png",NBC UNIVERSO USA
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/293783.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-universo-723.png",UNIVERSO Latino
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/440693.ts
 http://hidra.live:80/wxFYeXT7K/do95R3pgW2/35149
 #EXTINF:-1 group-title="Sport" Logo="https://img.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92299.ts
 #EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-flow-sports-1-1553.png",Flow Sports 1
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/763
 #EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-sportsmax-plus-1707.png",SportsMax +
@@ -869,6 +878,7 @@ https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8?cc|Refere
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115510
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="SPORT ASEAN", PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd1.png" group-title="SPORT ASEAN",TRUE Sport 1 HD
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115531
@@ -981,48 +991,27 @@ http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/155079
 
 ---------------------------------------BEIN SPORT ----------------------------------------
 #EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN SPORTS PREMIUM 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylp5fQN2WlloPJvYlNcWQgiwP1sB6xZCcsbOLxOyk_co.png" group-title="BEIN SPORT",beINSPORTS PREMIUM 1 HD 50FPS
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67149
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/94498
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238261&extension=ts&play_token=
 #EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS PREMIUM 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylyDkSBz4CMKbrq5CbCc90jGAzvbzqR5Sq7fjB4EobHd.png" group-title="BEIN SPORT",beINSPORTS PREMIUM 2 HD 50FPS
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67150
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/94494
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238262&extension=ts&play_token=
+
 #EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN SPORTS PREMIUM 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvTStaro4Ynnjh8f5TkdQrasyGgtudCESF097SZYiZW_.png" group-title="BEIN SPORT",beINSPORTS PREMIUM 3 HD 50FPS
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67151
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/94490
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238263&extension=ts&play_token=
+
 #EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN SPORTS 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygAomraa0QMezNho-6kfJHLy67UECyyeq2GPRWkZBr1M.png" group-title="BEIN SPORT",beINSPORTS 1 HD 50FPS
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67152
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/94486
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/7747.ts
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238265&extension=ts&play_token= 
+
 #EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN SPORTS 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="BEIN SPORT",beINSPORTS 2 HD 50FPS
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67153
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/94482
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238264&extension=ts&play_token=
+
 #EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN SPORTS 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymSyr0X-Tev19MUqEQ9KxaXQhcVMJ_CUVKAWNH-ER8Zm.png" group-title="BEIN SPORT",beINSPORTS 3 HD 50FPS
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67154
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/7746.ts
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/94478
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvU8lUHvjH_yEIb4_inoojSrsi8Uk2nfzJJLahI2VV-D.png" group-title="BEIN SPORT",beINSPORTS 4 HD 50FPS
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67155
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/94474
-#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN SPORTS 5 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyhdqjW7EE5oQSNPCq7ZxqB_i77sie-1CPDRDP0sQ0bWS.png" group-title="BEIN SPORT",beINSPORTS 5 HD 50FPS
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67156
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/7744.ts
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/94470
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyg_HGlhKZZsOBIDJOzUaTyiGpNWuHa-1s4wozBbDoCfQ.png" group-title="BEIN SPORT",beINSPORTS 6 HD 50FPS
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67157
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/94466
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqpVjhp-5dsCyN3AD3x1O_yquB07rTsL9QAszSx6EBng.png" group-title="BEIN SPORT",beINSPORTS 7 HD 50FPS
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67158
-http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/7742.ts
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/94462
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238266&extension=ts&play_token=
 #EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name="beIN SPORTS EN 1 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylUsWOFbZ_5mi-YhZg30nfjem9RCzo7aKVRRSwMOLV_8.png" group-title="BEIN SPORT",beINSPORTS EN 1 HD
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67159
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/94452
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483921&extension=ts&play_token=
 #EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-name="beIN SPORTS EN 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjf23n4CK1FPCVfUXyPZnXWQdpB6BLstNAWtfBxHqjmv.png" group-title="BEIN SPORT",beINSPORTS EN 2 HD
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67160
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/94448
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483920&extension=ts&play_token=
 #EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-name="beIN SPORTS EN 3 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym8DWQHK2_ENw2lG0hi8P54fxgij1yxAF3SOe57RV8Yv.png" group-title="BEIN SPORT",beINSPORTS EN 3 HD
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/67161
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/94444
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483919&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="BEIN SPORT",beINSports 1 TURKEY 
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1142.ts
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNGh2arrmyll-PXtWVpuO8x0/ts
