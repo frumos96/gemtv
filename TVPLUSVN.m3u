@@ -798,6 +798,7 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918983&extensi
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52862.ts
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SPORT ASEAN",Astro SuperSport 5 FHD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918982&extension=ts&play_token=
+http://iptvtree.net:8080/b12515fa/f176763b4e/287792
 #http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=918982&extension=ts&play_token=58gzcPWfQO
 #http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/68438
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY| Astro ARENA FHD" tvg-logo="http://dmtn.tv:8080/images/ya5l5yM1bhT_tvxGIMbFwjN-o6yFm6jJToyFhgbtpbw1Cn22_YSFkjZsn0szbGSU8iCwFyRgfimmLqjN0YxT0whfo0zNY8IUlEyoXl5t-lI.png" group-title="SPORT ASEAN",Astro ARENA FHD
@@ -847,41 +848,41 @@ http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19168.ts
 http://5.61.54.61/iptv/2XGCY732NCTX4V/12256/index.m3u8
 #http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38702
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="SPORT ASEAN", CCTV5 HD
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5H265_4000
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/468.m3u8
 https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5+.png" group-title="SPORT ASEAN", CCTV5+ HD
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/469.m3u8
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 #EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-1-1659.png" group-title="SPORT ASEAN",[TW]ELEVEN 1 
 http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 #EXTINF:0  group-title="Thể thao"  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-2-1660.png" group-title="SPORT ASEAN",[TW]ELEVEN 2 
-http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="SPORT ASEAN", SPO TV 1
-https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/287.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="SPORT ASEAN", SPO TV 2
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="SPORT ASEAN", SPOTV 1 KR
+https://cdn-us-154.cloudrsst.com/live/spotv_540/playlist.m3u8
+#https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/287.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="SPORT ASEAN", SPOTV 2 KR
+https://cdn-us-154.cloudrsst.com/live/spotv_2_540/playlist.m3u8
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/288.m3u8
+#EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu10.png" group-title="SPORT ASEAN",SPOTV_ON_🇰🇷
+https://cdn-us-154.cloudrsst.com/live/spotv_on_540/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/PC_intro_logo_menu05.png" group-title="SPORT ASEAN",SPOTV_PRIME_🇰🇷
+https://cdn-us-154.cloudrsst.com/live/spotv_prime_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-1-1077.png" group-title="SPORT ASEAN", Bein Sport 1 HD INDONESIA
 http://103.167.167.5:8111/play/a02m/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png" group-title="SPORT ASEAN",True Bein Sport 3 HD INDONESIA
 http://103.167.167.5:8111/play/a02n/index.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png" group-title="SPORT ASEAN",True Premier League 1 HD
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115758
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png" group-title="SPORT ASEAN",True Premier League 2 HD
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115762
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png" group-title="SPORT ASEAN",True Premier League 3 HD
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115510
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="SPORT ASEAN", PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd1.png" group-title="SPORT ASEAN",TRUE Sport 1 HD
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115531
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd2.png" group-title="SPORT ASEAN",TRUE Sport 2 HD 
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115533
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/2sporthd3.png" group-title="SPORT ASEAN",TRUE Sport 3 HD 
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115537
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/90/23/cc/MEHTVIJ_t.PNG" group-title="SPORT ASEAN",TRUE Sport HD THAI
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/90/23/cc/MEHTVIJ_t.PNG" group-title="SPORT ASEAN",Skynet Sport HD MYR
