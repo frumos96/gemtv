@@ -112,10 +112,6 @@ https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/508.m3u8
 http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CCTV-8.png/revision/latest?cb=20220111072628" group-title="Phim",CCTV_8.DRAMA
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/510.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm1c74Jy/UPLOAD-1648809294.png" group-title="Phim",CELESTIAL MOVIES HD
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54217
-#EXTINF:0 tvg-id="foxlife" group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1920px-Fox_life_logo.svg.png",FoxLife
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/66322
 #EXTINF:0 tvg-id="man" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/11.png", Man
 https://b.dl.dropboxusercontent.com/s/hozh2hp8cgrpfcr/man/s2/index.m3u8
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/282.m3u8
@@ -206,8 +202,8 @@ https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="paramouthd" group-title="Phim" logo="http://images.zaltv.club/logo/paramount.png", Paramount Channel
 http://api.vthanhtivi.pw/v1/getlink/tv360_s2/150/2
 #EXTINF:0 type="stream" channelId="-1" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/233.png", Hits
+https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/262.m3u8
-https://api.vthanhtivi.pw/v1/getlink/tv360_s2/107/2
 #EXTINF:0 tvg-id="afnhd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="discoveryhd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
@@ -563,7 +559,6 @@ https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/206.m3u8
 #EXTINF:0 tvg-id="antg" group-title="Ðịa phương"  tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/207.m3u8
-#EXTINF:0 tvg-id="haiduong" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/144.png", Hải Dương HD
 #EXTINF:-1 tvg-id="haiduong" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/144.png", THD HD | TH Hải Dương
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
@@ -798,10 +793,6 @@ https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="https://i.imgur.com/WTO8O0N.png", DreamWorks HD
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="http://images.zaltv.club/logo/lego.png", Lego Channel HD
-https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="https://www.lego.com/cdn/cs/set/assets/blt63a1f8ab06447f5d/71030_alt2.png", Lego Looney Tunes
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids_Logo.png", Rotana Kids HD
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
 
