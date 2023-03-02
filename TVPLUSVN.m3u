@@ -760,31 +760,35 @@ http://220.118.153.181:9981/stream/channelid/11?ticket=02BB2533BB2DA9F2C4B592854
 http://220.118.153.181:9981/stream/channelid/12?ticket=5FC8C413F9E0B7BFC089B1E0F19F62BD1135E9BD
 #EXTINF:0 group-title="Phim" logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png",KR: SPOTV2
 http://220.118.153.181:9981/stream/channelid/42?ticket=1DB68B3669158500E4AF7B4CF7C0325F8E50794E
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Kênh khác" , SCTV_se🇮🇩
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Kênh khác" , SCTV_se🇮🇩 FHD
+http://103.167.167.5:8111/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"  group-title="Kênh khác" , SCTV_vid🇮🇩
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"  group-title="Kênh khác" , SCTV_xp🇮🇩
-http://online-teve.xp3.biz/vidio/204.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/330px-ABS-CBN_%282013%29.svg.png"  group-title="Kênh khác" ,PH: ABS CBN
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/144837
 #EXTINF:-1 tvg-id="Channel3.th" group-title="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://61.19.242.134/feed/202205171929/ch3hd/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png", CH5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://61.19.242.134/feed/202205171929/ch5hd/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="Kênh khác"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png", CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://61.19.242.134/feed/202205171929/ch7hd/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
 #EXTINF:-1 group-title="Kênh khác"  tvg-logo="https://i.imgur.com/9apyiI0.png", ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://61.19.242.134/feed/202205171929/chonehd/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://i.imgur.com/RSQLFiU.png" group- title="Kênh khác",CH 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://61.19.242.134/feed/202205171929/ch8/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8
 #EXTINF:-1 group-title="Kênh khác"  tvg-logo="https://i.imgur.com/S4dSUQ7.png", MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://61.19.242.134/feed/202205171929/chmcothd/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/217.png", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
