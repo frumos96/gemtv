@@ -247,13 +247,15 @@ http://iptvid.my.id/hmm/sgem.m3u8
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 #EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="Sony One" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="Phim",SONY ONE_ASIA
 http://103.167.167.5:8111/play/a00u/index.m3u8
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/165077
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba8842e119ee61ac7c613e1e6a1e3e10:46ed2370a8cc4cef2665e03e110f9455
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="Phim",TVN_ASIA
-http://103.167.167.5:8111/play/a02u/index.m3u8
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157476
 #EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="Phim",TVN_MOVIES
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157596
+http://103.167.167.5:8111/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65HtxwHs/cropped-cropped-cropped-Untitled-design-2.png" group-title="Phim",Movies Hub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="Phim",DiziSmart_Premium HD
@@ -278,15 +280,27 @@ http://58.96.43.228:9981/stream/channelid/1625859261?ticket=C2A03CD567456F72A124
 
 
 ---------------------------------------GIẢI TRÍ----------------------------------------
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU", Nature 4k
+#EXTINF:-1 group-title="ULTRA 4K"tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO 4K
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016545&extension=ts&play_token=
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-hd-940.png" group-title="ULTRA 4K",ESPN 4K UHD 
+http://lmtv.me:80/3Xa6ZR/7yzVQY/95654
+#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="ULTRA 4K",BEIN Sports Premier League 4K
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016544&extension=ts&play_token=
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-4k-1903.png" group-title="ULTRA 4K",YES Sport5 4k
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
+#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="ULTRA 4K",DIGI 4k
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ziggo.svg/330px-Ziggo.svg.png" group-title="ULTRA 4K",Ziggo Sport 4K
+http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="ULTRA 4K", Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images4.imagebam.com/ae/55/65/MEGP94J_o.jpg", Clarity 4k
+#EXTINF:0 type="stream" channelId="-1" logo="https://images4.imagebam.com/ae/55/65/MEGP94J_o.jpg" group-title="ULTRA 4K", Clarity 4k
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng", Loupe 4K
+#EXTINF:0 type="stream" channelId="-1" logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng" group-title="ULTRA 4K", Loupe 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.hqth.me/logo/thumbs/232.png", FashionTV
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="ULTRA 4K", FashionTV
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.hqth.me/logo/thumbs/232.png", FashionTV 4K
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="ULTRA 4K", FashionTV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #-*------------------------------------------VTVCAB-*------------------------------------------#
@@ -742,23 +756,43 @@ http://de1se01.v2beat.live/playlist.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 ---------------------------------------KÊNH KHÁC----------------------------------------
-#EXTINF:-1 group-title="Phim" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",Telemundo Internacional MX
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",Telemundo Internacional MX
 http://hidra.live:80/wxFYeXT7K/do95R3pgW2/302728
 #https://nandplay.club:2053/8ZSmRY3kn5/AZ4mRz2rTsuR/1188
-#EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS 
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/240px-Mbc1logo.png",MBC ARAB
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1248
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png",MBC Drama 
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/1242
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="http://live.yoitv.com:9083/query/s/gnpNcLEhwujjXOxTl7gaJg==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV  
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="http://live.yoitv.com:9083/query/s/bRZUMcrX_kQ5R0XP-xJcZg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV  
+http://redlabmcdn.s.llnwi.net/nv02/bs05hd/playlist.m3u8
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="http://live.yoitv.com:9083/query/s/dfVr67j-Iy_J5tM4jYI7gQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", FUJI TV  
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="http://live.yoitv.com:9083/query/s/iU_IC-e38CjfLhlvUxqWRg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI  
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="http://live.yoitv.com:9083/query/s/dRNhWs1DLdcWq_ufN6fElg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO 
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="https://mms.businesswire.com/media/20200309005903/en/778696/23/KIRIN_HOLDINGS_logo.jpg", KIRIN
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="http://live.yoitv.com:9083/query/s/9FvJseD6_AtVYU1vxvgzFA==.jpg?type=live&thumbnail=thumbnail_small.jpg", TOKYO MX1  
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/330px-MBC_Drama_Plus_TV_Channel_Logo.png",MBC+ Drama 
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/3689
+#EXTINF:0 group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS 
 http://210.97.86.161:9981/stream/channelid/463719103?ticket=3E3DD97757B8C14F4E123814F65420854206FD73&profile=pass
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/481.m3u8
-#EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/330px-KBS_2_logo.svg.png", KBS2
+#EXTINF:0 group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/330px-KBS_2_logo.svg.png", KBS2
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/496.m3u8
-#EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/300px-Munhwa_Broadcasting_Company.svg.png",MBC
+#EXTINF:0 group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/300px-Munhwa_Broadcasting_Company.svg.png",MBC
 http://210.97.86.161:9981/stream/channelid/589724442?ticket=AD601BBECA660D11D0921B59D9288904A07C44C3&profile=pass
-#EXTINF:0 group-title="Phim" logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-korea.png", SBS Sport
+#EXTINF:0 group-title="Kênh khác" logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-korea.png", SBS Sport
 http://121.176.2.26:9981/stream/channelid/67?ticket=B55584C1EDF6FE74D10FA376A798EE7551FBCB82
-#EXTINF:0 group-title="Phim" logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-korea.png", SBS SportV2
+#EXTINF:0 group-title="Kênh khác" logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-korea.png", SBS SportV2
 http://220.118.153.181:9981/stream/channelid/11?ticket=02BB2533BB2DA9F2C4B592854FBF7827CD367C99
-#EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/330px-SPOTV_logo.svg.png",KR: SPOTV
+#EXTINF:0 group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/330px-SPOTV_logo.svg.png",KR: SPOTV
 http://220.118.153.181:9981/stream/channelid/12?ticket=5FC8C413F9E0B7BFC089B1E0F19F62BD1135E9BD
-#EXTINF:0 group-title="Phim" logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png",KR: SPOTV2
+#EXTINF:0 group-title="Kênh khác" logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png",KR: SPOTV2
 http://220.118.153.181:9981/stream/channelid/42?ticket=1DB68B3669158500E4AF7B4CF7C0325F8E50794E
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="Kênh khác" , SCTV_se🇮🇩 FHD
 http://103.167.167.5:8111/play/a00o/index.m3u8
@@ -829,12 +863,6 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 
 ---------------------------------------LIVES EVENT FPT------------------------------
 
-#EXTINF:-1 group-title="Lives Event" tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO 4K
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016545&extension=ts&play_token=
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-hd-940.png" group-title="SPORT ASEAN",ESPN 4K UHD 
-http://lmtv.me:80/3Xa6ZR/7yzVQY/95654
-#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="SPORT EUROPE",BEIN Sports Premier League 4K
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016544&extension=ts&play_token=
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
@@ -1056,6 +1084,8 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032527&extension=ts&play_token=%20
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="SPORT ASEAN",HubPremier 4 FHD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032526&extension=ts&play_token=%20
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-flow-sports-1-1553.png" group-title="SPORT ASEAN",CAR: Flow Sports
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/282764
 ---------------------------------------SPORT EUROPE----------------------------------------
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group-title="SPORT EUROPE",UK:SkySport PremierLeague HD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83447&extension=ts&play_token=3KHFIOBdo4
@@ -1148,6 +1178,7 @@ http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/155079
 ---------------------------------------BEIN SPORT ----------------------------------------
 #EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN SPORTS PREMIUM 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylp5fQN2WlloPJvYlNcWQgiwP1sB6xZCcsbOLxOyk_co.png" group-title="BEIN SPORT",beINSPORTS PREMIUM 1 HD 50FPS
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238261&extension=ts&play_token=
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/109
 #EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS PREMIUM 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylyDkSBz4CMKbrq5CbCc90jGAzvbzqR5Sq7fjB4EobHd.png" group-title="BEIN SPORT",beINSPORTS PREMIUM 2 HD 50FPS
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238262&extension=ts&play_token=
 
