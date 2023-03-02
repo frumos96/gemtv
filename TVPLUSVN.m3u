@@ -965,10 +965,6 @@ http://iptvtree.net:8080/b12515fa/f176763b4e/287792
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="MY| Astro ARENA 2 FHD" tvg-logo="http://dmtn.tv:8080/images/ya5l5yM1bhT_tvxGIMbFwjN-o6yFm6jJToyFhgbtpbw1Cn22_YSFkjZsn0szbGSU8iCwFyRgfimmLqjN0YxT00eokXXI2UYBtcWqRxiW-ew.png" group-title="SPORT ASEAN",Astro ARENA 2 FHD
 http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-one-sport-1588.png"  group-title="SPORT ASEAN",ONE 1 HD IL
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38714
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-one-sport-1588.png" group-title="SPORT ASEAN",ONE 2 HD IL
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38713
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="SPORT ASEAN",YES Sport 1 HD IL
 http://5.61.54.61/iptv/2XGCY732NCTX4V/12249/index.m3u8
 #http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38711
@@ -1042,6 +1038,7 @@ https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8?cc|Refere
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="SPORT ASEAN", PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://61.19.242.134/feed/202205171929/chpptvhd3/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/90/23/cc/MEHTVIJ_t.PNG" group-title="SPORT ASEAN",TRUE Sport HD THAI
 http://4digital.ddns.net:11222/ts/0
@@ -1060,14 +1057,9 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032527&extens
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="SPORT ASEAN",HubPremier 4 FHD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032526&extension=ts&play_token=%20
 ---------------------------------------SPORT EUROPE----------------------------------------
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sport News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sports_News_HD_UK.png" group-title="SPORT EUROPE",UK:SkySport News
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1477
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group-title="SPORT EUROPE",UK:SkySport PremierLeague HD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83447&extension=ts&play_token=3KHFIOBdo4
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1478
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sport Action HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Sky_Sports_Action_HD.png" group-title="SPORT EUROPE",UK:SkySport Action HD
-
-#http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1469
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Sky_Sports_Football_HD.png" group-title="SPORT EUROPE",UK:SkySport Football HD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83452&extension=ts&play_token=pxtzgxK6lC
 http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/1414
@@ -1085,13 +1077,13 @@ http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/53322
 http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/2096
 #http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1470
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png" group-title="SPORT EUROPE",UK: BTSport 1 HD
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1388
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=79486&extension=ts&play_token=kAWnD8KZ19
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png" group-title="SPORT EUROPE",UK: BTSport 2 HD
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1389
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=79485&extension=ts&play_token=m4KIBs1pG4
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="SPORT EUROPE",UK: BTSport 3 HD
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1309
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=79484&extension=ts&play_token=NjBfUWnyUQ
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-espn-98.png" group-title="SPORT EUROPE",UK: BTSport ESPN HD
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/1391
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1002857&extension=ts&play_token=3hyT2mAZqC
 #EXTINF:-1 Logo="http://images.zaltv.club/logo/live.gif" group-title="SPORT EUROPE",DE: Sport Digital HD#
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16524
 #http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/6982
