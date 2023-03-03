@@ -259,7 +259,10 @@ http://103.167.167.5:8111/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65HtxwHs/cropped-cropped-cropped-Untitled-design-2.png" group-title="Phim",Movies Hub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="Phim",DiziSmart_Premium HD
+http://5.61.54.61/iptv/2XGCY732NCTX4V/6802/index.m3u8
 http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/129145
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/1f/Yes_israeli.png/330px-Yes_israeli.png" group-title="Phim",YES Israeli Cinema
+http://5.61.54.61/iptv/2XGCY732NCTX4V/2342/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png" group-title="Phim",UK: Prime TV
 http://budtvlight.com:25461/budtvsports/wTu27rKVNU/40834
 #EXTINF:0 tvg-id="hallmark" group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
@@ -727,15 +730,16 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 #EXTINF:0 group-title="Music" logo="https://i.ibb.co/fQjkFFk/kralpop.jpg", Kral Pop TR
 http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/77371
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" group-title="Music",Drean Tuk HD
+http://5.61.54.61/iptv/2XGCY732NCTX4V/6873/index.m3u8
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/307097.ts
 #http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/77369
 #EXTINF:0 group-title="Music" logo="https://dash.tvzinos.com/assets/images/channel/66893.jpg", Gem Latino IR
 http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/211917
 #http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/192770
-#EXTINF:0 group-title="Music" tvg-id="5948" tvg-logo="http://epg.it999.ru/img2/5948.png" tvg-rec="0",Megogo live HD UA
-http://5.61.54.61/iptv/V5AAK6MWN34TAR/15234/index.m3u8
+#EXTINF:0 group-title="Music" tvg-id="5948" tvg-logo="http://epg.it999.ru/img2/5948.png" tvg-rec="0",FRESH POP HIT
+http://5.61.54.61/iptv/2XGCY732NCTX4V/18084/index.m3u8
 #EXTINF:0 group-title="Music" tvg-id="6273" tvg-logo="http://epg.it999.ru/img2/6273.png" tvg-rec="0",FRESH Russian Pop HD
-http://5.61.54.61/iptv/V5AAK6MWN34TAR/18085/index.m3u8
+http://5.61.54.61/iptv/2XGCY732NCTX4V/18085/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png", KPOP HD
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunkist.m3u8
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/498.m3u8
@@ -746,6 +750,11 @@ https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/96.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/KWg9F4c.png", VIVA HD
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+http://5.61.54.61/iptv/2XGCY732NCTX4V/10063/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://www.lyngsat.com/logo/tv/mm/musictop-ar.png", MUSICTOP HD
+http://5.61.54.61/iptv/2XGCY732NCTX4V/10072/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://static.vecteezy.com/system/resources/previews/006/249/962/non_2x/music-logo-icon-initial-letter-z-music-logo-design-template-element-vector.jpg", Z! MUSIC HD
+http://5.61.54.61/iptv/2XGCY732NCTX4V/14138/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png", 1HD Music
 https://sc.id-tv.kz/1hd.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="http://images.zaltv.club/logo/clubbingtv.png", ClubbingTV HD
@@ -753,6 +762,7 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="http://images.zaltv.club/logo/v2.jpg", V2BEAT HD
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/1200px-VH1_2020.svg.png", VH1 HD
+http://5.61.54.61/iptv/2XGCY732NCTX4V/18041/index.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 ---------------------------------------KÊNH KHÁC----------------------------------------
