@@ -1076,6 +1076,8 @@ https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 #EXTINF:0  group-title="Thể thao"  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-2-1660.png" group-title="SPORT ASEAN",[TW]ELEVEN 2 
 http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.onews.tv/news/photo/202204/122177_141445_3952.jpg" group-title="SPORT ASEAN", TvN SPORTS
+https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="SPORT ASEAN", SPOTV 1 KR
 https://cdn-us-154.cloudrsst.com/live/spotv_540/playlist.m3u8
 #https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/287.m3u8
@@ -1119,7 +1121,6 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032526&extens
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-flow-sports-1-1553.png" group-title="SPORT ASEAN",CAR: Flow Sports
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/282764
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/763
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-flow-sports-1-1553.png" group-title="SPORT ASEAN",CAR: Flow Sports
 
 ---------------------------------------SPORT EUROPE----------------------------------------
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group-title="SPORT EUROPE",UK:SkySport PremierLeague HD
@@ -1184,9 +1185,18 @@ http://bellive.top:8080/live/951664070451109006/3011664070451109/10130.ts
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1167.ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-premium-2516.png" group-title="SPORT EUROPE",CANAL+ Premium HD POLAND
 http://viptv.me:80/blackkill/vg8u9xXi8g/156821
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-se-viasat-sport-premium-493.png" group-title="SPORT EUROPE",Viasat Sport Premium HD SWEDEN
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16073
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/155079
+#EXTINF:0 group-title="SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="3",Setanta Sports HD
+http://5.61.54.61/iptv/2XGCY732NCTX4V/271/index.m3u8
+#EXTINF:0 group-title="SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="3",Setanta Sports 2
+http://5.61.54.61/iptv/2XGCY732NCTX4V/270/index.m3u8
+#EXTINF:0 group-title="SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="0",Setanta Eurasia HD
+http://5.61.54.61/iptv/2XGCY732NCTX4V/15183/index.m3u8
+#EXTINF:0 group-title="SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="0",Setanta Eurasia+
+http://5.61.54.61/iptv/2XGCY732NCTX4V/15184/index.m3u8
+#EXTINF:0 group-title="SPORT EUROPE" tvg-id="2630" tvg-logo="http://epg.it999.ru/img/2630.png" tvg-rec="3",Setanta Qazaqstan HD
+http://5.61.54.61/iptv/2XGCY732NCTX4V/2399/index.m3u8
+#EXTINF:0 group-title="SPORT EUROPE" tvg-id="2630" tvg-logo="http://epg.it999.ru/img/2630.png" tvg-rec="3",Setanta HD KZ orig
+http://5.61.54.61/iptv/2XGCY732NCTX4V/9094/index.m3u8
 
 ---------------------------------------BEIN SPORT ----------------------------------------
 #EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN SPORTS PREMIUM 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylp5fQN2WlloPJvYlNcWQgiwP1sB6xZCcsbOLxOyk_co.png" group-title="BEIN SPORT",beINSPORTS PREMIUM 1 HD 50FPS
