@@ -291,18 +291,28 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016545&extens
 http://lmtv.me:80/3Xa6ZR/7yzVQY/95654
 #EXTINF:-1 group-title="ULTRA 4K" tvg-id="6583" tvg-logo="http://epg.it999.ru/img2/6583.png" tvg-rec="0",ELEVEN SPORTS 1 UHD PT
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19158/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="ULTRA 4K",BEIN Sports Premier League 4K
+#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="ULTRA 4K",ASTRO Supersport 2 4K Premier League 4K
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016544&extension=ts&play_token=
+#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN Sports 4K
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-4k-1903.png" group-title="ULTRA 4K",YES Sport5 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ziggo.svg/330px-Ziggo.svg.png" group-title="ULTRA 4K",Ziggo Sport 4K
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
+#EXTINF:-1 group-title="4K频道" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png",咪咕体育-MiGU 4K-HLG源
+http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16-4K-25PHLG源
+http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="2803" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",ULTRA REX UHD 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/5003/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="ULTRA 4K",DIGI 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",TRT 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/4001/index.m3u8
+#EXTINF:0 group-title="ULTRA 4K" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai 4K
+http://5.61.54.61/iptv/2XGCY732NCTX4V/19091/index.m3u8
+#EXTINF:0 group-title="ULTRA 4K" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV 4K
+http://5.61.54.61/iptv/2XGCY732NCTX4V/5002/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="2800" tvg-logo="http://epg.it999.ru/img/2800.png" tvg-rec="3",Insight UHD 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/5000/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="5979" tvg-logo="http://epg.it999.ru/img2/5979.png" tvg-rec="0",Глазами Туриста 4K
@@ -315,8 +325,6 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/4003/index.m3u8
 http://5.61.54.61/iptv/2XGCY732NCTX4V/14247/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="6186" tvg-logo="http://epg.it999.ru/img/6186.png" tvg-rec="0",SKY HIGH MIX 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/17025/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/5002/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="6333" tvg-logo="http://epg.it999.ru/img2/6333.png" tvg-rec="0",UZ 4K Kino UHD
 http://5.61.54.61/iptv/2XGCY732NCTX4V/18162/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="6138" tvg-logo="http://epg.it999.ru/img2/6138.png" tvg-rec="0",YOSSO-4K
@@ -349,6 +357,10 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/18160/index.m3u8
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19402/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="5393" tvg-logo="http://epg.it999.ru/img2/5393.png" tvg-rec="0",Первый музыкальный 4k
 http://5.61.54.61/iptv/2XGCY732NCTX4V/14141/index.m3u8
+#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="6708" tvg-logo="http://epg.it999.ru/img2/6708.png" tvg-rec="0",BOX Relax 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19283/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="6013" tvg-logo="http://epg.it999.ru/img2/6013.png" tvg-rec="0",Muzzik Zz 4K
@@ -359,8 +371,10 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/19282/index.m3u8
 http://5.61.54.61/iptv/2XGCY732NCTX4V/11045/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="5561" tvg-logo="http://epg.it999.ru/img2/5561.png" tvg-rec="0",BCU Premiere Ultra 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/15023/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/19091/index.m3u8
+#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K
+http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EE6DBA9B-428F-460D-BAE3-5480771810C0.jpeg",北京IPTV-4K
+http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="ULTRA 4K", Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://images4.imagebam.com/ae/55/65/MEGP94J_o.jpg" group-title="ULTRA 4K", Clarity 4k
@@ -838,6 +852,8 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 http://hidra.live:80/wxFYeXT7K/do95R3pgW2/302728
 #https://nandplay.club:2053/8ZSmRY3kn5/AZ4mRz2rTsuR/1188
 #EXTINF:-1 group-title="Kênh khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/240px-Mbc1logo.png",MBC ARAB
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/1248
 #EXTINF:-1 group-title="Kênh khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png",MBC Drama 
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/1242
