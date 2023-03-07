@@ -162,23 +162,37 @@ https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/12.m3u8
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/13.m3u8
 #EXTINF:0 tvg-id="kkidshd" group-title="💚| K+" logo="https://i.ibb.co/gP7GDwp/5.webp", K+KIDS 
 https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/14.m3u8
-#EXTINF:0 tvg-id="ksport1hd" group-title="💚| K+" logo="https://i.ibb.co/rbMrqGf/1.webp", K+SPORT1 
+#EXTINF:0 tvg-id="ksport1hd" group-title="💚| K+" logo="https://i.ibb.co/rbMrqGf/1.webp", K+SPORT1 FPTPLAY
 https://stream.sugustv.tk/live/sugusnew/sugustv/15.m3u8
 #https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/337.m3u8
 #EXTINF:0 tvg-id="ksport2hd" group-title="💚| K+" logo="https://i.ibb.co/9TVkkNn/2.webp", K+SPORT2 
 #https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/338.m3u8
 https://stream.sugustv.tk/live/sugusnew/sugustv/16.m3u8
-#EXTINF:0 tvg-id="kcinehd" group-title="💚| K+" logo="https://i.ibb.co/h8FLFc7/3.webp", K+CINE MyTv
+#EXTINF:0 tvg-id="kcinehd" group-title="💚| K+" logo="https://i.ibb.co/h8FLFc7/3.webp", K+CINE VIEON
 https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest_2.m3u8
-#EXTINF:0 tvg-id="klifehd" group-title="K+" logo="https://i.ibb.co/MS363r3/4.webp", K+LIFE MyTv
+#EXTINF:0 tvg-id="klifehd" group-title="K+" logo="https://i.ibb.co/MS363r3/4.webp", K+LIFE VIEON
 https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest_2.m3u8
-#EXTINF:0 tvg-id="ksport1hd" group-title="💚| K+" logo="https://i.ibb.co/rbMrqGf/1.webp", K+SPORT1 MyTv 
+#EXTINF:0 tvg-id="ksport1hd" group-title="💚| K+" logo="https://i.ibb.co/rbMrqGf/1.webp", K+SPORT1 VIEON 
 https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest_2.m3u8
-#EXTINF:0 tvg-id="ksport2hd" group-title="💚| K+" logo="https://i.ibb.co/9TVkkNn/2.webp", K+SPORT2 MyTv 
+#EXTINF:0 tvg-id="ksport2hd" group-title="💚| K+" logo="https://i.ibb.co/9TVkkNn/2.webp", K+SPORT2 VIEON
 https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest_2.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest?cb=20220127020331&path-prefix=vi", K+KIDS HD
 https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest_2.m3u8
-
+#EXTINF:-1 group-title="💚| K+" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",K+ SPORT1 29HN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Nbx5fDBRlW9yM5ylOAPRaw","kid":"aKrt2n4bPSyBk8RZVIfXFg"}],"type":"temporary"} 
+https://tinyurl.com/yf9vdepu
+#EXTINF:-1 tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png" group-title="💚| K+", K+LIFE 29HN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v229B99difHRS4PMmjtwhw", "kid":"gSEyQDAQPLKOGfXKn1utqg" } ], "type":"temporary" } 
+https://tinyurl.com/4hftdv97
+#EXTINF:-1 group-title="💚| K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ CINE 29HN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jwt5Mle9591yTYRbFKhLyg", "kid":"zBW5DIGyNgmWFKH0DqIINg" } ], "type":"temporary" } 
+https://tinyurl.com/4wu33cc9
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/231.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
