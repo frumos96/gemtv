@@ -176,92 +176,28 @@ https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_nhipsong_22_08_20
 https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest_2.m3u8
 #EXTINF:0 tvg-id="ksport2hd" group-title="💚| K+" logo="https://i.ibb.co/9TVkkNn/2.webp", K+SPORT2 VIEON
 https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest_2.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest?cb=20220127020331&path-prefix=vi", K+KIDS HD
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest_2.m3u8
-#EXTINF:-1 group-title="💚| K+" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",K+ SPORT1 29HN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Nbx5fDBRlW9yM5ylOAPRaw","kid":"aKrt2n4bPSyBk8RZVIfXFg"}],"type":"temporary"} 
-https://tinyurl.com/yf9vdepu
-#EXTINF:-1 tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png" group-title="💚| K+", K+LIFE 29HN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v229B99difHRS4PMmjtwhw", "kid":"gSEyQDAQPLKOGfXKn1utqg" } ], "type":"temporary" } 
-https://tinyurl.com/4hftdv97
-#EXTINF:-1 group-title="💚| K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ CINE 29HN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jwt5Mle9591yTYRbFKhLyg", "kid":"zBW5DIGyNgmWFKH0DqIINg" } ], "type":"temporary" } 
-https://tinyurl.com/4wu33cc9
+
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/231.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="paramouthd" group-title="Phim" logo="http://images.zaltv.club/logo/paramount.png", Paramount Channel
-http://api.vthanhtivi.pw/v1/getlink/tv360_s2/150/2
-#EXTINF:0 type="stream" channelId="-1" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/233.png", Hits
-https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
-https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/262.m3u8
-#EXTINF:0 tvg-id="afnhd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
-https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="discoveryhd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
-https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="discoveryasiahd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/205.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="ngchd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/206.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic
-https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="ngwhd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/207.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
-https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="Kênh khác" logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png?fit=960%2C540&ssl=1", WILDEARTH
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311819.ts
-#EXTINF:0 group-title="Kênh khác" logo="https://images4.imagebam.com/71/bf/96/MEFIXCS_o.png", Nat Geo People
-http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/138419
-http://viptv.me:80/logantv/ACXhn9BC5m/73706
-#EXTINF:0 tvg-id="outdoorfhd" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
-https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="blueantent" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/228.png", Blue Ant Entertainment
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="blueantext" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/229.png", Blue Ant Extreme
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="bbcearth" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/210.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
-https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="bbclifestyle" ggroup-title="Kênh khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
-https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
-https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/240.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/300px-HBO_Signature_Asia.png",HBO_Signature
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/9755.ts
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/258.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="Phim",KPLUS HD
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787.m3u8
-#EXTINF:-1 tvg-id="GEM.sg" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/x64s18m/GEM.png" group-title="Phim",SONY GEM
-http://103.167.167.5:8111/play/a00z/index.m3u8
-http://iptvid.my.id/hmm/sgem.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
-https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
-#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="Sony One" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="Phim",SONY ONE_ASIA
-http://103.167.167.5:8111/play/a00u/index.m3u8
-http://iptvtree.net:8080/fee2bbca/12e32aafa1/165077
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba8842e119ee61ac7c613e1e6a1e3e10:46ed2370a8cc4cef2665e03e110f9455
-#http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="Phim",TVN_ASIA
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157476
 #EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="Phim",TVN_MOVIES
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157596
 http://103.167.167.5:8111/play/a02u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65HtxwHs/cropped-cropped-cropped-Untitled-design-2.png" group-title="Phim",Movies Hub
-https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="Phim",DiziSmart_Premium HD
 http://5.61.54.61/iptv/2XGCY732NCTX4V/6802/index.m3u8
 http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/129145
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/1f/Yes_israeli.png/330px-Yes_israeli.png" group-title="Phim",YES Israeli Cinema
 http://5.61.54.61/iptv/2XGCY732NCTX4V/2342/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/yy/yes-movies-action-il.png" group-title="Phim",YES•Movies Action HD
+http://myott.top/stream/93K4NA7ZUL/380.m3u8
 #EXTINF:-1 group-title="Phim" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",Sky Romance TV FHD DE
 http://5.61.54.61/iptv/2XGCY732NCTX4V/7231/index.m3u8
 #http://balkantv.net:25461/libertassnova/285JgksRxuc35fc7MKsm6q5S/15399
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png" group-title="Phim",UK: Prime TV
-http://budtvlight.com:25461/budtvsports/wTu27rKVNU/40834
 #EXTINF:0 tvg-id="hallmark" group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92949.ts
 #http://balkantv.net:25461/libertassnova/285JgksRxuc35fc7MKsm6q5S/6986
@@ -276,16 +212,104 @@ http://budtvlight.com:25461/budtvsports/wTu27rKVNU/1922
 http://58.96.43.228:9981/stream/channelid/808262435?ticket=DA54CCFBD71A64807EE57FA9BBECC179D140B263&profile=pass
 #EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/SBS_Viceland_logo_2016.png/375px-SBS_Viceland_logo_2016.png", AU: SBS Viceland
 http://58.96.43.228:9981/stream/channelid/1625859261?ticket=C2A03CD567456F72A124B5C7D45B1F1EAC82FCD7&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Phim",Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65HtxwHs/cropped-cropped-cropped-Untitled-design-2.png" group-title="Phim",Movies Hub
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Phim",RedBox Spotlight
+https://spotlight-redbox.amagi.tv:443/playlist240p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Phim",RedBox Comedy
+https://comedy-redbox.amagi.tv:443/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Phim",Gravitas_Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Phim",My time Movies Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Phim",FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Phim",Rakuten Action Movies
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png" group-title="Phim",UK: Prime TV
+http://budtvlight.com:25461/budtvsports/wTu27rKVNU/40834
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Phim",STIRR Horror Movies
+https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Phim",STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
+
+---------------------------------------lifestyle----------------------------------------
+#EXTINF:0 tvg-id="afnhd" group-title="lifestyle" logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
+https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="discoveryhd" group-title="lifestyle" logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="lifestyle" logo="https://cdn.hqth.me/logo/thumbs/205.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="ngchd" group-title="lifestyle" logo="https://cdn.hqth.me/logo/thumbs/206.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="ngwhd" group-title="lifestyle" logo="https://cdn.hqth.me/logo/thumbs/207.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="lifestyle" logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png?fit=960%2C540&ssl=1", WILDEARTH
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311819.ts
+#EXTINF:0 group-title="lifestyle" logo="https://images4.imagebam.com/71/bf/96/MEFIXCS_o.png", Nat Geo People
+http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/138419
+http://viptv.me:80/logantv/ACXhn9BC5m/73706
+#EXTINF:0 tvg-id="outdoorfhd" group-title="lifestyle" logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="blueantent" group-title="lifestyle" logo="https://cdn.hqth.me/logo/thumbs/228.png", Blue Ant Entertainment
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="blueantext" group-title="lifestyle" logo="https://cdn.hqth.me/logo/thumbs/229.png", Blue Ant Extreme
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="bbcearth" group-title="lifestyle" logo="https://cdn.hqth.me/logo/thumbs/210.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="bbclifestyle" ggroup-title="lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
+https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="lifestyle" logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/240.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="lifestyle" logo="http://images.zaltv.club/logo/animal_planet.png", Animal Planet
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="lifestyle" logo="http://images.zaltv.club/logo/da-vinc.png", Da Vinci HD
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="lifestyle" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/300px-2018_Travel_Channel_logo.svg.png ", Travel Channel HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93513.ts
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93675
+#EXTINF:0 tvg-id="historyhd" group-title="lifestyle" logo="http://images.zaltv.club/logo/history.png", History HD
+http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92973.ts
+http://budtvlight.com:25461/budtvsports/wTu27rKVNU/1967
+#EXTINF:0 tvg-id="paramouthd" group-title="lifestyle" logo="http://images.zaltv.club/logo/paramount.png", Paramount Channel
+http://api.vthanhtivi.pw/v1/getlink/tv360_s2/150/2
+#EXTINF:0 type="stream" channelId="-1" group-title="lifestyle" logo="https://cdn.hqth.me/logo/thumbs/233.png", Hits
+https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
+https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/262.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="lifestyle",KPLUS HD
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787.m3u8
+#EXTINF:-1 tvg-id="GEM.sg" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/x64s18m/GEM.png" group-title="lifestyle",SONY GEM
+http://103.167.167.5:8111/play/a00z/index.m3u8
+http://iptvid.my.id/hmm/sgem.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
+https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
+#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="Sony One" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="lifestyle",SONY ONE_ASIA
+http://103.167.167.5:8111/play/a00u/index.m3u8
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/165077
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba8842e119ee61ac7c613e1e6a1e3e10:46ed2370a8cc4cef2665e03e110f9455
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+#EXTINF:-1   tvg-logo="https://thumbor.prod.vidiocdn.com/uhO4k9iqRVaHjZeJXJ2KpRw_w-k=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="lifestyle",TransTv🇮🇩
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/56833.ts
+#EXTINF:-1   tvg-logo="https://banner2.cleanpng.com/20180705/ysk/kisspng-trans7-indonesia-trans-tv-streaming-media-televisi-trans-march-5b3e7ad8485fe7.3547006515308213362965.jpg" group-title="lifestyle",Trans7🇮🇩
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/72876.ts
+#EXTINF:-1   tvg-logo="https://dizistatic.tv2zcdn.com/images/489bd450f8a0008325d01c5adeabd7c91598b538.png" group-title="lifestyle",DIZI
+http://103.167.167.5:8111/play/a00j/index.m3u8
 
 ---------------------------------------ULTRA 4K----------------------------------------
-#EXTINF:-1 group-title="ULTRA 4K"tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO 4K
+#EXTINF:-1 group-title="ULTRA 4K"tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO Supersport2 4K
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016545&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-hd-940.png" group-title="ULTRA 4K",ESPN 4K UHD 
 http://lmtv.me:80/3Xa6ZR/7yzVQY/95654
 #EXTINF:-1 group-title="ULTRA 4K" tvg-id="6583" tvg-logo="http://epg.it999.ru/img2/6583.png" tvg-rec="0",ELEVEN SPORTS 1 UHD PT
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19158/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="ULTRA 4K",ASTRO Supersport 2 4K Premier League 4K
+#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="ULTRA 4K",ASTRO 4K Premier League 4K
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016544&extension=ts&play_token=
 #EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EDD40422-068B-429C-80B0-F210D515DF2C.png",Hub Premier Sport 4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
@@ -821,6 +845,8 @@ http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/211917
 http://5.61.54.61/iptv/2XGCY732NCTX4V/18084/index.m3u8
 #EXTINF:0 group-title="Music" tvg-id="6273" tvg-logo="http://epg.it999.ru/img2/6273.png" tvg-rec="0",FRESH Russian Pop HD
 http://5.61.54.61/iptv/2XGCY732NCTX4V/18085/index.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg" group-title="Music",Music°On! TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png", KPOP HD
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunkist.m3u8
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/498.m3u8
@@ -856,9 +882,9 @@ https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/1248
 #EXTINF:-1 group-title="Kênh khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png",MBC Drama 
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/1242
-#EXTINF:-1 group-title="Kênh khác" tvg-logo="http://live.yoitv.com:9083/query/s/gnpNcLEhwujjXOxTl7gaJg==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV  
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="http://live.yoitv.com:9083/query/s/gnpNcLEhwujjXOxTl7gaJg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS-Nippon TV  
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
-#EXTINF:-1 group-title="Kênh khác" tvg-logo="http://live.yoitv.com:9083/query/s/bRZUMcrX_kQ5R0XP-xJcZg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV  
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="http://live.yoitv.com:9083/query/s/bRZUMcrX_kQ5R0XP-xJcZg==.jpg?type=live&thumbnail=thumbnail_small.jpg",BS-TBS TV  
 http://redlabmcdn.s.llnwi.net/nv02/bs05hd/playlist.m3u8
 #EXTINF:-1 group-title="Kênh khác" tvg-logo="http://live.yoitv.com:9083/query/s/dfVr67j-Iy_J5tM4jYI7gQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", FUJI TV  
 http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
@@ -870,6 +896,12 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
 #EXTINF:-1 group-title="Kênh khác" tvg-logo="http://live.yoitv.com:9083/query/s/9FvJseD6_AtVYU1vxvgzFA==.jpg?type=live&thumbnail=thumbnail_small.jpg", TOKYO MX1  
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
+#EXTINF:1 tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/25-WOWOW-PRIME.jpg" group-title="Kênh khác",WOWOW°Prime	
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1 tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/24-WOWOW-LIVE.jpg" group-title="Kênh khác",WOWOW°Live	
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1 tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/23-WOWOW-CINEMA-770x480.jpg" group-title="Kênh khác",WOWOW°Cinema	
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="Kênh khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/330px-MBC_Drama_Plus_TV_Channel_Logo.png",MBC+ Drama 
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/3689
 #EXTINF:0 group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS 
@@ -919,18 +951,9 @@ http://61.19.242.134/feed/202205171929/chmcothd/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/217.png", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="http://images.zaltv.club/logo/animal_planet.png", Animal Planet
-https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="http://images.zaltv.club/logo/da-vinc.png", Da Vinci HD
-https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://mytv.com.vn/upload/channel/65.png", TV5Monde Asie
 https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/300px-2018_Travel_Channel_logo.svg.png ", Travel Channel HD
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93513.ts
-http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93675
-#EXTINF:0 tvg-id="historyhd" group-title="Kênh khác" logo="http://images.zaltv.club/logo/history.png", History HD
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92973.ts
-http://budtvlight.com:25461/budtvsports/wTu27rKVNU/1967
+
 
 ---------------------------------------THIẾU NHI----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="https://dl.dropboxusercontent.com/s/lslvqe41s8j7itv/PBS", PBS Kids HD
@@ -1269,10 +1292,13 @@ http://103.167.167.5:8111/play/a02m/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png" group-title="SPORT ASEAN",True Bein Sport 3 HD INDONESIA
 http://103.167.167.5:8111/play/a02n/index.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png" group-title="SPORT ASEAN",True Premier League 1 HD
+http://live.apicold.com/streaming/02_PremierHD1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png" group-title="SPORT ASEAN",True Premier League 2 HD
+http://live.apicold.com/streaming/02_PremierHD2_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png" group-title="SPORT ASEAN",True Premier League 3 HD
+http://live.apicold.com/streaming/02_PremierHD3_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8?cc|Referer=https://sport.livedoomovies.com/
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="SPORT ASEAN", PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1547,13 +1573,19 @@ http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/69537
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-prime-2643.png" group-title="SPORT EX-YU",GR: Nova Sports Prime HD
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/291116
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png" group-title="SPORT EX-YU",CRO:ARENA•SPORT 1 HD
+http://93.155.227.38:555/m3u8/arenasport1.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/162647
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-2-315.png" group-title="SPORT EX-YU",CRO:ARENA•SPORT 2 HD
+http://93.155.227.38:555/m3u8/arenasport2.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/162648
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-3-316.png" group-title="SPORT EX-YU",CRO:ARENA•SPORT 3 HD
+http://93.155.227.38:555/m3u8/arenasport3.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/162649
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-4-317.png" group-title="SPORT EX-YU",CRO:ARENA•SPORT 4 HD
+http://93.155.227.38:555/m3u8/arenasport4.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/162650
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-5-318.png" group-title="SPORT EX-YU",CRO:ARENA•SPORT 4 HD
+http://93.155.227.38:555/m3u8/arenasport5.m3u8
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png" group-title="SPORT EX-YU",EX-YU: ARENA•SPORT 1 HD
 http://viptv.me:80/blackkill/vg8u9xXi8g/133074
 #EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-2-315.png" group-title="SPORT EX-YU",EX-YU: ARENA•SPORT 2 HD
