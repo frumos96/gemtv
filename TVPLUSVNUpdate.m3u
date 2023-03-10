@@ -336,6 +336,8 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&e
 http://5.61.54.61/iptv/2XGCY732NCTX4V/4001/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19091/index.m3u8
+#EXTINF:0 group-title="ULTRA 4K" tvg-id="2802" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV 4K
+http://5.61.54.61/iptv/2XGCY732NCTX4V/5002/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV FIT 4K
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/48677.ts
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="2800" tvg-logo="http://epg.it999.ru/img/2800.png" tvg-rec="3",Insight UHD 4K
@@ -370,20 +372,16 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/19305/index.m3u8
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19306/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="6730" tvg-logo="http://epg.it999.ru/img2/6730.png" tvg-rec="0",LIBERTY СОЮЗ 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19307/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6731" tvg-logo="http://epg.it999.ru/img2/6731.png" tvg-rec="0",LIBERTY ЛЕГЕНДА 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/19308/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6232" tvg-logo="http://epg.it999.ru/img2/6232.png" tvg-rec="0",LIBERTY MULT 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/18051/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6229" tvg-logo="http://epg.it999.ru/img2/6229.png" tvg-rec="0",LIBERTY MULTUKR 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/18044/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="6340" tvg-logo="http://epg.it999.ru/img2/6340.png" tvg-rec="0",LIBERTY INDI 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/18160/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="6855" tvg-logo="http://epg.it999.ru/img2/6855.png" tvg-rec="0",LIBERTY NETFLIX 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19402/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="4804" tvg-logo="http://epg.it999.ru/img/4804.png" tvg-rec="0",VF Кино 4K
+http://5.61.54.61/iptv/2XGCY732NCTX4V/11114/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="4805" tvg-logo="http://epg.it999.ru/img/4805.png" tvg-rec="0",VF Сериал 4K
+http://5.61.54.61/iptv/2XGCY732NCTX4V/11115/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="5393" tvg-logo="http://epg.it999.ru/img2/5393.png" tvg-rec="0",Первый музыкальный 4k
 http://5.61.54.61/iptv/2XGCY732NCTX4V/14141/index.m3u8
-#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="6708" tvg-logo="http://epg.it999.ru/img2/6708.png" tvg-rec="0",BOX Relax 4K
