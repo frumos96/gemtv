@@ -310,6 +310,8 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension
 #EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-4k-1978.png",Now Premier Sport 4K
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1032489&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN Sports 4K
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=269457&extension=ts&play_token=
+#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png",Canal+ Foot 4K
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-4k-1903.png" group-title="ULTRA 4K",YES Sport5 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
@@ -332,6 +334,8 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&e
 http://5.61.54.61/iptv/2XGCY732NCTX4V/4001/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19091/index.m3u8
+#EXTINF:0 group-title="ULTRA 4K" tvg-logo="https://yt3.googleusercontent.com/wbxCrYrRYvuTn3oB-qst3TFyzOFimf9HRHlZKSfyp2l11qisukhaxU89H17w_Orvv4-xOeBiQX4=s900-c-k-c0x00ffffff-no-rj",N1 Play ULTRAHD SE 4K
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=213219&extension=ts&play_token=
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="2802" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/5002/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV FIT 4K
@@ -382,8 +386,12 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/14141/index.m3u8
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="6708" tvg-logo="http://epg.it999.ru/img2/6708.png" tvg-rec="0",BOX Relax 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19283/index.m3u8
+#EXTINF:0 group-title="ULTRA 4K"  tvg-logo="https://i.ytimg.com/vi/uYWzZ3EDuGQ/maxresdefault.jpg" ,FLYING OVER SWEDEN ULTRAHD 4K
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=217671&extension=ts&play_token=
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="6013" tvg-logo="http://epg.it999.ru/img2/6013.png" tvg-rec="0",Muzzik Zz 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/16044/index.m3u8
+#EXTINF:0 group-title="ULTRA 4K" tvg-id="6013" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/12/Megapix1.jpg/revision/latest?cb=20190213194818&path-prefix=pt-br" tvg-rec="0",Megapix 4K UHD BR
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=51188&extension=ts&play_token=h3Jb2BBUAL
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="6707" tvg-logo="http://epg.it999.ru/img2/6707.png" tvg-rec="0",BOX Music 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19282/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="4766" tvg-logo="http://epg.it999.ru/img/4766.png" tvg-rec="7",BCU Ultra 4K
@@ -1392,6 +1400,8 @@ http://bellive.top:8080/live/951664070451109006/3011664070451109/10130.ts
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1167.ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-premium-2516.png" group-title="SPORT EUROPE",CANAL+ Premium HD POLAND
 http://viptv.me:80/blackkill/vg8u9xXi8g/156821
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-ultra-hd-sweden.png" group-title="SPORT EUROPE",V Sport UltraHD DK
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=114242&extension=ts&play_token=
 #EXTINF:0 group-title="SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="3",Setanta Sports HD
 http://5.61.54.61/iptv/2XGCY732NCTX4V/271/index.m3u8
 #EXTINF:0 group-title="SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="3",Setanta Sports 2
