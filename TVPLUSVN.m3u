@@ -909,12 +909,15 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="Kênh khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/330px-MBC_Drama_Plus_TV_Channel_Logo.png",MBC+ Drama 
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/3689
 #EXTINF:0 group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS 
+http://210.97.86.161:9981/stream/channelid/463719103?ticket=D058EDD8AFACA9036AC103B4081CE67F5136ED06&profile=pass
 http://210.97.86.161:9981/stream/channelid/463719103?ticket=3E3DD97757B8C14F4E123814F65420854206FD73&profile=pass
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/481.m3u8
 #EXTINF:0 group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/330px-KBS_2_logo.svg.png", KBS2
+http://210.97.86.161:9981/stream/channelid/441756618?ticket=4D9C49EE99298173910400BC3A1BDA996022CB54&profile=pass
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/496.m3u8
 #EXTINF:0 group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/300px-Munhwa_Broadcasting_Company.svg.png",MBC
 http://210.97.86.161:9981/stream/channelid/589724442?ticket=AD601BBECA660D11D0921B59D9288904A07C44C3&profile=pass
+http://210.97.86.161:9981/stream/channelid/589724442?ticket=4DBBEC94BA302C3A676DD630F09EC981676197BA&profile=pass
 #EXTINF:0 group-title="Kênh khác" logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-korea.png", SBS Sport
 http://121.176.2.26:9981/stream/channelid/67?ticket=B55584C1EDF6FE74D10FA376A798EE7551FBCB82
 #EXTINF:0 group-title="Kênh khác" logo="https://cdn.livesoccertv.com/images/channels/thumbnails/espn-korea.png", SBS SportV2
