@@ -311,12 +311,12 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1032489&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN Sports 4K
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
-#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-4k-ultra-hd-2008.png",Canal + 4K Ultra HD
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/54657.ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-4k-1903.png" group-title="ULTRA 4K",YES Sport5 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ziggo.svg/330px-Ziggo.svg.png" group-title="ULTRA 4K",Ziggo Sport 4K
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
+#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg",V Sports UHD
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=35891&extension=ts&play_token=h3Jb2BBUAL
 #EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png",咪咕体育-MiGU 4K-HLG源
 http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png",纯享4K备
@@ -336,6 +336,8 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/19091/index.m3u8
 http://5.61.54.61/iptv/2XGCY732NCTX4V/5002/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV FIT 4K
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/48677.ts
+#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-4k-ultra-hd-2008.png",Canal + 4K Ultra HD
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/54657.ts
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="2800" tvg-logo="http://epg.it999.ru/img/2800.png" tvg-rec="3",Insight UHD 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/5000/index.m3u8
 #EXTINF:0 group-title="ULTRA 4K" tvg-id="5979" tvg-logo="http://epg.it999.ru/img2/5979.png" tvg-rec="0",Глазами Туриста 4K
