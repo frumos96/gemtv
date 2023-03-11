@@ -56,6 +56,7 @@ https://stream.sugustv.tk:443/live/456D42517DBCB17D9AE2142AEA912CF9/348.m3u8
 #https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:0 tvg-id="htv2hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/48.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 HD
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=http://sctvonline.vn
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/98.m3u8
 #EXTINF:0 tvg-id="htv7hd" group-title="VTV" logo="https://i.imgur.com/L8fXB1M.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8?cc|Referer=http://sctvonline.vn
@@ -785,9 +786,9 @@ https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/340.m3u8
-#EXTINF:-1 tvg-id="anvienhd" group-title="Ðịa phương" tvg-logo="https://i.ibb.co/XJngd96/99.png",BTV9 - An Viên
+#EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/XJngd96/99.png",BTV9 - An Viên
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="binhphuoc1" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/122.png", Bình Phước 1 HD
+#EXTINF:0 tvg-id="binhphuoc1" group-title="🇻🇳| Địa phương" logo="https://cdn.hqth.me/logo/thumbs/122.png", Bình Phước 1 HD
 https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/342.m3u8
 http://103.90.220.236/bptvlive/tv1live.m3u8
 #EXTINF:0 tvg-id="binhphuoc2" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/123.png", Bình Phước 2 HD
@@ -818,6 +819,8 @@ https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
 #http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
 #EXTINF:0 tvg-id="cantho" group-title="Ðịa phương" logo="https://cdn.hqth.me/logo/thumbs/126.png", Cần Thơ HD
 https://vips-livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/147.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/181/auto/dvr-${start}-${end}.m3u8", HGTV HD | TH Hậu Giang
+https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/171.png", STV1 | TH Sóc Trăng
 https://code.vthanhtivi.pw/getlink/mytv/52/hd.m3u8
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
