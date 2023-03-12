@@ -3,19 +3,19 @@
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 Viettel
-https://stream.sugustv.tk:443/hieu3r/starlin68/1
+https://iplogger.com/VTV1
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2
 #https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2 Viettel
 http://live-zlr1.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3
-#https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
+https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3 Viettel
 http://live-ali2.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV4
 https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV4 Viettel
-https://stream.sugustv.tk:443/hieu3r/starlin68/4
+https://iplogger.com/VTV4
 #EXTINF:0 tvg-id="vtv5tnb" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
 #EXTINF:0 tvg-id="vtv5tn" group-title="VTV" logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
@@ -76,9 +76,9 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="Sctv" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 - Giải trí
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
-https://stream.sugustv.tk:443/hieu3r/starlin68/178
+http://livecdn.fptplay.net/hda3/film360_vhls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="sctv16hd" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
-https://stream.sugustv.tk:443/hieu3r/starlin68/415
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Phim" logo="https://i.imgur.com/F0N0TmU.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="hbohd" group-title="Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
@@ -593,7 +593,7 @@ http://vtsstr4.sctv.vn:1935/live/SCTVHDThieunhi_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv4hd" tvg-logo="https://i.ibb.co/hLdbFB4/SCTV4.png", SCTV4ˢᵛ²
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
-http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+https://stream.sugustv.tk/live/D7AA1B22D4B4E0F035C7DFE06C4874FC/178.ts
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/5hGNfBz/SCTV7.png", SCTV7ˢᵛ² SHOW TV
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv8hd" tvg-logo="https://i.ibb.co/Pmydd5Q/SCTV8.png", SCTV8ˢᵛ² VITV
@@ -612,7 +612,7 @@ https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/413.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15ˢᵛ² SSPORT2
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/XZJFWNd/SCTV16.png", SCTV16ˢᵛ² Phim Nuoc ngoai Ðac SaC
-http://vtsstr4.sctv.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
+https://stream.sugustv.tk/live/D7AA1B22D4B4E0F035C7DFE06C4874FC/415.ts
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv17hd" tvg-logo="https://i.ibb.co/QK2D2vt/SCTV17.png", SCTV17ˢᵛ² SSPORT
 http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv18hd" tvg-logo="https://i.ibb.co/7Kz7hS6/SCTV18.png", SCTV18ˢᵛ² Kenh 18
