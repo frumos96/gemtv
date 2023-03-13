@@ -75,32 +75,36 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="Sctv" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 - Giải trí
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
+#EXTINF:-1 group-title="Sctv" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
 http://livecdn.fptplay.net/hda3/film360_vhls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="sctv16hd" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
+#EXTINF:0 tvg-id="sctv16hd" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
-#EXTINF:0 tvg-id="cinemaxhd" group-title="Phim" logo="https://i.imgur.com/F0N0TmU.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
+#EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim" logo="https://i.imgur.com/F0N0TmU.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="hbohd" group-title="Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
+#EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="boxmovie1" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 
+#EXTINF:0 tvg-id="boxmovie1" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="hollywoodclassics" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="hollywoodclassics" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classicsˢᵛ² 
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classicsˢᵛ² 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
-#EXTINF:0 tvg-id="boxhits" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hitsˢᵛ² 
+#EXTINF:-1 tvg-id="boxhits" group-title="🎬| Phim" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", Box Hits
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/BoxHit
+#EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hitsˢᵛ² 
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
-#EXTINF:0 tvg-id="inthebox" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", Boxˢᵛ² 
+#EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", Boxˢᵛ² 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="Phim",CCTV_6.MOVIE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="🎬| Phim",CCTV_6.MOVIE
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CCTV-8.png/revision/latest?cb=20220111072628" group-title="Phim",CCTV_8.DRAMA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CCTV-8.png/revision/latest?cb=20220111072628" group-title="🎬| Phim",CCTV_8.DRAMA
 #EXTINF:0 tvg-id="man" group-title="Kênh khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/man/dvr-${start}-${offset}.m3u8", Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/837/chunklist_b5128000.m3u8
@@ -135,59 +139,62 @@ https://livecdn.fptplay.net/hda3/vtc9_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
 
 ---------------------------------------PHIM----------------------------------------
-#EXTINF:0 tvg-id="cinemaworldhd" group-title="Phim" logo="https://cdn.hqth.me/logo/thumbs/231.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
+#EXTINF:0 tvg-id="cinemaworldhd" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/231.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/300px-HBO_Signature_Asia.png",HBO_Signature
-http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/9755.ts
-https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/258.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="Phim",TVN_ASIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="🎬| Phim",TVN_ASIA
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157476
-#EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="Phim",TVN_MOVIES
+#EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="🎬| Phim",TVN_MOVIES
 http://103.167.167.5:8111/play/a02u/index.m3u8
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157596
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="Phim",DiziSmart_Premium HD
+#EXTINF:-1 group-title="🎬| Phim" tvg-logo="http://gg.gg/131flp", THRILL ID
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="🎬| Phim",DiziSmart_Premium HD
 http://5.61.54.61/iptv/2XGCY732NCTX4V/6802/index.m3u8
 http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/129145
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/1f/Yes_israeli.png/330px-Yes_israeli.png" group-title="Phim",YES Israeli Cinema
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/1f/Yes_israeli.png/330px-Yes_israeli.png" group-title="🎬| Phim",YES Israeli Cinema
 http://5.61.54.61/iptv/2XGCY732NCTX4V/2342/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/yy/yes-movies-action-il.png" group-title="Phim",YES•Movies Action HD
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/yy/yes-movies-action-il.png" group-title="🎬| Phim",YES•Movies Action HD
 http://myott.top/stream/93K4NA7ZUL/380.m3u8
-#EXTINF:-1 group-title="Phim" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",Sky Romance TV FHD DE
+#EXTINF:-1 group-title="🎬| Phim" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",Sky Romance TV FHD DE
 http://5.61.54.61/iptv/2XGCY732NCTX4V/7231/index.m3u8
 #http://balkantv.net:25461/libertassnova/285JgksRxuc35fc7MKsm6q5S/15399
-#EXTINF:-1 group-title="Phim" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",Sky Movie Premiere FHD UK
+#EXTINF:-1 group-title="🎬| Phim" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",Sky Movie Premiere FHD UK
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/244.ts
-#EXTINF:0 tvg-id="hallmark" group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
+#EXTINF:0 tvg-id="hallmark" group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/92949.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46898.ts
 #http://balkantv.net:25461/libertassnova/285JgksRxuc35fc7MKsm6q5S/6986
-#EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1920px-LMN_logo_2019.svg.png", Lifetime Movie Network HD
+#EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1920px-LMN_logo_2019.svg.png", Lifetime Movie Network HD
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93027.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/46773.ts
 #http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/50
-#EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png", Lifetime US HD
+#EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png", Lifetime US HD
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93024.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/52729.ts
 http://budtvlight.com:25461/budtvsports/wTu27rKVNU/47181
 http://budtvlight.com:25461/budtvsports/wTu27rKVNU/1922
-#EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/SBS_World_Movies_logo_2019.svg/300px-SBS_World_Movies_logo_2019.svg.png", AU: SBS World Movies
+#EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/SBS_World_Movies_logo_2019.svg/300px-SBS_World_Movies_logo_2019.svg.png", AU: SBS World Movies
 http://58.96.43.228:9981/stream/channelid/808262435?ticket=DA54CCFBD71A64807EE57FA9BBECC179D140B263&profile=pass
-#EXTINF:0 group-title="Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/SBS_Viceland_logo_2016.png/375px-SBS_Viceland_logo_2016.png", AU: SBS Viceland
+#EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/SBS_Viceland_logo_2016.png/375px-SBS_Viceland_logo_2016.png", AU: SBS Viceland
 http://58.96.43.228:9981/stream/channelid/1625859261?ticket=C2A03CD567456F72A124B5C7D45B1F1EAC82FCD7&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Phim",Family Flix
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="🎬| Phim",Family Flix
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65HtxwHs/cropped-cropped-cropped-Untitled-design-2.png" group-title="Phim",Movies Hub
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65HtxwHs/cropped-cropped-cropped-Untitled-design-2.png" group-title="🎬| Phim",Movies Hub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUPE_NjPQjwkobVIbmsqf5eP9HHEHDsir1-hKJ_=s900-c-k-c0x00ffffff-no-rj" group-title="Phim",My time Movies Network
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUPE_NjPQjwkobVIbmsqf5eP9HHEHDsir1-hKJ_=s900-c-k-c0x00ffffff-no-rj" group-title="🎬| Phim",My time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/70a59ba856a9f1f5c8734ca43c227d5eea334fe16d83daf73d2c062dd1e44513.png" group-title="Phim",FilmRise Family
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/70a59ba856a9f1f5c8734ca43c227d5eea334fe16d83daf73d2c062dd1e44513.png" group-title="🎬| Phim",FilmRise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHOfC7AwxV34iuBNUN0f77dbqHvsQ8l2l7Q&usqp=CAU" group-title="Phim",Rakuten Action Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHOfC7AwxV34iuBNUN0f77dbqHvsQ8l2l7Q&usqp=CAU" group-title="🎬| Phim",Rakuten Action Movies
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png" group-title="Phim",UK: Prime TV
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png" group-title="🎬| Phim",UK: Prime TV
 http://budtvlight.com:25461/budtvsports/wTu27rKVNU/40834
-#EXTINF:-1 tvg-logo="https://stirr.app/wp-content/uploads/2020/10/stirr_logo_500x143_color.png" group-title="Phim",STIRR Movies
+#EXTINF:-1 tvg-logo="https://stirr.app/wp-content/uploads/2020/10/stirr_logo_500x143_color.png" group-title="🎬| Phim",STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 tvg-id="starmovies" group-title="🎬| Phim" tvg-logo="http://gg.gg/12z6lp", Star 1 HD
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
+#EXTINF:-1 tvg-id="starmovies" group-title="🎬| Phim" tvg-logo="http://gg.gg/12z6lp", Star 2 HD
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8
 
 
 ---------------------------------------lifestyle----------------------------------------
