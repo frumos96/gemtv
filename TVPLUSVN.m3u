@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,http://jadetv.de/xmltv.php?username=eagleiptv&password=SsFAljPDDi,http://cdn.kira.cf:2021/xmltv.php?username=8412822881932&password=3969190550654"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,http://jadetv.de/xmltv.php?username=eagleiptv&password=SsFAljPDDi,http://cdn.kira.cf:2021/xmltv.php?username=8412822881932&password=3969190550654"
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
@@ -107,6 +107,7 @@ https://raintv.tk/cliptv/f4c5e359826e1f7f1411653b337ce578993309d6/In-The-Box/pla
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CCTV-8.png/revision/latest?cb=20220111072628" group-title="🎬| Phim",CCTV_8.DRAMA
+https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
 #EXTINF:0 tvg-id="man" group-title="Kênh khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/man/dvr-${start}-${offset}.m3u8", Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/837/chunklist_b5128000.m3u8
@@ -153,6 +154,11 @@ http://103.167.167.5:8111/play/a02u/index.m3u8
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157596
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="http://gg.gg/131flp", THRILL ID
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🎬| Phim",ViuTV
+https://cdn.hklive.tv/xxxx/99/index.m3u8
+https://epg.pw/stream/4670b1b542f1f3a07586c8621a722742ae723acc3f77c3d560fd3dad7b795b69.m3u8
+#EXTINF:-1 tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="🎬| Phim",ViuTV Six
+https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizismart-max-tr.png" group-title="🎬| Phim",DiziSmart_MAX HD TURKEY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/32147
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="🎬| Phim",DiziSmart_Premium HD TURKEY
