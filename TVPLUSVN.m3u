@@ -300,11 +300,14 @@ http://iptvid.my.id/hmm/sgem.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 #EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="Sony One" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="🌿| Lifestyle",SONY ONE_ASIA
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941601&extension=ts&play_token=1kEm8DbZmS
 http://103.167.167.5:8111/play/a00u/index.m3u8
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/165077
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba8842e119ee61ac7c613e1e6a1e3e10:46ed2370a8cc4cef2665e03e110f9455
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/375px-Logo_Lifetime_2020.svg.png" group-title="🌿| Lifestyle",Lifetime✓
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941669&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1   tvg-logo="https://thumbor.prod.vidiocdn.com/uhO4k9iqRVaHjZeJXJ2KpRw_w-k=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="🌿| Lifestyle",TransTv🇮🇩
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/56833.ts
