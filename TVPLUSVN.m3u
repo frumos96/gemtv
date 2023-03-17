@@ -169,6 +169,7 @@ https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="🎬| Phim",TVN_ASIA
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157476
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941623&extension=ts&play_token=1kEm8DbZmS
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157476
 #EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="🎬| Phim",TVN_MOVIES
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157520
@@ -182,6 +183,8 @@ https://cdn.hklive.tv/xxxx/99/index.m3u8
 https://epg.pw/stream/4670b1b542f1f3a07586c8621a722742ae723acc3f77c3d560fd3dad7b795b69.m3u8
 #EXTINF:-1 tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="🎬| Phim",ViuTV Six
 https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/Sptvlogo.jpg" group-title="Kênh khác",BS°SkyPerfecTV!			
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizismart-max-tr.png" group-title="🎬| Phim",DiziSmart_MAX HD TURKEY
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/32147
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="🎬| Phim",DiziSmart_Premium HD TURKEY
@@ -219,7 +222,7 @@ http://budtvlight.com:25461/budtvsports/wTu27rKVNU/1922
 http://58.96.43.228:9981/stream/channelid/808262435?ticket=DA54CCFBD71A64807EE57FA9BBECC179D140B263&profile=pass
 #EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/SBS_Viceland_logo_2016.png/375px-SBS_Viceland_logo_2016.png", AU: SBS Viceland
 http://58.96.43.228:9981/stream/channelid/1625859261?ticket=C2A03CD567456F72A124B5C7D45B1F1EAC82FCD7&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="🎬| Phim",Family Flix
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="🎬| Phim",Family Flix
 http://37.49.230.48:8080/9f922928/873ef670ee/296889
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65HtxwHs/cropped-cropped-cropped-Untitled-design-2.png" group-title="🎬| Phim",Movies Hub
@@ -238,6 +241,13 @@ https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
 #EXTINF:-1 tvg-id="starmovies" group-title="🎬| Phim" tvg-logo="http://gg.gg/12z6lp", Star 2 HD
 http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8
+#EXTINF:-1 tvg-id="starmovies" group-title="🎬| Phim" tvg-logo="http://gg.gg/12z6lp", Star 3 HD
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/408/1021905.jpg" group-title="🎬| Phim",Family°Gekijo
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:1 tvg-logo="hhttp://www.superdramatv.com/assets/img/og_image.jpg" group-title="🎬| Phim",Super!°Drama TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 
 
 ---------------------------------------🌿| Lifestyle----------------------------------------
@@ -966,6 +976,20 @@ https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://61.19.242.134/feed/202205171929/chmcothd/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGtAOpuo9uG6g/company-logo_200_200/0/1668037944838?e=2147483647&v=beta&t=xguByKfT44sHz3WIWX-CVLTMA2-Goo00nzWnyFxps5g" group-title="Kênh khác",ETTV.hd🇲🇾
+https://epg.pw/stream/e60d0e11a757a708388fa75f51306002508043a589c8ba4df79e710f2be8500c.ctv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Kênh khác",SET™INT
+http://103.167.167.5:8111/play/a013/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Kênh khác",SET™TV
+http://103.167.167.5:8111/play/a012/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Kênh khác",MING™XE
+http://103.167.167.5:8111/play/a00w/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Kênh khác",FJTV™
+http://103.167.167.5:8111/play/a005/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Kênh khác",CETV1™
+http://103.167.167.5:8111/play/a002/index.m3u8
+
+
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://cdn.hqth.me/logo/217.png", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Kênh khác" logo="https://mytv.com.vn/upload/channel/65.png", TV5Monde Asie
