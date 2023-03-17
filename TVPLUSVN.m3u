@@ -425,6 +425,8 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/19283/index.m3u8
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=217671&extension=ts&play_token=
 #EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6013" tvg-logo="http://epg.it999.ru/img2/6013.png" tvg-rec="0",Muzzik Zz 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/16044/index.m3u8
+#EXTINF:-1 tvg-name="MUZZIK ZZ4000 4K" tvg-logo="http://jp.muyiyun.top:516/Picon/muzzikzz4000.png" group-title="4K频道",MUZZIK ZZ4000 4K
+http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 #EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6013" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/12/Megapix1.jpg/revision/latest?cb=20190213194818&path-prefix=pt-br" tvg-rec="0",Megapix 4K UHD BR
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=51188&extension=ts&play_token=h3Jb2BBUAL
 #EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6707" tvg-logo="http://epg.it999.ru/img2/6707.png" tvg-rec="0",BOX Music 4K
