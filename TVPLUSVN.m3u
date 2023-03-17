@@ -6,6 +6,7 @@ http://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 https://raintv.tk/mytv/2d3a6c61d11d6ca56c0c5b5b983fd2bee2bf7167/vtv1hd/playlist.m3u8
 #https://iplogger.com/VTV1
 #EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2
+http://171.238.181.52:18080/192.m3u8
 https://raintv.tk/mytv/f4c5e359826e1f7f1411653b337ce578993309d6/vtv2hd/playlist.m3u8
 http://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2 Viettel
@@ -25,6 +26,7 @@ https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
 #EXTINF:0 tvg-id="vtv5tn" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5
+http://171.238.181.52:18080/194.m3u8
 http://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Viettel
 http://live-ali4.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
@@ -81,6 +83,8 @@ https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv2.png", B4TV2 (Kênh phim điện ảnh & series) SOURCE:BEP40
 http://103.75.186.169/b4tv/b4tv/5.m3u8
+#EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png", CINE K
+https://livevlive.vtvcab.vn/K_CINE_6962/m20_index.m3u8
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬| Phim" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:0 tvg-id="axnhd" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
@@ -102,7 +106,6 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="boxmovie1" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
@@ -125,6 +128,8 @@ https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CCTV-8.png/revision/latest?cb=20220111072628" group-title="🎬| Phim",CCTV_8.DRAMA
 https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzd-zcipUGLLjxG9n67-kdZcTls6nSSv7oOw&usqp=CAU" group-title="🎬| Phim",IQYI🇲🇾
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571198&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:0 tvg-id="man" group-title="Kênh khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/man/dvr-${start}-${offset}.m3u8", Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/837/chunklist_b5128000.m3u8
@@ -167,6 +172,7 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157476
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157476
 #EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="🎬| Phim",TVN_MOVIES
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157520
+http://37.49.230.48:8080/9f922928/873ef670ee/297499
 http://103.167.167.5:8111/play/a02u/index.m3u8
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157596
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="http://gg.gg/131flp", THRILL ID
@@ -214,6 +220,7 @@ http://58.96.43.228:9981/stream/channelid/808262435?ticket=DA54CCFBD71A64807EE57
 #EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/SBS_Viceland_logo_2016.png/375px-SBS_Viceland_logo_2016.png", AU: SBS Viceland
 http://58.96.43.228:9981/stream/channelid/1625859261?ticket=C2A03CD567456F72A124B5C7D45B1F1EAC82FCD7&profile=pass
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="🎬| Phim",Family Flix
+http://37.49.230.48:8080/9f922928/873ef670ee/296889
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65HtxwHs/cropped-cropped-cropped-Untitled-design-2.png" group-title="🎬| Phim",Movies Hub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
@@ -276,6 +283,7 @@ https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="🌿| Lifestyle",KPLUS HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787.m3u8
 #EXTINF:-1 tvg-id="GEM.sg" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/x64s18m/GEM.png" group-title="🌿| Lifestyle",SONY GEM
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941608&extension=ts&play_token=1kEm8DbZmS
 http://103.167.167.5:8111/play/a00z/index.m3u8
 http://iptvid.my.id/hmm/sgem.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -297,19 +305,19 @@ http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/72876.ts
 http://103.167.167.5:8111/play/a00j/index.m3u8
 
 ---------------------------------------ULTRA 4K----------------------------------------
-#EXTINF:-1 group-title="🔥📺 ULTRA 4K"tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO Supersport2 4K
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K"tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO Supersport2 4K
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016545&extension=ts&play_token=
-#EXTINF:-1 group-title="ULTRA 4K"tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO UHD 4K
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K"tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO UHD 4K
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1016544&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="ULTRA 4K",ASTRO 4K Premier League 4K
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016544&extension=ts&play_token=
-#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EDD40422-068B-429C-80B0-F210D515DF2C.png",Hub Premier Sport 4K
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EDD40422-068B-429C-80B0-F210D515DF2C.png",Hub Premier Sport 4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-4k-1978.png",Now Premier Sport 4K
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-4k-1978.png",Now Premier Sport 4K
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1032489&extension=ts&play_token=1kEm8DbZmS
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-hd-940.png" group-title="ULTRA 4K",ESPN 4K UHD 
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-hd-940.png" group-title="🔥📺⚽ ULTRA 4K",ESPN 4K UHD 
 http://lmtv.me:80/3Xa6ZR/7yzVQY/95654
-#EXTINF:-1 group-title="ULTRA 4K" tvg-id="6583" tvg-logo="http://epg.it999.ru/img2/6583.png" tvg-rec="0",ELEVEN SPORTS 1 UHD PT
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6583" tvg-logo="http://epg.it999.ru/img2/6583.png" tvg-rec="0",ELEVEN SPORTS 1 UHD PT
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19158/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="BEIN SPORT",beINSports 1 TURKEY 4K
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNErq0Xo-NUQh-AvVQC1PmLmHCw9cpCwcBCuGDqALdUcT/ts
@@ -319,110 +327,110 @@ http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNAP_2ajFHVzgQjqpvgP4jCtQDRhJq72H
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNJlUifZUbLvjEnmBrB9Iky6z1nctmJkoLrJS_BkOdZPU/ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="BEIN SPORT",beINSports 4 TURKEY BUNDESLIGA 4K
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNAvIf0bc8kLwpNRYdfU3rBesIb98VH25VPdeJavohuAW/ts
-#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN Sports 4K
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN Sports 4K
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=269457&extension=ts&play_token=
-#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png",Canal+ Foot 4K
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png",Canal+ Foot 4K
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-4k-1903.png" group-title="ULTRA 4K",YES Sport5 4k
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-4k-1903.png" group-title="🔥📺⚽ ULTRA 4K",YES Sport5 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ziggo.svg/330px-Ziggo.svg.png" group-title="ULTRA 4K",Ziggo Sport 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ziggo.svg/330px-Ziggo.svg.png" group-title="🔥📺⚽ ULTRA 4K",Ziggo Sport 4K
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
-#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg",V Sports UHD
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg",V Sports UHD
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=35891&extension=ts&play_token=h3Jb2BBUAL
-#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png",咪咕体育-MiGU 4K-HLG源
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png",咪咕体育-MiGU 4K-HLG源
 http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png",纯享4K备
 https://live.v1.mk/api/bestv.php?id=cctv4k/15000000/mnf.m3u8
-#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16-4K-25PHLG源
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16-4K-25PHLG源
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000/mnf.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="2803" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",ULTRA REX UHD 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="2803" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",ULTRA REX UHD 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/5003/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="ULTRA 4K",DIGI 4k
+#EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="🔥📺⚽ ULTRA 4K",DIGI 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",TRT 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",TRT 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/4001/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19091/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-logo="https://yt3.googleusercontent.com/wbxCrYrRYvuTn3oB-qst3TFyzOFimf9HRHlZKSfyp2l11qisukhaxU89H17w_Orvv4-xOeBiQX4=s900-c-k-c0x00ffffff-no-rj",N1 Play ULTRAHD SE 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="https://yt3.googleusercontent.com/wbxCrYrRYvuTn3oB-qst3TFyzOFimf9HRHlZKSfyp2l11qisukhaxU89H17w_Orvv4-xOeBiQX4=s900-c-k-c0x00ffffff-no-rj",N1 Play ULTRAHD SE 4K
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=213219&extension=ts&play_token=
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="2802" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="2802" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/5002/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV FIT 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV FIT 4K
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/48677.ts
-#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-4k-ultra-hd-2008.png",Canal + 4K Ultra HD
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-4k-ultra-hd-2008.png",Canal + 4K Ultra HD
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/54657.ts
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="2800" tvg-logo="http://epg.it999.ru/img/2800.png" tvg-rec="3",Insight UHD 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="2800" tvg-logo="http://epg.it999.ru/img/2800.png" tvg-rec="3",Insight UHD 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/5000/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="5979" tvg-logo="http://epg.it999.ru/img2/5979.png" tvg-rec="0",Глазами Туриста 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="5979" tvg-logo="http://epg.it999.ru/img2/5979.png" tvg-rec="0",Глазами Туриста 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/15191/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" tvg-rec="3",Home 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" tvg-rec="3",Home 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/4002/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="2746" tvg-logo="http://epg.it999.ru/img/2746.png" tvg-rec="3",Наша Сибирь 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="2746" tvg-logo="http://epg.it999.ru/img/2746.png" tvg-rec="3",Наша Сибирь 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/4003/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="5456" tvg-logo="http://epg.it999.ru/img/5456.png" tvg-rec="0",SKY HIGH NATURE 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="5456" tvg-logo="http://epg.it999.ru/img/5456.png" tvg-rec="0",SKY HIGH NATURE 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/14247/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6186" tvg-logo="http://epg.it999.ru/img/6186.png" tvg-rec="0",SKY HIGH MIX 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6186" tvg-logo="http://epg.it999.ru/img/6186.png" tvg-rec="0",SKY HIGH MIX 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/17025/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6333" tvg-logo="http://epg.it999.ru/img2/6333.png" tvg-rec="0",UZ 4K Kino UHD
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6333" tvg-logo="http://epg.it999.ru/img2/6333.png" tvg-rec="0",UZ 4K Kino UHD
 http://5.61.54.61/iptv/2XGCY732NCTX4V/18162/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6138" tvg-logo="http://epg.it999.ru/img2/6138.png" tvg-rec="0",YOSSO-4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6138" tvg-logo="http://epg.it999.ru/img2/6138.png" tvg-rec="0",YOSSO-4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/16153/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6205" tvg-logo="http://epg.it999.ru/img2/6205.png" tvg-rec="0",LIBERTY KINOENG  UHD
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6205" tvg-logo="http://epg.it999.ru/img2/6205.png" tvg-rec="0",LIBERTY KINOENG  UHD
 http://5.61.54.61/iptv/2XGCY732NCTX4V/17060/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6231" tvg-logo="http://epg.it999.ru/img2/6231.png" tvg-rec="0",LIBERTY RUSFILM 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6231" tvg-logo="http://epg.it999.ru/img2/6231.png" tvg-rec="0",LIBERTY RUSFILM 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/18046/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6341" tvg-logo="http://epg.it999.ru/img2/6341.png" tvg-rec="0",LIBERTY CUBE 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6341" tvg-logo="http://epg.it999.ru/img2/6341.png" tvg-rec="0",LIBERTY CUBE 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/18161/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6727" tvg-logo="http://epg.it999.ru/img2/6727.png" tvg-rec="0",LIBERTY ТУРК ФИЛЬМ 4К
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6727" tvg-logo="http://epg.it999.ru/img2/6727.png" tvg-rec="0",LIBERTY ТУРК ФИЛЬМ 4К
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19303/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6739" tvg-logo="http://epg.it999.ru/img2/6739.png" tvg-rec="0",LIBERTY НАУКА 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6739" tvg-logo="http://epg.it999.ru/img2/6739.png" tvg-rec="0",LIBERTY НАУКА 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19305/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6729" tvg-logo="http://epg.it999.ru/img2/6729.png" tvg-rec="0",LIBERTY МиМ FHD
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6729" tvg-logo="http://epg.it999.ru/img2/6729.png" tvg-rec="0",LIBERTY МиМ FHD
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19306/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6730" tvg-logo="http://epg.it999.ru/img2/6730.png" tvg-rec="0",LIBERTY СОЮЗ 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6730" tvg-logo="http://epg.it999.ru/img2/6730.png" tvg-rec="0",LIBERTY СОЮЗ 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19307/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6340" tvg-logo="http://epg.it999.ru/img2/6340.png" tvg-rec="0",LIBERTY INDI 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6340" tvg-logo="http://epg.it999.ru/img2/6340.png" tvg-rec="0",LIBERTY INDI 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/18160/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6855" tvg-logo="http://epg.it999.ru/img2/6855.png" tvg-rec="0",LIBERTY NETFLIX 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6855" tvg-logo="http://epg.it999.ru/img2/6855.png" tvg-rec="0",LIBERTY NETFLIX 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19402/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="4804" tvg-logo="http://epg.it999.ru/img/4804.png" tvg-rec="0",VF Кино 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="4804" tvg-logo="http://epg.it999.ru/img/4804.png" tvg-rec="0",VF Кино 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/11114/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="4805" tvg-logo="http://epg.it999.ru/img/4805.png" tvg-rec="0",VF Сериал 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="4805" tvg-logo="http://epg.it999.ru/img/4805.png" tvg-rec="0",VF Сериал 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/11115/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="5393" tvg-logo="http://epg.it999.ru/img2/5393.png" tvg-rec="0",Первый музыкальный 4k
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="5393" tvg-logo="http://epg.it999.ru/img2/5393.png" tvg-rec="0",Первый музыкальный 4k
 http://5.61.54.61/iptv/2XGCY732NCTX4V/14141/index.m3u8
-#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州4K
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6708" tvg-logo="http://epg.it999.ru/img2/6708.png" tvg-rec="0",BOX Relax 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6708" tvg-logo="http://epg.it999.ru/img2/6708.png" tvg-rec="0",BOX Relax 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19283/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K"  tvg-logo="https://i.ytimg.com/vi/uYWzZ3EDuGQ/maxresdefault.jpg" ,FLYING OVER SWEDEN ULTRAHD 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K"  tvg-logo="https://i.ytimg.com/vi/uYWzZ3EDuGQ/maxresdefault.jpg" ,FLYING OVER SWEDEN ULTRAHD 4K
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=217671&extension=ts&play_token=
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6013" tvg-logo="http://epg.it999.ru/img2/6013.png" tvg-rec="0",Muzzik Zz 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6013" tvg-logo="http://epg.it999.ru/img2/6013.png" tvg-rec="0",Muzzik Zz 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/16044/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6013" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/12/Megapix1.jpg/revision/latest?cb=20190213194818&path-prefix=pt-br" tvg-rec="0",Megapix 4K UHD BR
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6013" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/12/Megapix1.jpg/revision/latest?cb=20190213194818&path-prefix=pt-br" tvg-rec="0",Megapix 4K UHD BR
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=51188&extension=ts&play_token=h3Jb2BBUAL
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="6707" tvg-logo="http://epg.it999.ru/img2/6707.png" tvg-rec="0",BOX Music 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6707" tvg-logo="http://epg.it999.ru/img2/6707.png" tvg-rec="0",BOX Music 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19282/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="4766" tvg-logo="http://epg.it999.ru/img/4766.png" tvg-rec="7",BCU Ultra 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="4766" tvg-logo="http://epg.it999.ru/img/4766.png" tvg-rec="7",BCU Ultra 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/11045/index.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="5561" tvg-logo="http://epg.it999.ru/img2/5561.png" tvg-rec="0",BCU Premiere Ultra 4K
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="5561" tvg-logo="http://epg.it999.ru/img2/5561.png" tvg-rec="0",BCU Premiere Ultra 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/15023/index.m3u8
-#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EE6DBA9B-428F-460D-BAE3-5480771810C0.jpeg",北京IPTV-4K
+#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EE6DBA9B-428F-460D-BAE3-5480771810C0.jpeg",北京IPTV-4K
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="ULTRA 4K", Nature 4k
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="🔥📺⚽ ULTRA 4K", Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images4.imagebam.com/ae/55/65/MEGP94J_o.jpg" group-title="ULTRA 4K", Clarity 4k
+#EXTINF:0 type="stream" channelId="-1" logo="https://images4.imagebam.com/ae/55/65/MEGP94J_o.jpg" group-title="🔥📺⚽ ULTRA 4K", Clarity 4k
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:0 group-title="ULTRA 4K" tvg-id="4620" tvg-logo="http://epg.it999.ru/img/4620.png" tvg-rec="0",Discovery Ultra 4K orig
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="4620" tvg-logo="http://epg.it999.ru/img/4620.png" tvg-rec="0",Discovery Ultra 4K orig
 http://5.61.54.61/iptv/2XGCY732NCTX4V/10048/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng" group-title="ULTRA 4K", Loupe 4K
+#EXTINF:0 type="stream" channelId="-1" logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng" group-title="🔥📺⚽ ULTRA 4K", Loupe 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="ULTRA 4K", FashionTV
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="🔥📺⚽ ULTRA 4K", FashionTV
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="ULTRA 4K", FashionTV 4K
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="🔥📺⚽ ULTRA 4K", FashionTV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #-*------------------------------------------VTVCAB-*------------------------------------------#
@@ -495,6 +503,7 @@ https://code.vthanhtivi.pw/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/p
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ONFootballHDˢᵛ² SD
 #EXTVLCOPT:http-user-agent=RainTv
 https://raintv.tk/vtvcab/f4c5e359826e1f7f1411653b337ce578993309d6/onfootball/playlist.m3u8
+https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="ONFOOTBALLENG" group-title="🧡| VTVcab" tvg-logo="https://i.ibb.co/YLcvX40/On-Football-Eng.webp", ON FOOTBALL ENG
 #EXTVLCOPT:http-user-agent="CloudTV"
@@ -1170,50 +1179,56 @@ http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000
 
 ---------------------------------------SPORT ASEAN----------------------------------------
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="💚SPORT ASEAN",Astro SuperSport 1 FHD
-http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52859.ts
+http://37.49.230.48:8080/9f922928/873ef670ee/146068
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918986&extension=ts&play_token=
+#http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52859.ts
 #http://ttv.bz:80/Kenwyn/TJGm5d9YlP/68434
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="💚SPORT ASEAN",Astro SuperSport 2 FHD
-http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52860.ts
+http://37.49.230.48:8080/9f922928/873ef670ee/157556
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918985&extension=ts&play_token=
+http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52860.ts
 #http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68435
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="💚SPORT ASEAN",Astro SuperSport 3 FHD
+http://37.49.230.48:8080/9f922928/873ef670ee/157557
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918984&extension=ts&play_token=
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52861.ts
 #http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68436
 #EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="💚SPORT ASEAN",Astro SuperSport 4 FHD
+http://37.49.230.48:8080/9f922928/873ef670ee/157558
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918983&extension=ts&play_token=
 #http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68437
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52862.ts
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="💚SPORT ASEAN",Astro SuperSport 5 FHD
+http://37.49.230.48:8080/9f922928/873ef670ee/287792
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69866
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918982&extension=ts&play_token=
 http://iptvtree.net:8080/b12515fa/f176763b4e/287792
 #http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=918982&extension=ts&play_token=58gzcPWfQO
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY| Astro ARENA FHD" tvg-logo="http://dmtn.tv:8080/images/ya5l5yM1bhT_tvxGIMbFwjN-o6yFm6jJToyFhgbtpbw1Cn22_YSFkjZsn0szbGSU8iCwFyRgfimmLqjN0YxT0whfo0zNY8IUlEyoXl5t-lI.png" group-title="💚SPORT ASEAN",Astro ARENA FHD
-http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
+http://37.49.230.48:8080/9f922928/873ef670ee/157485
+#http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="MY| Astro ARENA 2 FHD" tvg-logo="http://dmtn.tv:8080/images/ya5l5yM1bhT_tvxGIMbFwjN-o6yFm6jJToyFhgbtpbw1Cn22_YSFkjZsn0szbGSU8iCwFyRgfimmLqjN0YxT00eokXXI2UYBtcWqRxiW-ew.png" group-title="💚SPORT ASEAN",Astro ARENA 2 FHD
 http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="💚SPORT ASEAN",YES Sport 1 HD IL
 http://5.61.54.61/iptv/2XGCY732NCTX4V/12249/index.m3u8
 #http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38711
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png"group-title="💚SPORT ASEAN",YES Sport 1 IL#
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3306.ts
 http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19164.ts
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38712
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3306.ts
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="💚SPORT ASEAN",YES Sport 2 HD IL
 http://5.61.54.61/iptv/2XGCY732NCTX4V/12250/index.m3u8
 #http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38710
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="💚SPORT ASEAN",YES Sport 2 HD IL#
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3307.ts
 http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19165.ts
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3307.ts
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="💚SPORT ASEAN",YES Sport 3 HD IL
 http://5.61.54.61/iptv/2XGCY732NCTX4V/12251/index.m3u8
 #http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38709
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="💚SPORT ASEAN",YES Sport 3 HD IL#
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/51450.ts
 http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19166.ts
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/91282
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/51450.ts
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-4-1024.png" group-title="💚SPORT ASEAN",YES Sport 4 HD IL
 http://5.61.54.61/iptv/2XGCY732NCTX4V/12252/index.m3u8
 #http://clientsportals.com:2095/d4Je5xwD/yadTXB63/38708
@@ -1250,8 +1265,6 @@ https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 http://61.221.81.93:8078/hls/25/80/esport.m3u8
 #EXTINF:0  group-title="Thể thao"  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-2-1660.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 2 HD_taiwan
 http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-#EXTINF:0 tvg-id="kcinehd" group-title="💚SPORT ASEAN" logo="https://i.ibb.co/h8FLFc7/3.webp", K+CINE 
-https://livevlive.vtvcab.vn/K_CINE_6962/m20_index.m3u8
 #EXTINF:0 tvg-id="klifehd" group-title="💚SPORT ASEAN" logo="https://i.ibb.co/MS363r3/4.webp", K+LIFE 
 #https://stream.sugustv.tk/live/D7AA1B22D4B4E0F035C7DFE06C4874FC/13.ts
 #EXTINF:0 tvg-id="kkidshd" group-title="💚SPORT ASEAN" logo="https://i.ibb.co/gP7GDwp/5.webp", K+KIDS 
@@ -1341,115 +1354,126 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/2508/index.m3u8
 http://5.61.54.61/iptv/2XGCY732NCTX4V/2507/index.m3u8
 https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/203064
 ---------------------------------------SPORT EUROPE----------------------------------------
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group-title="SPORT EUROPE",UK:SkySport PremierLeague HD
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group-title="⚽ SPORT EUROPE",UK:SkySport PremierLeague HD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83447&extension=ts&play_token=3KHFIOBdo4
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Sky_Sports_Football_HD.png" group-title="SPORT EUROPE",UK:SkySport Football HD
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Sky_Sports_Football_HD.png" group-title="⚽ SPORT EUROPE",UK:SkySport Football HD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83452&extension=ts&play_token=pxtzgxK6lC
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sports_Main_Event_HD.png" group-title="SPORT EUROPE",UK:SkySport MainEvents
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sports_Main_Event_HD.png" group-title="⚽ SPORT EUROPE",UK:SkySport MainEvents
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83450&extension=ts&play_token=
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports MIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_Mix_HD.png" group-title="SPORT EUROPE",UK:SkySports MIX
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports MIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_Mix_HD.png" group-title="⚽ SPORT EUROPE",UK:SkySports MIX
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=83449&extension=ts&play_token=gxAvKTTzxj
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png" group-title="SPORT EUROPE",UK: BTSport 1 HD
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png" group-title="⚽ SPORT EUROPE",UK: BTSport 1 HD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=79486&extension=ts&play_token=kAWnD8KZ19
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png" group-title="SPORT EUROPE",UK: BTSport 2 HD
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png" group-title="⚽ SPORT EUROPE",UK: BTSport 2 HD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=79485&extension=ts&play_token=m4KIBs1pG4
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="SPORT EUROPE",UK: BTSport 3 HD
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="⚽ SPORT EUROPE",UK: BTSport 3 HD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=79484&extension=ts&play_token=NjBfUWnyUQ
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-espn-98.png" group-title="SPORT EUROPE",UK: BTSport ESPN HD
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-espn-98.png" group-title="⚽ SPORT EUROPE",UK: BTSport ESPN HD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1002857&extension=ts&play_token=3hyT2mAZqC
-#EXTINF:-1 Logo="http://images.zaltv.club/logo/live.gif" group-title="SPORT EUROPE",DE: Sport Digital HD#
+#EXTINF:-1 Logo="http://images.zaltv.club/logo/live.gif" group-title="⚽ SPORT EUROPE",DE: Sport Digital HD#
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16524
 #http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/6982
 #http://iptvtree.net:8080/fee2bbca/12e32aafa1/3509
-#EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-austria-165.png" group-title="SPORT EUROPE",Sky Sport Austria 1 HD 
+#EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-austria-165.png" group-title="⚽ SPORT EUROPE",Sky Sport Austria 1 HD 
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/2130
-#EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-top-event-2764.png" group-title="SPORT EUROPE",Sky Sport Top Event HD DE
+#EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-top-event-2764.png" group-title="⚽ SPORT EUROPE",Sky Sport Top Event HD DE
 http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/163020
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/13929
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/297551
-#EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-mix-2766.png" group-title="SPORT EUROPE",Sky Sport MIX HD DE
+#EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-mix-2766.png" group-title="⚽ SPORT EUROPE",Sky Sport MIX HD DE
 http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/161775
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group-title="SPORT EUROPE",DE: Dazn Bar 1
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group-title="⚽ SPORT EUROPE",DE: Dazn Bar 1
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14001
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/11008.ts
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png" group-title="SPORT EUROPE",DE: Dazn Bar 2
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png" group-title="⚽ SPORT EUROPE",DE: Dazn Bar 2
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14002
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/11009.ts
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="SPORT EUROPE",DE: Dazn Sport Event HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="⚽ SPORT EUROPE",DE: Dazn Sport Event HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/161877
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="SPORT EUROPE",PT: Eleven Sports 1 FHD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="⚽ SPORT EUROPE",PT: Eleven Sports 1 FHD
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21181
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="SPORT EUROPE",PT: Eleven Sports 2 FHD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="⚽ SPORT EUROPE",PT: Eleven Sports 2 FHD
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21182
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="SPORT EUROPE",PT: Eleven Sports 3 FHD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="⚽ SPORT EUROPE",PT: Eleven Sports 3 FHD
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21183
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1503.png" group-title="SPORT EUROPE",PT: Eleven Sports 4 FHD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1503.png" group-title="⚽ SPORT EUROPE",PT: Eleven Sports 4 FHD
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21184
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1504.png" group-title="SPORT EUROPE",PT: Eleven Sports 5 FHD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1504.png" group-title="⚽ SPORT EUROPE",PT: Eleven Sports 5 FHD
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21186
-#EXTINF:-1 group-title="SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",Dazn 1 HD SPAIN
+#EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",Dazn 1 HD SPAIN
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431572.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53387.ts
 #http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69392
 #http://dnsplay.xyz:80/Kenwyn/TJGm5d9YlP/303780
-#EXTINF:-1 group-title="SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",Dazn 2 HD SPAIN
+#EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",Dazn 2 HD SPAIN
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431573.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53388.ts
 #http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69373
 #http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303782
-#EXTINF:-1 group-title="SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2512.png",Dazn 3 HD SPAIN
+#EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2512.png",Dazn 3 HD SPAIN
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431574.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53389.ts
 #http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69393
 #http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303784
-#EXTINF:-1 group-title="SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2513.png",Dazn 4 HD SPAIN
+#EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2513.png",Dazn 4 HD SPAIN
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431575.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53390.ts
 #http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69395
 #http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303786
-#EXTINF:-1 group-title="SPORT EUROPE" Logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-plus-1475.png",Movistar Liga de Campeones SPAIN
+#EXTINF:-1 group-title="⚽ SPORT EUROPE" Logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-plus-1475.png",Movistar Liga de Campeones SPAIN
 http://dnsplay.xyz:80/hldoudby/qubRsmkm/303761
 http://5.61.54.61/iptv/2XGCY732NCTX4V/6074/index.m3u8
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/232304.ts
-#EXTINF:-1 group-title="SPORT EUROPE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",Movistar REVIEW EVENT
+#EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",Movistar REVIEW EVENT
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431493.ts
 #http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303805
 #http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69136
-#EXTINF:-1 group-title="SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png",#0
+#EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png",#0
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69185
-#EXTINF:-1 group-title="SPORT EUROPE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-vamos-1601.png",#Vamos HD
+#EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-vamos-1601.png",#Vamos HD
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53662.ts
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69186
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-canal-420.png" group-title="SPORT EUROPE",CANAL+ Premier League HD FRANCE
-http://iptvtree.net:8080/fee2bbca/12e32aafa1/286794
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png" group-title="SPORT EUROPE",CANAL+ FOOT HD FRANCE
+#EXTINF:-1 tvg-id="playsports1.be" tvg-name="BE: PLAY SPORTS 1 FHD" tvg-logo="http://silvertv.net:1997/images/BELGIUM/play-sports-1.png" group-title="⚽ SPORT EUROPE",PLAY•SPORTS 1 FHD
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/16858
+#EXTINF:-1 tvg-id="playsports2.be" tvg-name="BE: PLAY SPORTS 2 ¹⁰⁸⁰ᵖ" tvg-logo="http://silvertv.net:1997/images/BELGIUM/play-sports-2.png" group-title="⚽ SPORT EUROPE",PLAY•SPORTS 2 ¹⁰⁸⁰ᵖ
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/46238
+#EXTINF:-1 tvg-id="playsports3.be" tvg-name="BE: PLAY SPORTS 3 ¹⁰⁸⁰ᵖ" tvg-logo="http://silvertv.net:1997/images/BELGIUM/play-sports-3.png" group-title="⚽ SPORT EUROPE",PLAY•SPORTS 3 ¹⁰⁸⁰ᵖ
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/60567
+#EXTINF:-1 tvg-id="playsports4.be" tvg-name="BE: PLAY SPORTS 4 ¹⁰⁸⁰ᵖ" tvg-logo="http://silvertv.net:1997/images/BELGIUM/play-sports-4.png" group-title="⚽ SPORT EUROPE",PLAY•SPORTS 4 ¹⁰⁸⁰ᵖ
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/60570
+#EXTINF:-1 tvg-id="playsports5.be" tvg-name="BE: PLAY SPORTS 5 ¹⁰⁸⁰ᵖ" tvg-logo="http://silvertv.net:1997/images/BELGIUM/play-sports-5.png" group-title="⚽ SPORT EUROPE",PLAY•SPORTS 5 ¹⁰⁸⁰ᵖ
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/60573
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-canal-420.png" group-title="⚽ SPORT EUROPE",CANAL+ Premier League HD FRANCE
+http://37.49.230.48:8080/9f922928/873ef670ee/297425
+#http://iptvtree.net:8080/fee2bbca/12e32aafa1/286794
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png" group-title="⚽ SPORT EUROPE",CANAL+ FOOT HD FRANCE
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/55430
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-360-2807.png" group-title="SPORT EUROPE",CANAL+ FOOT360 HD FR
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-360-2807.png" group-title="⚽ SPORT EUROPE",CANAL+ FOOT360 HD FR
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/54657.ts
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/297378
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png" group-title="SPORT EUROPE",CANAL+ Sport HD POLAND
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png" group-title="⚽ SPORT EUROPE",CANAL+ Sport HD POLAND
 http://viptv.me:80/blackkill/vg8u9xXi8g/73662
 http://bellive.top:8080/live/951664070451109006/3011664070451109/10129.ts
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1166.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-2-707.png" group-title="SPORT EUROPE",CANAL+ Sport 2 HD POLAND
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-sport-2-707.png" group-title="⚽ SPORT EUROPE",CANAL+ Sport 2 HD POLAND
 http://viptv.me:80/blackkill/vg8u9xXi8g/73664
 http://bellive.top:8080/live/951664070451109006/3011664070451109/10130.ts
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1167.ts
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-premium-2516.png" group-title="SPORT EUROPE",CANAL+ Premium HD POLAND
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-premium-2516.png" group-title="⚽ SPORT EUROPE",CANAL+ Premium HD POLAND
 http://viptv.me:80/blackkill/vg8u9xXi8g/156821
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-ultra-hd-sweden.png" group-title="SPORT EUROPE",V Sport UltraHD DK
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-ultra-hd-sweden.png" group-title="⚽ SPORT EUROPE",V Sport UltraHD DK
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=114242&extension=ts&play_token=
-#EXTINF:0 group-title="SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="3",Setanta Sports HD
+#EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="3",Setanta Sports HD
 http://5.61.54.61/iptv/2XGCY732NCTX4V/271/index.m3u8
-#EXTINF:0 group-title="SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="3",Setanta Sports 2
+#EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="3",Setanta Sports 2
 http://5.61.54.61/iptv/2XGCY732NCTX4V/270/index.m3u8
-#EXTINF:0 group-title="SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="0",Setanta Eurasia HD
+#EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="0",Setanta Eurasia HD
 http://5.61.54.61/iptv/2XGCY732NCTX4V/15183/index.m3u8
-#EXTINF:0 group-title="SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="0",Setanta Eurasia+
+#EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="0",Setanta Eurasia+
 http://5.61.54.61/iptv/2XGCY732NCTX4V/15184/index.m3u8
-#EXTINF:0 group-title="SPORT EUROPE" tvg-id="2630" tvg-logo="http://epg.it999.ru/img/2630.png" tvg-rec="3",Setanta Qazaqstan HD
+#EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2630" tvg-logo="http://epg.it999.ru/img/2630.png" tvg-rec="3",Setanta Qazaqstan HD
 http://5.61.54.61/iptv/2XGCY732NCTX4V/2399/index.m3u8
-#EXTINF:0 group-title="SPORT EUROPE" tvg-id="2630" tvg-logo="http://epg.it999.ru/img/2630.png" tvg-rec="3",Setanta HD KZ orig
+#EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2630" tvg-logo="http://epg.it999.ru/img/2630.png" tvg-rec="3",Setanta HD KZ orig
 http://5.61.54.61/iptv/2XGCY732NCTX4V/9094/index.m3u8
 
 ---------------------------------------BEIN SPORT ----------------------------------------
