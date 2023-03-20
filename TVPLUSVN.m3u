@@ -659,7 +659,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8?cc|Referer=ht
 http://vtsstr4.tv24.vn:1935/live/SCTV22_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/DYgY6pd/SCTV-TH.png", SCTV PTHˢᵛ² Phim Tong Hop
 https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="btv5hd" group-title="📺|SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 HD SSPORTS 3
+#EXTINF:-1 tvg-id="btv5hd" group-title="📺|SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
+https://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
 http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
 
 ---------------------------------------HTV----------------------------------------
