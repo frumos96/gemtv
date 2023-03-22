@@ -409,11 +409,12 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/5003/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="🔥📺⚽ ULTRA 4K",DIGI 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
 #EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="🔥📺⚽ ULTRA 4K",TRAVELXP 4K
+http://local.xnetwork.club:8000/ecNuB4hpw0/VruHUUHnzh/3178
 http://91.126.228.141:9981/stream/channelid/1492006173?profile=pass
 #EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",TRT 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/4001/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai 4K
-http://91.126.228.141:9981/stream/channelid/1983320960?profile=pass
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai Ultra Nature 4K
+http://185.236.229.31:9981/play/a01d
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19091/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="https://yt3.googleusercontent.com/wbxCrYrRYvuTn3oB-qst3TFyzOFimf9HRHlZKSfyp2l11qisukhaxU89H17w_Orvv4-xOeBiQX4=s900-c-k-c0x00ffffff-no-rj",N1 Play ULTRAHD SE 4K
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=213219&extension=ts&play_token=
@@ -445,8 +446,6 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/4003/index.m3u8
 http://5.61.54.61/iptv/2XGCY732NCTX4V/14247/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6186" tvg-logo="http://epg.it999.ru/img/6186.png" tvg-rec="0",SKY HIGH MIX 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/17025/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6333" tvg-logo="http://epg.it999.ru/img2/6333.png" tvg-rec="0",UZ 4K Kino UHD
-http://5.61.54.61/iptv/2XGCY732NCTX4V/18162/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6138" tvg-logo="http://epg.it999.ru/img2/6138.png" tvg-rec="0",YOSSO-4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/16153/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6205" tvg-logo="http://epg.it999.ru/img2/6205.png" tvg-rec="0",LIBERTY KINOENG  UHD
@@ -459,10 +458,6 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/18161/index.m3u8
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19303/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6739" tvg-logo="http://epg.it999.ru/img2/6739.png" tvg-rec="0",LIBERTY НАУКА 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19305/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6729" tvg-logo="http://epg.it999.ru/img2/6729.png" tvg-rec="0",LIBERTY МиМ FHD
-http://5.61.54.61/iptv/2XGCY732NCTX4V/19306/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6730" tvg-logo="http://epg.it999.ru/img2/6730.png" tvg-rec="0",LIBERTY СОЮЗ 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/19307/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6340" tvg-logo="http://epg.it999.ru/img2/6340.png" tvg-rec="0",LIBERTY INDI 4K
 http://5.61.54.61/iptv/2XGCY732NCTX4V/18160/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6855" tvg-logo="http://epg.it999.ru/img2/6855.png" tvg-rec="0",LIBERTY NETFLIX 4K
@@ -1497,25 +1492,26 @@ http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21184
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1504.png" group-title="⚽ SPORT EUROPE",PT: Eleven Sports 5 FHD
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21186
 #EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",Dazn 1 HD SPAIN
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431572.ts
+http://dnsplay.xyz:80/Kenwyn/TJGm5d9YlP/303780
+#http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431572.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53387.ts
 #http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69392
-#http://dnsplay.xyz:80/Kenwyn/TJGm5d9YlP/303780
 #EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",Dazn 2 HD SPAIN
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431573.ts
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303782
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53388.ts
 #http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69373
-#http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303782
+#http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431573.ts
+
 #EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2512.png",Dazn 3 HD SPAIN
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431574.ts
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303784
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53389.ts
 #http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69393
-#http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303784
+#http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431574.ts
 #EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2513.png",Dazn 4 HD SPAIN
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431575.ts
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303786
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53390.ts
 #http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69395
-#http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303786
+#http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431575.ts
 #EXTINF:-1 group-title="⚽ SPORT EUROPE" Logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-plus-1475.png",Movistar Liga de Campeones SPAIN
 http://dnsplay.xyz:80/hldoudby/qubRsmkm/303761
 http://5.61.54.61/iptv/2XGCY732NCTX4V/6074/index.m3u8
