@@ -348,8 +348,8 @@ http://lmtv.me:80/3Xa6ZR/7yzVQY/95654
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19158/index.m3u8
 #EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6583" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" tvg-rec="0",ELEVEN SPORTS 1 UHD PL
 http://91.126.228.141:9981/stream/channelid/1732929174?profile=pass
-#EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6583" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" tvg-rec="0",EVENEMENT SPORT 4K UHD
-http://91.126.228.141:9981/stream/channelid/1212098384?profile=pass
+#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6585" tvg-logo="http://epg.it999.ru/img2/6585.png" tvg-rec="0",SPORT TV 1 4K UHD PT
+http://5.61.54.61/iptv/2XGCY732NCTX4V/19161/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="🔥📺⚽ ULTRA 4K",beINSports 1 TURKEY 4K
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNErq0Xo-NUQh-AvVQC1PmLmHCw9cpCwcBCuGDqALdUcT/ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-2-743.png" group-title="🔥📺⚽ ULTRA 4K",beINSports 2 TURKEY 4K
@@ -1475,40 +1475,50 @@ http://iptvtree.net:8080/fee2bbca/12e32aafa1/297551
 #EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-mix-2766.png" group-title="⚽ SPORT EUROPE",Sky Sport MIX HD DE
 http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/161775
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group-title="⚽ SPORT EUROPE",DE: Dazn Bar 1
+http://5.61.54.61/iptv/2XGCY732NCTX4V/19042/index.m3u8
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14001
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/11008.ts
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png" group-title="⚽ SPORT EUROPE",DE: Dazn Bar 2
+http://5.61.54.61/iptv/2XGCY732NCTX4V/19043/index.m3u8
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14002
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/11009.ts
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-de-923.png" group-title="⚽ SPORT EUROPE",DE: Dazn Sport Event HD
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/161877
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="⚽ SPORT EUROPE",Eleven Sports 1 FHD_🇵🇹
+http://5.61.54.61/iptv/2XGCY732NCTX4V/2531/index.m3u8
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21181
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="⚽ SPORT EUROPE",Eleven Sports 2 FHD_🇵🇹
+http://5.61.54.61/iptv/2XGCY732NCTX4V/2532/index.m3u8
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21182
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="⚽ SPORT EUROPE",Eleven Sports 3 FHD_🇵🇹
+http://525101722668339509.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/339509.ts
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21183
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1503.png" group-title="⚽ SPORT EUROPE",Eleven Sports 4 FHD_🇵🇹
+http://525101722668437597.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/437597.ts
+http://525101722668307669.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/307669.ts
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21184
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1504.png" group-title="⚽ SPORT EUROPE",Eleven Sports 5 FHD_🇵🇹
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21186
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1505.png" group-title="⚽ SPORT EUROPE",Eleven Sports 6 FHD_🇵🇹
+http://525101722668398063.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/398063.ts
 #EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",Dazn 1 HD SPAIN
+http://525101722668228390.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/228390.ts
 http://dnsplay.xyz:80/Kenwyn/TJGm5d9YlP/303780
 #http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431572.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53387.ts
 #http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/69392
 #EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",Dazn 2 HD SPAIN
+http://525101722668228388.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/228388.ts
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303782
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53388.ts
 #http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69373
 #http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431573.ts
-
 #EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2512.png",Dazn 3 HD SPAIN
+http://525101722668228392.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/228392.ts
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303784
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53389.ts
 #http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69393
 #http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431574.ts
 #EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2513.png",Dazn 4 HD SPAIN
+http://525101722668228397.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/228397.ts
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303786
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53390.ts
 #http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69395
@@ -1522,8 +1532,11 @@ http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/431493.ts
 #http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/303805
 #http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69136
 #EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png",#0
+http://525101722668321068.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/321068.ts
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69185
 #EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-vamos-1601.png",#Vamos HD
+http://525101722668321071.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/321071.ts
+http://525101722668438009.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/438009.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/53662.ts
 http://ttv.bz:80/Kenwyn/TJGm5d9YlP/69186
 #EXTINF:-1 tvg-id="playsports1.be" tvg-logo="http://silvertv.net:1997/images/BELGIUM/play-sports-1.png" group-title="⚽ SPORT EUROPE",PLAY•SPORTS 1 FHD Serie A
