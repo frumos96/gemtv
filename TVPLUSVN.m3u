@@ -6,6 +6,8 @@ http://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv1hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 Viettel
 http://live.vthanhtivi.pw/vtv1
 #https://iplogger.com/VTV1
+#EXTINF:0 tvg-id="vtv1hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 MYTV
+https://code.vthanhtivi.pw/getlink/mytv/210/hd.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2
 http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
 http://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
@@ -19,6 +21,8 @@ http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 http://live.vthanhtivi.pw/vtv3
 #EXTINF:0 tvg-id="vtv3hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3 Viettel
 http://live-ali2.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
+#EXTINF:0 tvg-id="vtv3hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3 MYTV
+https://code.vthanhtivi.pw/getlink/mytv/211/hd.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV4
 http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 http://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
@@ -41,6 +45,8 @@ http://live.vthanhtivi.pw/vtvct
 #http://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ HD Viettel
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p3M.m3u8
+#EXTINF:0 tvg-id="vtv6hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ HD MYTV
+https://code.vthanhtivi.pw/getlink/mytv/212/hd.m3u8
 #EXTINF:0 tvg-id="vtv7hd"  group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/9.png"catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7
 http://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv7hd"  group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/9.png"catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7 Viettel
@@ -298,6 +304,7 @@ https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿| Lifestyle" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/300px-2018_Travel_Channel_logo.svg.png ", Travel Channel HD
 http://viptv.me:80/blackkill/vg8u9xXi8g/73809
+http://525101722668438472.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/438472.ts
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/93513.ts
 http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93675
 #EXTINF:0 tvg-id="historyhd" group-title="🌿| Lifestyle" logo="http://images.zaltv.club/logo/history.png", History HD
@@ -1549,9 +1556,8 @@ http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/60567
 http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/60570
 #EXTINF:-1 tvg-id="playsports5.be" tvg-logo="http://silvertv.net:1997/images/BELGIUM/play-sports-5.png" group-title="⚽ SPORT EUROPE",PLAY•SPORTS 5 FHD
 http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/60573
-#EXTINF:-1 tvg-id="playsports5.be" tvg-logo="http://silvertv.net:1997/images/BELGIUM/play-sports-5.png" group-title="⚽ SPORT EUROPE",PLAY•SPORTS 5 FHD
-
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-canal-420.png" group-title="⚽ SPORT EUROPE",CANAL+ Premier League HD FRANCE
+http://525101722668313231.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/313231.ts
 http://37.49.230.48:8080/9f922928/873ef670ee/297425
 #http://iptvtree.net:8080/fee2bbca/12e32aafa1/286794
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png" group-title="⚽ SPORT EUROPE",CANAL+ FOOT HD FRANCE
@@ -1680,20 +1686,24 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/312844
 
 ---------------------------------------SPORT EX-YU----------------------------------------
 #EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: Digi Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png" group-title="SPORT EX-YU",DigiSport1 HD
+http://525101722668389450.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/389450.ts
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70943
 #http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/26784.ts
 #http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya7-G8DPmKJTrO2OeBjdpgDlS/ts
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1173.ts
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group-title="SPORT EX-YU",DigiSport2 HD
+http://525101722668389451.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/389451.ts
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70944
 #http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya7-tMpPl9fEKDULyZXTc7I_D/ts
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1174.ts
 #EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group-title="SPORT EX-YU",DigiSport3 HD
+
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70945
 #http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/10049.ts
 #http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya7_jbgH5BEq78Ohyt-Avbq7z/ts
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1175.ts
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group-title="SPORT EX-YU",DigiSport4 HD
+
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/10048.ts
 http://viptv.me:80/blackkill/vg8u9xXi8g/70947
 http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya784ClgDpP8yzPcsBExNR34D/ts
