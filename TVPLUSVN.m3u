@@ -596,6 +596,8 @@ http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTVLCOPT:http-user-agent="CloudTV"
 http://code.vthanhtivi.pw/getlink/onplus/ONSPORTNEWSTA/m30_index.m3u8
 https://iplogger.com/ONSPORTNEWSTA
+#EXTINF:-1 tvg-id="btv5hd" group-title="🧡| VTVcab" tvg-logo="https://i.ytimg.com/vi/BJPhLkAwz00/maxresdefault.jpg", BTV5 - ON Sports Action
+https://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8", VTVcab19-Vie Dramas 
 https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/28.png" catchup="append" catchup-days="2" catchup-source="https://cdoe.vthanhtivi.pw/xemlai/vieon2/2eb37e8d-2abf-4bce-aa44-b3b9a4460469/dvr-${start}-${offset}.m3u8", VTVcab20- VFamily 
@@ -662,9 +664,6 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8?cc|Referer=ht
 http://vtsstr4.tv24.vn:1935/live/SCTV22_HD_new.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺|SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/DYgY6pd/SCTV-TH.png", SCTV PTHˢᵛ² Phim Tong Hop
 https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="btv5hd" group-title="📺|SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
-https://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
-http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
 
 ---------------------------------------HTV----------------------------------------
 
@@ -1358,6 +1357,8 @@ https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?ProgramID=&encrypt=
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-elta-sports-1404.png" group-title="💚SPORT ASEAN",Elta•1.taiwan
+https://epg.pw/stream/20e6d3002f170199b4b126799718664e6905a474abf4c5cf78ea8a52fe4fd14f.m3u8
 #EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-1-1659.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 1 HD_taiwan
 http://61.221.81.93:8078/hls/25/80/esport.m3u8
 #EXTINF:0  group-title="Thể thao"  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-2-1660.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 2 HD_taiwan
@@ -1569,6 +1570,8 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/15184/index.m3u8
 http://5.61.54.61/iptv/2XGCY732NCTX4V/2399/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2630" tvg-logo="http://epg.it999.ru/img/2630.png" tvg-rec="3",Setanta HD KZ orig_🇺🇦
 http://5.61.54.61/iptv/2XGCY732NCTX4V/9094/index.m3u8
+#EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2370" tvg-logo="http://epg.it999.ru/img/2370.png" tvg-rec="3",Setanta Sports Ukraine HD orig_🇺🇦
+http://5.61.54.61/iptv/2XGCY732NCTX4V/5068/index.m3u8
 
 ---------------------------------------SPORT AFRICA----------------------------------------
 #EXTINF:-1 tvg-id="supersportblitz.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-blitz-300.png" group-title="SPORT AFRICA",SuperSport Blitz HD
