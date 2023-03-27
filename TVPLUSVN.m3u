@@ -204,10 +204,11 @@ https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/Sptvlogo.jpg" group-title="Kênh khác",BS°SkyPerfecTV!			
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizismart-max-tr.png" group-title="🎬| Phim",DiziSmart_MAX HD TURKEY
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/32147
+http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/65439.ts
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/32147
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="🎬| Phim",DiziSmart_Premium HD TURKEY
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/32147
-http://5.61.54.61/iptv/2XGCY732NCTX4V/6802/index.m3u8
+http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/65432.ts
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/32147
 http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/129145
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/1f/Yes_israeli.png/330px-Yes_israeli.png" group-title="🎬| Phim",YES Israeli Cinema
 http://5.61.54.61/iptv/2XGCY732NCTX4V/2342/index.m3u8
@@ -363,6 +364,10 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/19161/index.m3u8
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNErq0Xo-NUQh-AvVQC1PmLmHCw9cpCwcBCuGDqALdUcT/ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-2-743.png" group-title="🔥📺⚽ ULTRA 4K",beINSports 2 TURKEY 4K
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNAP_2ajFHVzgQjqpvgP4jCtQDRhJq72HqFvJ3YjXSGjV/ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="🔥📺⚽ ULTRA 4K",beINSports 3 TURKEY PL FHD
+http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/137071.ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="🔥📺⚽ ULTRA 4K",beINSports 4 TURKEY BUNDESLIGA FHD
+http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/137074.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="🔥📺⚽ ULTRA 4K",beINSports 1 TURKEY 
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1142.ts
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNGh2arrmyll-PXtWVpuO8x0/ts
@@ -918,6 +923,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://i.imgur.com/VHOdzjd.jpg", VEVO Pop FHD
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=b72b3d44-8d24-4833-8786-6ea77b1f7935&rendition=1080&session_id=00445cfb-bf4d-7983-d2bb-dabab3c362d5&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
 #EXTINF:0 group-title="🎵|Music" logo="https://i.ibb.co/fQjkFFk/kralpop.jpg", Kral Pop TR
+http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/63873.ts
+http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/63872.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/50806.ts
 http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/77371
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" group-title="🎵|Music",Drean Tuk HD
@@ -1472,22 +1479,26 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=79484&extensio
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-espn-98.png" group-title="⚽ SPORT EUROPE",UK: BTSport ESPN HD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1002857&extension=ts&play_token=3hyT2mAZqC
 #EXTINF:-1 Logo="http://images.zaltv.club/logo/live.gif" group-title="⚽ SPORT EUROPE",DE: Sport Digital HD#
+http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/134851.ts
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16524
 #http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/6982
 #http://iptvtree.net:8080/fee2bbca/12e32aafa1/3509
 #EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-austria-165.png" group-title="⚽ SPORT EUROPE",Sky Sport Austria 1 HD 
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/2130
 #EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-top-event-2764.png" group-title="⚽ SPORT EUROPE",Sky Sport Top Event HD DE
+http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/136161.ts
 http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/163020
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/13929
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/297551
 #EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-mix-2766.png" group-title="⚽ SPORT EUROPE",Sky Sport MIX HD DE
 http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/161775
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group-title="⚽ SPORT EUROPE",DE: Dazn Bar 1
+http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/134845.ts
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19042/index.m3u8
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14001
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/11008.ts
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png" group-title="⚽ SPORT EUROPE",DE: Dazn Bar 2
+http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/134845.ts
 http://5.61.54.61/iptv/2XGCY732NCTX4V/19043/index.m3u8
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14002
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/11009.ts
