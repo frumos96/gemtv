@@ -1602,19 +1602,21 @@ http://viptv.me:80/blackkill/vg8u9xXi8g/156821
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-ultra-hd-sweden.png" group-title="⚽ SPORT EUROPE",V Sport UltraHD DK
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=114242&extension=ts&play_token=
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="3",Setanta Sports HD_🇺🇦
+http://5.75.248.51:8000/play/a002/index.m3u8
 http://5.61.54.61/iptv/2XGCY732NCTX4V/271/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="3",Setanta Sports 2_🇺🇦
+http://5.75.248.51:8000/play/a003/index.m3u8
 http://5.61.54.61/iptv/2XGCY732NCTX4V/270/index.m3u8
-#EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="0",Setanta Eurasia HD_🇺🇦
-http://5.61.54.61/iptv/2XGCY732NCTX4V/15183/index.m3u8
-#EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="0",Setanta Eurasia+_🇺🇦
-http://5.61.54.61/iptv/2XGCY732NCTX4V/15184/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2630" tvg-logo="http://epg.it999.ru/img/2630.png" tvg-rec="3",Setanta Qazaqstan HD_🇺🇦
+http://5.75.248.51:8000/play/a001/index.m3u8
 http://5.61.54.61/iptv/2XGCY732NCTX4V/2399/index.m3u8
-#EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2630" tvg-logo="http://epg.it999.ru/img/2630.png" tvg-rec="3",Setanta HD KZ orig_🇺🇦
-http://5.61.54.61/iptv/2XGCY732NCTX4V/9094/index.m3u8
-#EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2370" tvg-logo="http://epg.it999.ru/img/2370.png" tvg-rec="3",Setanta Sports Ukraine HD orig_🇺🇦
-http://5.61.54.61/iptv/2XGCY732NCTX4V/5068/index.m3u8
+#EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="0",Setanta Eurasia HD_🇺🇦1
+http://31.146.176.94:80/setanta1/index.m3u8
+http://5.61.54.61/iptv/2XGCY732NCTX4V/15183/index.m3u8
+#EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="0",Setanta Eurasia+_🇺🇦2
+http://31.146.176.94:80/setanta2/index.m3u8
+http://5.61.54.61/iptv/2XGCY732NCTX4V/15184/index.m3u8
+
 
 ---------------------------------------SPORT AFRICA----------------------------------------
 #EXTINF:-1 tvg-id="supersportblitz.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-blitz-300.png" group-title="SPORT AFRICA",SuperSport Blitz HD
