@@ -342,6 +342,22 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/72876.ts
 #EXTINF:-1   tvg-logo="https://dizistatic.tv2zcdn.com/images/489bd450f8a0008325d01c5adeabd7c91598b538.png" group-title="🌿| Lifestyle",DIZI
 http://103.167.167.5:8111/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tranvel XP" tvg-logo="http://displaytivi.github.io/albums/travelxp.png" group-title="🌿| Lifestyle" tvg-shift="-24",Tranvel XP
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smithsonian" tvg-logo="http://displaytivi.github.io/albums/smithsonian.png" group-title="🌿| Lifestyle" tvg-shift="-24",Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="outdoorhd" tvg-name="Outdoor Channel" tvg-logo="http://displaytivi.github.io/albums/outdoor.png" group-title="🌿| Lifestyle" tvg-shift="-24",Outdoor Channel
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outside TV" tvg-logo="http://displaytivi.github.io/albums/outside.png" group-title="🌿| Lifestyle" tvg-shift="-24",Outside TV
+https://outsidetv-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IN Wild " tvg-logo="http://displaytivi.github.io/albums/inwild.png" group-title="🌿| Lifestyle" tvg-shift="-24",IN Wild
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IN Wonder" tvg-logo="http://displaytivi.github.io/albums/inwonder.png" group-title="🌿| Lifestyle" tvg-shift="-24",IN Wonder 
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IN Sight TV" tvg-logo="http://displaytivi.github.io/albums/insighttv.png" group-title="🌿| Lifestyle" tvg-shift="-24",IN Sight TV
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IN Trouble" tvg-logo="http://displaytivi.github.io/albums/introuble.png" group-title="🌿| Lifestyle" tvg-shift="-24",IN Trouble
+https://introuble-samsung.amagi.tv/playlist1080p.m3u8
 
 ---------------------------------------ULTRA 4K----------------------------------------
 #EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K"tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO_🇲🇾 Supersport2 4K
@@ -460,38 +476,6 @@ http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/48677.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/54657.ts
 #EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-4k-ultra-hd-2008.png",CANAL+ 4K ULTRA HD
 http://91.126.228.141:9981/stream/channelid/557247062?profile=pass
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="2800" tvg-logo="http://epg.it999.ru/img/2800.png" tvg-rec="3",Insight UHD 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/5000/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="5979" tvg-logo="http://epg.it999.ru/img2/5979.png" tvg-rec="0",Глазами Туриста 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/15191/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" tvg-rec="3",Home 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/4002/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="2746" tvg-logo="http://epg.it999.ru/img/2746.png" tvg-rec="3",Наша Сибирь 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/4003/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="5456" tvg-logo="http://epg.it999.ru/img/5456.png" tvg-rec="0",SKY HIGH NATURE 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/14247/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6186" tvg-logo="http://epg.it999.ru/img/6186.png" tvg-rec="0",SKY HIGH MIX 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/17025/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6138" tvg-logo="http://epg.it999.ru/img2/6138.png" tvg-rec="0",YOSSO-4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/16153/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6205" tvg-logo="http://epg.it999.ru/img2/6205.png" tvg-rec="0",LIBERTY KINOENG  UHD
-http://5.61.54.61/iptv/2XGCY732NCTX4V/17060/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6231" tvg-logo="http://epg.it999.ru/img2/6231.png" tvg-rec="0",LIBERTY RUSFILM 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/18046/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6341" tvg-logo="http://epg.it999.ru/img2/6341.png" tvg-rec="0",LIBERTY CUBE 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/18161/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6727" tvg-logo="http://epg.it999.ru/img2/6727.png" tvg-rec="0",LIBERTY ТУРК ФИЛЬМ 4К
-http://5.61.54.61/iptv/2XGCY732NCTX4V/19303/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6739" tvg-logo="http://epg.it999.ru/img2/6739.png" tvg-rec="0",LIBERTY НАУКА 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/19305/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6340" tvg-logo="http://epg.it999.ru/img2/6340.png" tvg-rec="0",LIBERTY INDI 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/18160/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6855" tvg-logo="http://epg.it999.ru/img2/6855.png" tvg-rec="0",LIBERTY NETFLIX 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/19402/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="4804" tvg-logo="http://epg.it999.ru/img/4804.png" tvg-rec="0",VF Кино 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/11114/index.m3u8
-#EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="4805" tvg-logo="http://epg.it999.ru/img/4805.png" tvg-rec="0",VF Сериал 4K
-http://5.61.54.61/iptv/2XGCY732NCTX4V/11115/index.m3u8
 #EXTINF:-1 group-title="🔥📺⚽ ULTRA 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:0 group-title="🔥📺⚽ ULTRA 4K" tvg-id="6708" tvg-logo="http://epg.it999.ru/img2/6708.png" tvg-rec="0",BOX Relax 4K
