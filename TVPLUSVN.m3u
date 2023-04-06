@@ -218,7 +218,6 @@ http://5.61.54.61/iptv/2XGCY732NCTX4V/2342/index.m3u8
 http://myott.top/stream/93K4NA7ZUL/380.m3u8
 #EXTINF:-1 group-title="🎬| Phim" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",Sky Romance TV FHD DE
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/13152
-http://5.61.54.61/iptv/2XGCY732NCTX4V/7231/index.m3u8
 #http://balkantv.net:25461/libertassnova/285JgksRxuc35fc7MKsm6q5S/15399
 #EXTINF:-1 group-title="🎬| Phim" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",Sky Movie Premiere FHD UK
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/10622
@@ -288,7 +287,7 @@ https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="ngchd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/206.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="ngwhd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/207.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
-https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:0 group-title="🌿| Lifestyle" logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png?fit=960%2C540&ssl=1", WILDEARTH
 http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/311819.ts
 #EXTINF:0 group-title="🌿| Lifestyle" logo="https://images4.imagebam.com/71/bf/96/MEFIXCS_o.png", Nat Geo People
