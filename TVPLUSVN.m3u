@@ -716,77 +716,6 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 https://raintv.tk/vieon/f4c5e359826e1f7f1411653b337ce578993309d6/htvc-phim/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="💛| HTV" logo="https://cdn.hqth.me/logo/thumbs/61.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-plus/${start}/${offset}", HTVC Plus HD
 https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil /chunklist_b5000000.m3u8
-#-------------------K+-------------------#
-
-#EXTINF:-1 tvg-id="klive1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/251.png", K+ Live 1 HD (MyK+)
-#EXTVLCOPT:http-user-agent=VAgroup
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/i.mpd
-
-#EXTINF:-1 tvg-id="klive2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/252.png", K+ Live 2 HD (MyK+)
-#EXTVLCOPT:http-user-agent=VAgroup 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dDne6KZ62B+Zto18e/p50g", "kid":"QXSdPAX5TOyqmN8rMVrTCQ" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/i.mpd
-
-#EXTINF:-1 tvg-id="klive3hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/253.png", K+ Live 3 HD (MyK+)
-#EXTVLCOPT:http-user-agent=VAgroup
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD (MyK+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FHzl9PDu5Ox6aw+tTwq5aA", "kid":"afHLEyIgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"1bymmG4iORa8ldNItdxueQ", "kid":"sTXLEyIgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"kqbDSGSMj5nBxZyOSS7uYw", "kid":"qkYPXHEgqP/a/U+QUHDe4w" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 FHD (MyK+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xKzj7uL6RFt+1RRWJQNklA", "kid":"3wpUgQPqGRnkDnoyastNFw" },{ "kty":"oct", "k":"W0Hp+nRQc83SDUwyKpeowg", "kid":"J05UgQPqGRnkDnoyastNFw" },{ "kty":"oct", "k":"ESL2000fKIFE11IQR1KIow", "kid":"IF+YylLqGRnkDnoyastNFw" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine FHD (MyK+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sRy1PhAwlnOQ7iP+lNukdA", "kid":"+S3Li3EerpUz+JC3L4U11g" },{ "kty":"oct", "k":"bwvKD7ZgZy5w0zGN09A4sQ", "kid":"QXHLi3EerpUz+JC3L4U11g" },{ "kty":"oct", "k":"VOQl4T7w1mD/plMTnC/DTA", "kid":"OoIP1MAerpUz+JC3L4U11g" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
-
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyK+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uuxka6BETIRnuZ7f2xEm4Q", "kid":"0y2qTOn1UeyuvdgtW7T//A" },{ "kty":"oct", "k":"cDpHI4DdZUJj7P3maUHvRg", "kid":"G3GqTOn1UeyuvdgtW7T//A" },{ "kty":"oct", "k":"v/GoZ7DWK7X6Jim1C82irQ", "kid":"FILulTj1UeyuvdgtW7T//A" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
-
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://logo.vagroup.pw/188.png", K+ Kids FHD (MyK+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xAOZGDzdoOOYRqjAm8497A", "kid":"h1kF9LLXJr6ttfPc6x67pg" },{ "kty":"oct", "k":"H6IoyQ5l7A9pOHQLKiNn5Q", "kid":"z50F9LLXJr6ttfPc6x67pg" },{ "kty":"oct", "k":"Npm52Lg+zDfhifUkisHvBQ", "kid":"yK5JPQHXJr6ttfPc6x67pg" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 (MyTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4PrWoTuIHEg7gKtZ7XdF3A", "kid":"3UPJaQewRDuGEP52SQYVyQ" } ], "type":"temporary" }
-http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 (MyTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8VDh1DdpToaySdbbduvNEg", "kid":"iLBsVvadR9mCYfSZkw4hKg" } ], "type":"temporary" }
-http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"idujgHe54YlRNXKcJ2X8nQ", "kid":"79heDyqnQXC313NafOz7JA" } ], "type":"temporary" }
-http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine (MyTV) 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"roOM/RPYtLRL9JY6eHhfUA", "kid":"DibC3DM+R0id4kExw7noHw" } ], "type":"temporary" }
-http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-
 ---------------------------------------💙| VTC----------------------------------------
 #EXTINF:-1 tvg-id="vtc1" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc1-hd/dvr-${start}-${offset}.m3u8", VTC1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -1477,10 +1406,8 @@ http://103.167.167.5:8111/play/a02m/index.m3u8
 http://103.167.167.5:8111/play/a02n/index.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png" group-title="💚SPORT ASEAN",True Premier League 1 HD_🇹🇭
 http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=Shareext@.m3u8
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162591
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png" group-title="💚SPORT ASEAN",True Premier League 2 HD_🇹🇭
 http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115508&extension=ts&play_token=Shareext@.m3u8
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162592
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png" group-title="💚SPORT ASEAN",True Premier League 3 HD_🇹🇭
 http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115511&extension=ts&play_token=Shareext@.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="💚SPORT ASEAN", PPTV HD_🇹🇭
@@ -1500,9 +1427,11 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=554948&e
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1032478&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-3-1991.png" group-title="💚SPORT ASEAN", Now Sports 3_🇭🇰
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1032477&extension=ts&play_token=1kEm8DbZmS
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="💚SPORT ASEAN",Now Premier Sports 1_🇭🇰
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110622&extension=ts&play_token=shareext@.m3u8
 #EXTINF:-1   tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/uan17t1655810451.png" group-title="💚SPORT ASEAN",HUB•SPORTS•1_🇸🇬
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941573&extension=ts&play_token=1kEm8DbZmS
-#EXTINF:-1   tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/m85hz61655810471.png" group-title="💚SPORT ASEAN",HUB•SPORTS•2•_🇸🇬
+#EXTINF:-1   tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/m85hz61655810471.png" group-title="💚SPORT ASEAN",HUB•SPORTS•2•_🇸🇬 BUNDESLIGA
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941572&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="💚SPORT ASEAN",HubPremier 1 FHD_🇸🇬
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1032529&extension=ts&play_token=
