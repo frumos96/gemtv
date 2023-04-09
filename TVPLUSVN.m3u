@@ -446,7 +446,8 @@ http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19167.ts
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/179584
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg",V Sports UHD
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=35891&extension=ts&play_token=h3Jb2BBUAL
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/19163/index.m3u8
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png",咪咕体育-MiGU 4K-HLG源
 http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png",纯享4K备
@@ -1635,21 +1636,27 @@ http://bellive.top:8080/live/951664070451109006/3011664070451109/10130.ts
 http://viptv.me:80/blackkill/vg8u9xXi8g/156821
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-ultra-hd-sweden.png" group-title="⚽ SPORT EUROPE",V Sport UltraHD DK
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=114242&extension=ts&play_token=
+#EXTINF:1 tvg-id="" group-title="⚽ SPORT EUROPE" tvg-logo="https://i.ibb.co/SrgjJjP/Vsportfootball.png" tvg-name="",⚽ V-Football
+http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/12076/index.m3u8
+#EXTINF:1 tvg-id="freesports.uk" group-title="⚽ SPORT EUROPE" tvg-name="Viaplay Xtra FHD VIP UK" tvg-logo="https://i.ibb.co/2yCdzKP/VSport-Extra.png",Viaplay Xtra FHD
+http://dc62c084.ottolok.net/iptv/8E52MW5BS9BCE7/12074/index.m3u8
+#EXTINF:1 tvg-id="premiersports.uk" tvg-name="Premier Sports 1 FHD VIP UK" tvg-logo="https://i.ibb.co/hDw5FSg/v-sport1.png" group-title="⚽ SPORT EUROPE",⚽| V-Premium Sports
+http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/12079/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="3",Setanta Sports HD_🇺🇦
-http://5.75.248.51:8000/play/a002/index.m3u8
-http://5.61.54.61/iptv/2XGCY732NCTX4V/271/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/271/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="3",Setanta Sports 2_🇺🇦
-http://5.75.248.51:8000/play/a003/index.m3u8
-http://5.61.54.61/iptv/2XGCY732NCTX4V/270/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/270/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2630" tvg-logo="http://epg.it999.ru/img/2630.png" tvg-rec="3",Setanta Qazaqstan HD_🇺🇦
-http://5.75.248.51:8000/play/a001/index.m3u8
-http://5.61.54.61/iptv/2XGCY732NCTX4V/2399/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2399/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="0",Setanta Eurasia HD_🇺🇦1
-http://31.146.176.94:80/setanta1/index.m3u8
-http://5.61.54.61/iptv/2XGCY732NCTX4V/15183/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/15183/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="0",Setanta Eurasia+_🇺🇦2
-http://31.146.176.94:80/setanta2/index.m3u8
-http://5.61.54.61/iptv/2XGCY732NCTX4V/15184/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/15184/index.m3u8
 
 
 ---------------------------------------SPORT AFRICA----------------------------------------
