@@ -81,11 +81,13 @@ https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8?cc|Referer=http://sctvonline.vn
 #EXTINF:-1 tvg-id="cantho" group-title="Địa Phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.webp", THTPCT HD | TH Cần Thơ
 https://vips-livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vinhlong1hd"type="stream" channelId="-1" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/103.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 1 HD
+#EXTINF:0 tvg-id="vinhlong1hd"type="stream" channelId="-1" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/103.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 1 HD Viettel
 http://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="vinhlong1hd"type="stream" channelId="-1" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/103.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 1 HD
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="vinhlong2hd"type="stream" channelId="-1" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/104.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 2 HD
+#EXTINF:0 tvg-id="vinhlong2hd"type="stream" channelId="-1" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/104.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 2 HD Viettel
 http://live-ali4.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="vinhlong2hd"type="stream" channelId="-1" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/104.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 2 HD
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="haiphong" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/145.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/407/auto/dvr-${start}-${end}.m3u8", THP HD | TH Hải Phòng
 https://live.thhp.vn/thp/index.m3u8
