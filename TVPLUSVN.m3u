@@ -129,6 +129,7 @@ https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", Boxˢᵛ² 
 #EXTVLCOPT:http-user-agent=RainTv
 https://raintv.tk/cliptv/bce1ee6334fe7c1f1c02e13f05c7c9255c99e7ff/In-The-Box/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="🎬| Phim",CCTV_6.MOVIE
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
@@ -239,6 +240,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://stirr.app/wp-content/uploads/2020/10/stirr_logo_500x143_color.png" group-title="🎬| Phim",STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 tvg-id="moviebox"group-title="🎬| Phim" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_box_mn.png",Movie box
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF:-1 tvg-id="novaplay"group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nova_Play_logo.svg/1000px-Nova_Play_logo.svg.png",NovaPlay Brazil
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1592383770.m3u8
 #EXTINF:-1 tvg-id="starmovies" group-title="🎬| Phim" tvg-logo="http://gg.gg/12z6lp", Star 1 HD
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
 #EXTINF:-1 tvg-id="starmovies" group-title="🎬| Phim" tvg-logo="http://gg.gg/12z6lp", Star 2 HD
@@ -575,6 +580,7 @@ https://856175157.r.vtvcdn.com/YEAH1_TV/m20_index.m3u8
 https://code.vthanhtivi.pw/getlink/vieon2/1b029a49-b0fe-4ac5-b1cf-a9cb782ed0ec/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ONSportsNews HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.179.188.40/onplus/segment//THETHAO_TINTUC_HD/m401_index.m3u8
 https://code.vthanhtivi.pw/getlink/vieon2/987374ca-de49-4612-a159-b71f7880d134/playlist.m3u8
 http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ONSportsNews HDˢᵛ² 
@@ -585,6 +591,7 @@ http://code.vthanhtivi.pw/getlink/onplus/ONSPORTNEWSTA/m30_index.m3u8
 https://iplogger.com/ONSPORTNEWSTA
 #EXTINF:-1 tvg-id="btv5hd" group-title="🧡| VTVcab" tvg-logo="https://i.ytimg.com/vi/BJPhLkAwz00/maxresdefault.jpg", BTV5 - ON Sports Action
 https://livevt.vtvcab.vn/BTV5/m30_index.m3u8
+http://103.179.188.40/onplus/segment/BTV5/m30_index.m3u8
 https://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8", VTVcab19-Vie Dramas 
 https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
@@ -1761,15 +1768,11 @@ http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36872
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group-title="SPORT EX-YU",RU: Match! Football 1 HD SERIA
 http://0.vylc.name.vn/futbol1
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36886
-http://5.61.54.61/iptv/2XGCY732NCTX4V/2407/index.m3u8
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224211
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="SPORT EX-YU",RU: Match! Football 2 HD
 http://0.vylc.name.vn/futbol2
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36897
-http://5.61.54.61/iptv/2XGCY732NCTX4V/2420/index.m3u8
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224212
-http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/69537
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="SPORT EX-YU",RU: Match! Football 3 HD BUNDES
 http://0.vylc.name.vn/futbol3
-http://5.61.54.61/iptv/2XGCY732NCTX4V/2408/index.m3u8
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224213
