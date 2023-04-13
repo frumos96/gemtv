@@ -391,6 +391,10 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483921&extensi
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483920&extension=ts&play_token=
 #EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym8DWQHK2_ENw2lG0hi8P54fxgij1yxAF3SOe57RV8Yv.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSPORTS EN 3 4K
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483919&extension=ts&play_token=
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-extra-1-1164.png"group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beIN Sports Xtra 1 FHD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/667466
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-extra-2-1165.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beIN Sports Xtra 2  FHD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/689266
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN Sports 4K
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=269457&extension=ts&play_token=
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-4k-ultra-hd-2008.png",CANAL+ 4K ULTRA HD
@@ -399,14 +403,6 @@ http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/209232
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ziggo.svg/330px-Ziggo.svg.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",Ziggo Sport 4K
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png"group-title="🔥📺⚽ 4K 🇺 🇭 🇩",YES Sport 1 UHD
-http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19164.ts
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",YES Sport 2  UHD
-http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19165.ts
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",YES Sport 3 UHD
-http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19161.ts
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-4-1024.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",YES Sport 4 UHD
-http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/19167.ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-4k-1903.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",YES Sport5 4k
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/179584
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
@@ -1359,10 +1355,8 @@ http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 https://cdn-us-154.cloudrsst.com/live/olivetv_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="💚SPORT ASEAN", SPOTV 1_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/spotv_720/playlist.m3u8
-#https://stream.sugustv.tk/live/D7AA1B22D4B4E0F035C7DFE06C4874FC/75.ts
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="💚SPORT ASEAN", SPOTV 2_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/spotv_2_720/playlist.m3u8
-#https://stream.sugustv.tk/live/D7AA1B22D4B4E0F035C7DFE06C4874FC/328.ts
 #EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu10.png" group-title="💚SPORT ASEAN",SPOTV_ON_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/spotv_on_720/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/PC_intro_logo_menu05.png" group-title="💚SPORT ASEAN",SPOTV_PRIME_🇰🇷
@@ -1473,9 +1467,6 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1002857&extens
 #EXTINF:-1 Logo="http://images.zaltv.club/logo/live.gif" group-title="⚽ SPORT EUROPE",DE: Sport Digital HD#
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/8244
 http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/134851.ts
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16524
-#http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/6982
-#http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/3509
 #EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-top-event-2764.png" group-title="⚽ SPORT EUROPE",Sky Sport Top Event HD DE
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/297551
 #EXTINF:-1 group-title="Sport" Logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-premier-league-2765.png" group-title="⚽ SPORT EUROPE",Sky Sport Premier League HD DE
