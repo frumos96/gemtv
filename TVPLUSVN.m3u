@@ -1804,16 +1804,20 @@ http://viptv.me:80/blackkill/vg8u9xXi8g/133083
 http://hostengine.live/live/wrecks82/habsiptv82/158365.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133084
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group-title="SPORT EX-YU",RU: Маtch ТV HD
-http://0.vylc.name.vn/matchtv
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/19163/index.m3u8
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36872
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group-title="SPORT EX-YU",RU: Match! Football 1 HD SERIA
-http://0.vylc.name.vn/futbol1
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2407/index.m3u8
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36886
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224211
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="SPORT EX-YU",RU: Match! Football 2 HD
-http://0.vylc.name.vn/futbol2
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2420/index.m3u8
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36897
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224212
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="SPORT EX-YU",RU: Match! Football 3 HD BUNDES
-http://0.vylc.name.vn/futbol3
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5071/index.m3u8
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224213
