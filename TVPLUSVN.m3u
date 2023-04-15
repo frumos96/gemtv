@@ -914,9 +914,11 @@ http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/665206
 http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/211917
 #http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/192770
 #EXTINF:0 group-title="🎵|Music" tvg-id="5948" tvg-logo="http://epg.it999.ru/img2/5948.png" tvg-rec="0",FRESH POP HIT
-http://5.61.54.61/iptv/2XGCY732NCTX4V/18084/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/18084/index.m3u8
 #EXTINF:0 group-title="🎵|Music" tvg-id="6273" tvg-logo="http://epg.it999.ru/img2/6273.png" tvg-rec="0",FRESH Russian Pop HD
-http://5.61.54.61/iptv/2XGCY732NCTX4V/18085/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/18085/index.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg" group-title="🎵|Music",Music°On! TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Holiday Hits" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="🎵|Music",Stingray Holiday Hits
@@ -929,7 +931,6 @@ https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png", KPOP HD
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunkist.m3u8
-https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/498.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="http://n.ysyz.top:99/buyaolian/cctv15.png", CCTV15音乐HD
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?&ProgramID=&encrypt=
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://i.imgur.com/FeFMOxH.png", MTV HD
@@ -1117,7 +1118,26 @@ http://code.vthanhtivi.pw/getlink/onplus/ONSPORT8/m30_index.m3u8
 http://code.vthanhtivi.pw/getlink/onplus/ONSPORT9/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 10_🇻🇳
 http://code.vthanhtivi.pw/getlink/onplus/ONSPORT10/m30_index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="🔴| Livestream",Astro_SuperSport_Events_1_HD LIVE🇲🇾
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/527542
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="🔴| Livestream",Astro_SuperSport_Events_2_HD LIVE🇲🇾
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/527541
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="🔴| Livestream",Astro_SuperSport_Events_3_HD LIVE🇲🇾
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/527540
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="🔴| Livestream",Astro_SuperSport_Events_3_HD LIVE🇲🇾
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/601800
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="🔴| Livestream",Astro_SuperSport_Events_4_HD LIVE🇲🇾
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/527579
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="🔴| Livestream",Astro_SuperSport_Events_4_HD LIVE🇲🇾
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/601801
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="🔴| Livestream",Astro_SuperSport_Events_5_HD LIVE🇲🇾
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/527572
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="🔴| Livestream",Astro_SuperSport_Events_5_HD LIVE🇲🇾
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/601802
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="🔴| Livestream",Astro_SuperSport_Events_6_HD LIVE🇲🇾
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/527489
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="🔴| Livestream",Astro_SuperSport_Events_6_HD LIVE🇲🇾
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/601803
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1_🇻🇳
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
