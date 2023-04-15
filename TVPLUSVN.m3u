@@ -347,7 +347,7 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016545&extens
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1016544&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",ASTRO_🇲🇾 4K Premier League 4K
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016544&extension=ts&play_token=
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068
+#http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EDD40422-068B-429C-80B0-F210D515DF2C.png",Hub🇸🇬 Premier Sport 4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-4k-1978.png",Now_🇭🇰 Premier Sport 4K
@@ -1467,11 +1467,14 @@ http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/397844
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-star-sports-3-228.png" group-title="💚SPORT ASEAN",STARSPORTS 3 FHD (D2H)
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/3977
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="💚SPORT ASEAN",STARSPORTS SELECT 1 FHD Premier League
-https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/203063
-http://5.61.54.61/iptv/2XGCY732NCTX4V/2508/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2508/index.m3u8
+http://hostengine.live/live/wrecks82/habsiptv82/56776.m3u8
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="💚SPORT ASEAN",STARSPORTS SELECT 2 FHD
-https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/203064
-http://5.61.54.61/iptv/2XGCY732NCTX4V/2507/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2507/index.m3u8
+http://hostengine.live/live/wrecks82/habsiptv82/56777.m3u8
+
 
 ---------------------------------------SPORT EUROPE----------------------------------------
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png" group-title="⚽ SPORT EUROPE",UK:SkySport PremierLeague HD
@@ -1761,17 +1764,22 @@ http://viptv.me:80/blackkill/vg8u9xXi8g/162649
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-4-317.png" group-title="SPORT EX-YU",CRO:ARENA•SPORT 4 HD
 http://93.155.227.38:555/m3u8/arenasport4.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/162650
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-5-318.png" group-title="SPORT EX-YU",CRO:ARENA•SPORT 4 HD
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-5-318.png" group-title="SPORT EX-YU",CRO:ARENA•SPORT 5 HD
 http://93.155.227.38:555/m3u8/arenasport5.m3u8
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png" group-title="SPORT EX-YU",EX-YU: ARENA•SPORT 1 HD
+http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133074
 #EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-2-315.png" group-title="SPORT EX-YU",EX-YU: ARENA•SPORT 2 HD
+http://hostengine.live/live/wrecks82/habsiptv82/225658.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133075
 #EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-3-316.png" group-title="SPORT EX-YU",EX-YU: ARENA•SPORT 3 HD
+http://hostengine.live/live/wrecks82/habsiptv82/225659.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133076
 #EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-4-317.png" group-title="SPORT EX-YU",EX-YU: ARENA•SPORT 4 HD
+http://hostengine.live/live/wrecks82/habsiptv82/225660.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133077
 #EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-5-318.png" group-title="SPORT EX-YU",EX-YU: ARENA•SPORT 5 HD
+http://hostengine.live/live/wrecks82/habsiptv82/225661.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133078
 #EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-1-2696.png" group-title="SPORT EX-YU",SR:ARENA•PREMIUM 1 FHD
 http://987161222318287152.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/287152.ts
@@ -1782,14 +1790,19 @@ http://987161222318323039.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/323039.ts
 #EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-sportklub-1-333.png" group-title="SPORT EX-YU",SR:SPORT•KLUB HD
 http://987161222318244142.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/244142.ts
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-2-326.png" group-title="SPORT EX-YU",EX-YU: SPORT•KLUB 2 HD
+http://hostengine.live/live/wrecks82/habsiptv82/158361.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133080
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-3-327.png" group-title="SPORT EX-YU",EX-YU: SPORT•KLUB 3 HD
+http://hostengine.live/live/wrecks82/habsiptv82/158362.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133081
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-4-328.png" group-title="SPORT EX-YU",EX-YU: SPORT•KLUB 4 HD
+http://hostengine.live/live/wrecks82/habsiptv82/158363.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133082
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-5-329.png" group-title="SPORT EX-YU",EX-YU: SPORT•KLUB 5 HD
+http://hostengine.live/live/wrecks82/habsiptv82/158364.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133083
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-6-330.png" group-title="SPORT EX-YU",EX-YU: SPORT•KLUB 6 HD
+http://hostengine.live/live/wrecks82/habsiptv82/158365.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133084
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group-title="SPORT EX-YU",RU: Маtch ТV HD
 http://0.vylc.name.vn/matchtv
