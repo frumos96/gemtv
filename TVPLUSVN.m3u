@@ -116,10 +116,10 @@ http://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="sctv16hd" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
 #EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim" logo="https://i.imgur.com/F0N0TmU.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
-https://s.id/1GaQx
-#EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
 https://s.id/1GaQA
+#EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
 http://gg.gg/HBOSVN
+https://s.id/1GaQx
 #EXTINF:0 tvg-id="boxmovie1" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 TV24
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
@@ -1427,12 +1427,18 @@ http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.onews.tv/news/photo/202204/122177_141445_3952.jpg" group-title="💚SPORT ASEAN", TvN SPORTS_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/olivetv_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="💚SPORT ASEAN", SPOTV 1_🇰🇷
+http://gg.gg/spo1kr
 https://cdn-us-154.cloudrsst.com/live/spotv_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="💚SPORT ASEAN", SPOTV 2_🇰🇷
+http://gg.gg/spo2kr
 https://cdn-us-154.cloudrsst.com/live/spotv_2_720/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu10.png" group-title="💚SPORT ASEAN",SPOTV_ON_🇰🇷
+http://gg.gg/spotvon
 https://cdn-us-154.cloudrsst.com/live/spotv_on_720/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu10.png" group-title="💚SPORT ASEAN",SPOTV_ON_2_🇰🇷
+http://gg.gg/spo2tvon
 #EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/PC_intro_logo_menu05.png" group-title="💚SPORT ASEAN",SPOTV_PRIME_🇰🇷
+http://gg.gg/spoprime
 https://cdn-us-154.cloudrsst.com/live/spotv_prime_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-1-1077.png" group-title="💚SPORT ASEAN", Bein_🇮🇩 Sport 1 HD
 http://103.167.167.5:8111/play/a02m/index.m3u8
@@ -1450,10 +1456,6 @@ https://epg.pw/stream/bc6b60deb58f9cbb722f9481ff05b153728b55c6f73b4ee46556142ce4
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=115501&extension=ts&play_token=
 http://61.19.242.134/feed/202205171929/chpptvhd3/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/90/23/cc/MEHTVIJ_t.PNG" group-title="💚SPORT ASEAN",TRUE Sport HD THAI_🇹🇭
-http://4digital.ddns.net:11222/ts/0
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/90/23/cc/MEHTVIJ_t.PNG" group-title="💚SPORT ASEAN",Skynet Sport HD MYR_🇹🇭
-http://4digital.ddns.net:11224/ts/0
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="💚SPORT ASEAN",Now Sports 1_🇭🇰
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=554949&extension=ts&play_token=1kEm8DbZmS
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=554953&extension=ts&play_token=1kEm8DbZmS
@@ -1649,6 +1651,7 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/271/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/270/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2630" tvg-logo="http://epg.it999.ru/img/2630.png" tvg-rec="3",Setanta Qazaqstan HD_🇺🇦
+http://78.26.128.59:9876/play/161/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2399/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="0",Setanta Eurasia HD_🇺🇦1
