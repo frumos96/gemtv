@@ -1011,8 +1011,13 @@ http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/313.ts
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/1248
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png",MBC Drama 
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/687532
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/319.ts
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/1242
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/330px-MBC_Drama_Plus_TV_Channel_Logo.png",MBC+ Drama 
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/687530
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/50149.ts
+http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/3689
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://live.yoitv.com:9083/query/s/gnpNcLEhwujjXOxTl7gaJg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS-Nippon TV  
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://live.yoitv.com:9083/query/s/bRZUMcrX_kQ5R0XP-xJcZg==.jpg?type=live&thumbnail=thumbnail_small.jpg",BS-TBS TV  
@@ -1035,9 +1040,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:1 tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/23-WOWOW-CINEMA-770x480.jpg" group-title="🆀🆄🅾🅲 🆃🅴",WOWOW°Cinema	
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/330px-MBC_Drama_Plus_TV_Channel_Logo.png",MBC+ Drama 
-http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/50149.ts
-http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/3689
 #EXTINF:0 group-title="🆀🆄🅾🅲 🆃🅴" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS_🇰🇷 
 https://s.id/1Gd2H
 https://s.id/1Gd2Q
