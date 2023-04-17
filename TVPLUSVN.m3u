@@ -24,7 +24,6 @@ http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
 #EXTINF:0 tvg-id="vtv5tn" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
-
 https://code.vthanhtivi.pw/getlink/vieon2/4e315b06-4e75-44c3-aa02-ede3653b52cc/playlist.m3u8
 https://api.anttv.xyz/get/vieon/vtv5-tay-nguyen/playlist.m3u8
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
@@ -161,23 +160,27 @@ http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
 http://124.232.233.15:6610/000000001001/201600020006/1400.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzd-zcipUGLLjxG9n67-kdZcTls6nSSv7oOw&usqp=CAU" group-title="🎬| Phim",IQYI🇲🇾
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571198&extension=ts&play_token=1kEm8DbZmS
-#EXTINF:0 tvg-id="man" group-title="Kênh khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/man/dvr-${start}-${offset}.m3u8", Man CLIPV
+#EXTINF:0 tvg-id="man" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/man/dvr-${start}-${offset}.m3u8", Man CLIPV
 https://raintv.tk/cliptv/bce1ee6334fe7c1f1c02e13f05c7c9255c99e7ff/Man/playlist.m3u8
-#EXTINF:0 tvg-id="woman" group-title="Kênh khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/woman/dvr-${start}-${offset}.m3u8, Woman CLIPV
+#EXTINF:0 tvg-id="woman" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/woman/dvr-${start}-${offset}.m3u8, Woman CLIPV
 https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="planetearthhd" group-title="Kênh khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/planetearth/dvr-${start}-${offset}.m3u8", Planet Earth CLIPV
+#EXTINF:0 tvg-id="planetearthhd" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/planetearth/dvr-${start}-${offset}.m3u8", Planet Earth CLIPV
 https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="drfithd" group-title="Kênh khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/drfit/dvr-${start}-${offset}.m3u8", Dr.Fit CLIPV
+#EXTINF:0 tvg-id="drfithd" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/drfit/dvr-${start}-${offset}.m3u8", Dr.Fit CLIPV
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-#EXTINF:-1  group-title="Kênh khác" logo="https://photos.live-tv-channels.org/tv-logo/ae-gem-fit-2728-300x225.jpg",IR: GEM FIT
+#EXTINF:-1  group-title="🆀🆄🅾🅲 🆃🅴" logo="https://photos.live-tv-channels.org/tv-logo/ae-gem-fit-2728-300x225.jpg",IR: GEM FIT
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/166807
 #http://bellive.top:8080/live/951664070451109006/3011664070451109/53747.ts
 #http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/166807
 #http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/192766
-#EXTINF:0 group-title="Kênh khác" Logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/11/pluot-tv-fitness-deporte.jpg.png",Pluto TV Fitness
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0 group-title="🆀🆄🅾🅲 🆃🅴" Logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/11/pluot-tv-fitness-deporte.jpg.png",Pluto TV Fitness BR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/630e30ba3583440007c64a20/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png" group-title="🆀🆄🅾🅲 🆃🅴" , Pluto TV Fitness DE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 c tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/POPSUGARFitness_logo_dark.png" group-title="🆀🆄🅾🅲 🆃🅴" , POPSUGAR Fitness USA
+https://amg00594-groupninemediai-popsugar-plex-qzwzp.amagi.tv/playlist/amg00594-groupninemediai-popsugar-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=EKc2ss-t_K3w6M4TQvDr&channelId=605a309dc5acdc002c7a20ac&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=49027569&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=EKc2ss-t_K3w6M4TQvDr&ads.channelId=605a309dc5acdc002c7a20ac&ads.coppa=0
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/playlist.m3u8
@@ -294,6 +297,8 @@ https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-0-0.m3u8
 https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:0 group-title="🌿| Lifestyle" logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png?fit=960%2C540&ssl=1", AMAGI
 https://xplore-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 group-title="🌿| Lifestyle" tvg-logo="https://www.tastemade.com.br/icons/icon-72x72.png?v=77aa54c80c1f1d706e21e9787677ea4e",Tastemade Travelᴴᴰ
+https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 group-title="🌿| Lifestyle" logo="https://images4.imagebam.com/71/bf/96/MEFIXCS_o.png", Nat Geo People
 http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/138419
 http://viptv.me:80/logantv/ACXhn9BC5m/73706
@@ -1635,7 +1640,8 @@ http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/7300
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/7299
 http://viptv.me:80/blackkill/vg8u9xXi8g/73664
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-premium-2516.png" group-title="⚽ SPORT EUROPE",CANAL+ Premium HD POLAND
-http://viptv.me:80/blackkill/vg8u9xXi8g/156821
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/7302
+#http://viptv.me:80/blackkill/vg8u9xXi8g/156821
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-ultra-hd-sweden.png" group-title="⚽ SPORT EUROPE",V Sport UltraHD DK
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=114242&extension=ts&play_token=
 #EXTINF:1 tvg-id="" group-title="⚽ SPORT EUROPE" tvg-logo="https://i.ibb.co/SrgjJjP/Vsportfootball.png" tvg-name="",⚽ V-Football
@@ -1767,20 +1773,23 @@ http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya784Clg
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70947
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png" group-title="SPORT EX-YU",AL: Super Sport 1 HD
 http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/103775.ts
-http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/161887
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/4729
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/1316
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-2-692.png" group-title="SPORT EX-YU",AL: Super Sport 2 HD
 http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/103765.ts
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/4728
 http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/161883
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/161883
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-3-693.png" group-title="SPORT EX-YU",AL: Super Sport 3 HD
 http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/103766.ts
-http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/161886
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/625241
 #EXTINF:-1 logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-4-694.png" group-title="SPORT EX-YU",AL: Super Sport 4 HD
 http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/103767.ts
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/625240
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/22026
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-5-695.png" group-title="SPORT EX-YU",AL: Super Sport 5 HD
 http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/103768.ts
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/4725
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/1860
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-1059.png" group-title="SPORT EX-YU",BG: Diema Sport 1 HD
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/5982
