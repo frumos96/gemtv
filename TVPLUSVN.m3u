@@ -95,11 +95,12 @@ https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv2.png", B4TV2 (Phim điện ảnh & series) SOURCE:BEP40
 http://103.75.186.169/b4tv/b4tv/5.m3u8
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png", CINE ON
-https://livevlive.vtvcab.vn/K_CINE_6962/m20_index.m3u8
+http://gg.gg/myoncine
+#https://livevlive.vtvcab.vn/K_CINE_6962/m20_index.m3u8
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png", LIFE ON
 https://live1onsport.vtvcab.vn/K_LIFE_6962/m20_index.m3u8
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png", LIFE PLAY
-https://s.id/1GaRy
+http://gg.gg/lifeplay
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬| Phim" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:0 tvg-id="axnhd" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
@@ -115,10 +116,9 @@ http://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="sctv16hd" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
 #EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim" logo="https://i.imgur.com/F0N0TmU.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
-https://s.id/1GaQA
+http://gg.gg/cin3max
 #EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
 http://gg.gg/HBOSVN
-https://s.id/1GaQx
 #EXTINF:0 tvg-id="boxmovie1" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 TV24
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
