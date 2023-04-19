@@ -1153,6 +1153,18 @@ https://vagroup.pw/code/mykplus/ksport1hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LsO9Cba6DrKnz2qMi/sXEQ","kid":"jOvS12AAcnm6fhASjuAXPw"},{"kty":"oct","k":"b82tGnUnbWh0XepW4OvHWA","kid":"1C/S12AAcnm6fhASjuAXPw"},{"kty":"oct","k":"osyNA0FdVCAc/TbBzJ8XvA","kid":"4TMWCGAAcnm6fhASjuAXPw"},{"kty":"oct","k":"prdnRIQn5YnCTpcZEvA+MQ","kid":"zUAWIK8Acnm6fhASjuAXPw"}], "type":"temporary"} 
 https://vagroup.pw/code/mykplus/ksport2hd/manifest.mpd
 #http://gg.gg/C2SPORT
+#EXTINF:-1 tvg-id="ksport1hd" group-title="💚SPORT ASEAN"  logo="http://live.bep40.shop/b4tv1.png", B41_SPORT🇻🇳 #
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd?hdnts=exp=1679405479~acl=/*~hmac=ede08a28f01588514705d06a50200e65d52b78c7b432583437206d7cd381c30a&manifestfilter=video_bitrate:1-3600000&uid=16352080
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="💚SPORT ASEAN" logo="http://live.bep40.shop/b4tv2.png", B42_SPORT🇻🇳 #
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6rnP9BYWzW+cIUZmo1tNaA", "kid":"576aG5DUTnuBlmh+8EtdZw" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=1679419471~acl=/*~hmac=44bf1a2876bf4661978dbdd76f28b5932c8160499b6c2e208144f7a238d0caae
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv3.png", B4TV3_🇻🇳 (Sự kiện) SOURCE:BEP40
 http://103.75.186.169/b4tv/b4tv/4.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv4.png", B4TV4_🇻🇳 (Âm nhạc & cuộc sống) SOURCE:BEP40
