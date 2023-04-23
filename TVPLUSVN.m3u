@@ -354,6 +354,8 @@ http://103.167.167.5:8111/play/a00u/index.m3u8
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/165077
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/375px-Logo_Lifetime_2020.svg.png" group-title="🌿| Lifestyle",Lifetime✓
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941669&extension=ts&play_token=1kEm8DbZmS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fatafeat_Logo_Final.jpg/255px-Fatafeat_Logo_Final.jpg" group-title="🌿| Lifestyle",BEIN FATAFEAT HD
+http://uniontv.info:8080/31975454hejx/8388373737hwh/92584
 #EXTINF:-1   tvg-logo="https://thumbor.prod.vidiocdn.com/uhO4k9iqRVaHjZeJXJ2KpRw_w-k=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="🌿| Lifestyle",TransTv🇮🇩
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://banner2.cleanpng.com/20180705/ysk/kisspng-trans7-indonesia-trans-tv-streaming-media-televisi-trans-march-5b3e7ad8485fe7.3547006515308213362965.jpg" group-title="🌿| Lifestyle",Trans7🇮🇩
@@ -387,8 +389,9 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1032489&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-hd-940.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",ESPN⁴ᴷ UHD 
 http://lmtv.me:80/3Xa6ZR/7yzVQY/95654
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-nederland-2756.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",Viaplay Premier League FHD NL⁴ᴷ
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/698961
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-nederland-2756.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",Viaplay Sport 1⁴ᴷ
+http://uniontv.info:8080/31975454hejx/8388373737hwh/130068
+#http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/698961
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png", BT Ultimate⁴ᴷ
 http://dontuse.doublesmashedpudding.xyz:8080/play/live.php?mac=00:1A:79:34:89:01&stream=532599&extension=ts&play_token=sEVTjPYOTe
 #EXTINF:-1,group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sport Main Event⁴ᴷ
@@ -457,6 +460,8 @@ http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/689266
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN⁴ᴷ Sports
 https://7pal.short.gy/bein-uhd
 #http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=269457&extension=ts&play_token=
+#EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",Easy Match⁴ᴷ
+http://uniontv.info:8080/31975454hejx/8388373737hwh/351538
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-4k-ultra-hd-2008.png",CANAL+⁴ᴷULTRA HD
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/209232
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png",Canal+⁴ᴷ Foot 
@@ -496,7 +501,8 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&e
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/14026/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",TRT⁴ᴷ
-http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/245
+http://my-media.ddns.me:52381/kino.de@38789o46/kino@de5145611zt09/8609.ts
+#http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/245
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai Ultra Nature⁴ᴷ
 http://185.236.229.31:9981/play/a01d
 #EXTVLCOPT:network-caching=1000
