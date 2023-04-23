@@ -716,14 +716,10 @@ https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv-key/${start}/${offset}", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD
-https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTVLCOPT:http-user-agent=RainTv 
-https://raintv.tk/vieon/f4c5e359826e1f7f1411653b337ce578993309d6/htv7-hd/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTVLCOPT:http-user-agent=RainTv 
-https://raintv.tk/vieon/f4c5e359826e1f7f1411653b337ce578993309d6/htv9-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛| HTV" tvg-logo="http://images.zaltv.club/logo/htv-thethao.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
@@ -1262,7 +1258,36 @@ https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio_🇻🇳
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
-
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 1_🇻🇳
+https://subs-livecdn.fptplay.net/epzsport/thethao01_vhls.smil/playlist.m3u8?
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 2_🇻🇳
+https://subs-livecdn.fptplay.net/epzsport/thethao02_vhls.smil/playlist.m3u8?
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 3_🇻🇳
+https://subs-livecdn.fptplay.net/epzsport/thethao03_vhls.smil/playlist.m3u8?
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 4_🇻🇳
+https://subs-livecdn.fptplay.net/epzsport/thethao04_vhls.smil/playlist.m3u8?
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 5_🇻🇳
+https://vips-livecdn.fptplay.net/tvc/thethao5.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 6_🇻🇳
+https://vips-livecdn.fptplay.net/tvc/thethao6.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 7_🇻🇳
+https://vips-livecdn.fptplay.net/tvc/thethao7.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 8_🇻🇳
+https://vips-livecdn.fptplay.net/tvc/thethao8.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 9_🇻🇳
+https://vips-livecdn.fptplay.net/tvc/thethao9.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 10_🇻🇳
+https://vips-livecdn.fptplay.net/tvc/thethao10.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 11_🇻🇳
+https://vips-livecdn.fptplay.net/tvc/thethao11.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 12_🇻🇳
+https://vips-livecdn.fptplay.net/tvc/thethao12.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 13_🇻🇳
+https://vips-livecdn.fptplay.net/tvc/thethao13.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 14_🇻🇳
+https://vips-livecdn.fptplay.net/tvc/thethao14.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Thể thao 15_🇻🇳
+https://subs-livecdn.fptplay.net/fnxsport/thethao15_vhls.smil/playlist.m3u8?
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 1_🇻🇳
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/epzsport/thethao01_vhls.smil/chunklist_b5500000.m3u8
@@ -1344,60 +1369,39 @@ https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", WBC 02_🇻🇳
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 1 FHD
+https://179314182.global.cdnfastest.com/live/may0FHD/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv HD 1
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 2 FHD
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 036
+https://obevcimanyd179314182.thapcam.link/live/may036FHD/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 065
+https://obevcimanyd179314182.thapcam.link/live/may065FHD/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 075
+https://179672673.global.cdnfastest.com/live/may075FHD/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 3 FHD
+https://179314182.global.cdnfastest.com/live/may2FHD/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 4 FHD
+https://179314182.global.cdnfastest.com/live/may3FHD/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 5 FHD
+https://179314182.global.cdnfastest.com/live/oldFHD/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv HD 6
+https://1123139281.cdn.khmer-hd.com/may6/chunks.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv HD 9
+https://1123139281.cdn.khmer-hd.com/may9/chunks.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 9
+https://179314182.global.cdnfastest.com/live/may9/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 10
+https://179314182.global.cdnfastest.com/live/may10/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 101
+https://179314182.global.cdnfastest.com/live/may101/chunklist.m3u8
+#EXTINF:-1 group-title="Trực tiếp" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 110
+https://obevcimanyd179314182.thapcam.link/live/may010FHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-1_🇨🇳
 http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000005969&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-2_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000007218&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-3_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000008001&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-4_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000008176&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-5_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000010129&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-6_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000010948&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-7_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000012558&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-8_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000025380&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-9_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000031494&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-10_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000003915&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-11_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000027691&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-12_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000015560&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-13_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000011297&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-14_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000006077&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-15_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000000097&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-16_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000002809&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-17_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000002019&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-18_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000004193&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-19_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000005308&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-20_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000005837&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-21_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000006658&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-22_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000008379&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-23_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000026778&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-24_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000028638&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-25_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000010833&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-26_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000021904&livemode=1&stbId=2&channel-id=FifastbLive
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-27_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000010000023434&livemode=1&stbId=2&channel-id=FifastbLive
+
 
 
 ---------------------------------------SPORT ASEAN----------------------------------------
