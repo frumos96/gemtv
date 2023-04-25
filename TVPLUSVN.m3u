@@ -82,35 +82,27 @@ https://live.thhp.vn/thp/index.m3u8
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv2.png", B4TV2 (Phim điện ảnh & series) SOURCE:BEP40
 http://103.75.186.169/b4tv/b4tv/5.m3u8
-#EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE MY
+#EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE VA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eZ/f7Ww/xVyPuf/zLeRR6A", "kid":"URt022gGT3uGkGDAsaDRPA" } ], "type":"temporary" }
 https://vagroup.pw/code/mytv/kcinehd/manifest.mpd
-#EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE MY#
+#EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE MY+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eZ/f7Ww/xVyPuf/zLeRR6A", "kid":"URt022gGT3uGkGDAsaDRPA" } ], "type":"temporary" }
 http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-#EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE +
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"CoFEgBN6e3I+PrYmPfNp4g","kid":"q6zp42P1TJaeJJnE8Jol9A" },{ "kty":"oct","k":"uZCHlIrjwaAIeggI85vtAQ","kid":"8/Dp42P1TJaeJJnE8Jol9A" },{ "kty":"oct","k":"f7lu/2d25IFqUtlII3Yizw","kid":"APQtFGP1TJaeJJnE8Jol9A" },{ "kty":"oct","k":"GzNLfAuVCmnmc2bWnrfXUg","kid":"7AEtLLL1TJaeJJnE8Jol9A" } ],"type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE PLAY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jwt5Mle9591yTYRbFKhLyg","kid":"zBW5DIGyNgmWFKH0DqIINg"}],"type":"temporary"}
 https://smarttv-drm.fptplay.net/drmlive/k1cine4000_1080p.stream/manifest.mpd
-#EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", LIFE MY
+#EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", LIFE VA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aVlm/T95GKTP4i5r4AL+Jw", "kid":"TqQ8LYfVTXueM6GyUVZNsw" } ], "type":"temporary" }
 https://vagroup.pw/code/mytv/klifehd/manifest.mpd
-#EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", LIFE +
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"H+9EefaBAsYzYGlF8//Cxg","kid":"m27zX1QJT7uoQ4wmdehJbQ" },{ "kty":"oct","k":"wotGryjps4FrAZW8WhdedQ","kid":"47LzX1QJT7uoQ4wmdehJbQ" },{ "kty":"oct","k":"jCLU6IM/x7G6y90MmF1VAg","kid":"8LY3kFQJT7uoQ4wmdehJbQ" },{ "kty":"oct","k":"0rjoxBnu44jsGslmP8O9aQ","kid":"3MM3qKMJT7uoQ4wmdehJbQ" } ],"type":"temporary" }
-https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-#EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", LIFE MY#
+#EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", LIFE MY+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aVlm/T95GKTP4i5r4AL+Jw", "kid":"TqQ8LYfVTXueM6GyUVZNsw" } ], "type":"temporary" }
@@ -1179,28 +1171,12 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"HOW1RaCEFyqVbP6anu27Gw","kid":"1vpaoObBS3yDCU67NlMUow" },{ "kty":"oct","k":"n/GALqFCYQOdmoMyAsFxcA","kid":"Hj5aoObBS3yDCU67NlMUow" },{ "kty":"oct","k":"GaJAH7ce+2G+AHPd6Tchpw","kid":"K0Ke0ebBS3yDCU67NlMUow" },{ "kty":"oct","k":"Us0c6x1HM5EBoILfeKUvAQ","kid":"F0+e6TXBS3yDCU67NlMUow" } ],"type":"temporary" }
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="💚SPORT ASEAN"  logo="http://live.bep40.shop/b4tv1.png", B41_SPORT🇻🇳 PLAY+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OX8lp4MlMA6Vx5HvEkcFOg", "kid":"XdculsmLQqKS5CgMPYovgg" },{ "kty":"oct", "k":"Na/qHhSubx548iC36Zn9Dg", "kid":"pRsulsmLQqKS5CgMPYovgg" },{ "kty":"oct", "k":"qyavDU0xUcqKHuoUGClDow", "kid":"nixy3xiLQqKS5CgMPYovgg" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://plus.anttv.xyz/mayboncopybanlistngulon/mykplus/ksport1hd/manifest.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="💚SPORT ASEAN"  logo="http://live.bep40.shop/b4tv1.png", B42_SPORT🇻🇳 PLAY+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7+qMjqQ5XLmsIvBAeU+E2w", "kid":"nqayJM4TQYaJNb6FHNSG4w" },{ "kty":"oct", "k":"91JWC5kbrSNiK7m5WQm20A", "kid":"5uqyJM4TQYaJNb6FHNSG4w" },{ "kty":"oct", "k":"Rqj61yPoavgFXlcViI3vlA", "kid":"3/v2bR0TQYaJNb6FHNSG4w" } ], "type":"temporary" }
-https://plus.anttv.xyz/mayboncopybanlistngulon/mykplus/ksport2hd/manifest.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚SPORT ASEAN" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_sport2hd/dvr-${start}-${end}.mpd", B42_SPORT🇻🇳 360
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6rnP9BYWzW+cIUZmo1tNaA", "kid":"576aG5DUTnuBlmh+8EtdZw" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=1679419471~acl=/*~hmac=44bf1a2876bf4661978dbdd76f28b5932c8160499b6c2e208144f7a238d0caae
-#EXTINF:-1 tvg-id="ksport2hd" group-title="💚SPORT ASEAN" logo="http://live.bep40.shop/b4tv2.png", B42_SPORT🇻🇳 VIETTEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"N9Sl/THUJsmznOrc+/V2Fw","kid":"K8Meg3/GTTicYuE9iUjUrQ" },{ "kty":"oct","k":"51lqB+q93DwkCRi69M1YgA","kid":"cwceg3/GTTicYuE9iUjUrQ" },{ "kty":"oct","k":"u9UEV/Sc5r62dAGxnooljw","kid":"gAtitH/GTTicYuE9iUjUrQ" },{ "kty":"oct","k":"918gOCJDFg7FPbDuqVGhPQ","kid":"bBhizM7GTTicYuE9iUjUrQ" } ],"type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
-#http://live-ali2.tv360.vn/manifest/K_Plus_Sport2_test/playlist_1080p-5M.m3u8
+
 #EXTINF:-1  group-title="💚SPORT ASEAN" logo="http://live.bep40.shop/b4tv2.png", B42_SPORT🇻🇳 PLAY+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
