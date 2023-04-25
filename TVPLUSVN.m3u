@@ -57,7 +57,8 @@ https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b5000000.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:0 tvg-id="htv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/48.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 HD
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?cc|Referer=http://sctvonline.vn
+https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/playlist.m3u8
+#https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?cc|Referer=http://sctvonline.vn
 #EXTINF:0 tvg-id="htv7hd" group-title="📦 VTV" logo="https://i.imgur.com/L8fXB1M.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD
 https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8?cc|Referer=http://sctvonline.vn
@@ -66,8 +67,6 @@ https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8?cc|Referer=http://sctvonline.vn
 #EXTINF:-1 tvg-id="cantho" group-title="📦 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.webp", THTPCT HD|Cần Thơ
 https://vips-livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cantho" group-title="Địa Phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.webp", THTPCT HD|Cần Thơˢᵛ²
-https://epg.pw/stream/14b5bc597a54fff36f4b0536a3ea6583a681963b426b812cba1d088a7c67e92b.m3u8
 #EXTINF:0 tvg-id="vinhlong1hd"type="stream" channelId="-1" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/103.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 1 HD Viettel
 http://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vinhlong1hd"type="stream" channelId="-1" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/103.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 1 HD
@@ -1418,7 +1417,7 @@ https://179314182.global.cdnfastest.com/live/may9/chunklist.m3u8
 https://179314182.global.cdnfastest.com/live/may10/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 101
 https://179314182.global.cdnfastest.com/live/may101/chunklist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 110
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 110
 https://obevcimanyd179314182.thapcam.link/live/may010FHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-1_🇨🇳
 http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000005969&livemode=1&stbId=2&channel-id=FifastbLive
@@ -1488,7 +1487,7 @@ https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 https://epg.pw/stream/20e6d3002f170199b4b126799718664e6905a474abf4c5cf78ea8a52fe4fd14f.m3u8
 #EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-1-1659.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 1 HD_taiwan
 http://61.221.81.93:8078/hls/25/80/esport.m3u8
-#EXTINF:0  group-title="Thể thao"  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-2-1660.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 2 HD_taiwan
+#EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-2-1660.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 2 HD_taiwan
 http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.onews.tv/news/photo/202204/122177_141445_3952.jpg" group-title="💚SPORT ASEAN", TvN SPORTS_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/olivetv_720/playlist.m3u8
