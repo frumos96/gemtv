@@ -253,6 +253,8 @@ https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://image.lichphimrap.com/resize-image.php?src=raps/cinebox.png&" group-title="🎬| Phim", Cinebox HD
 http://66.160.192.241/cineboxcinehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="hbo3" tvg-logo="https://image.lichphimrap.com/resize-image.php?src=raps/cinebox.png&" group-title="🎬| Phim", BOX FILM
+https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim",tvg-logo="https://i0.wp.com/gdplayer.tv/assets/img/logo/my-cinema.png",  My Cinemax
 https://sv1.mixstreams.net/dens2/session/4e1a64d0-d1ec-11ed-aeaf-b82a72d63267/x6bnqe/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizismart-max-tr.png" group-title="🎬| Phim",GOLDEN PLUS en Vivo LAT
