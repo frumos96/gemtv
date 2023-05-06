@@ -145,17 +145,15 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=ht
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="🎬| Phim" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", Box Hits
-#EXTVLCOPT:http-user-agent="CloudTV"
-https://iplogger.com/BoxHit
+https://raintv.tk/cliptv/63d59b06751af577fe6866c4823656ae1660bd2e/Box-Hits/playlist.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hitsˢᵛ²CLIPV
-https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
+https://iplogger.com/BoxHit
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", InTheBox
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", Boxˢᵛ² CLIPV
 #EXTVLCOPT:http-user-agent=RainTv
 https://raintv.tk/cliptv/bce1ee6334fe7c1f1c02e13f05c7c9255c99e7ff/In-The-Box/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="🎬| Phim",CCTV_6.MOVIE
 https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000/mnf.m3u8
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
@@ -177,7 +175,8 @@ http://124.232.233.15:6610/000000001001/201600020006/1400.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzd-zcipUGLLjxG9n67-kdZcTls6nSSv7oOw&usqp=CAU" group-title="🎬| Phim",IQYI🇲🇾
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571198&extension=ts&play_token=1kEm8DbZmS
 #EXTINF:0 tvg-id="man" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/man/dvr-${start}-${offset}.m3u8", Man CLIPV
-https://raintv.tk/cliptv/bce1ee6334fe7c1f1c02e13f05c7c9255c99e7ff/Man/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/837/chunklist_b5128000.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
 #EXTINF:0 tvg-id="woman" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/woman/dvr-${start}-${offset}.m3u8, Woman CLIPV
 https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
@@ -185,6 +184,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?cc|Referer=http:/
 https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="drfithd" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/drfit/dvr-${start}-${offset}.m3u8", Dr.Fit CLIPV
+https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/823/chunklist_b5128000.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:-1  group-title="🆀🆄🅾🅲 🆃🅴" logo="https://photos.live-tv-channels.org/tv-logo/ae-gem-fit-2728-300x225.jpg",IR: GEM FIT
 http://kuchini.site:8080/mosesmn/4e40546ad6/166807
@@ -1223,25 +1224,25 @@ https://code.vthanhtivi.pw/getlink/mytv/447/hd.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/449.png", MYTV 804
 https://code.vthanhtivi.pw/getlink/mytv/449/hd.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 1_🇻🇳
-https://livevlive.vtvcab.vn/hls/ONSPORT1_CL/sc-gaFEAA/m30_index.m3u8
+https://livevlive.vtvcab.vn/ONSPORT1/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 2_🇻🇳
-https://livevlive.vtvcab.vn/hls/ONSPORT2_CL/sc-gaFEAA/m30_index.m3u8
+https://livevlive.vtvcab.vn/ONSPORT2/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 3_🇻🇳
-https://livevlive.vtvcab.vn/hls/ONSPORT3_CL/sc-gaFEAA/m30_index.m3u8
+https://livevlive.vtvcab.vn/ONSPORT3/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 4_🇻🇳
-http://code.vthanhtivi.pw/getlink/onplus/ONSPORT4/m30_index.m3u8
+https://livevlive.vtvcab.vn/ONSPORT4/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 5_🇻🇳
-http://code.vthanhtivi.pw/getlink/onplus/ONSPORT5/m30_index.m3u8
+https://livevlive.vtvcab.vn/ONSPORT5/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 6_🇻🇳
-http://code.vthanhtivi.pw/getlink/onplus/ONSPORT6/m30_index.m3u8
+https://livevlive.vtvcab.vn/ONSPORT6/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 7_🇻🇳
-http://code.vthanhtivi.pw/getlink/onplus/ONSPORT7/m30_index.m3u8
+https://livevlive.vtvcab.vn/ONSPORT7/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 8_🇻🇳
-http://code.vthanhtivi.pw/getlink/onplus/ONSPORT8/m30_index.m3u8
+https://livevlive.vtvcab.vn/ONSPORT8/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 9_🇻🇳
-http://code.vthanhtivi.pw/getlink/onplus/ONSPORT9/m30_index.m3u8
+https://livevlive.vtvcab.vn/ONSPORT9/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 10_🇻🇳
-http://code.vthanhtivi.pw/getlink/onplus/ONSPORT10/m30_index.m3u8
+https://livevlive.vtvcab.vn/ONSPORT10/m30_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="🔴| Livestream",Astro_SuperSport_Events_1_HD LIVE🇲🇾
 http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/527542
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="🔴| Livestream",Astro_SuperSport_Events_2_HD LIVE🇲🇾
