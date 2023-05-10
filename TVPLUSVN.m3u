@@ -244,8 +244,8 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&s
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🎬| Phim",ViuTV
 http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
+https://epg.pw/stream/5930a3210740969b25c44c104838386a18d5765cc39bfc9333805005cc252877.ctv
 https://cdn.hklive.tv/xxxx/99/index.m3u8
-#https://epg.pw/stream/4670b1b542f1f3a07586c8621a722742ae723acc3f77c3d560fd3dad7b795b69.m3u8
 #EXTINF:-1 tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="🎬| Phim",ViuTV Six
 http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
@@ -1052,7 +1052,7 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/18084/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/18085/index.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg" group-title="🎵|Music",Music°On! TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Holiday Hits" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="🎵|Music",Stingray Holiday Hits
 http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/15007/index.m3u8
 #EXTINF:-1 tvg-name="K-Pop" tvg-logo="https://i.ibb.co/LtpYRqp/6835979e3f611277056e386883832986.png" group-title="🎵|Music",💿| Korea Pop
@@ -1123,11 +1123,11 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://live.yoitv.com:9083/query/s/9FvJseD6_AtVYU1vxvgzFA==.jpg?type=live&thumbnail=thumbnail_small.jpg", TOKYO MX1  
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/playlist.m3u8
 #EXTINF:1 tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/25-WOWOW-PRIME.jpg" group-title="🆀🆄🅾🅲 🆃🅴",WOWOW°Prime	
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:1 tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/24-WOWOW-LIVE.jpg" group-title="🆀🆄🅾🅲 🆃🅴",WOWOW°Live	
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:1 tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/23-WOWOW-CINEMA-770x480.jpg" group-title="🆀🆄🅾🅲 🆃🅴",WOWOW°Cinema	
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0 group-title="🆀🆄🅾🅲 🆃🅴" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS_🇰🇷 
 https://s.id/1Gd2H
 https://s.id/1Gd2Q
@@ -1184,8 +1184,6 @@ https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 ---------------------------------------THIẾU NHI----------------------------------------
 #EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="https://dl.dropboxusercontent.com/s/lslvqe41s8j7itv/PBS", PBS Kids HD
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/CBeebies_HD.svg/1200px-CBeebies_HD.svg.png", BBC CBeeBies HD
-https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png", Happy Kids HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="https://mpng.subpng.com/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg", Cartoon HD
@@ -1196,10 +1194,30 @@ https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="https://i.imgur.com/qPVOdML.png", Baby First HD
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="https://i.imgur.com/DI5IdU5.png", Baby TV HD
-https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="https://i.imgur.com/WTO8O0N.png", DreamWorks HD
-https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="babytvhd" group-title="👶| Thiếu nhi" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/babytvhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BabyTV HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=babytv-hd
+https://subs-livecdn.fptplay.net/mskychannel/babytvhd_4000.stream/manifest.mpd
+#EXTINF:-1 tvg-id="" group-title="🌈| Hoạt hình" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", Aniplus
+http://live.vthanhtivi.pw/aniplus
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=animax
+https://subs-livecdn.fptplay.net/mskychannel/animaxport_4000.stream/manifest.mpd
+#EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=boomerang
+https://subs-livecdn.fptplay.net/mskychannel/boomerang_4000.stream/manifest.mpd
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=cartoon-network
+https://subs-livecdn.fptplay.net/mskychannel/cartoonnetworkhd_4000.stream/manifest.mpd
+#EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
+
 #EXTINF:0 type="stream" channelId="-1" group-title="Thiếu nhi" logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids_Logo.png", Rotana Kids HD
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
 
@@ -1819,8 +1837,6 @@ http://987161222318333690.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333690.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-maximo-1-301.png" group-title="SPORT AFRICA",SuperSport Máximo 1 HD (AZ)
 =http://987161222318333696.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333696.ts
 ---------------------------------------FUBOL LATINO----------------------------------------
-#EXTINF:-1 group-title="FUBOL LATINO" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-universo-723.png",NBC UNIVERSO USA
-http://myportal.live:8080/live/Keepitrealexch/MMCCy6XRMX/293783.ts
 #EXTINF:-1 group-title="FUBOL LATINO" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-universo-723.png",UNIVERSO Latino
 http://dnsplay.xyz:80/hldoudby/qubRsmkm/312712
 http://hidra.live:80/wxFYeXT7K/do95R3pgW2/35149
@@ -1857,148 +1873,134 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/312844
 #http://latinanplad.com:8080/smartbconven/DJMCDKMuW2tt/365
 
 ---------------------------------------SPORT EX-YU----------------------------------------
-#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: Digi Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png" group-title="SPORT EX-YU",DigiSport1 HD
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: Digi Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport1 HD
 http://tbs-tv.com:8080/dark/kittylinetv/3907
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/149962
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/1476
 http://525101722668389450.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/389450.ts
-#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group-title="SPORT EX-YU",DigiSport2 HD
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport2 HD
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/14995
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/1477
 http://525101722668389451.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/389451.ts
-#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group-title="SPORT EX-YU",DigiSport2 FHDˢᵛ²
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport2 FHDˢᵛ²
 http://gg.gg/DIGISP2
 http://gg.gg/DIGISPV2
-#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group-title="SPORT EX-YU",DigiSport3 HD
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport3 HD
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/1478
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70945
 #http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/10049.ts
 #http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya7_jbgH5BEq78Ohyt-Avbq7z/ts
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1175.ts
-#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group-title="SPORT EX-YU",DigiSport3 FHDˢᵛ²
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport3 FHDˢᵛ²
 http://gg.gg/DIGISP3
-#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group-title="SPORT EX-YU",DigiSport4 HD
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport4 HD
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/5318
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/1479
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/10048.ts
 http://viptv.me:80/blackkill/vg8u9xXi8g/70947
 http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya784ClgDpP8yzPcsBExNR34D/ts
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70947
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png" group-title="SPORT EX-YU",AL: Super Sport 1 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png" group-title="🌈SPORT EX-YU🌈",AL: Super Sport 1 HD
 http://tbs-tv.com:8080/dark/kittylinetv/13101
 http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/103775.ts
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/4729
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/1316
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-2-692.png" group-title="SPORT EX-YU",AL: Super Sport 2 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-2-692.png" group-title="🌈SPORT EX-YU🌈",AL: Super Sport 2 HD
 http://tbs-tv.com:8080/dark/kittylinetv/13102
 http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/103765.ts
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/4728
 http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/161883
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-3-693.png" group-title="SPORT EX-YU",AL: Super Sport 3 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-3-693.png" group-title="🌈SPORT EX-YU🌈",AL: Super Sport 3 HD
 http://tbs-tv.com:8080/dark/kittylinetv/13103
 http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/103766.ts
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/625241
-#EXTINF:-1 logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-4-694.png" group-title="SPORT EX-YU",AL: Super Sport 4 HD
+#EXTINF:-1 logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-4-694.png" group-title="🌈SPORT EX-YU🌈",AL: Super Sport 4 HD
 http://tbs-tv.com:8080/dark/kittylinetv/13104
 http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/103767.ts
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/625240
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/22026
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-5-695.png" group-title="SPORT EX-YU",AL: Super Sport 5 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-5-695.png" group-title="🌈SPORT EX-YU🌈",AL: Super Sport 5 HD
 http://tbs-tv.com:8080/dark/kittylinetv/13105
 http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/103768.ts
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/4725
 http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/1860
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-1059.png" group-title="SPORT EX-YU",BG: Diema Sport 1 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-1059.png" group-title="🌈SPORT EX-YU🌈",BG: Diema Sport 1 HD
 http://tbs-tv.com:8080/dark/kittylinetv/12742
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/5982
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/69539
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-2-1060.png" group-title="SPORT EX-YU",BG: Diema Sport 2 HD
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-diema-sport-2-1060.png" group-title="🌈SPORT EX-YU🌈",BG: Diema Sport 2 HD
 http://tbs-tv.com:8080/dark/kittylinetv/12741
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/695666
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/69538
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="SPORT EX-YU",BG: Diema Sport 3 HD
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="🌈SPORT EX-YU🌈",BG: Diema Sport 3 HD
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/9022
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/69537
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-1-374.png" group-title="SPORT EX-YU",GR: NOVA SPORTS 1 LALIGA GR
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-1-374.png" group-title="🌈SPORT EX-YU🌈",GR: NOVA SPORTS 1 LALIGA GR
 http://141.95.65.201:60707/play/a005
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-1-374.png" group-title="SPORT EX-YU",GR: NOVA SPORTS 1 LALIGA
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-1-374.png" group-title="🌈SPORT EX-YU🌈",GR: NOVA SPORTS 1 LALIGA
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=44143&extension=ts&play_token=
 https://spotv.me:8080/FG5195018939/5195018939/4560
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-2-375.png" group-title="SPORT EX-YU",GR: NOVA SPORTS 2 PREMIE
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-2-375.png" group-title="🌈SPORT EX-YU🌈",GR: NOVA SPORTS 2 PREMIE
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=44142&extension=ts&play_token=
 https://spotv.me:8080/FG5195018939/5195018939/4562
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-3-376.png" group-title="SPORT EX-YU",GR: NOVA SPORTS 3 BUNDESLIGA GR
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-3-376.png" group-title="🌈SPORT EX-YU🌈",GR: NOVA SPORTS 3 BUNDESLIGA GR
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=44144&extension=ts&play_token=
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-prime-2643.png" group-title="SPORT EX-YU",GR: Nova Sports Prime HD
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-prime-2643.png" group-title="🌈SPORT EX-YU🌈",GR: Nova Sports Prime HD
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=164236&extension=ts&play_token=
 http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/291116
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png" group-title="SPORT EX-YU",CRO:ARENA•SPORT 1 HD
-http://93.155.227.38:555/m3u8/arenasport1.m3u8
-http://viptv.me:80/blackkill/vg8u9xXi8g/162647
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-2-315.png" group-title="SPORT EX-YU",CRO:ARENA•SPORT 2 HD
-http://93.155.227.38:555/m3u8/arenasport2.m3u8
-http://viptv.me:80/blackkill/vg8u9xXi8g/162648
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-3-316.png" group-title="SPORT EX-YU",CRO:ARENA•SPORT 3 HD
-http://93.155.227.38:555/m3u8/arenasport3.m3u8
-http://viptv.me:80/blackkill/vg8u9xXi8g/162649
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-4-317.png" group-title="SPORT EX-YU",CRO:ARENA•SPORT 4 HD
-http://93.155.227.38:555/m3u8/arenasport4.m3u8
-http://viptv.me:80/blackkill/vg8u9xXi8g/162650
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-5-318.png" group-title="SPORT EX-YU",CRO:ARENA•SPORT 5 HD
-http://93.155.227.38:555/m3u8/arenasport5.m3u8
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png" group-title="SPORT EX-YU",EX-YU: ARENA•SPORT 1 HD
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png" group-title="🌈SPORT EX-YU🌈",EX-YU: ARENA•SPORT 1 HD
 http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133074
-#EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-2-315.png" group-title="SPORT EX-YU",EX-YU: ARENA•SPORT 2 HD
+#EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-2-315.png" group-title="🌈SPORT EX-YU🌈",EX-YU: ARENA•SPORT 2 HD
 http://hostengine.live/live/wrecks82/habsiptv82/225658.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133075
-#EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-3-316.png" group-title="SPORT EX-YU",EX-YU: ARENA•SPORT 3 HD
+#EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-3-316.png" group-title="🌈SPORT EX-YU🌈",EX-YU: ARENA•SPORT 3 HD
 http://hostengine.live/live/wrecks82/habsiptv82/225659.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133076
-#EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-4-317.png" group-title="SPORT EX-YU",EX-YU: ARENA•SPORT 4 HD
+#EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-4-317.png" group-title="🌈SPORT EX-YU🌈",EX-YU: ARENA•SPORT 4 HD
 http://hostengine.live/live/wrecks82/habsiptv82/225660.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133077
-#EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-5-318.png" group-title="SPORT EX-YU",EX-YU: ARENA•SPORT 5 HD
+#EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-5-318.png" group-title="🌈SPORT EX-YU🌈",EX-YU: ARENA•SPORT 5 HD
 http://hostengine.live/live/wrecks82/habsiptv82/225661.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133078
-#EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-1-2696.png" group-title="SPORT EX-YU",SR:ARENA•PREMIUM 1 FHD
+#EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-1-2696.png" group-title="🌈SPORT EX-YU🌈",SR:ARENA•PREMIUM 1 FHD
 http://987161222318287152.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/287152.ts
-#EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-2-2697.png" group-title="SPORT EX-YU",SR:ARENA•PREMIUM 2 FHD
+#EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-2-2697.png" group-title="🌈SPORT EX-YU🌈",SR:ARENA•PREMIUM 2 FHD
 http://987161222318287153.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/287153.ts
-#EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-3-2698.png" group-title="SPORT EX-YU",SR:ARENA•PREMIUM 3 FHD
+#EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-3-2698.png" group-title="🌈SPORT EX-YU🌈",SR:ARENA•PREMIUM 3 FHD
 http://987161222318323039.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/323039.ts
-#EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-sportklub-1-333.png" group-title="SPORT EX-YU",SR:SPORT•KLUB HD
+#EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-sportklub-1-333.png" group-title="🌈SPORT EX-YU🌈",SR:SPORT•KLUB HD
 http://987161222318244142.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/244142.ts
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-2-326.png" group-title="SPORT EX-YU",EX-YU: SPORT•KLUB 2 HD
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-2-326.png" group-title="🌈SPORT EX-YU🌈",EX-YU: SPORT•KLUB 2 HD
 http://hostengine.live/live/wrecks82/habsiptv82/158361.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133080
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-3-327.png" group-title="SPORT EX-YU",EX-YU: SPORT•KLUB 3 HD
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-3-327.png" group-title="🌈SPORT EX-YU🌈",EX-YU: SPORT•KLUB 3 HD
 http://hostengine.live/live/wrecks82/habsiptv82/158362.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133081
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-4-328.png" group-title="SPORT EX-YU",EX-YU: SPORT•KLUB 4 HD
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-4-328.png" group-title="🌈SPORT EX-YU🌈",EX-YU: SPORT•KLUB 4 HD
 http://hostengine.live/live/wrecks82/habsiptv82/158363.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133082
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-5-329.png" group-title="SPORT EX-YU",EX-YU: SPORT•KLUB 5 HD
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-5-329.png" group-title="🌈SPORT EX-YU🌈",EX-YU: SPORT•KLUB 5 HD
 http://hostengine.live/live/wrecks82/habsiptv82/158364.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133083
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-6-330.png" group-title="SPORT EX-YU",EX-YU: SPORT•KLUB 6 HD
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-6-330.png" group-title="🌈SPORT EX-YU🌈",EX-YU: SPORT•KLUB 6 HD
 http://hostengine.live/live/wrecks82/habsiptv82/158365.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133084
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group-title="SPORT EX-YU",RU: Маtch ТV HD
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group-title="🌈SPORT EX-YU🌈",RU: Маtch ТV HD
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/19163/index.m3u8
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36872
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group-title="SPORT EX-YU",RU: Match! Football 1 HD SERIA
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group-title="🌈SPORT EX-YU🌈",RU: Match! Football 1 HD SERIA
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2407/index.m3u8
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36886
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224211
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="SPORT EX-YU",RU: Match! Football 2 HD
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="🌈SPORT EX-YU🌈",RU: Match! Football 2 HD
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2420/index.m3u8
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36897
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224212
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="SPORT EX-YU",RU: Match! Football 3 HD BUNDES
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="🌈SPORT EX-YU🌈",RU: Match! Football 3 HD BUNDES
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5071/index.m3u8
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224213
