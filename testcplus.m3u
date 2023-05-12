@@ -312,3 +312,1041 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES HD" tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="LATINO",TNT SERIES HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/TNT-SERIES-HD/default.mpd
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="LIFETIME HD" tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="LATINO",LIFETIME HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="GLITZ" tvg-logo="https://logo.iptveditor.com/glitz.png" group-title="LATINO",GLITZ
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd
+#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="DISCOVERY HOME AND GARDEN" tvg-logo="https://logo.iptveditor.com/discoveryhomeandhealthhz.png" group-title="LATINO",DISCOVERY HOME AND GARDEN
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
+#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="FOOD NETWORK HD" tvg-logo="https://logo.iptveditor.com/foodnetwork.png" group-title="LATINO",FOOD NETWORK HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd
+#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY HD" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="LATINO",SYFY HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live5-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TRU TV HD" tvg-logo="https://logo.iptveditor.com/trutv.png" group-title="LATINO",TRU TV HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live2-ott.izzigo.tv/out/u/dash/TRU-TV-HD/default.mpd
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="NAT GEO HD" tvg-logo="https://logo.iptveditor.com/natgeo.png" group-title="LATINO",NAT GEO HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
+#EXTINF:-1 tvg-id="History.mx" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://logo.iptveditor.com/historychannel.png" group-title="LATINO",HISTORY CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="HISTORY 2 HD" tvg-logo="https://logo.iptveditor.com/history2.png" group-title="LATINO",HISTORY 2 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="LATINO",DISCOVERY SCIENCE HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="LATINO",DISCOVERY TURBO HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
+#EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="FILM AND ARTS HD" tvg-logo="https://logo.iptveditor.com/filmandarts.png" group-title="LATINO",FILM AND ARTS HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/FILM-AND-ARTS-HD/default.mpd
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN HD" tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="LATINO",TUDN HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="AFFIZIONADOS HD" tvg-logo="https://mecambioya.com/wp-content/uploads/2021/03/afizzionados-3.png" group-title="LATINO",AFFIZIONADOS HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
+#EXTINF:-1 tvg-id="RealMadridTV.mx" tvg-name="REAL MADRID HD" tvg-logo="https://logo.iptveditor.com/realmadridtvenglish.png" group-title="LATINO",REAL MADRID HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX SPORTS HD" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="LATINO",FOX SPORTS HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://logo.iptveditor.com/foxsport2.png" group-title="LATINO",FOX SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2 HD" tvg-logo="https://logo.iptveditor.com/auespn2.png" group-title="LATINO",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN HD" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="LATINO",ESPN HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3 HD" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="LATINO",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="FOX SPORTS 3 HD" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="LATINO",FOX SPORTS 3 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd
+#EXTINF:-1 tvg-id="NFLNetwork(English).mx" tvg-name="NFL HD" tvg-logo="https://logo.iptveditor.com/nfl.png" group-title="LATINO",NFL HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="ADRENALINA HD" tvg-logo="https://logo.iptveditor.com/adrenalina.png" group-title="LATINO",ADRENALINA HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
+#EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="GOLF CHANNEL HD" tvg-logo="https://logo.iptveditor.com/golfchannel.png" group-title="LATINO",GOLF CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/GOLF-CHANNEL-HD/default.mpd
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="https://logo.iptveditor.com/pelicula.png" group-title="LATINO",DE PELICULA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN" tvg-logo="https://logo.iptveditor.com/golden.png" group-title="LATINO",GOLDEN
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="https://logo.iptveditor.com/goldenedge.png" group-title="LATINO",GOLDEN EDGE
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="LATINO",TNT HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC HD" tvg-logo="https://img1.wikia.nocookie.net/__cb20110408022156/logopedia/images/8/84/AMC_HD.png" group-title="LATINO",AMC HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO" tvg-logo="" group-title="LATINO",STUDIO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="SONY MOVIES" tvg-logo="https://megatelevisiontv.live/img/sony_movies.png" group-title="LATINO",SONY MOVIES
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="LATINO",TCM
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live5-ott.izzigo.tv/out/u/dash/TCM-SD/default.mpd
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX HD" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="LATINO",CINEMAX HD mx
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD" tvg-logo="https://logo.iptveditor.com/cinecanal.png" group-title="LATINO",CINECANAL HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="PARAMOUNT HD" tvg-logo="https://logo.iptveditor.com/paramount.png" group-title="LATINO",PARAMOUNT HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live2-ott.izzigo.tv/out/u/dash/PARAMOUNT-HD/default.mpd
+#EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="EUROPA HD" tvg-logo="https://logo.iptveditor.com/europa7.png" group-title="LATINO",EUROPA HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/EUROPA-HD/default.mpd
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO FAMILY HD" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="LATINO",HBO FAMILY HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="LATINO",HBO SIGNATURE HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="LATINO",HBO HD mx
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 HD" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="LATINO",HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO+ HD" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="LATINO",HBO+ HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
+#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO MUNDI HD" tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="LATINO",HBO MUNDI HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+#EXTINF:-1 tvg-id="HBOPOP.mx" tvg-name="HBO POP HD" tvg-logo="https://logo.iptveditor.com/hbopop.png" group-title="LATINO",HBO POP HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME HD" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="LATINO",HBO XTREME HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://logo.iptveditor.com/goldenpremier.png" group-title="LATINO",GOLDEN PREMIER HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="GOLDEN PREMIER 2HS HD" tvg-logo="https://logo.iptveditor.com/goldenpremier2.png" group-title="LATINO",GOLDEN PREMIER 2HS HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd
+#EXTINF:-1 tvg-id="UniversalPremiere.mx" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://www.izzigo.tv/images/repository/11753184-LOGO-m.png" group-title="LATINO",UNIVERSAL PREMIER
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
+#EXTINF:-1 tvg-id="UniversalCinema.mx" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.izzigo.tv/images/repository/11753180-LOGO-m.png" group-title="LATINO",UNIVERSAL CINEMA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
+#EXTINF:-1 tvg-id="UniversalComedy.mx" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://www.izzigo.tv/images/repository/11753186-LOGO-m.png" group-title="LATINO",UNIVERSAL COMEDY
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
+#EXTINF:-1 tvg-id="UniversalCrime.mx" tvg-name="UNIVERSAL CRIME" tvg-logo="https://www.izzigo.tv/images/repository/11753187-LOGO-m.png" group-title="LATINO",UNIVERSAL CRIME
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="UNIVERSAL REALITY" tvg-logo="https://www.izzigo.tv/images/repository/11753188-LOGO-m.png" group-title="LATINO",UNIVERSAL REALITY
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
+#EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3 SERIES HD" tvg-logo="https://logo.iptveditor.com/a3satreseries1.png" group-title="LATINO",A3 SERIES HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
+#EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="STAR HD" tvg-logo="https://logo.iptveditor.com/star.png" group-title="LATINO",STAR HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://logo.iptveditor.com/discoveryworld.png" group-title="LATINO",DISCOVERY WORLD HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-WORLD-HD/default.mpd
+#EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="TELEHIT MUSICA PLUS" tvg-logo="https://logo.iptveditor.com/telehit.png" group-title="LATINO",TELEHIT MUSICA PLUS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
+#EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV LIVE HD" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="LATINO",MTV LIVE HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
+#EXTINF:-1 tvg-id="TeenNick.mx" tvg-name="TEENNICK" tvg-logo="https://logo.iptveditor.com/nick2.png" group-title="LATINO",TEENNICK
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/NICK-2-HD/default.mpd
+#EXTINF:-1 tvg-id="ClanTv.mx" tvg-name="CLAN HD" tvg-logo="https://logo.iptveditor.com/clan.png" group-title="LATINO",CLAN HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live2-ott.izzigo.tv/out/u/dash/CLAN-HD/default.mpd
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://logo.iptveditor.com/discoverytheater.png" group-title="LATINO",DISCOVERY THEATER HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN EXTRA HD" tvg-logo="https://logo.iptveditor.com/espn+.png" group-title="LATINO",ESPN EXTRA HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
+#EXTINF:-1 tvg-id="Atrescine.mx" tvg-name="A3 CINE HD" tvg-logo="https://www.tumundo.cl/multimedia/2020/04/sundance-channel-cambio-a-a3cine-2.png" group-title="LATINO",A3 CINE HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DE PELICULA HD" tvg-logo="https://logo.iptveditor.com/pelicula.png" group-title="LATINO",DE PELICULA HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="GOLDEN PLUS" tvg-logo="https://logo.iptveditor.com/golden.png" group-title="LATINO",GOLDEN PLUS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=huhgfhsuhuhuhshs
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,Directv sports (62)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=409459dd892532a0ae99947bd46b4e48:9e5a06e2803b02a6006d8c19d4738a35 
+https://1062-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,Directv sports (57)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb0ecaa6ae62336197c64d4129c6a09d:cb0bba4522ffcd90a8b51541a0fcfae0 
+https://1057-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,Directv sports (59)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fa59463176f3dc2964b91b4f7ae1d7c:81d5b95cc9057d6b0f85c78e6f0e41e7 
+https://1059-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,Directv sports (58)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa8796510bf0357d9fc39bd81bbfca18:ea7138d07009dff7ebe6e2fedcebf660 
+https://1058-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,Directv sports (61)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fb64d11355338b3bdf8b182d28eba1f:bfc4e9f3e355b82e11fc5ddfd313c3f2 
+https://1061-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qwIKFxDWMBaN4haYN1pDnA","k":"I1iYzbELDNujXqLOlPux-w"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=
+https://1063-vos.dtvott.com
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DIRECTV SPORTS 2 
+https://1063-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DIRECTV SPORTS + 
+https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"G5mE3GayWf6K5ZfLT8H0ww","k":"_bv1o5EJNJ17apl-g_ueSw"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,TNT SPORTS CHILE 
+https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN_Premium.png",ESPN Premium
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4cb49df341423cb597bf3e79b78f2a52:11ad69d2c84f41dbb520abfe38b19fe7 
+https://1125-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ESPN PREMIUM 
+https://edge2.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=534d488852b3330284307d1a3ca0fd3b:2d1d2a12454b682df197ff26ff5253a5
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN.webp" ,ESPN (1109) 
+https://1109-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66a61cf22e5956c49b89ecbc56049248:51fc45f5a6f184b9916631ac31f95653
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN.webp" ,ESPN (1104) 
+https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=534d488852b3330284307d1a3ca0fd3b:2d1d2a12454b682df197ff26ff5253a5
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ESPN SUR (1109) 
+https://1109-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=591cdbc97034330b849614a6efbfdfd4:d664407707d260f93908121d84df4eba
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ESPN MX (1108) 
+https://1108-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN_2.webp" ,ESPN 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfe0b4ea79d63f3ca8370f9465ad853a:6bf0a6db3672e1d1ebe22e494156ff5d 
+https://1098-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN_2.webp" ,ESPN 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=933de8e915535ae18c2558a5a76318c9:e1fc1eed4eae83e0dc1b3705cb62ca64 
+https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ESPN 2 LAT
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfe0b4ea79d63f3ca8370f9465ad853a:6bf0a6db3672e1d1ebe22e494156ff5d 
+https://1098-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ESPN 2 SUR
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=933de8e915535ae18c2558a5a76318c9:e1fc1eed4eae83e0dc1b3705cb62ca64 
+https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kz3o6RVTWuGMJVilp2MYyQ","k":"4fwe7U6ug-DcGzcFy2LKZA"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ESPN 2 Sur 
+https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4fwe7U6ug-DcGzcFy2LKZA","kid":"kz3o6RVTWuGMJVilp2MYyQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ESPN 2 
+https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3Msv8QTfC7xU3gazwnhvXA","kid":"BrOt-6mEXHySRwT9i43NZA"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ESPN 2 MX 
+https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN_3.webp" ,ESPN 3
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f91c485f605b337cab75d446604d5dfc:933c006497039ce8b345d53a1131d8c4 
+https://1103-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN_3.webp" ,ESPN 3
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38 
+https://edge-live16-hr..cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"v2i0CrnCWFmLcyBFCauGDQ","k":"8SpnwA1O8olVByrsMWom8A"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ESPN 3 Sur 
+https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8SpnwA1O8olVByrsMWom8A","kid":"v2i0CrnCWFmLcyBFCauGDQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ESPN 3 
+https://dtvott-abc.akamaized.net/dash_live_1102/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nc7cS0VlTLirpI5BWVkGPw","kid":"ggJY42ThVwGxMzWc-GMDrw"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ESPN 3 MX 
+https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN_Extra_new.png" ,ESPN Extra
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564 
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "iG1hL7FqzrFy22j9MBanNw","kid": "ZtoxBw6sWPytuRGASRfqKA"}],"type": "temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ESPN EXTRA 
+https://dtvott-abc.akamaized.net/dash_live_1107/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN4.png" ,ESPN 4
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=120a14e524f637d4b897c0b70a52d91f:5c78b4010783b638eac8bc2e852858ac 
+https://1116-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN4.png" ,ESPN 4
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e 
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WbJpuAvs0DYwemBdmTgWDw","kid":"UiK9jCiYWTmC_CVQ5JOqaQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ESPN 4 
+https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DAZN MLB NETWORK 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-026/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DAZN MILAN TV 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,ZONA DAZN 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DAZN NFL NETWORK 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-023/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DAZN EUROSPORTS 2 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DAZN EUROSPORTS 1 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DAZN EVENTOS TV 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DAZN LFCTV 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DAZN NBA TV 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DAZN REDBULL TV 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-036/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DAZN MOTO GP 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DANZ LA LIGA 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DAZN 2 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DAZN 1 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,DAZN F1 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,LA LIGA PREMIER- PARAMOUNT+ 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,LA SELECCION 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,FUTBOL PARA FANS 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" ,PARAMOUNT+ PRESENTA 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/E!.png",E! Entertainment
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b567e74bf1bf590a8fdb8ddfd5dc6f32:17d3197e960bcb02234e70866bdb0703 
+https://dtvott-cbc.akamaized.net/dash_live_1091/manifest.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/E!.png",E! Entertainment
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5883553207f13e3dc8cecd1113d5ba68:45434d40636dfa0e5312b93218e02185 
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Venus.png",Venus (18+)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af 
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/logo_canal/Playboy_TV.png",Playboy TV (18+)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb 
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A/Playboy.mpd
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg",Sextreme (18+)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434 
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd
