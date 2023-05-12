@@ -163,9 +163,12 @@ https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 #EXTVLCOPT:http-user-agent=RainTv
 https://raintv.tk/cliptv/bce1ee6334fe7c1f1c02e13f05c7c9255c99e7ff/In-The-Box/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="🎬| Phim",CCTV_6.MOVIE
+https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+http://113.207.84.197:8090/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
 http://cntv.sbs/live/?id=cctv6
 http://39.135.138.59:18890/TVOD/88888910/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CCTV-8.png/revision/latest?cb=20220111072628" group-title="🎬| Phim",CCTV_8.DRAMA
+https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
 http://cntv.sbs/live/?id=cctv8
 #EXTINF:-1  tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021021771641601_mini.jpg" group-title="🎬| Phim",CHC高清电影-CHC Movies
@@ -175,9 +178,9 @@ http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="🎬| Phim",CHCCHC动作电影-CHC Action Movies
 http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="🎬| Phim",湖南卫视 Hunan TV HD
+https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 http://113.207.84.197:8090/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
 http://cntv.sbs/live/?id=hunws
-#https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/hunandy.png" group-title="🎬| Phim",湖南电影Hunan Film HD
 http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="http://n.ysyz.top:99/buyaolian/hunandsj.png" group-title="🎬| Phim",湖南电视剧 Hunan TV Series HD
@@ -1071,7 +1074,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png", KPOP HD
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunkist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="http://n.ysyz.top:99/buyaolian/cctv15.png", CCTV15音乐HD
-https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000/mnf.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://i.imgur.com/FeFMOxH.png", MTV HD
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/69/hd/dvr-${start}-${end}.m3u8", Music Box HD
