@@ -670,8 +670,6 @@ http://s7769.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_HD/manifest.mpd
 #EXTINF:-1  tvg-name="ON Sports HD" tvg-id="https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8 và http://s129135.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1 và http://s2129133.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv304&offset=1&nodelay=1" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/hls/THETHAO_HD_1924/sc-gaFEAA/m40_index.m3u8?startTime=${start}&stopTime=${end}",ON Sports HD
 http://gg.gg/HaNoiIPTV-ON_Sports_HD
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/${start}/${offset}", ONSports HD VIETTEL
-http://gg.gg/onsporthd
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies 
 https://livevlive.vtvcab.vn/hls/VAN_HOA_CL/sc-gaFEAA/m20_index.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8?cc|Referer=http://sctvonline.vn/
@@ -735,12 +733,8 @@ https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/man
 #https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="ON Football HD" tvg-id="http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1 và http://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv302&offset=1&nodelay=1 và https://r5yqppqecmliv.vcdn.cloud/manifest/vtvcab16-hd/playlist_1080p.m3u8" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/hls/BONGDA_HD_1924/sc-gaFEAA/m40_index.m3u8?startTime=${start}&stopTime=${end}",ON Football HD
 http://gg.gg/HaNoiIPTV-ON_Football_HD
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ON Football HD VIETTEL
-http://gg.gg/bongdahdtv
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/25.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/1b029a49-b0fe-4ac5-b1cf-a9cb782ed0ec/dvr-${start}-${offset}.m3u8",ON TRENDING
 https://livevlive.vtvcab.vn/hls/YEAH1_TV_CL/sc-gaFEAQ/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ONSportsNews HD
-http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ONSportsNews FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -752,8 +746,6 @@ http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsnews
 https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_TINTUC_HD/manifest.mpd
 http://gg.gg/HaNoiIPTV-ON_Sports_News_HD
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ONSportsNews FHD VIETTEL
-http://gg.gg/thethaotintuc
 #EXTINF:-1 tvg-id="btv5hd" group-title="🧡| VTVcab" tvg-logo="https://i.ytimg.com/vi/BJPhLkAwz00/maxresdefault.jpg", BTV5 - ON Sports Action
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8",ON Vie Dramas 
@@ -1380,12 +1372,6 @@ https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 2 FHD
 https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 036
-https://obevcimanyd179314182.thapcam.link/live/may036FHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 065
-https://obevcimanyd179314182.thapcam.link/live/may065FHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 075
-https://179672673.global.cdnfastest.com/live/may075FHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 3 FHD
 https://179314182.global.cdnfastest.com/live/may2FHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 4 FHD
@@ -1398,6 +1384,8 @@ https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8
 https://179672673.global.cdnfastest.com/live/cuonFHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv MYTOM FHD
 https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv BUNCHA FHD
+https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv HD 6
 https://1123139281.cdn.khmer-hd.com/may6/chunks.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv HD 9
@@ -1410,6 +1398,12 @@ https://179314182.global.cdnfastest.com/live/may10/chunklist.m3u8
 https://179314182.global.cdnfastest.com/live/may101/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 110
 https://obevcimanyd179314182.thapcam.link/live/may010FHD/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 036
+https://obevcimanyd179314182.thapcam.link/live/may036FHD/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 065
+https://obevcimanyd179314182.thapcam.link/live/may065FHD/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 075
+https://179672673.global.cdnfastest.com/live/may075FHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-1_🇨🇳
 http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000005969&livemode=1&stbId=2&channel-id=FifastbLive
 
@@ -1837,7 +1831,6 @@ http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/1476
 http://525101722668389450.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/389450.ts
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport2 HD
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1543900
-
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/14995
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/1477
 http://525101722668389451.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/389451.ts
@@ -1896,8 +1889,6 @@ http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/69538
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="🌈SPORT EX-YU🌈",BG: Diema Sport 3 HD
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/9022
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/69537
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-1-374.png" group-title="🌈SPORT EX-YU🌈",GR: NOVA SPORTS 1 LALIGA GR
-http://141.95.65.201:60707/play/a005
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-1-374.png" group-title="🌈SPORT EX-YU🌈",GR: NOVA SPORTS 1 LALIGA
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=44143&extension=ts&play_token=
 https://spotv.me:8080/FG5195018939/5195018939/4560
@@ -2012,336 +2003,336 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658076
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658075
 #EXTINF:-1 tvg-id="" tvg-name="EPL: Optus Sport 13" tvg-logo="https://img.nbm.rocks/countries/australia/optus-sport-au.png" group-title="🔴| Livestream Event 30124|🔴",EPL: Optus Sport 13
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658074
-#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 1" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Premier 1
+#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 1" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Premier 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658073
-#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 2" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Premier 2
+#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 2" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Premier 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658072
-#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 3" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Premier 3
+#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 3" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Premier 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658071
-#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 4" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Premier 4
+#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 4" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Premier 4
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658070
-#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 5" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Premier 5
+#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 5" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Premier 5
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658069
-#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 6" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Premier 6
+#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 6" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Premier 6
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658068
-#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 7" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Premier 7
+#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 7" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Premier 7
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658067
-#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 8" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Premier 8
+#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 8" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Premier 8
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658066
-#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 9" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Premier 9
+#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 9" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Premier 9
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658065
-#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 10" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Premier 10
+#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 10" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Premier 10
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658064
-#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 11" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Premier 11
+#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 11" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Premier 11
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658063
-#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 2 UHD" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Premier 2 UHD
+#EXTINF:-1 tvg-id="" tvg-name="starhub Premier 2 UHD" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Premier 2 UHD
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658062
-#EXTINF:-1 tvg-id="" tvg-name="starhub Bein Sports 1" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Bein Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="starhub Bein Sports 1" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Bein Sports 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658061
-#EXTINF:-1 tvg-id="" tvg-name="starhub Bein Sports 2" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Bein Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="starhub Bein Sports 2" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Bein Sports 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658060
-#EXTINF:-1 tvg-id="" tvg-name="starhub Bein Sports 3" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Bein Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="starhub Bein Sports 3" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Bein Sports 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658059
-#EXTINF:-1 tvg-id="" tvg-name="starhub Bein Sports 4" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Bein Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="starhub Bein Sports 4" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Bein Sports 4
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658058
-#EXTINF:-1 tvg-id="" tvg-name="starhub Bein Sports 5" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub Bein Sports 5
+#EXTINF:-1 tvg-id="" tvg-name="starhub Bein Sports 5" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub Bein Sports 5
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658057
-#EXTINF:-1 tvg-id="" tvg-name="starhub sports 1" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub sports 1
+#EXTINF:-1 tvg-id="" tvg-name="starhub sports 1" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub sports 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658056
-#EXTINF:-1 tvg-id="" tvg-name="starhub sports 2" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub sports 2
+#EXTINF:-1 tvg-id="" tvg-name="starhub sports 2" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub sports 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658055
-#EXTINF:-1 tvg-id="" tvg-name="starhub sports 3" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub sports 3
+#EXTINF:-1 tvg-id="" tvg-name="starhub sports 3" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub sports 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658054
-#EXTINF:-1 tvg-id="" tvg-name="starhub sports 4" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub sports 4
+#EXTINF:-1 tvg-id="" tvg-name="starhub sports 4" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub sports 4
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658053
-#EXTINF:-1 tvg-id="" tvg-name="starhub sports 5" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",starhub sports 5
+#EXTINF:-1 tvg-id="" tvg-name="starhub sports 5" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",starhub sports 5
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658052
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBCSN" tvg-logo="https://img.nbm.rocks/countries/united-states/us/nbcsn-us.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK NBCSN
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBCSN" tvg-logo="https://img.nbm.rocks/countries/united-states/us/nbcsn-us.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK NBCSN
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658051
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK PREMIER LEAGUE" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK PREMIER LEAGUE
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK PREMIER LEAGUE" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK PREMIER LEAGUE
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658050
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 1" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="⚽🔴| Livestream Event 30124|🔴",PEACOCK 1
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 1" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658049
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 2" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK 2
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 2" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658048
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 3" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK 3
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 3" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658047
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 4" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK 4
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 4" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK 4
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658046
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 5" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK 5
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 5" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK 5
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658045
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 6" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK 6
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 6" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK 6
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658044
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 7" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK 7
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 7" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK 7
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658043
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 8" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK 8
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 8" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK 8
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658042
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 9" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK 9
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 9" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK 9
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658041
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 10" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK 10
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 10" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK 10
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658040
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 11" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK 11
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 11" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK 11
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658039
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 12" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK 12
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 12" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK 12
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658038
-#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 13" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 30124|🔴",PEACOCK 13
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK 13" tvg-logo="https://img.nbm.rocks/misc/media/peacock.png" group-title="🔴| Livestream Event 030124|🔴",PEACOCK 13
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658037
-#EXTINF:-1 tvg-id="nowsportspremierleague1.hk" tvg-name="Now HK Premier Sports 1" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-1-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Premier Sports 1
+
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 1" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 030124|🔴",Peacock Extra 1
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148554
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 2" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 030124|🔴",Peacock Extra 2
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148553
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 3" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 030124|🔴",Peacock Extra 3
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148552
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 4" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 030124|🔴",Peacock Extra 4
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148551
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 5" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 030124|🔴",Peacock Extra 5
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148550
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 6" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 030124|🔴",Peacock Extra 6
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148549
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 7" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 030124|🔴",Peacock Extra 7
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148548
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 8" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 030124|🔴",Peacock Extra 8
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148547
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 9" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 030124|🔴",Peacock Extra 9
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148546
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 10" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 030124|🔴",Peacock Extra 10
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148545
+#EXTINF:-1 tvg-id="nowsportspremierleague1.hk" tvg-name="Now HK Premier Sports 1" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-1-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Premier Sports 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658036
-#EXTINF:-1 tvg-id="English - Now Sports Premier League 2" tvg-name="Now HK Premier Sports 2" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-2-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Premier Sports 2
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 2" tvg-name="Now HK Premier Sports 2" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-2-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Premier Sports 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658035
-#EXTINF:-1 tvg-id="English - Now Sports Premier League 3" tvg-name="Now HK Premier Sports 3" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-3-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Premier Sports 3
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 3" tvg-name="Now HK Premier Sports 3" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-3-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Premier Sports 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658034
-#EXTINF:-1 tvg-id="English - Now Sports Premier League 4" tvg-name="Now HK Premier Sports 4" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-4-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Premier Sports 4
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 4" tvg-name="Now HK Premier Sports 4" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-4-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Premier Sports 4
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658033
-#EXTINF:-1 tvg-id="English - Now Sports Premier League 5" tvg-name="Now HK Premier Sports 5" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-5-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Premier Sports 5
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 5" tvg-name="Now HK Premier Sports 5" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-5-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Premier Sports 5
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658032
-#EXTINF:-1 tvg-id="English - Now Sports Premier League 6" tvg-name="Now HK Premier Sports 6" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-6-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Premier Sports 6
+#EXTINF:-1 tvg-id="English - Now Sports Premier League 6" tvg-name="Now HK Premier Sports 6" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-6-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Premier Sports 6
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658031
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 7" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-tv-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Premier Sports 7
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 7" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-tv-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Premier Sports 7
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658030
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 8" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-tv-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Premier Sports 8
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 8" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-premier-league-tv-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Premier Sports 8
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658029
-#EXTINF:-1 tvg-id="nowsports1.hk" tvg-name="Now HK Now Sports 1" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-1-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Now Sports 1
+#EXTINF:-1 tvg-id="nowsports1.hk" tvg-name="Now HK Now Sports 1" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-1-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Now Sports 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658028
-#EXTINF:-1 tvg-id="English - beIN – Now Sports 2" tvg-name="Now HK Now Sports 2" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-2-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Now Sports 2
+#EXTINF:-1 tvg-id="English - beIN – Now Sports 2" tvg-name="Now HK Now Sports 2" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-2-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Now Sports 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658027
-#EXTINF:-1 tvg-id="English - Now Sports 3" tvg-name="Now HK Now Sports 3" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-3-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Now Sports 3
+#EXTINF:-1 tvg-id="English - Now Sports 3" tvg-name="Now HK Now Sports 3" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-3-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Now Sports 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658026
-#EXTINF:-1 tvg-id="English - Now Sports 4" tvg-name="Now HK Now Sports 4" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-4-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Now Sports 4
+#EXTINF:-1 tvg-id="English - Now Sports 4" tvg-name="Now HK Now Sports 4" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-4-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Now Sports 4
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658025
-#EXTINF:-1 tvg-id="English - Now Sports 5" tvg-name="Now HK Now Sports 5" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-5-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Now Sports 5
+#EXTINF:-1 tvg-id="English - Now Sports 5" tvg-name="Now HK Now Sports 5" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-5-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Now Sports 5
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658024
-#EXTINF:-1 tvg-id="English - Now Sports 6" tvg-name="Now HK Now Sports 6" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-6-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Now Sports 6
+#EXTINF:-1 tvg-id="English - Now Sports 6" tvg-name="Now HK Now Sports 6" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-6-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Now Sports 6
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658023
-#EXTINF:-1 tvg-id="English - Now Sports 7" tvg-name="Now HK Now Sports 7" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-7-hk.png" group-title="🔴| Livestream Event 30124|🔴",Now HK Now Sports 7
+#EXTINF:-1 tvg-id="English - Now Sports 7" tvg-name="Now HK Now Sports 7" tvg-logo="https://img.nbm.rocks/countries/hong-kong/now-sports-7-hk.png" group-title="🔴| Livestream Event 030124|🔴",Now HK Now Sports 7
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658022
-#EXTINF:-1 tvg-id="10.S" tvg-name="Spark Sports 10" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴O",Spark Sports 10
+#EXTINF:-1 tvg-id="10.S" tvg-name="Spark Sports 10" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Spark Sports 10
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658021
-#EXTINF:-1 tvg-id="9.S" tvg-name="Spark Sports 9" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Spark Sports 9
+#EXTINF:-1 tvg-id="9.S" tvg-name="Spark Sports 9" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Spark Sports 9
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658020
-#EXTINF:-1 tvg-id="8.S" tvg-name="Spark Sports 8" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Spark Sports 8
+#EXTINF:-1 tvg-id="8.S" tvg-name="Spark Sports 8" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Spark Sports 8
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658019
-#EXTINF:-1 tvg-id="7.S" tvg-name="Spark Sports 7" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Spark Sports 7
+#EXTINF:-1 tvg-id="7.S" tvg-name="Spark Sports 7" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Spark Sports 7
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658018
-#EXTINF:-1 tvg-id="6.S" tvg-name="Spark Sports 6" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Spark Sports 6
+#EXTINF:-1 tvg-id="6.S" tvg-name="Spark Sports 6" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Spark Sports 6
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658017
-#EXTINF:-1 tvg-id="5.S" tvg-name="Spark Sports 5" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Spark Sports 5
+#EXTINF:-1 tvg-id="5.S" tvg-name="Spark Sports 5" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Spark Sports 5
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658016
-#EXTINF:-1 tvg-id="4.S" tvg-name="Spark Sports 4" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Spark Sports 4
+#EXTINF:-1 tvg-id="4.S" tvg-name="Spark Sports 4" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Spark Sports 4
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658015
-#EXTINF:-1 tvg-id="3.S" tvg-name="Spark Sports 3" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Spark Sports 3
+#EXTINF:-1 tvg-id="3.S" tvg-name="Spark Sports 3" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Spark Sports 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658014
-#EXTINF:-1 tvg-id="2.S" tvg-name="Spark Sports 2" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Spark Sports 2
+#EXTINF:-1 tvg-id="2.S" tvg-name="Spark Sports 2" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Spark Sports 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658013
-#EXTINF:-1 tvg-id="1.S" tvg-name="Spark Sports 1" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Spark Sports 1
+#EXTINF:-1 tvg-id="1.S" tvg-name="Spark Sports 1" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Spark Sports 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658012
-#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 1 |" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Vidio EPL 1 |
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 1 |" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Vidio EPL 1 |
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658011
-#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 2 |" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Vidio EPL 2 |
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 2 |" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Vidio EPL 2 |
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658010
-#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 3 |" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Vidio EPL 3 |
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 3 |" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Vidio EPL 3 |
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658009
-#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 4 |" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Vidio EPL 4 |
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 4 |" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Vidio EPL 4 |
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658008
-#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 5 |" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Vidio EPL 5 |
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 5 |" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Vidio EPL 5 |
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658007
-#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 6 |" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Vidio EPL 6 |
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 6 |" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Vidio EPL 6 |
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658006
-#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 7 |" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Vidio EPL 7 |
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 7 |" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Vidio EPL 7 |
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658005
-#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 8 |" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Vidio EPL 8 |
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 8 |" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Vidio EPL 8 |
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658004
 #EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 9 |" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Vidio EPL 9 |
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658003
-#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 10 |" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Vidio EPL 10 |
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 10 |" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Vidio EPL 10 |
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658002
-#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 11" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 30124|🔴",Vidio Live Events | 11
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 11" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 11
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658001
-#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 12" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 30124|🔴",Vidio Live Events | 12
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 12" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 12
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1658000
-#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 13" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 30124|🔴",Vidio Live Events | 13
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 13" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 13
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657999
-#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 14" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 30124|🔴",Vidio Live Events | 14
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 14" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 14
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657998
-#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 15" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 30124|🔴",Vidio Live Events | 15
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 15" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 15
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657997
-#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 16" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 30124|🔴",Vidio Live Events | 16
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 16" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 16
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657996
-#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 17" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 30124|🔴",Vidio Live Events | 17
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 17" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 17
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657995
-#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 18" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 30124|🔴",Vidio Live Events | 18
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 18" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 18
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657994
 #EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 19" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="W🔴| Livestream Event 30124|🔴",Vidio Live Events | 19
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657993
-#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 20" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 30124|🔴",Vidio Live Events | 20
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 20" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 20
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657992
-#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 21" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 30124|🔴",Vidio Live Events | 21
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 21" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 21
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657991
-#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 22" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 30124|🔴",Vidio Live Events | 22
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 22" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 22
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657990
-#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 23" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 30124|🔴",Vidio Live Events | 23
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 23" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 23
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657989
 
-#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDN" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",FUBO| TUDN
+#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDN" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",FUBO| TUDN
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545296
-#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 1" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",FUBO| TUDNXTRA 1
+#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 1" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",FUBO| TUDNXTRA 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545297
-#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDN" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",FUBO| TUDN
+#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDN" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",FUBO| TUDN
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545296
-#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 2" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",FUBO| TUDNXTRA 2
+#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 2" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",FUBO| TUDNXTRA 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545298
-#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 3" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",FUBO| TUDNXTRA 3
+#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 3" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",FUBO| TUDNXTRA 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545299
-#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 4" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",FUBO| TUDNXTRA 4
+#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 4" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",FUBO| TUDNXTRA 4
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545300
-#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 5" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",FUBO| TUDNXTRA 5
+#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 5" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",FUBO| TUDNXTRA 5
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545301
-#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 5" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",FUBO| TUDNXTRA 6
+#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 5" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",FUBO| TUDNXTRA 6
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545302
-#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 5" tvg-logo="" group-title="U🔴| Livestream Event 30124|🔴",FUBO| TUDNXTRA 7
+#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 5" tvg-logo="" group-title="U🔴| Livestream Event 030124|🔴",FUBO| TUDNXTRA 7
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545303
-#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 5" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",FUBO| TUDNXTRA 8
+#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 5" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",FUBO| TUDNXTRA 8
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545304
 
-#EXTINF:-1 tvg-id="beinsports1.au" tvg-name="Kayo: beIN Sports 1" tvg-logo="https://img.nbm.rocks/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="🔴| Livestream Event 30124|🔴",Kayo: beIN Sports 1
+#EXTINF:-1 tvg-id="beinsports1.au" tvg-name="Kayo: beIN Sports 1" tvg-logo="https://img.nbm.rocks/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="🔴| Livestream Event 030124|🔴",Kayo: beIN Sports 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537623
-#EXTINF:-1 tvg-id="beinsports2.au" tvg-name="Kayo: beIN Sports 2" tvg-logo="https://img.nbm.rocks/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="🔴| Livestream Event 30124|🔴",Kayo: beIN Sports 2
+#EXTINF:-1 tvg-id="beinsports2.au" tvg-name="Kayo: beIN Sports 2" tvg-logo="https://img.nbm.rocks/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="🔴| Livestream Event 030124|🔴",Kayo: beIN Sports 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537622
-#EXTINF:-1 tvg-id="beinsports3.au" tvg-name="Kayo: beIN Sports 3" tvg-logo="https://img.nbm.rocks/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="🔴| Livestream Event 30124|🔴",Kayo: beIN Sports 3
+#EXTINF:-1 tvg-id="beinsports3.au" tvg-name="Kayo: beIN Sports 3" tvg-logo="https://img.nbm.rocks/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="🔴| Livestream Event 030124|🔴",Kayo: beIN Sports 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537621
-#EXTINF:-1 tvg-id="astrosupersportuhd.my" tvg-name="|MY| ASTRO Supersport UHD" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="M🔴| Livestream Event 30124|🔴",|MY| ASTRO Supersport UHD
+#EXTINF:-1 tvg-id="astrosupersportuhd.my" tvg-name="|MY| ASTRO Supersport UHD" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="M🔴| Livestream Event 030124|🔴",|MY| ASTRO Supersport UHD
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537403
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="|MY| ASTRO Supersport" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="M🔴| Livestream Event 30124|🔴",|MY| ASTRO Supersport
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="|MY| ASTRO Supersport" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="M🔴| Livestream Event 030124|🔴",|MY| ASTRO Supersport
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537402
-#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="|MY| ASTRO Supersport 2" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-2-my.png" group-title="🔴| Livestream Event 30124|🔴",|MY| ASTRO Supersport 2
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="|MY| ASTRO Supersport 2" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-2-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO Supersport 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537401
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="|MY| ASTRO Supersport 3" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-3-my.png" group-title="🔴| Livestream Event 30124|🔴",|MY| ASTRO Supersport 3
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="|MY| ASTRO Supersport 3" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-3-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO Supersport 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537400
-#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="|MY| ASTRO Supersport 4" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-4-my.png" group-title="🔴| Livestream Event 30124|🔴",|MY| ASTRO Supersport 4
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="|MY| ASTRO Supersport 4" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-4-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO Supersport 4
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537399
-#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-name="|MY| ASTRO Supersport 5" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-5-my.png" group-title="🔴| Livestream Event 30124|🔴",|MY| ASTRO Supersport 5
+#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-name="|MY| ASTRO Supersport 5" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-5-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO Supersport 5
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537398
-#EXTINF:-1 tvg-id="astroarena.my" tvg-name="|MY| ASTRO ARENA" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-arena-my.png" group-title="🔴| Livestream Event 30124|🔴",|MY| ASTRO ARENA
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="|MY| ASTRO ARENA" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-arena-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO ARENA
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537397
-#EXTINF:-1 tvg-id="astroarena2.my" tvg-name="|MY| ASTRO ARENA 2" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-arena-my.png" group-title="M🔴| Livestream Event 30124|🔴",|MY| ASTRO ARENA 2
+#EXTINF:-1 tvg-id="astroarena2.my" tvg-name="|MY| ASTRO ARENA 2" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-arena-my.png" group-title="M🔴| Livestream Event 030124|🔴",|MY| ASTRO ARENA 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537396
-#EXTINF:-1 tvg-id="007.my" tvg-name="|MY| ASTRO SPOTV" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="🔴| Livestream Event 30124|🔴",|MY| ASTRO SPOTV
+#EXTINF:-1 tvg-id="007.my" tvg-name="|MY| ASTRO SPOTV" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO SPOTV
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537395
-#EXTINF:-1 tvg-id="specialeventsports02.my" tvg-name="|MY| SPOTV2" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="🔴| Livestream Event 30124|🔴",|MY| SPOTV2
+#EXTINF:-1 tvg-id="specialeventsports02.my" tvg-name="|MY| SPOTV2" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| SPOTV2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537394
-#EXTINF:-1 tvg-id="eurosport.my" tvg-name="|MY| ASTRO EUROSPORT" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="MY | Astro Sports",|MY| ASTRO EUROSPORT
+#EXTINF:-1 tvg-id="eurosport.my" tvg-name="|MY| ASTRO EUROSPORT" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO EUROSPORT
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537393
-#EXTINF:-1 tvg-id="beinsports.my" tvg-name="|MY| ASTRO beIN SPORTS" tvg-logo="https://img.nbm.rocks/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="🔴| Livestream Event 30124|🔴",|MY| ASTRO beIN SPORTS
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="|MY| ASTRO beIN SPORTS" tvg-logo="https://img.nbm.rocks/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO beIN SPORTS
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537392
-#EXTINF:-1 tvg-id="beinsports2.my" tvg-name="|MY| ASTRO beIN SPORTS 2" tvg-logo="https://img.nbm.rocks/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="🔴| Livestream Event 30124|🔴",|MY| ASTRO beIN SPORTS 2
+#EXTINF:-1 tvg-id="beinsports2.my" tvg-name="|MY| ASTRO beIN SPORTS 2" tvg-logo="https://img.nbm.rocks/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO beIN SPORTS 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537391
-#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="|MY| ASTRO beIN SPORTS 3" tvg-logo="https://img.nbm.rocks/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="🔴| Livestream Event 30124|🔴",|MY| ASTRO beIN SPORTS 3
+#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="|MY| ASTRO beIN SPORTS 3" tvg-logo="https://img.nbm.rocks/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO beIN SPORTS 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537390
 
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="SKY SPORTS MAIN EVENT UHD LINK 2" tvg-logo="https://img.nbm.rocks/countries/united-kingdom/hd/sky-sports-uhd-uk.png" group-title="🔴| Livestream Event 30124|🔴",SKY SPORTS MAIN EVENT UHD LINK 2
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="SKY SPORTS MAIN EVENT UHD LINK 2" tvg-logo="https://img.nbm.rocks/countries/united-kingdom/hd/sky-sports-uhd-uk.png" group-title="🔴| Livestream Event 030124|🔴",SKY SPORTS MAIN EVENT UHD LINK 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1536784
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="SKY SPORTS MAIN EVENT UHD LINK 1" tvg-logo="https://img.nbm.rocks/countries/united-kingdom/hd/sky-sports-uhd-uk.png" group-title="🔴| Livestream Event 30124|🔴",SKY SPORTS MAIN EVENT UHD LINK 1
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="SKY SPORTS MAIN EVENT UHD LINK 1" tvg-logo="https://img.nbm.rocks/countries/united-kingdom/hd/sky-sports-uhd-uk.png" group-title="🔴| Livestream Event 030124|🔴",SKY SPORTS MAIN EVENT UHD LINK 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1536782
 
-#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 1" tvg-logo="https://medias.unifrance.org/medias/51/139/232243/format_page/media.png" group-title="🔴| Livestream Event 30124|🔴",PL: Viaplay 1
+#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 1" tvg-logo="https://medias.unifrance.org/medias/51/139/232243/format_page/media.png" group-title="🔴| Livestream Event 030124|🔴",PL: Viaplay 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1520903
-#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 2" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",PL: Viaplay 2
+#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 2" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",PL: Viaplay 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1520902
-#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 3" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",PL: Viaplay 3
+#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 3" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",PL: Viaplay 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1520901
-#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 4" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",PL: Viaplay 4
+#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 4" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",PL: Viaplay 4
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1520900
-#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 5" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",PL: Viaplay 5
+#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 5" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",PL: Viaplay 5
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1520899
-#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 6" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",PL: Viaplay 6
+#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 6" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",PL: Viaplay 6
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1520898
-#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 7" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",PL: Viaplay 7
+#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 7" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",PL: Viaplay 7
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1520897
-#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 8" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",PL: Viaplay 8
+#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 8" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",PL: Viaplay 8
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1520896
-#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 9" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",PL: Viaplay 9
+#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 9" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",PL: Viaplay 9
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1520895
-#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 10" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",PL: Viaplay 10
+#EXTINF:-1 tvg-id="" tvg-name="PL: Viaplay 10" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",PL: Viaplay 10
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1520894
-#EXTINF:-1 tvg-id="" tvg-name="Viaplay-PL 11" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Viaplay-PL 11
+#EXTINF:-1 tvg-id="" tvg-name="Viaplay-PL 11" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Viaplay-PL 11
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1520893
-#EXTINF:-1 tvg-id="" tvg-name="Viaplay-PL 12" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Viaplay-PL 12
+#EXTINF:-1 tvg-id="" tvg-name="Viaplay-PL 12" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Viaplay-PL 12
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1520892
 
 
-#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="BT Sports Ultimate HDR 4K (3840x2160)" tvg-logo="https://img.nbm.rocks/countries/united-kingdom/bt-sport-ultimate-hz-uk.png?raw=true" group-title="🔴| Livestream Event 30124|🔴",BT Sports Ultimate HDR 4K (3840x2160)
+#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="BT Sports Ultimate HDR 4K (3840x2160)" tvg-logo="https://img.nbm.rocks/countries/united-kingdom/bt-sport-ultimate-hz-uk.png?raw=true" group-title="🔴| Livestream Event 030124|🔴",BT Sports Ultimate HDR 4K (3840x2160)
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1461453
-#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="BT Sports Ultimate HDR 4K (2560x1440)" tvg-logo="https://img.nbm.rocks/countries/united-kingdom/bt-sport-ultimate-hz-uk.png?raw=true" group-title="🔴| Livestream Event 30124|🔴",BT Sports Ultimate HDR 4K (2560x1440)
+#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="BT Sports Ultimate HDR 4K (2560x1440)" tvg-logo="https://img.nbm.rocks/countries/united-kingdom/bt-sport-ultimate-hz-uk.png?raw=true" group-title="🔴| Livestream Event 030124|🔴",BT Sports Ultimate HDR 4K (2560x1440)
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1461452
-#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="BT Sports Ultimate HDR (1920x1080)" tvg-logo="https://img.nbm.rocks/countries/united-kingdom/bt-sport-ultimate-hz-uk.png?raw=true" group-title="🔴| Livestream Event 30124|🔴",BT Sports Ultimate HDR (1920x1080)
+#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="BT Sports Ultimate HDR (1920x1080)" tvg-logo="https://img.nbm.rocks/countries/united-kingdom/bt-sport-ultimate-hz-uk.png?raw=true" group-title="🔴| Livestream Event 030124|🔴",BT Sports Ultimate HDR (1920x1080)
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1461451
-#EXTINF:-1 tvg-id="" tvg-name="GOAL RUSH LINK 1" tvg-logo="https://th.bing.com/th/id/R.6f8ca7f158801045826e6675a5b3854c?rik=f5rDB8jFF72d%2fQ&riu=http%3a%2f%2fworldsoccertalk.com%2fwp-content%2fuploads%2f2016%2f08%2fgoal-rush.jpg&ehk=kpPVz4OpArFevOzGf7PnxjgHy99uYyGDn4DWAVBkvPU%3d&risl=&pid=ImgRaw&r=0" group-title="🔴| Livestream Event 30124|🔴",GOAL RUSH LINK 1
+#EXTINF:-1 tvg-id="" tvg-name="GOAL RUSH LINK 1" tvg-logo="https://th.bing.com/th/id/R.6f8ca7f158801045826e6675a5b3854c?rik=f5rDB8jFF72d%2fQ&riu=http%3a%2f%2fworldsoccertalk.com%2fwp-content%2fuploads%2f2016%2f08%2fgoal-rush.jpg&ehk=kpPVz4OpArFevOzGf7PnxjgHy99uYyGDn4DWAVBkvPU%3d&risl=&pid=ImgRaw&r=0" group-title="🔴| Livestream Event 030124|🔴",GOAL RUSH LINK 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1293650
-#EXTINF:-1 tvg-id="" tvg-name="GOAL RUSH LINK 2" tvg-logo="https://th.bing.com/th/id/R.6f8ca7f158801045826e6675a5b3854c?rik=f5rDB8jFF72d%2fQ&riu=http%3a%2f%2fworldsoccertalk.com%2fwp-content%2fuploads%2f2016%2f08%2fgoal-rush.jpg&ehk=kpPVz4OpArFevOzGf7PnxjgHy99uYyGDn4DWAVBkvPU%3d&risl=&pid=ImgRaw&r=0" group-title="🔴| Livestream Event 30124|🔴",GOAL RUSH LINK 2
+#EXTINF:-1 tvg-id="" tvg-name="GOAL RUSH LINK 2" tvg-logo="https://th.bing.com/th/id/R.6f8ca7f158801045826e6675a5b3854c?rik=f5rDB8jFF72d%2fQ&riu=http%3a%2f%2fworldsoccertalk.com%2fwp-content%2fuploads%2f2016%2f08%2fgoal-rush.jpg&ehk=kpPVz4OpArFevOzGf7PnxjgHy99uYyGDn4DWAVBkvPU%3d&risl=&pid=ImgRaw&r=0" group-title="🔴| Livestream Event 030124|🔴",GOAL RUSH LINK 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1293649
-#EXTINF:-1 tvg-id="" tvg-name="GOAL RUSH LINK 3" tvg-logo="https://th.bing.com/th/id/R.6f8ca7f158801045826e6675a5b3854c?rik=f5rDB8jFF72d%2fQ&riu=http%3a%2f%2fworldsoccertalk.com%2fwp-content%2fuploads%2f2016%2f08%2fgoal-rush.jpg&ehk=kpPVz4OpArFevOzGf7PnxjgHy99uYyGDn4DWAVBkvPU%3d&risl=&pid=ImgRaw&r=0" group-title="🔴| Livestream Event 30124|🔴",GOAL RUSH LINK 3
+#EXTINF:-1 tvg-id="" tvg-name="GOAL RUSH LINK 3" tvg-logo="https://th.bing.com/th/id/R.6f8ca7f158801045826e6675a5b3854c?rik=f5rDB8jFF72d%2fQ&riu=http%3a%2f%2fworldsoccertalk.com%2fwp-content%2fuploads%2f2016%2f08%2fgoal-rush.jpg&ehk=kpPVz4OpArFevOzGf7PnxjgHy99uYyGDn4DWAVBkvPU%3d&risl=&pid=ImgRaw&r=0" group-title="🔴| Livestream Event 030124|🔴",GOAL RUSH LINK 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1293648
 
-#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 1" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 30124|🔴",Peacock Extra 1
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148554
-#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 2" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 30124|🔴",Peacock Extra 2
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148553
-#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 3" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 30124|🔴",Peacock Extra 3
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148552
-#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 4" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 30124|🔴",Peacock Extra 4
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148551
-#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 5" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 30124|🔴",Peacock Extra 5
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148550
-#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 6" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 30124|🔴",Peacock Extra 6
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148549
-#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 7" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 30124|🔴",Peacock Extra 7
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148548
-#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 8" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 30124|🔴",Peacock Extra 8
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148547
-#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 9" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 30124|🔴",Peacock Extra 9
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148546
-#EXTINF:-1 tvg-id="" tvg-name="Peacock Extra 10" tvg-logo="https://cdn.discordapp.com/attachments/976957500907720724/979033219167027220/IMG_8567.png" group-title="🔴| Livestream Event 30124|🔴",Peacock Extra 10
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1148545
-
-#EXTINF:-1 tvg-id="setanta01" tvg-name="SETANTA Sports 1" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 30124|🔴",SETANTA Sports 1
+#EXTINF:-1 tvg-id="setanta01" tvg-name="SETANTA Sports 1" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 030124|🔴",SETANTA Sports 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147149
-#EXTINF:-1 tvg-id="setanta02" tvg-name="SETANTA Sports 2" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 30124|🔴",SETANTA Sports 2
+#EXTINF:-1 tvg-id="setanta02" tvg-name="SETANTA Sports 2" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 030124|🔴",SETANTA Sports 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147148
-#EXTINF:-1 tvg-id="setanta03" tvg-name="SETANTA Sports 3" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 30124|🔴",SETANTA Sports 3
+#EXTINF:-1 tvg-id="setanta03" tvg-name="SETANTA Sports 3" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 030124|🔴",SETANTA Sports 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147147
-#EXTINF:-1 tvg-id="setanta04" tvg-name="SETANTA Sports 4" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 30124|🔴",SETANTA Sports 4
+#EXTINF:-1 tvg-id="setanta04" tvg-name="SETANTA Sports 4" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 030124|🔴",SETANTA Sports 4
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147146
-#EXTINF:-1 tvg-id="setanta05" tvg-name="SETANTA Sports 5" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 30124|🔴,SETANTA Sports 5
+#EXTINF:-1 tvg-id="setanta05" tvg-name="SETANTA Sports 5" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 030124|🔴,SETANTA Sports 5
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147145
-#EXTINF:-1 tvg-id="setanta06" tvg-name="SETANTA Sports 6" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 30124|🔴",SETANTA Sports 6
+#EXTINF:-1 tvg-id="setanta06" tvg-name="SETANTA Sports 6" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 030124|🔴",SETANTA Sports 6
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147144
-#EXTINF:-1 tvg-id="setanta07" tvg-name="SETANTA Sports 7" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 30124|🔴",SETANTA Sports 7
+#EXTINF:-1 tvg-id="setanta07" tvg-name="SETANTA Sports 7" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 030124|🔴",SETANTA Sports 7
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147143
-#EXTINF:-1 tvg-id="setanta08" tvg-name="SETANTA Sports 8" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 30124|🔴",SETANTA Sports 8
+#EXTINF:-1 tvg-id="setanta08" tvg-name="SETANTA Sports 8" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 030124|🔴",SETANTA Sports 8
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147142
-#EXTINF:-1 tvg-id="setanta09" tvg-name="SETANTA Sports 9" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 30124|🔴",SETANTA Sports 9
+#EXTINF:-1 tvg-id="setanta09" tvg-name="SETANTA Sports 9" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 030124|🔴",SETANTA Sports 9
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147141
-#EXTINF:-1 tvg-id="setanta10" tvg-name="SETANTA Sports 10" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="S🔴| Livestream Event 30124|🔴",SETANTA Sports 10
+#EXTINF:-1 tvg-id="setanta10" tvg-name="SETANTA Sports 10" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="S🔴| Livestream Event 030124|🔴",SETANTA Sports 10
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147140
 
-#EXTINF:-1 tvg-id="1.stan" tvg-name="Stan AU Event 1" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Stan AU Event 1
+#EXTINF:-1 tvg-id="1.stan" tvg-name="Stan AU Event 1" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Stan AU Event 1
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1086746
-#EXTINF:-1 tvg-id="2.stan" tvg-name="Stan AU Event 2" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Stan AU Event 2
+#EXTINF:-1 tvg-id="2.stan" tvg-name="Stan AU Event 2" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Stan AU Event 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1086745
-#EXTINF:-1 tvg-id="3.stan" tvg-name="Stan AU Event 3" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Stan AU Event 3
+#EXTINF:-1 tvg-id="3.stan" tvg-name="Stan AU Event 3" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Stan AU Event 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1086744
-#EXTINF:-1 tvg-id="4.stan" tvg-name="Stan AU Event 4" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Stan AU Event 4
+#EXTINF:-1 tvg-id="4.stan" tvg-name="Stan AU Event 4" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Stan AU Event 4
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1086743
-#EXTINF:-1 tvg-id="5.stan" tvg-name="Stan AU Event 5" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Stan AU Event 5
+#EXTINF:-1 tvg-id="5.stan" tvg-name="Stan AU Event 5" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Stan AU Event 5
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1086742
-#EXTINF:-1 tvg-id="6.stan" tvg-name="Stan AU Event 6" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Stan AU Event 6
+#EXTINF:-1 tvg-id="6.stan" tvg-name="Stan AU Event 6" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Stan AU Event 6
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1086741
-#EXTINF:-1 tvg-id="7.stan" tvg-name="Stan AU Event 7" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Stan AU Event 7
+#EXTINF:-1 tvg-id="7.stan" tvg-name="Stan AU Event 7" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Stan AU Event 7
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1086740
-#EXTINF:-1 tvg-id="8.stan" tvg-name="Stan AU Event 8" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Stan AU Event 8
+#EXTINF:-1 tvg-id="8.stan" tvg-name="Stan AU Event 8" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Stan AU Event 8
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1086739
-#EXTINF:-1 tvg-id="9.stan" tvg-name="Stan AU Event 9" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Stan AU Event 9
+#EXTINF:-1 tvg-id="9.stan" tvg-name="Stan AU Event 9" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Stan AU Event 9
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1086738
 #EXTINF:-1 tvg-id="10.stan" tvg-name="Stan AU Event 10" tvg-logo="" group-title="🔴| Livestream Event 30124|🔴",Stan AU Event 10
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1086737
