@@ -1467,15 +1467,17 @@ https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-elta-sports-1404.png" group-title="💚SPORT ASEAN",Elta•1.taiwan
+#EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-elta-sports-1404.png" group-title="💚SPORT ASEAN",Elta•1🇹🇼
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
+
 https://epg.pw/stream/20e6d3002f170199b4b126799718664e6905a474abf4c5cf78ea8a52fe4fd14f.m3u8
-#EXTINF:-1,tvg-id="愛爾達體育" tvg-name="愛爾達體育" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育.png" group-title="💚SPORT ASEAN",愛爾達體育 Elta•1.taiwan
+#EXTINF:-1,tvg-id="愛爾達體育" tvg-name="愛爾達體育" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育.png" group-title="💚SPORT ASEAN",愛爾達體育 Elta•1🇹🇼
 http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-#EXTINF:-1,tvg-id="愛爾達體育2" tvg-name="愛爾達體育2" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2.png" group-title="💚SPORT ASEAN",愛爾達體育2 Elta•2.taiwan
+#EXTINF:-1,tvg-id="愛爾達體育2" tvg-name="愛爾達體育2" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2.png" group-title="💚SPORT ASEAN",愛爾達體育2 Elta•2🇹🇼
 http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-#EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-1-1659.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 1 HD_taiwan
+#EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-1-1659.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 1 HD_🇹🇼
 http://61.221.81.93:8078/hls/25/80/esport.m3u8
-#EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-2-1660.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 2 HD_taiwan
+#EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-2-1660.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 2 HD_🇹🇼
 http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.onews.tv/news/photo/202204/122177_141445_3952.jpg" group-title="💚SPORT ASEAN", TvN SPORTS_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/olivetv_720/playlist.m3u8
@@ -1824,20 +1826,23 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/312844
 
 ---------------------------------------SPORT EX-YU----------------------------------------
 #EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: Digi Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport1 HD
+http://kuchini.site:8080/faucontv/SWZWpu21nO6mkNgu/71457
 http://tbs-tv.com:8080/dark/kittylinetv/3907
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1543898
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/149962
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/1476
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: Digi Sport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport1.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport1 HDˢᵛ²
 http://525101722668389450.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/389450.ts
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport2 HD
+http://525101722668389451.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/389451.ts
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1543900
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/14995
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/1477
-http://525101722668389451.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/389451.ts
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport2 FHDˢᵛ²
 http://gg.gg/DIGISP2
 http://gg.gg/DIGISPV2
 #EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport3 HD
+http://kuchini.site:8080/faucontv/SWZWpu21nO6mkNgu/2243
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1543985
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/1478
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70945
@@ -1854,11 +1859,13 @@ http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/10048.ts
 http://viptv.me:80/blackkill/vg8u9xXi8g/70947
 http://one.alidesi.org:2082/play/itBePhCpRL-NBk0IFVBBJHpQL7niYZ1mm9aRNKcya784ClgDpP8yzPcsBExNR34D/ts
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/70947
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport4 HDˢᵛ²
+http://kuchini.site:8080/faucontv/SWZWpu21nO6mkNgu/4219
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png" group-title="🌈SPORT EX-YU🌈",AL: Super Sport 1 HD
 http://tbs-tv.com:8080/dark/kittylinetv/13101
 http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/103775.ts
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/4729
-http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/1316
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/1316
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-2-692.png" group-title="🌈SPORT EX-YU🌈",AL: Super Sport 2 HD
 http://tbs-tv.com:8080/dark/kittylinetv/13102
 http://ssntv.xyz:8000/live/fc:8f:90:d5:55:a7/yNERQtjFnpZD/103765.ts
@@ -1890,15 +1897,22 @@ http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/69538
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/9022
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/69537
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-1-374.png" group-title="🌈SPORT EX-YU🌈",GR: NOVA SPORTS 1 LALIGA
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=44143&extension=ts&play_token=
-https://spotv.me:8080/FG5195018939/5195018939/4560
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-2-375.png" group-title="🌈SPORT EX-YU🌈",GR: NOVA SPORTS 2 PREMIE
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=44142&extension=ts&play_token=
+https://spotv.me:8080/FG5195018939/5195018939/4560
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-1-374.png" group-title="🌈SPORT EX-YU🌈",NOVA SPORTS 1 LALIGA
+http://kuchini.site:8080/faucontv/SWZWpu21nO6mkNgu/12844
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-2-375.png" group-title="🌈SPORT EX-YU🌈",GR: NOVA SPORTS 2 PREMIE
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=44143&extension=ts&play_token=
 https://spotv.me:8080/FG5195018939/5195018939/4562
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-2-375.png" group-title="🌈SPORT EX-YU🌈",NOVA SPORTS 2 PREMIE
+http://kuchini.site:8080/faucontv/SWZWpu21nO6mkNgu/12845
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-3-376.png" group-title="🌈SPORT EX-YU🌈",GR: NOVA SPORTS 3 BUNDESLIGA GR
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=44144&extension=ts&play_token=
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-3-376.png" group-title="🌈SPORT EX-YU🌈",GR: NOVA SPORTS 3 BUNDESLIGA 
+http://kuchini.site:8080/faucontv/SWZWpu21nO6mkNgu/12846
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-prime-2643.png" group-title="🌈SPORT EX-YU🌈",GR: Nova Sports Prime HD
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=164236&extension=ts&play_token=
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-prime-2643.png" group-title="🌈SPORT EX-YU🌈",GR: NovaSports Prime HD
 http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/291116
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png" group-title="🌈SPORT EX-YU🌈",EX-YU: ARENA•SPORT 1 HD
 http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
