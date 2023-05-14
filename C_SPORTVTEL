@@ -1,3 +1,4 @@
+#EXTINF:-1 tvg-id="ksport1hd" group-title="💚SPORT ASEAN"  logo="http://live.bep40.shop/b4tv1.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", B41_SPORT🇻🇳 360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
