@@ -167,11 +167,13 @@ https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 #EXTVLCOPT:http-user-agent=RainTv
 https://raintv.tk/cliptv/bce1ee6334fe7c1f1c02e13f05c7c9255c99e7ff/In-The-Box/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="🎬| Phim",CCTV_6.MOVIE
+https://iplogger.com/cctv6cnv1
 https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 http://113.207.84.197:8090/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
 http://cntv.sbs/live/?id=cctv6
 http://39.135.138.59:18890/TVOD/88888910/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CCTV-8.png/revision/latest?cb=20220111072628" group-title="🎬| Phim",CCTV_8.DRAMA
+https://iplogger.com/cctv8cnv1
 https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
 http://cntv.sbs/live/?id=cctv8
