@@ -141,7 +141,7 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV4.smil/chunklist_b1692000.m3
 #EXTINF:-1 group-title="🎬| Phim" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
 http://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="sctv16hd" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
-http://vtsstr4.sctv.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim" logo="https://i.imgur.com/F0N0TmU.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
 http://live.vthanhtivi.pw/cinemax
 #EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
@@ -772,51 +772,75 @@ https://code.vthanhtivi.pw/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/p
 
 
 ---------------------------------------SCTV----------------------------------------
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/bg3VGsW/SCTV1.png", SCTV1ˢᵛ²
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/bg3VGsW/SCTV1.png", SCTV1ˢᵛ²
 https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv2hd" tvg-logo="https://i.ibb.co/m5trC9G/SCTV2.png", SCTV2ˢᵛ²
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv2hd" tvg-logo="https://i.ibb.co/m5trC9G/SCTV2.png", SCTV2ˢᵛ²
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv2/index.m3u8|Referer=http://sctvonline.vn/
 http://vtsstr4.sctv.vn:1935/live/sctv2_HD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv3hd" tvg-logo="https://i.ibb.co/9vrymzJ/SCTV3.png", SCTV3ˢᵛ² SEE TV HD
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv3hd" tvg-logo="https://i.ibb.co/9vrymzJ/SCTV3.png", SCTV3ˢᵛ² SEE TV HD
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv3/index.m3u8|Referer=http://sctvonline.vn/
 http://vtsstr4.sctv.vn:1935/live/SCTVHDThieunhi_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv4hd" tvg-logo="https://i.ibb.co/hLdbFB4/SCTV4.png", SCTV4ˢᵛ²
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv4hd" tvg-logo="https://i.ibb.co/hLdbFB4/SCTV4.png", SCTV4ˢᵛ²
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv4/index.m3u8|Referer=http://sctvonline.vn/
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV4.smil/chunklist_b1692000.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
 https://epg.pw/stream/919d1b84cf7e995e6b3e1f993dab1e2ab5a398a5b2565271468e1ecd5ba9a98f.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/5hGNfBz/SCTV7.png", SCTV7ˢᵛ² SHOW TV
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/5hGNfBz/SCTV7.png", SCTV7ˢᵛ² SHOW TV
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv7/index.m3u8|Referer=http://sctvonline.vn/
+
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv8hd" tvg-logo="https://i.ibb.co/Pmydd5Q/SCTV8.png", SCTV8ˢᵛ² VITV
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv8hd" tvg-logo="https://i.ibb.co/Pmydd5Q/SCTV8.png", SCTV8ˢᵛ² VITV
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv8/index.m3u8|Referer=http://sctvonline.vn/
+
 https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv9hd" tvg-logo="https://i.ibb.co/grbyNXH/SCTV9.png", SCTV9ˢᵛ²
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv9hd" tvg-logo="https://i.ibb.co/grbyNXH/SCTV9.png", SCTV9ˢᵛ²
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV9.smil/chunklist_b942000.m3u8
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sct110hd" tvg-logo="https://i.imgur.com/F89Gy8h.jpg", SCTV11ˢᵛ² TV Star 
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sct110hd" tvg-logo="https://i.imgur.com/F89Gy8h.jpg", SCTV11ˢᵛ² TV Star 
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv11/index.m3u8|Referer=http://sctvonline.vn/
+
 http://vtsstr4.sctv.vn:1935/live/SCTVVHNT_HD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv12hd" tvg-logo="https://i.ibb.co/S7Q00XT/SCTV12.png", SCTV12ˢᵛ²
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv12hd" tvg-logo="https://i.ibb.co/S7Q00XT/SCTV12.png", SCTV12ˢᵛ²
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8|Referer=http://sctvonline.vn/
+
 http://vtsstr4.sctv.vn:1935/live/SCTV12_HD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv13hd" tvg-logo="https://i.ibb.co/3BNx7fS/SCTV13.png", SCTV13ˢᵛ² Lady TV
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv13hd" tvg-logo="https://i.ibb.co/3BNx7fS/SCTV13.png", SCTV13ˢᵛ² Lady TV
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv13/index.m3u8|Referer=http://sctvonline.vn/
 https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/kHMtBpL/SCTV14.png", SCTV14ˢᵛ² Kenh Phim Viet
-https://vtsstr7.tv24.vn/live/SCTV_HD_PhimViet_sctv.smil/playlist.m3u8
-https://epg.pw/stream/e98d781094db78e210d2799ce08f9cd693f31ac7ea6645d620ab1187001f4d74.ctv
-#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8?cc|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15ˢᵛ² SSPORT2
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/kHMtBpL/SCTV14.png", SCTV14ˢᵛ² Kenh Phim Viet
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8?cc|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/yf2m7QX/SCTV15.png", SCTV15ˢᵛ² SSPORT2
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/XZJFWNd/SCTV16.png", SCTV16ˢᵛ² Phim Nuoc ngoai Ðac SaC
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/XZJFWNd/SCTV16.png", SCTV16ˢᵛ² Phim Nuoc ngoai Ðac SaC
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=http://sctvonline.vn/
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV4.smil/chunklist_b1692000.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv17hd" tvg-logo="https://i.ibb.co/QK2D2vt/SCTV17.png", SCTV17ˢᵛ² SSPORT
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv17hd" tvg-logo="https://i.ibb.co/QK2D2vt/SCTV17.png", SCTV17ˢᵛ² SSPORT
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv17/index.m3u8|Referer=http://sctvonline.vn/
+
 http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv18hd" tvg-logo="https://i.ibb.co/7Kz7hS6/SCTV18.png", SCTV18ˢᵛ² Kenh 18
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv18hd" tvg-logo="https://i.ibb.co/7Kz7hS6/SCTV18.png", SCTV18ˢᵛ² Kenh 18
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8|Referer=http://sctvonline.vn/
+
 http://vtsstr4.sctv.vn:1935/live/SCTV18_HD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="SCTV19HD" tvg-logo="https://i.ibb.co/Ttydy6z/SCTV19.png", SCTV19ˢᵛ² Channel T
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="SCTV19HD" tvg-logo="https://i.ibb.co/Ttydy6z/SCTV19.png", SCTV19ˢᵛ² Channel T
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv19/index.m3u8|Referer=http://sctvonline.vn/
+
 http://vtsstr4.sctv.vn:1935/live/SCTV19_HD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="SCTV20hd" tvg-logo="https://i.ibb.co/RyF60Dj/SCTV20.png", SCTV20ˢᵛ²
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="SCTV20hd" tvg-logo="https://i.ibb.co/RyF60Dj/SCTV20.png", SCTV20ˢᵛ²
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv20/index.m3u8|Referer=http://sctvonline.vn/
+
 http://vtsstr4.sctv.vn:1935/live/SCTV20_HD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv21hd" tvg-logo="https://i.ibb.co/qWdSdyM/SCTV21.png", SCTV21ˢᵛ²
-https://stream.sugustv.tk/live/456D42517DBCB17D9AE2142AEA912CF9/420.m3u8
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8?cc|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctv22hd" tvg-logo="https://i.ibb.co/Vpgwgb0/SCTV22.png", SCTV22ˢᵛ²
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv21hd" tvg-logo="https://i.ibb.co/qWdSdyM/SCTV21.png", SCTV21ˢᵛ²
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctv22hd" tvg-logo="https://i.ibb.co/Vpgwgb0/SCTV22.png", SCTV22ˢᵛ²
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8|Referer=http://sctvonline.vn/
 http://vtsstr4.tv24.vn:1935/live/SCTV22_HD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺|SCTV" tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/DYgY6pd/SCTV-TH.png", SCTV PTHˢᵛ² Phim Tong Hop
+#EXTINF:-1 group-title="📺|SCTV🔵" tvg-id="sctvhdpth" tvg-logo="https://i.ibb.co/DYgY6pd/SCTV-TH.png", SCTV PTHˢᵛ² Phim Tong Hop
 https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/
 
 ---------------------------------------HTV----------------------------------------
 
@@ -1404,7 +1428,56 @@ https://obevcimanyd179314182.thapcam.link/live/may065FHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 075
 https://179672673.global.cdnfastest.com/live/may075FHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-1_🇨🇳
-http://39.134.116.102:8080/0000000000001001/1/index.m3u8?Contentid=3000000001000005969&livemode=1&stbId=2&channel-id=FifastbLive
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226855/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-2_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226860/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-3_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226915/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-4_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226921/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-5_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226924/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-6_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226926/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-7_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226927/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-8_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226932/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-9_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226936/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-10_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226941/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-11_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226944/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-12_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226947/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-13_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226950/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-14_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226953/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-15_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226956/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-16_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226997/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-17_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227000/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-18_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227003/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-19_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227006/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-20_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227009/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-21_🇨🇳
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227012/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-22_🇨🇳
+http://120.196.232.124:8088/PLTV/13/224/3221227891/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-23_🇨🇳
+http://120.196.232.124:8088/PLTV/13/224/3221227954/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-24_🇨🇳
+http://120.196.232.124:8088/PLTV/13/224/3221227956/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-25_🇨🇳
+http://120.196.232.124:8088/PLTV/13/224/3221227960/1.m3u8
+
 
 
 
@@ -2227,7 +2300,7 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657996
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657995
 #EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 18" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 18
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657994
-#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 19" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="W🔴| Livestream Event 30124|🔴",Vidio Live Events | 19
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 19" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 30124|🔴",Vidio Live Events | 19
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657993
 #EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 20" tvg-logo="http://xtreamraws.cc:80/images/wrvq8jSw6dW5XYy0wmxCvGTPYbMlmbGgtBsgLgs1jYT5bC2iVta1RfS278L-BoCOmzgDTwKLnymLdvn7Fft_a8Y5Se-nb53C4yftObh58mMBtFgIYlouR5estiF_dpf4pOMXXwC6bYw8FWcrJG9OUKSgKcUe_1lOPdzI_aQKVtXEgRMe0j1lfyDccg--pN3S.png" group-title="🔴| Livestream Event 030124|🔴",Vidio Live Events | 20
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1657992
@@ -2254,7 +2327,7 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545300
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545301
 #EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 5" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",FUBO| TUDNXTRA 6
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545302
-#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 5" tvg-logo="" group-title="U🔴| Livestream Event 030124|🔴",FUBO| TUDNXTRA 7
+#EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 5" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",FUBO| TUDNXTRA 7
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545303
 #EXTINF:-1 tvg-id="" tvg-name="FUBO| TUDNXTRA 5" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",FUBO| TUDNXTRA 8
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1545304
@@ -2265,9 +2338,9 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537623
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537622
 #EXTINF:-1 tvg-id="beinsports3.au" tvg-name="Kayo: beIN Sports 3" tvg-logo="https://img.nbm.rocks/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" group-title="🔴| Livestream Event 030124|🔴",Kayo: beIN Sports 3
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537621
-#EXTINF:-1 tvg-id="astrosupersportuhd.my" tvg-name="|MY| ASTRO Supersport UHD" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="M🔴| Livestream Event 030124|🔴",|MY| ASTRO Supersport UHD
+#EXTINF:-1 tvg-id="astrosupersportuhd.my" tvg-name="|MY| ASTRO Supersport UHD" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO Supersport UHD
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537403
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="|MY| ASTRO Supersport" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="M🔴| Livestream Event 030124|🔴",|MY| ASTRO Supersport
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="|MY| ASTRO Supersport" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO Supersport
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537402
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="|MY| ASTRO Supersport 2" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-2-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO Supersport 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537401
@@ -2279,7 +2352,7 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537399
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537398
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="|MY| ASTRO ARENA" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-arena-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO ARENA
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537397
-#EXTINF:-1 tvg-id="astroarena2.my" tvg-name="|MY| ASTRO ARENA 2" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-arena-my.png" group-title="M🔴| Livestream Event 030124|🔴",|MY| ASTRO ARENA 2
+#EXTINF:-1 tvg-id="astroarena2.my" tvg-name="|MY| ASTRO ARENA 2" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-arena-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO ARENA 2
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537396
 #EXTINF:-1 tvg-id="007.my" tvg-name="|MY| ASTRO SPOTV" tvg-logo="https://img.nbm.rocks/countries/malaysia/astro-supersport-my.png" group-title="🔴| Livestream Event 030124|🔴",|MY| ASTRO SPOTV
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1537395
@@ -2356,7 +2429,7 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147143
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147142
 #EXTINF:-1 tvg-id="setanta09" tvg-name="SETANTA Sports 9" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 030124|🔴",SETANTA Sports 9
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147141
-#EXTINF:-1 tvg-id="setanta10" tvg-name="SETANTA Sports 10" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="S🔴| Livestream Event 030124|🔴",SETANTA Sports 10
+#EXTINF:-1 tvg-id="setanta10" tvg-name="SETANTA Sports 10" tvg-logo="https://e7.pngegg.com/pngimages/707/296/png-clipart-setanta-sports-logo-television-brand-geography-history-armenian-television-angle.png" group-title="🔴| Livestream Event 030124|🔴",SETANTA Sports 10
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1147140
 
 #EXTINF:-1 tvg-id="1.stan" tvg-name="Stan AU Event 1" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Stan AU Event 1
