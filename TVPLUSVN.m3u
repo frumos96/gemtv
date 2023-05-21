@@ -146,6 +146,8 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8|Referer=http://
 http://live.vthanhtivi.pw/cinemax
 #EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
 http://live.vthanhtivi.pw/hbo
+#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://hqth.me/ibclogo", IBC VietMy
+https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w1416721353.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim" tvg-logo="http://img-zlr2.tv360.vn/tv360-static/static/web/images/logo.png" ,TV360 MIỀN TÂY
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="boxmovie1" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 TV24
@@ -1387,7 +1389,14 @@ https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT9/mani
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv10
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT10/manifest.mpd
-
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://hqth.me/3D4", TVPub 1
+https://hqth.me/tvpublive
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://hqth.me/3D4", TVPub 2
+https://hqth.me/tvpublive2
+#EXTINF:-1 group-title="S🔴| Livestream" tvg-logo="https://hqth.me/3D4", TVPub 3
+https://hqth.me/tvpublive3
+#EXTINF:-1 group-title="S🔴| Livestream" tvg-logo="https://hqth.me/3D4", TVPub 4
+https://hqth.me/tvpublive4
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD
 #https://179314182.global.cdnfastest.com/live/may0FHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv HD 1
@@ -1611,10 +1620,12 @@ http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115508&exten
 http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115511&extension=ts&play_token=Shareext@.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="💚SPORT ASEAN", PPTV HD_🇹🇭
 https://epg.pw/stream/bc6b60deb58f9cbb722f9481ff05b153728b55c6f73b4ee46556142ce463da17.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=115501&extension=ts&play_token=
 http://61.19.242.134/feed/202205171929/chpptvhd3/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=115501&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="💚SPORT ASEAN",Now Sports 1_🇭🇰
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=554949&extension=ts&play_token=1kEm8DbZmS
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=554953&extension=ts&play_token=1kEm8DbZmS
