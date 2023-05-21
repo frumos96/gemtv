@@ -249,6 +249,31 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dc1da9c615d46e195b5ec8691507887:8e1c2aaa4ff12f48e783210331e0a0b9
 https://sglivecdn.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
+#EXTINF:-1 tvg-id="kcinehd" group-title="🔴 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", K+CINE HD - VEGA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=zcrcyc%2FWvN3f34nA2OrmjaGtrqegl6OepaHVmqmko6RnqaWnpJiPn6Gl&time=1683865618&kcine
+https://sglivevega.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+#EXTINF:-1 tvg-id="klifehd" group-title="🔴 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+LIFE HD - VEGA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=zcrcyc%2FWvN3f34nA2OrmjaGtrqegl6OepaHVmqmko6RnqaWnpJiPn6Gl&time=1683865618&klife
+https://sglivevega.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🔴 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", K+SPORT1 HD - VEGA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=zcrcyc%2FWvN3f34nA2OrmjaGtrqegl6OepaHVmqmko6RnqaWnpJiPn6Gl&time=1683865618&ksport1
+https://sglivevega.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🔴 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport2hd/dvr-${start}-${end}.mpd", K+SPORT2 HD - VEGA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=zcrcyc%2FWvN3f34nA2OrmjaGtrqegl6OepaHVmqmko6RnqaWnpJiPn6Gl&time=1683865618&ksport2
+https://sglivevega.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+#EXTINF:-1 tvg-id="kkidshd" group-title="🔴 K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_kidshd/dvr-${start}-${end}.mpd", K+KIDS HD - VEGA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=zcrcyc%2FWvN3f34nA2OrmjaGtrqegl6OepaHVmqmko6RnqaWnpJiPn6Gl&time=1683865618&kkids
+https://sglivevega.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES HD" tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="LATINO",TNT SERIES HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
