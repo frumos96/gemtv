@@ -123,17 +123,13 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬| Phim" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=axn
-https://subs-livecdn.fptplay.net/mskychannel/axnhd_4000.stream/manifest.mpd
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=http://sctvonline.vn
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=warner-tv
-https://subs-livecdn.fptplay.net/mskychannel/warnertv_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=597
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:0 tvg-id="kix" group-title="🎬| Phim" logo="https://i.imgur.com/Lod13YD.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
 https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 - Giải trí
@@ -238,10 +234,10 @@ https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
 
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=cinemaworld
-https://subs-livecdn.fptplay.net/mskychannel/cinemawork_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=523
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="🎬| Phim",TVN_ASIA_🇰🇷
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941623&extension=ts&play_token=1kEm8DbZmS
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/157476
@@ -350,9 +346,10 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:2
 #EXTINF:0 tvg-id="afnhd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="discoveryhd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
-https://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-0-0.m3u8
+#EXTVLCOPT:http-user-agent=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/205.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
-https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-0-0.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/asia/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="ngchd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/206.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic
 https://ancom.ga/fpt/national-geographic-hd/bitrate_5000.m3u8
 https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-0-0.m3u8
@@ -371,18 +368,19 @@ http://viptv.me:80/logantv/ACXhn9BC5m/73706
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="blueantent" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/228.png", Blue Ant Entertainment
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+http://210.210.155.35/dr9445/h/h16/01.m3u8
 #EXTINF:0 tvg-id="blueantext" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/229.png", Blue Ant Extreme
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=bbc-earth
-https://subs-livecdn.fptplay.net/mskychannel/bbcearth_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=517
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=bbc-lifestyle
-https://subs-livecdn.fptplay.net/mskychannel/bbclifestyle_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=519
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿| Lifestyle" logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png", ELTA 生活旅游 Lifestyle Travel
 https://epg.pw/stream/5180949958daab5b8f47954d925c9783acaddb539b4b0aef76d18168195a6ab6.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
@@ -412,10 +410,10 @@ http://live.vthanhtivi.pw/ngw
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿| Lifestyle" logo="http://images.zaltv.club/logo/da-vinc.png", Da Vinci HD
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=travel-living
-https://subs-livecdn.fptplay.net/mskychannel/travelliving_4000.stream/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=596
+https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/233.png", Hits
 https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:-1 tvg-id="historyhd" tvg-name="History" tvg-logo="https://i.ibb.co/d2dJNWn/cchistory.webp" group-title="🌿| Lifestyle",🍀|History HD
@@ -653,6 +651,7 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩", FashionTV⁴ᴷ
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 
 #-*------------------------------------------VTVCAB-*------------------------------------------#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",Vie Giải trí HD 
