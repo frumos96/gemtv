@@ -351,10 +351,12 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8?kiptv|Referer=htt
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/205.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
 https://e4.endpoint.cdn.sctvonline.vn/hls/asia/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="ngchd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/206.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic
-https://ancom.ga/fpt/national-geographic-hd/bitrate_5000.m3u8
-https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-0-0.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=national-geographic-hd
+https://subs-livecdn.fptplay.net/mskychannel/natgeohd_4000.stream/manifest.mpd
 #EXTINF:0 tvg-id="ngwhd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/207.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
-https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-0-0.m3u8
+http://live.vthanhtivi.pw/ngw
 #EXTINF:0 group-title="🌿| Lifestyle" logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png?fit=960%2C540&ssl=1", AMAGI
 https://xplore-roku.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 group-title="🌿| Lifestyle" tvg-logo="https://www.tastemade.com.br/icons/icon-72x72.png?v=77aa54c80c1f1d706e21e9787677ea4e",Tastemade Travelᴴᴰ
@@ -385,31 +387,9 @@ https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 https://epg.pw/stream/5180949958daab5b8f47954d925c9783acaddb539b4b0aef76d18168195a6ab6.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
 https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
-#EXTINF:-1 tvg-id="animalhd" group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=animal-planet
-https://subs-livecdn.fptplay.net/mskychannel/animalplanet_4000.stream/manifest.mpd
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=discovery
-https://subs-livecdn.fptplay.net/mskychannel/discovery_4000.stream/manifest.mpd
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=discovery-asia
-https://subs-livecdn.fptplay.net/mskychannel/discoveryasia_4000.stream/manifest.mpd
-#EXTINF:-1 tvg-id="ngchd" group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=national-geographic-hd
-https://subs-livecdn.fptplay.net/mskychannel/natgeohd_4000.stream/manifest.mpd
-#EXTINF:-1 tvg-id="ngwhd" group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
-http://live.vthanhtivi.pw/ngw
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿| Lifestyle" logo="http://images.zaltv.club/logo/da-vinc.png", Da Vinci HD
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="tlchd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
+#EXTINF:-1 tvg-id="tlchd" group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=596
@@ -1392,9 +1372,9 @@ https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT10/man
 https://hqth.me/tvpublive
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://hqth.me/3D4", TVPub 2
 https://hqth.me/tvpublive2
-#EXTINF:-1 group-title="S🔴| Livestream" tvg-logo="https://hqth.me/3D4", TVPub 3
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://hqth.me/3D4", TVPub 3
 https://hqth.me/tvpublive3
-#EXTINF:-1 group-title="S🔴| Livestream" tvg-logo="https://hqth.me/3D4", TVPub 4
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://hqth.me/3D4", TVPub 4
 https://hqth.me/tvpublive4
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD
 #https://179314182.global.cdnfastest.com/live/may0FHD/chunklist.m3u8
