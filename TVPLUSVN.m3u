@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://mytv.fun:80/xmltv.php?username=pacha-man1&password=Hd2Irka94mdqE478,http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,http://jadetv.de/xmltv.php?username=eagleiptv&password=SsFAljPDDi,http://cdn.kira.cf:2021/xmltv.php?username=8412822881932&password=3969190550654"
+#PLAYLISTINF:frumos96 version="v8" url="http://gg.gg/hieu3r" 
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1
 http://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
