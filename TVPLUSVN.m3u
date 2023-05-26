@@ -1,4 +1,15 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://mytv.fun:80/xmltv.php?username=pacha-man1&password=Hd2Irka94mdqE478,http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,http://jadetv.de/xmltv.php?username=eagleiptv&password=SsFAljPDDi,http://cdn.kira.cf:2021/xmltv.php?username=8412822881932&password=3969190550654"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
+#EXTM3U url-tvg="http://trada.info/epg.xml"tvg-shift=0 m3uautoload=0
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml" tvg-shift=0 m3uautoload=0
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ko/wavve.com.xml" deinterlace=0
+#EXTM3U url-tvg="http://gg.gg/guidevn" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=3
+#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=4
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=5
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=6
+#EXTM3U url-tvg="http://gg.gg/coodertvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=7
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml" tvg-shift=0 m3uautoload=8
+#EXTM3U url-tvg="http://gg.gg/fptepg" tvg-shift=0 m3uautoload=9
 #PLAYLISTINF:frumos96 version="v8" url="http://gg.gg/hieu3r" 
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1
