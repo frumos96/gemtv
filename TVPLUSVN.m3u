@@ -189,6 +189,12 @@ https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", Boxˢᵛ² CLIPV
 #EXTVLCOPT:http-user-agent=RainTv
 https://raintv.tk/cliptv/bce1ee6334fe7c1f1c02e13f05c7c9255c99e7ff/In-The-Box/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Action-Flix.jpg" group-title="🎬| Phim",PH:Tap Action Flix
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297672
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TapMovies-ph.png/330px-TapMovies-ph.png" group-title="🎬| Phim",PH: TAP Movies
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297674
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="🎬| Phim",CCTV_6.MOVIE
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="🎬| Phim",CCTV_6.MOVIE
 https://iplogger.com/cctv6cnv1
 https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
@@ -452,10 +458,10 @@ https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 https://introuble-samsung.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 tvg-id="englishclub" group-title="🌿| Lifestyle" tvg-logo="https://i.ibb.co/JC3cdvS/logo.png",🍀| English Club 
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15190/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/15190/index.m3u8
 #EXTINF:0 group-title="🌿| Lifestyle" tvg-logo="https://i.ibb.co/0B4fDqs/fashion-one-logo-3481715-C90-seeklogo-com.png",▶️|Fashion One
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2412/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/2412/index.m3u8
 #EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-logo="https://i.imgur.com/s4eGYEP.jpg" group-title="🌿| Lifestyle",▶️| Global Fashion Channel
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -479,14 +485,14 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=44333
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=443338&extension=ts&play_token=f5SxajYgdf
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6583" tvg-logo="http://epg.it999.ru/img2/6583.png" tvg-rec="0",ELEVEN SPORTS 1⁴ᴷ_🇵🇹
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/20068/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/20068/index.m3u8
 #http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7518.ts
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6583" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" tvg-rec="0",ELEVEN SPORTS 1 UHD PL⁴ᴷ
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=905665&extension=ts&play_token=0jUPfyTJIv
 #http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/209231
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6585" tvg-logo="http://epg.it999.ru/img2/6585.png" tvg-rec="0",SPORT TV1⁴ᴷUHD PT
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19161/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19161/index.m3u8
 #http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7500.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 1 TURKEY⁴ᴷ
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNErq0Xo-NUQh-AvVQC1PmLmHCw9cpCwcBCuGDqALdUcT/ts
@@ -545,7 +551,7 @@ http://gg.gg/BBCSPORT
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg",V Sport UltraHD ⁴ᴷ
 https://7pal.short.gy/VSportUHD
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19163/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19163/index.m3u8
 #EXTINF:1 tvg-id="viasatsport.fi" group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/vvmq4zv/Vsport-Uhd.png",⚽ V Sport Ultra ⁴ᴷ
 http://cdn.spmr.tv:8080/hi9w7b/video.m3u8?token=ZKF89T31BF
 #EXTINF:-1  group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", TF1 ⁴ᴷ UHD
@@ -561,54 +567,54 @@ https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000/mnf.m3u8
 http://91.126.228.141:9981/stream/channelid/632049248?profile=pass
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="2803" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",ULTRA REX UHD⁴ᴷ
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/5003/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/5003/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",DIGI⁴ᴷ
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
 #EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",TRAVELXP⁴ᴷ
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14026/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/14026/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",TRT⁴ᴷ
 http://my-media.ddns.me:52381/kino.de@38789o46/kino@de5145611zt09/8609.ts
 #http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/245
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai Ultra Nature⁴ᴷ
 http://185.236.229.31:9981/play/a01d
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19091/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19091/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://yt3.googleusercontent.com/wbxCrYrRYvuTn3oB-qst3TFyzOFimf9HRHlZKSfyp2l11qisukhaxU89H17w_Orvv4-xOeBiQX4=s900-c-k-c0x00ffffff-no-rj",N1 Play⁴ᴷ ULTRAHD SE
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=213219&extension=ts&play_token=
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="2802" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen⁴ᴷ TV
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/5002/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/5002/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/pLr9bX3/Sky-Nature.png",🍀| SKY HIGH NATUR ⁴ᴷHDR
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14248/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/14248/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/pLr9bX3/Sky-Nature.png",🍀| SKY HIGH NATURE⁴ᴷ
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/14247/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/14247/index.m3u8
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州⁴ᴷ
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6708" tvg-logo="http://epg.it999.ru/img2/6708.png" tvg-rec="0",BOX⁴ᴷ Relax
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19283/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19283/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩"  tvg-logo="https://i.ytimg.com/vi/uYWzZ3EDuGQ/maxresdefault.jpg" ,FLYING OVER SWEDEN ULTRAHD⁴ᴷ
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=217671&extension=ts&play_token=
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6013" tvg-logo="http://epg.it999.ru/img2/6013.png" tvg-rec="0",UHD1⁴ᴷ DE
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/698309
 #EXTINF:-1 tvg-name="MUZZIK ZZ4000 4K" tvg-logo="http://jp.muyiyun.top:516/Picon/muzzikzz4000.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",MUZZIK⁴ᴷ ZZ4000
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/16044/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/16044/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6013" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/12/Megapix1.jpg/revision/latest?cb=20190213194818&path-prefix=pt-br" tvg-rec="0",Megapix⁴ᴷ UHD BR
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31278
 http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/124514
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6707" tvg-logo="http://epg.it999.ru/img2/6707.png" tvg-rec="0",BOX⁴ᴷ Music
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19282/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19282/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="4766" tvg-logo="http://epg.it999.ru/img/4766.png" tvg-rec="7",BCU⁴ᴷ Ultra
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/110456/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/110456/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="5561" tvg-logo="http://epg.it999.ru/img2/5561.png" tvg-rec="0",BCU⁴ᴷ Premiere Ultra
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15023/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/15023/index.m3u8
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上⁴ᴷ
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EE6DBA9B-428F-460D-BAE3-5480771810C0.jpeg",北京IPTV⁴ᴷ
@@ -1077,10 +1083,10 @@ http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/211917
 #http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/192770
 #EXTINF:0 group-title="🎵|Music" tvg-id="5948" tvg-logo="http://epg.it999.ru/img2/5948.png" tvg-rec="0",FRESH POP HIT
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/18084/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/18084/index.m3u8
 #EXTINF:0 group-title="🎵|Music" tvg-id="6273" tvg-logo="http://epg.it999.ru/img2/6273.png" tvg-rec="0",FRESH Russian Pop HD
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/18085/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/18085/index.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg" group-title="🎵|Music",Music°On! TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Holiday Hits" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="🎵|Music",Stingray Holiday Hits
@@ -1496,31 +1502,31 @@ http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/287792
 #http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&stream=918982&extension=ts&play_token=58gzcPWfQO
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="💚SPORT ASEAN",YES Sport 1 HD IL
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/12249/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/12249/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="💚SPORT ASEAN",YES Sport 2 HD IL
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/12250/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/12250/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="💚SPORT ASEAN",YES Sport 3 HD IL
 #EXTVLCOPT:network-caching=1000
 http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2388/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-4-1024.png" group-title="💚SPORT ASEAN",YES Sport 4 HD IL
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/12252/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/12252/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-gold-1028.png" group-title="💚SPORT ASEAN",YES Sport 5 Gold IL
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/12254/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/12254/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-5-1025.png" group-title="💚SPORT ASEAN",YES Sport 5 HD IL
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/12253/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/12253/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-live-1027.png" group-title="💚SPORT ASEAN",YES Sport 5 Live HD IL
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/12255/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/12255/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-stars-1828.png" group-title="💚SPORT ASEAN",YES Sport 5+ Stars HD IL
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2341/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/2341/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png" group-title="💚SPORT ASEAN",YES Sport 5+ HD IL
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/12256/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/12256/index.m3u8
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="💚SPORT ASEAN", CCTV5 HD_🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5H265_4000
@@ -1584,6 +1590,8 @@ https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://thomasandi.my.id/drmlele/astrodrm.php?id=5059
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="💚SPORT ASEAN",[PH]Premier Sports FHD
+http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297664
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-1-1077.png" group-title="💚SPORT ASEAN",SPOTV1 HD
 https://kusnadipepenk.github.io/ntn/spotv1.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png" group-title="💚SPORT ASEAN",SPOTV-2 HD
@@ -1595,11 +1603,9 @@ http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115508&exten
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png" group-title="💚SPORT ASEAN",True Premier League 3 HD_🇹🇭
 http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115511&extension=ts&play_token=Shareext@.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="💚SPORT ASEAN", PPTV HD_🇹🇭
-https://epg.pw/stream/bc6b60deb58f9cbb722f9481ff05b153728b55c6f73b4ee46556142ce463da17.m3u8
 http://61.19.242.134/feed/202205171929/chpptvhd3/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=115501&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="💚SPORT ASEAN",Now Sports 1_🇭🇰
@@ -1638,17 +1644,14 @@ http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/695146
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/282764
 #EXTINF:-1 tvg-id="sonyten1hd.in"tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2o6EEdyuSIMc53sKv4MzL3H.png" group-title="💚SPORT ASEAN",SONY_TEN 1 FH Bundesliga
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/672325
 #EXTINF:-1 tvg-id="sonyten1hd.in"tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2o6EEdyuSIMc53sKv4MzL3H.png" group-title="💚SPORT ASEAN",SONY_TEN 1ˢᵛ² FHD Bundesliga
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114576&extension=ts
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2r57wXFDbDf_qXkU_c8GWTg.png" group-title="💚SPORT ASEAN",SONY_TEN 2 FHD Bundesliga
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/672444
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2r57wXFDbDf_qXkU_c8GWTg.png" group-title="💚SPORT ASEAN",SONY_TEN 2ˢᵛ² FHD Bundesliga
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114577&extension=ts
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oA5SCQwEeBvvOTFV08rgLT.png" group-title="💚SPORT ASEAN",SONY_TEN 3 FHD Bundesliga
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/672445
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oA5SCQwEeBvvOTFV08rgLT.png" group-title="💚SPORT ASEAN",SONY_TEN 3ˢᵛ² FHD Bundesliga
 
 #EXTINF:-1 tvg-id="sonyten4hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oA5SCQwEeBvvOTFV08rgLT.png" group-title="💚SPORT ASEAN",SONY_TEN 4 FHD 
@@ -1657,25 +1660,21 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156024&extension=
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2ocvTunhT7cC5aTeuuvqgVK.png" group-title="💚SPORT ASEAN",SONY_SIX FHD(D2H)
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/3985
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDFcWJ3n8AzK2y5tT4ctD_f.png" group-title="💚SPORT ASEAN",STARSPORTS 1 FHD (D2H)
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155968&extension=ts
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/3979
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBWnglMlCY_VQQYt1iLZBrJ.png" group-title="💚SPORT ASEAN",STARSPORTS 2 FHD (D2H)
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155966&extension=ts
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/397844
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-star-sports-3-228.png" group-title="💚SPORT ASEAN",STARSPORTS 3 FHD (D2H)
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155976&extension=ts
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/3977
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="💚SPORT ASEAN",STARSPORTS SELECT 1 FHD Premier League
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2508/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/2508/index.m3u8
 http://hostengine.live/live/wrecks82/habsiptv82/56776.m3u8
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="💚SPORT ASEAN",STARSPORTS SELECT 1 FHDˢᵛ² Premier League
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155972&extension=ts
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="💚SPORT ASEAN",STARSPORTS SELECT 2 FHD
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2507/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/2507/index.m3u8
 http://hostengine.live/live/wrecks82/habsiptv82/56777.m3u8
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="💚SPORT ASEAN",STARSPORTS SELECT 2 FHDˢᵛ²
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155973&extension=ts
@@ -1788,20 +1787,20 @@ http://dc62c084.ottolok.net/iptv/8E52MW5BS9BCE7/12074/index.m3u8
 http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/12079/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="3",Setanta Sports HD_🇺🇦
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/271/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/271/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="3",Setanta Sports 2_🇺🇦
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/270/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/270/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2630" tvg-logo="http://epg.it999.ru/img/2630.png" tvg-rec="3",Setanta Qazaqstan HD_🇺🇦
 http://78.26.128.59:9876/play/161/index.m3u8
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2399/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/2399/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="0",Setanta Eurasia HD_🇺🇦1
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15183/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/15183/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="0",Setanta Eurasia+_🇺🇦2
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15184/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/15184/index.m3u8
 
 
 ---------------------------------------SPORT AFRICA----------------------------------------
@@ -1996,21 +1995,21 @@ http://hostengine.live/live/wrecks82/habsiptv82/158365.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133084
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group-title="🌈SPORT EX-YU🌈",RU: Маtch ТV HD
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19163/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19163/index.m3u8
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36872
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group-title="🌈SPORT EX-YU🌈",RU: Match! Football 1 HD SERIA
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2407/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/2407/index.m3u8
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36886
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224211
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="🌈SPORT EX-YU🌈",RU: Match! Football 2 HD
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2420/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/2420/index.m3u8
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36897
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224212
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="🌈SPORT EX-YU🌈",RU: Match! Football 3 HD BUNDES
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/5071/index.m3u8
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/5071/index.m3u8
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224213
 ---------------------------------------🔴| Livestream Event 030124|🔴------------------------------
 #EXTINF:-1 tvg-id="skysport1.nz" tvg-name="Sky NZ 1 FHD" tvg-logo="" group-title="🔴| Livestream Event 030124|🔴",Sky NZ 1 FHD
