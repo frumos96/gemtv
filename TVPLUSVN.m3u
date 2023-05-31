@@ -403,8 +403,7 @@ https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊台.png" group-title="🌿| Lifestyle",亞洲旅遊台 Asia Travel
 http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 #EXTINF:0 group-title="🌿| Lifestyle" logo="https://images4.imagebam.com/71/bf/96/MEFIXCS_o.png", Nat Geo People
-http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/138419
-http://viptv.me:80/logantv/ACXhn9BC5m/73706
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/45
 #EXTINF:0 tvg-id="outdoorfhd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="blueantent" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/228.png", Blue Ant Entertainment
@@ -1822,7 +1821,15 @@ http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/697179
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-360-2807.png" group-title="⚽ SPORT EUROPE",CANAL+ FOOT360 HD FR
 http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/297378
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/5699
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-spiler-tv-1674.png" group-title="⚽ SPORT EUROPE",Spiler2 TVSD HU 
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png" group-title="⚽ SPORT EUROPE",CANAL+ SPORT FHD PL
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/83
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-sport-2-707.png" group-title="⚽ SPORT EUROPE",CANAL+ SPORT 2 FHD PL
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/86
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-sport-3-1883.png" group-title="⚽ SPORT EUROPE",CANAL+ SPORT 3 FHD PL
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/85
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-sport-4-1884.png" group-title="⚽ SPORT EUROPE",CANAL+ SPORT 4 FHD PL
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/84
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-spiler-tv-1674.png" group-title="⚽ SPORT EUROPE",Spiler1 TVSD HU 
 http://194.76.186.33:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-spiler-tv-2-1675.png" group-title="⚽ SPORT EUROPE",Spiler2 TVHD HU LALIGA
 http://safe.avivainsur.com:8080/Vizyon/cKC3fXZqRVTw/51416
