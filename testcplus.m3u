@@ -1,6 +1,53 @@
 #EXTM3U   url-tvg="http://gg.gg/coocaaE" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
-#EXTINF:0 tvg-id="kcinehd" group-title="💚kSPORT" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE VIETTEL
+
+#EXTINF:-1 group-title="K+hqth" tvg-id="kcinehd" tvg-logo="https://tchiphuong.github.io/iptv/images/square/k-cine-hd.png",K+ CINE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeycinehd?key=20/2991888829/80keokeo
+https://hqth.me/kpluscinehd?id=kplus20/seasonid:2991/cine.mpd
+#EXTINF:-1 group-title="K+hqth" tvg-id="klifehd" tvg-logo="https://tchiphuong.github.io/iptv/images/square/k-life-hd.png",K+ LIFE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeylifehd?key=28/199022112/80keokey
+https://hqth.me/kpluslifehd?id=20/seasonid:4763/live992/life.mpd
+#EXTINF:-1 group-title="K+hqth" tvg-id="ksport1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/square/k-sport1-hd.png",K+ SPORT 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeysports1hd?key99/738829912/20sportskeokey
+https://hqth.me/kplussports1hd?id=klifesports291/seasonid:83112232211/sports.mpd
+#EXTINF:-1 group-title="K+hqth" tvg-id="ksport2hd" tvg-logo="https://tchiphuong.github.io/iptv/images/square/k-sport2-50fps.png", K+ SPORT 2 50FPS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kplussports2v?key=66/728819923/32sportskeokey
+https://hqth.me/kplussports2v?id=klifesports432/seasonid:74883999201/sports.mpd	 ㅤ
+#EXTINF:-1 group-title="K+hqth" tvg-logo="https://tchiphuong.github.io/iptv/images/square/k-live-1.png",K+ LIVE 1
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluslivekey1?key=29978812211/livekplus1
+https://cocc.me/kpluslive1hd?id=kplus01/seasonid=21/i.mpd
+#EXTINF:-1 group-title="K+hqth" tvg-logo="https://tchiphuong.github.io/iptv/images/square/k-live-2.png",K+ LIVE 2
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeylive2?code=2998811223/livekplus2
+https://cocc.me/kpluslive2hd?id=kplus02/seasonid=32/i.mpd
+#EXTINF:-1 group-title="K+hqth" tvg-logo="https://tchiphuong.github.io/iptv/images/square/k-live-3.png",K+ LIVE 3
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/livekpluskey3?code=1627739223/live03kplushd
+https://cocc.me/kpluslive3hd?id=kplus03/seasonid=46/i.mpd
+#EXTINF:0 tvg-id="kcinehd" group-title="💚kSPORT" logo="http:
+//live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE VIETTEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"72qnuSbVEx8YCiod5+6NPw", "kid":"5xlqYuC3TB2DgCRrDZ1gKw" } ], "type":"temporary" }
