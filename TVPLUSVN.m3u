@@ -20,9 +20,9 @@ http://gg.gg/HaNoiIPTV-VTV1_HD
 #EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2 FPT
 https://k4dzr60ab.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
 http://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2 MYTV
+#EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8", VTV2 MYTV
 http://gg.gg/HaNoiIPTV-VTV2_HD
-#EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2 Viettel
+#EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8", VTV2 Viettel
 http://171.238.181.52:18080/192.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8", VTV3 Viettel
 http://live-ali4.tv360.vn/manifest/VTV3/playlist_720p.m3u8
@@ -168,6 +168,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:0 tvg-id="kix" group-title="🎬| Phim" logo="https://i.imgur.com/Lod13YD.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
 https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 - Giải trí
+https://synguyen.net/vthanhtivi_getlink/e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV4.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 group-title="🎬| Phim" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
 http://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
