@@ -157,6 +157,8 @@ http://live-zlr1.tv360.vn/manifest/K-PLUS-NS-HD-50fps/master.mpd?timestamp=16832
 
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬| Phim" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
+#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN FHD
+http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -164,6 +166,8 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 https://106d4d2f4.vws.vegacdn.vn/live_dzones/axn.smil/manifest.mpd
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV FHD
+http://sg.tinchuanchuaanh.com:8080/WARNER_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -190,6 +194,8 @@ https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
 https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://hqth.me/ibclogo", IBC VietMy
 https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w1416721353.m3u8
+#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://static.wixstatic.com/media/b454b3_9f59027f4bef46d68ca91012930dd2f4~mv2.png", IVTV
+https://59d39900ebfb8.streamlock.net/8478/8478/chunklist_w1073359317.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim" tvg-logo="http://img-zlr2.tv360.vn/tv360-static/static/web/images/logo.png" ,TV360 MIỀN TÂY
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="boxmovie1" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 TV24
@@ -393,6 +399,10 @@ https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="discoveryhd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
 #EXTVLCOPT:http-user-agent=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery FHD
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
+#EXTINF:-1 group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia FHD
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/205.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
 https://e4.endpoint.cdn.sctvonline.vn/hls/asia/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="ngchd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/206.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic
@@ -417,6 +427,8 @@ http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/
 http://210.210.155.35/dr9445/h/h16/01.m3u8
 #EXTINF:0 tvg-id="blueantext" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/229.png", Blue Ant Extreme
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+#EXTINF:-1 group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth FHD
+http://sg.tinchuanchuaanh.com:8080/BBC_EARTH_HD/index.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1266,6 +1278,7 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 #EXTINF:0 type="stream" channelId="-1" group-title="👶| Thiếu nhi" logo="https://banner2.cleanpng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg", Boomerang HD
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="👶| Thiếu nhi" logo="https://i.imgur.com/4vguftk.png", Animax HD
+http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="👶| Thiếu nhi" logo="https://i.imgur.com/qPVOdML.png", Baby First HD
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
