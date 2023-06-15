@@ -1843,6 +1843,33 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=79485&extensio
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=79484&extension=ts&play_token=NjBfUWnyUQ
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-espn-98.png" group-title="⚽ SPORT EUROPE",UK: BTSport ESPN HD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1002857&extension=ts&play_token=3hyT2mAZqC
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORT EUROPE" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport HD Iceland
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=4bce9607bd2e4fcbbbaa01ae3183ded0&key=0f24f15eb1159120f5497d79468b50d4
+https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-default/__dci/241/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORT EUROPE" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport 2 HD Iceland
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=bfd49547070e4e13aafbced309d18cb3&key=a8d7ba68598055ae2b10d79652237f2e
+https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_2_HD_HTTP/__op/dash-default/__dci/242/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="⚽ SPORT EUROPE" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport 3 HD Iceland
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=8b3f805666294fb2905dcf6cbe3fadf5&key=c8ad183c374949c7dce645bf75f634a0
+https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_3_HD_HTTP/__op/dash-default/__dci/245/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title=⚽ SPORT EUROPE" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport 4 HD Iceland
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=3a231bbf8db144ad821bb4e043343df4&key=071010a6503a81f51b407dca3b7b2660
+https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_4_HD_HTTP/__op/dash-default/__dci/246/__f/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="⚽ SPORT EUROPE",VIAPLAY SPORTS 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163607&extension=ts
 #EXTINF:-1 tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="⚽ SPORT EUROPE",VIAPLAY SPORTS 2
