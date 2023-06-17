@@ -639,6 +639,14 @@ http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/14248/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/pLr9bX3/Sky-Nature.png",🍀| SKY HIGH NATURE⁴ᴷ
 #EXTVLCOPT:network-caching=1000
 http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/14247/index.m3u8
+#EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",SBS F!l UHD KR⁴ᴷ
+http://gg.gg/SBSFUHD
+#EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",Dream TV KR⁴ᴷ
+http://gg.gg/DreamTVKR
+#EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://i0.wp.com/cinescopophilia.com/wp-content/uploads/2014/04/UMAX-4K-Channel.png?w=633&ssl=1",UMAX KR⁴ᴷ
+http://180.69.179.235:9981/stream/channelid/688714333?ticket=E254F0DB2E562998B225C86B80DDBFA7C50F5D14&profile=pass
+#EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.emetro.co.kr/data2/content/image/2015/05/28/0540/20150528000102.jpg",UXN KR⁴ᴷ
+http://180.69.179.235:9981/stream/channelid/509875291?ticket=778AAD76F0DC588F0301BA6A87EFAF1396F7CD83&profile=pass
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州⁴ᴷ
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6708" tvg-logo="http://epg.it999.ru/img2/6708.png" tvg-rec="0",BOX⁴ᴷ Relax
@@ -1657,11 +1665,10 @@ https://cdn-us-154.cloudrsst.com/live/spotv_720/playlist.m3u8
 http://gg.gg/spo2tvkr
 http://gg.gg/spo2kr
 https://cdn-us-154.cloudrsst.com/live/spotv_2_720/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu10.png" group-title="💚SPORT ASEAN",SPOTV_ON_🇰🇷
-http://gg.gg/spotvon
-https://cdn-us-154.cloudrsst.com/live/spotv_on_720/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu10.png" group-title="💚SPORT ASEAN",SPOTV_ON_2_🇰🇷
-http://gg.gg/spo2tvon
+#EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu10.png" group-title="💚SPORT ASEAN",SBS_SPORT_🇰🇷
+https://s.id/1MLFr
+#EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu10.png" group-title="💚SPORT ASEAN",MBC_SPORT_+_🇰🇷
+https://s.id/1MLFY
 #EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/PC_intro_logo_menu05.png" group-title="💚SPORT ASEAN",SPOTV_PRIME_🇰🇷
 http://gg.gg/spoprime
 https://cdn-us-154.cloudrsst.com/live/spotv_prime_720/playlist.m3u8
