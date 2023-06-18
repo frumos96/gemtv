@@ -111,16 +111,18 @@ https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u
 https://live.thhp.vn/thp/index.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="📦 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png" catchup="append" catchup-days="2" catchup-source="https://live.thhp.vn/vod/index.m3u8?st=${start}000&et=${end}000&c=thpplus", THP+ HD | TH Hải Phòng
 https://live.thhp.vn/hls/thpplus/index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv.png", B4TV_🇻🇳 (Tổng hợp) SOURCE:BEP40
-http://103.75.186.169/b4tv/b4tv/2.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv1.png", B4TV1_🇻🇳 (Bóng đá & thể thao) SOURCE:BEP40
-http://103.75.186.169/b4tv/b4tv/1.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv2.png", B4TV2 (Phim điện ảnh & series) SOURCE:BEP40
-http://103.75.186.169/b4tv/b4tv/5.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv3.png", B4TV3_🇻🇳 (Sự kiện) SOURCE:BEP40
-http://103.75.186.169/b4tv/b4tv/4.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv4.png", B4TV4_🇻🇳 (Âm nhạc & cuộc sống) SOURCE:BEP40
-http://103.75.186.169/b4tv/b4tv/3.m3u8
+http://103.77.175.153/b4tv/b4tv/2.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv.png", B4TV_🇻🇳 (Tổng hợp) SOURCE:BEP40
+http://103.77.175.153/b4tv/b4tv/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv1.png", B4TV1_🇻🇳 (Bóng đá & thể thao) SOURCE:BEP40
+http://103.77.175.153/b4tv/b4tv/3.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv4.png", B4TV3_🇻🇳 (Âm nhạc & cuộc sống) SOURCE:BEP40
+http://103.77.175.153/b4tv/b4tv/3.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv3.png", B4TV4_🇻🇳 (Sự kiện) SOURCE:BEP40
+http://103.77.175.153/b4tv/b4tv/4.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv3.png", B4TV5_🇻🇳 (Sự kiện) SOURCE:BEP40
+http://103.77.175.153/b4tv/b4tv/5.m3u8
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE+
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
