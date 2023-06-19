@@ -1263,28 +1263,28 @@ http://tbs-tv.com:8080/dark/kittylinetv/67565
 http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3//144837
 #EXTINF:-1 tvg-id="Channel3.th" group-title="🆀🆄🅾🅲 🆃🅴"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/ch3hd/index.m3u8
-https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8
+http://61.19.242.134/feed/202306140918/ch3hd/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd/index.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🆀🆄🅾🅲 🆃🅴"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png", CH5 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/ch5hd/index.m3u8
-https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
+http://61.19.242.134/feed/202306140918/ch5hd/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/ch5hd/index.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🆀🆄🅾🅲 🆃🅴"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png", CH7 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/ch7hd/index.m3u8
-https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
+http://61.19.242.134/feed/202306140918/ch7hd/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/ch7hd/index.m3u8
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴"  tvg-logo="https://i.imgur.com/9apyiI0.png", ONE HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chonehd/index.m3u8
-https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8
+http://61.19.242.134/feed/202306140918/chonehd/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chonehd/index.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://i.imgur.com/RSQLFiU.png" group- title="🆀🆄🅾🅲 🆃🅴",CH 8_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/ch8/index.m3u8
-https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8
+http://61.19.242.134/feed/202306140918/ch8/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/ch8/index.m3u8
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴"  tvg-logo="https://i.imgur.com/S4dSUQ7.png", MCOT HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chmcothd/index.m3u8
-https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
+http://61.19.242.134/feed/202306140918/chmcothd/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🆀🆄🅾🅲 🆃🅴" logo="https://cdn.hqth.me/logo/217.png", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🆀🆄🅾🅲 🆃🅴" logo="https://mytv.com.vn/upload/channel/65.png", TV5Monde Asie
@@ -1759,9 +1759,9 @@ http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115508&exten
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png" group-title="💚SPORT ASEAN",True Premier League 3 HD_🇹🇭
 http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115511&extension=m3u8&play_token=shareext@truePremier3Eng.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="💚SPORT ASEAN", PPTV HD_🇹🇭
-http://61.19.242.134/feed/202205171929/chpptvhd3/index.m3u8
-https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+http://61.19.242.134/feed/202306140918/chpptvhd3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=115501&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="💚SPORT ASEAN",Now Sports 1_🇭🇰
