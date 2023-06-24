@@ -2034,12 +2034,15 @@ http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/270/index.m3u8
 http://78.26.128.59:9876/play/161/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/2399/index.m3u8
+#EXTINF:-1  group-title="⚽ SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png",Setanta Sports Moldova HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/20074/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="0",Setanta Eurasia HD_🇺🇦1
 #EXTVLCOPT:network-caching=1000
 http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/15183/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="0",Setanta Eurasia+_🇺🇦2
 #EXTVLCOPT:network-caching=1000
 http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/15184/index.m3u8
+
 
 
 ---------------------------------------SPORT AFRICA----------------------------------------
