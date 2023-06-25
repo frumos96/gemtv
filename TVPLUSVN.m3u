@@ -523,17 +523,17 @@ http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/2412/index.m3u8
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 ---------------------------------------ULTRA 4K----------------------------------------
-#EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩"tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO_🇲🇾 Supersport2 ⁴ᴷ
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016545&extension=ts&play_token=
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩"tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO_🇲🇾 UHD⁴ᴷ
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1016544&extension=ts&play_token=1kEm8DbZmS
+https://7pal.short.gy/astrouhd
 #EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",ASTRO_🇲🇾 4K Premier League⁴ᴷ
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016544&extension=ts&play_token=
 http://kuchini.site:8080/protoniumtv2020/y76jnexquwGsEZsw/146068
+#EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩"tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO_🇲🇾 Supersport2 ⁴ᴷ
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016545&extension=ts&play_token=
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EDD40422-068B-429C-80B0-F210D515DF2C.png",Hub🇸🇬 Premier Sport⁴ᴷ
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
+https://7pal.short.gy/HubP2uhd
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-4k-1978.png",Now_🇭🇰 Premier Sport⁴ᴷ
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1032489&extension=ts&play_token=1kEm8DbZmS
+https://7pal.short.gy/nowsport4k
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-hd-940.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",ESPN⁴ᴷ UHD 
 http://xcui.vitvabc.xyz:8880/287994016279/287994016279/31034
 http://lmtv.me:80/3Xa6ZR/7yzVQY/95654
@@ -610,10 +610,9 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&e
 http://gg.gg/BBCSPORT
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg",V Sport UltraHD ⁴ᴷ
 https://7pal.short.gy/VSportUHD
+#EXTINF:1 tvg-id="viasatsport.fi" group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/vvmq4zv/Vsport-Uhd.png",⚽ V Sport Ultra ⁴ᴷ
 #EXTVLCOPT:network-caching=1000
 http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19163/index.m3u8
-#EXTINF:1 tvg-id="viasatsport.fi" group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/vvmq4zv/Vsport-Uhd.png",⚽ V Sport Ultra ⁴ᴷ
-http://cdn.spmr.tv:8080/hi9w7b/video.m3u8?token=ZKF89T31BF
 #EXTINF:-1  group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", TF1 ⁴ᴷ UHD
 http://gg.gg/TF1FR4K
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png",咪咕体育-MiGU 4K-HLG源
