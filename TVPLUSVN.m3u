@@ -539,6 +539,7 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=44333
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=443338&extension=ts&play_token=f5SxajYgdf
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6583" tvg-logo="http://epg.it999.ru/img2/6583.png" tvg-rec="0",ELEVEN SPORTS 1⁴ᴷ_🇵🇹
 #EXTVLCOPT:network-caching=1000
+http://f2u5ntiy.megogo.xyz/iptv/N5U4GHRQQ5WAL9/20068/index.m3u8
 http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/20068/index.m3u8
 #http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7518.ts
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6583" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" tvg-rec="0",ELEVEN SPORTS 1 UHD PL⁴ᴷ
@@ -1162,6 +1163,18 @@ http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/18084/index.m3u8
 #EXTINF:0 group-title="🎵|Music" tvg-id="6273" tvg-logo="http://epg.it999.ru/img2/6273.png" tvg-rec="0",FRESH Russian Pop HD
 #EXTVLCOPT:network-caching=1000
 http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/18085/index.m3u8
+#EXTINF:-1 tvg-name="POWER LOVE" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgA5oYN1Lr2PjakdQv.png" group-title="🎵|Music", POWER LOVE
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="POWER+" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgA5oYN1Lr2PjakdQv.png" group-title="🎵|Music", POWER+
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+https://listen.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KISS KISS ITALIA HD" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgqO8oYN1Lr2PjakdQv.png" group-title="🎵|Music", KISS KISS ITALIA HD
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg" group-title="🎵|Music",Music°On! TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Holiday Hits" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="🎵|Music",Stingray Holiday Hits
@@ -1421,65 +1434,65 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dc1da9c615d46e195b5ec8691507887:8e1c2aaa4ff12f48e783210331e0a0b9
 https://sglivecdn.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://thumbs4.imagebam.com/8d/e9/77/MELG3AJ_t.png", ON Plus Live 1
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 1
 #https://livevlive.vtvcab.vn/ONSPORT1/m30_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv1
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuaaFqZZikmMKZm6mWl6WkkZ1lZ15naJs=&time=1687682655&onplus&id=s2-1vstv1
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT1/manifest.mpd
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://thumbs4.imagebam.com/8d/e9/77/MELG3AJ_t.png", ON Plus Live 2
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 2
 #https://livevlive.vtvcab.vn/ONSPORT2/m30_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv2
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuaaFqZZikmMKZm6mWl6WkkZ1lZ15naJs=&time=1687682655&onplus&id=s2-1vstv2
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT2/manifest.mpd
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://thumbs4.imagebam.com/8d/e9/77/MELG3AJ_t.png", ON Plus Live 3
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 3
 #https://livevlive.vtvcab.vn/ONSPORT3/m30_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv3
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuaaFqZZikmMKZm6mWl6WkkZ1lZ15naJs=&time=1687682655&onplus&id=s2-1vstv3
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT3/manifest.mpd
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://thumbs4.imagebam.com/8d/e9/77/MELG3AJ_t.png", ON Plus Live 4
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 4
 #https://livevlive.vtvcab.vn/ONSPORT4/m30_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv4
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuaaFqZZikmMKZm6mWl6WkkZ1lZ15naJs=&time=1687682655&onplus&id=s2-1vstv4
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT4/manifest.mpd
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://thumbs4.imagebam.com/8d/e9/77/MELG3AJ_t.png", ON Plus Live 5
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 5
 #https://livevlive.vtvcab.vn/ONSPORT5/m30_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv5
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuaaFqZZikmMKZm6mWl6WkkZ1lZ15naJs=&time=1687682655&onplus&id=s2-1vstv5
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT5/manifest.mpd
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://thumbs4.imagebam.com/8d/e9/77/MELG3AJ_t.png", ON Plus Live 6
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 6
 #https://livevlive.vtvcab.vn/ONSPORT6/m30_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv6
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuaaFqZZikmMKZm6mWl6WkkZ1lZ15naJs=&time=1687682655&onplus&id=s2-1vstv6
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT6/manifest.mpd
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://thumbs4.imagebam.com/8d/e9/77/MELG3AJ_t.png", ON Plus Live 7
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 7
 #https://livevlive.vtvcab.vn/ONSPORT7/m30_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv7
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuaaFqZZikmMKZm6mWl6WkkZ1lZ15naJs=&time=1687682655&onplus&id=s2-1vstv7
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT7/manifest.mpd
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://thumbs4.imagebam.com/8d/e9/77/MELG3AJ_t.png", ON Plus Live 8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 8
 #https://livevlive.vtvcab.vn/ONSPORT8/m30_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv8
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuaaFqZZikmMKZm6mWl6WkkZ1lZ15naJs=&time=1687682655&onplus&id=s2-1vstv8
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT8/manifest.mpd
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://thumbs4.imagebam.com/8d/e9/77/MELG3AJ_t.png", ON Plus Live 9
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 9
 #https://livevlive.vtvcab.vn/ONSPORT9/m30_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv9
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuaaFqZZikmMKZm6mWl6WkkZ1lZ15naJs=&time=1687682655&onplus&id=s2-1vstv9
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT9/manifest.mpd
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://thumbs4.imagebam.com/8d/e9/77/MELG3AJ_t.png", ON Plus Live 10
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 10
 #https://livevlive.vtvcab.vn/ONSPORT10/m30_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv10
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuaaFqZZikmMKZm6mWl6WkkZ1lZ15naJs=&time=1687682655&onplus&id=s2-1vstv10
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT10/manifest.mpd
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://hqth.me/3D4", TVPub 1
 https://hqth.me/tvpublive
@@ -2198,58 +2211,51 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=164236&
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-prime-2643.png" group-title="🌈SPORT EX-YU🌈",GR: NovaSports Prime HD
 http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/291116
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png" group-title="🌈SPORT EX-YU🌈",EX-YU: ARENA•SPORT 1 HD
-http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
-http://viptv.me:80/blackkill/vg8u9xXi8g/133074
+http://80.252.37.194:5000/udp/233.233.233.3:12000
+#http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
+#http://viptv.me:80/blackkill/vg8u9xXi8g/133074
 #EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-2-315.png" group-title="🌈SPORT EX-YU🌈",EX-YU: ARENA•SPORT 2 HD
-http://hostengine.live/live/wrecks82/habsiptv82/225658.m3u8
-http://viptv.me:80/blackkill/vg8u9xXi8g/133075
+http://80.252.37.194:5000/udp/233.233.233.4:12000
+#http://hostengine.live/live/wrecks82/habsiptv82/225658.m3u8
+#http://viptv.me:80/blackkill/vg8u9xXi8g/133075
 #EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-3-316.png" group-title="🌈SPORT EX-YU🌈",EX-YU: ARENA•SPORT 3 HD
-http://hostengine.live/live/wrecks82/habsiptv82/225659.m3u8
-http://viptv.me:80/blackkill/vg8u9xXi8g/133076
+http://80.252.37.194:5000/udp/233.233.233.5:12000
+#http://hostengine.live/live/wrecks82/habsiptv82/225659.m3u8
+#http://viptv.me:80/blackkill/vg8u9xXi8g/133076
 #EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-4-317.png" group-title="🌈SPORT EX-YU🌈",EX-YU: ARENA•SPORT 4 HD
-http://hostengine.live/live/wrecks82/habsiptv82/225660.m3u8
-http://viptv.me:80/blackkill/vg8u9xXi8g/133077
+http://80.252.37.194:5000/udp/233.233.233.6:12000
+#http://hostengine.live/live/wrecks82/habsiptv82/225660.m3u8
+#http://viptv.me:80/blackkill/vg8u9xXi8g/133077
 #EXTINF:-1  Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-5-318.png" group-title="🌈SPORT EX-YU🌈",EX-YU: ARENA•SPORT 5 HD
+http://80.252.37.194:5000/udp/233.233.233.7:12000
 http://hostengine.live/live/wrecks82/habsiptv82/225661.m3u8
 http://viptv.me:80/blackkill/vg8u9xXi8g/133078
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png" group-title="🌈SPORT EX-YU🌈",Arena Sport 6 HD
+http://80.252.37.194:5000/udp/233.233.233.8:12000
 #EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-1-2696.png" group-title="🌈SPORT EX-YU🌈",SR:ARENA•PREMIUM 1 FHD
 http://987161222318287152.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/287152.ts
 #EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-2-2697.png" group-title="🌈SPORT EX-YU🌈",SR:ARENA•PREMIUM 2 FHD
 http://987161222318287153.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/287153.ts
 #EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-3-2698.png" group-title="🌈SPORT EX-YU🌈",SR:ARENA•PREMIUM 3 FHD
 http://987161222318323039.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/323039.ts
-#EXTINF:-1  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-sportklub-1-333.png" group-title="🌈SPORT EX-YU🌈",SR:SPORT•KLUB HD
-http://987161222318244142.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/244142.ts
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-2-326.png" group-title="🌈SPORT EX-YU🌈",EX-YU: SPORT•KLUB 2 HD
-http://hostengine.live/live/wrecks82/habsiptv82/158361.m3u8
-http://viptv.me:80/blackkill/vg8u9xXi8g/133080
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-3-327.png" group-title="🌈SPORT EX-YU🌈",EX-YU: SPORT•KLUB 3 HD
-http://hostengine.live/live/wrecks82/habsiptv82/158362.m3u8
-http://viptv.me:80/blackkill/vg8u9xXi8g/133081
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-4-328.png" group-title="🌈SPORT EX-YU🌈",EX-YU: SPORT•KLUB 4 HD
-http://hostengine.live/live/wrecks82/habsiptv82/158363.m3u8
-http://viptv.me:80/blackkill/vg8u9xXi8g/133082
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-5-329.png" group-title="🌈SPORT EX-YU🌈",EX-YU: SPORT•KLUB 5 HD
-http://hostengine.live/live/wrecks82/habsiptv82/158364.m3u8
-http://viptv.me:80/blackkill/vg8u9xXi8g/133083
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-sportklub-6-330.png" group-title="🌈SPORT EX-YU🌈",EX-YU: SPORT•KLUB 6 HD
-http://hostengine.live/live/wrecks82/habsiptv82/158365.m3u8
-http://viptv.me:80/blackkill/vg8u9xXi8g/133084
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group-title="🌈SPORT EX-YU🌈",RU: Маtch ТV HD
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19163/index.m3u8
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19163/index.m3u8
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36872
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png" group-title="🌈SPORT EX-YU🌈",RU: Match! Football 1 HD SERIA
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/2407/index.m3u8
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36886
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224211
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/124/index.m3u8
+#http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/2407/index.m3u8
+#http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36886
+#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224211
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="🌈SPORT EX-YU🌈",RU: Match! Football 2 HD
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/2420/index.m3u8
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36897
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224212
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/530/index.m3u8
+#http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/2420/index.m3u8
+#http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/36897
+#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224212
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-diema-sport-3-2579.png" group-title="🌈SPORT EX-YU🌈",RU: Match! Football 3 HD BUNDES
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/5071/index.m3u8
-http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224213
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/522/index.m3u8
+#http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/5071/index.m3u8
+#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224213
