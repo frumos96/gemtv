@@ -197,20 +197,14 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV4.smil/chunklist_b1692000.m3
 http://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="sctv16hd" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HDˢᵛ²
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8?cc|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO FHD K+
+http://gg.gg/HBOMYVN
 #EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png", HBO HD FPT
 https://iplogger.com/HBOVN4M
-#EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO FHD K+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
-https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
+#EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim" logo="https://i.imgur.com/F0N0TmU.jpg", Cinemax HD MYV
+http://gg.gg/cin3maxmyv
 #EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim" logo="https://i.imgur.com/F0N0TmU.jpg" , Cinemax HD FPT
 https://iplogger.com/CINEMAXVN
-#EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim" logo="https://i.imgur.com/F0N0TmU.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD K+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
-https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://hqth.me/ibclogo", IBC VietMy
 https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w1416721353.m3u8
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://static.wixstatic.com/media/b454b3_9f59027f4bef46d68ca91012930dd2f4~mv2.png", IVTV
@@ -315,10 +309,7 @@ https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
 
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", CinemaWorld
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=523
-https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+http://gg.gg/cinemaworld8M
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="🎬| Phim",TVN_ASIA_🇰🇷
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941623&extension=ts&play_token=1kEm8DbZmS
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/157476
@@ -348,8 +339,6 @@ http://iptvmedia.live:8080/Gamsgo677/72712fbe/15714
 http://safe.avivainsur.com:8080/Vizyon/cKC3fXZqRVTw/51060
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/13152
 #http://balkantv.net:25461/libertassnova/285JgksRxuc35fc7MKsm6q5S/15399
-#EXTINF:-1 group-title="🎬| Phim" tvg-id="4462" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg" tvg-rec="0",&Privé HD FHD INDIA
-https://zee5.sabbirhasan.trial.rocks/api?id=0-9-tvpictureshd
 #EXTINF:-1 tvg-id="hbo2" tvg-logo="https://i.ibb.co/McRYfZH/test.gif" group-title="🎬| Phim",Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://i.ibb.co/SX5T9B9/Cine-Life-cc.webp" group-title="🎬| Phim",CineLife
@@ -357,7 +346,7 @@ https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://image.lichphimrap.com/resize-image.php?src=raps/cinebox.png&" group-title="🎬| Phim", Cinebox HD
 http://66.160.192.241/cineboxcinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://image.lichphimrap.com/resize-image.php?src=raps/cinebox.png&" group-title="🎬| Phim", BOX FILM
-https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizismart-max-tr.png" group-title="🎬| Phim",GOLDEN PLUS en Vivo LAT
 http://dnsplay.xyz:80/hldoudby/qubRsmkm/34989
 #EXTINF:0 tvg-id="hallmark" group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
@@ -731,6 +720,7 @@ https://tiemnhazunn.click/vieon/onsports.php
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD CLVIP
 https://code.vthanhtivi.pw/getlink/cliptv/on-sports/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies 
+http://gg.gg/ONMovies8M
 #https://livevlive.vtvcab.vn/hls/VAN_HOA_CL/sc-gaFEAA/m20_index.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8",ON Moviesˢᵛ² 
@@ -854,9 +844,9 @@ https://iplogger.com/ONF0B4LN3W
 #EXTINF:-1 tvg-id="btv5hd" group-title="🧡| VTVcab" tvg-logo="https://i.ytimg.com/vi/BJPhLkAwz00/maxresdefault.jpg", BTV5 - ON Sports Action
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8",ON Vie Dramas 
-https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
+http://gg.gg/VieDramas8M
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8",ON Vie Dramas ˢᵛ² 
-https://livevlive.vtvcab.vn/hls/D_DRAMAS_HD_CL/sc-gaFEAQ/m20_index.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/28.png", ON VFamily
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/on-vfamily/chunklist_b5128000.m3u8
@@ -1167,16 +1157,10 @@ http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/18084/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/18085/index.m3u8
 #EXTINF:-1 tvg-name="POWER LOVE" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgA5oYN1Lr2PjakdQv.png" group-title="🎵|Music", POWER LOVE
-#EXTGRP:Музыкальные
-#EXTVLCOPT:http-user-agent=IPTV
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER+" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgA5oYN1Lr2PjakdQv.png" group-title="🎵|Music", POWER+
-#EXTGRP:Музыкальные
-#EXTVLCOPT:http-user-agent=IPTV
 https://listen.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KISS KISS ITALIA HD" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgqO8oYN1Lr2PjakdQv.png" group-title="🎵|Music", KISS KISS ITALIA HD
-#EXTGRP:Музыкальные
-#EXTVLCOPT:http-user-agent=IPTV
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg" group-title="🎵|Music",Music°On! TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
