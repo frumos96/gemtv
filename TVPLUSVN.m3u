@@ -130,7 +130,7 @@ http://b4tv.live/b4tv/b4tv/6.m3u8
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE MY+
 http://gg.gg/MYCINE
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE B4TV
-http://103.77.175.153:80/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/m3u8
+http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/m3u8
 #EXTINF:-1 group-title="🎬| Phim" group-logo="https://tchiphuong.github.io/iptv/images/background/k-plus.png" tvg-id="kcinehd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png",CINE VIETTEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8suAg7WXFGR1eN3kMBp0CA", "kid":"ahbb9Uk1U9t+xU/cGEuApA" },{ "kty":"oct", "k":"hSlLl8WWLQ0to3dgcR19Ig", "kid":"KcGXrPo1U9t+xU/cGEuApA" },{ "kty":"oct", "k":"LEHirXldF/d3t/PSzZA3xw", "kid":"cQWXrPo1U9t+xU/cGEuApA" }], "type":"temporary" }
@@ -138,7 +138,7 @@ https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", LIFE MY+
 http://gg.gg/MYLIFEPLUS
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="http://live.bep40.shop/b4tv2.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", LIFE B4TV
-http://103.77.175.153:80/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
+http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
 #EXTINF:-1 group-title="K+" group-logo="https://tchiphuong.github.io/iptv/images/background/k-plus.png" tvg-id="klifehd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-life.png",LIFE VIETTEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GPWACV2Iw9nhLvuuWACd4w", "kid":"iE5vri/tGZJLE1HRSgaw6Q" },{ "kty":"oct", "k":"GPWACV2Iw9nhLvuuWACd4w", "kid":"iE5vri/tGZJLE1HRSgaw6Q" },{ "kty":"oct", "k":"WiFa+sDmkcPwmt8unrEUww", "kid":"R/krZeDtGZJLE1HRSgaw6Q" },{ "kty":"oct", "k":"dbdCVr9TQC4kgotq5sS7bw", "kid":"jz0rZeDtGZJLE1HRSgaw6Q" }], "type":"temporary" }
