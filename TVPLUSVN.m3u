@@ -321,8 +321,9 @@ https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizismart-max-tr.png" group-title="🎬| Phim",GOLDEN PLUS en Vivo LAT
 http://dnsplay.xyz:80/hldoudby/qubRsmkm/34989
 #EXTINF:0 tvg-id="hallmark" group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel HD
-http://iptv365.xyz:900/5300690644/2656525529/376243
+https://iplogger.com/HALLMARKUS
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544577
+http://iptv365.xyz:900/5300690644/2656525529/376243
 http://evolved.host:8080/JsnCdcSSe8/CWvQ6KPTQR/417892
 http://box.slweb.tv:8880/pacha-man1/VnozvptUkP6p3Ed/1088
 http://vip.lotusnet.digital:19051/Shanka/6V3FJA49av/16406
@@ -335,9 +336,9 @@ http://crackle-xumo.amagi.tv/playlistX432p.m3u8
 https://iplogger.com/hallmarkm0vi3
 http://evolved.host:8080/JsnCdcSSe8/CWvQ6KPTQR/509118
 #EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1920px-LMN_logo_2019.svg.png", Lifetime Movie Network HD
-https://iplogger.com/LMNUS
-#EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png", Lifetime US HD
 http://gg.gg/LIFETIMEUS
+#EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png", Lifetime US HD
+https://iplogger.com/LMNUS
 #EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/SBS_World_Movies_logo_2019.svg/300px-SBS_World_Movies_logo_2019.svg.png", AU: SBS World Movies
 http://ptv.is/play/live.php?mac=00:1A:79:00:04:02&stream=141884&extension=ts
 http://58.96.43.228:9981/stream/channelid/808262435?ticket=DA54CCFBD71A64807EE57FA9BBECC179D140B263&profile=pass
@@ -346,16 +347,12 @@ http://ptv.is/play/live.php?mac=00:1A:79:00:04:02&stream=141883&extension=ts
 http://58.96.43.228:9981/stream/channelid/1625859261?ticket=C2A03CD567456F72A124B5C7D45B1F1EAC82FCD7&profile=pass
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="🎬| Phim",Family Flix HD
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65HtxwHs/cropped-cropped-cropped-Untitled-design-2.png" group-title="🎬| Phim",Movies Hub
-https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUPE_NjPQjwkobVIbmsqf5eP9HHEHDsir1-hKJ_=s900-c-k-c0x00ffffff-no-rj" group-title="🎬| Phim",My time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/70a59ba856a9f1f5c8734ca43c227d5eea334fe16d83daf73d2c062dd1e44513.png" group-title="🎬| Phim",FilmRise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHOfC7AwxV34iuBNUN0f77dbqHvsQ8l2l7Q&usqp=CAU" group-title="🎬| Phim",Rakuten Action Movies
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://stirr.app/wp-content/uploads/2020/10/stirr_logo_500x143_color.png" group-title="🎬| Phim",STIRR Movies
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 tvg-id="moviebox" group-title="🎬| Phim" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_box_mn.png",Movie box
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 #EXTINF:-1 tvg-id="novaplay" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nova_Play_logo.svg/1000px-Nova_Play_logo.svg.png",NovaPlay Brazil
