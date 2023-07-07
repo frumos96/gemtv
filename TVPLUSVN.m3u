@@ -106,6 +106,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8?cc|Referer=http://
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/r2LgsYR/HTV9.png" group-title="📦 VTV" tvg-chno="30" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 FHDVMY
 https://code.vthanhtivi.pw/getlink/mytv/190/auto.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="📦 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.webp", THTPCT HD|Cần Thơ
+https://live.canthotv.vn/live/tv_web/chunklist.m3u8
 https://vips-livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vinhlong1hd"type="stream" channelId="-1" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/103.png" tvg-chno="41" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtNzIwcCIsImV4cCI6MTYzMjA1NzkzOX0.ZjZ3z2_rhWMYzMCmJp3paek9drRsC67UM4uJupr9bVs-/thvl1-720p/chunks_dvr_range-${start}-900.m3u8", Vĩnh Long 1 HD Viettel
 http://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
@@ -203,15 +204,13 @@ http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classicsˢᵛ²CLVIP
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
+http://sg.tinchuanchuaanh.com:8080/HOLLYWOOD_CLASSICS/index.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hitsˢᵛ²TVMY
 http://gg.gg/boxhitMyTV
 #EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hitsˢᵛ²CLVIP
 https://iplogger.com/BoxHit
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", InTheBox CLVIP
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
+http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", Boxˢᵛ²
 https://tiemnhazunn.click/cliptv/inthebox.php
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Action-Flix.jpg" group-title="🎬| Phim",PH:Tap Action Flix
@@ -1510,11 +1509,9 @@ http://120.196.232.124:8088/PLTV/13/224/3221227956/1.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-25_🇨🇳
 http://120.196.232.124:8088/PLTV/13/224/3221227960/1.m3u8
 
-
-
-
 ---------------------------------------SPORT ASEAN----------------------------------------
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="💚SPORT ASEAN",Astro SuperSport 1 FHD_🇲🇾
+http://gg.gg/assp1my
 https://iplogger.com/ASSP1
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="💚SPORT ASEAN",Astro SuperSport 2 FHD_🇲🇾
 https://iplogger.com/ASSP2
