@@ -303,10 +303,12 @@ http://gg.gg/TVNMOVIE
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683154
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🎬| Phim",ViuTV
+http://223.17.122.142:9981/stream/channelid/1814872983?
 http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 http://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="🎬| Phim",ViuTV Six
+http://223.17.122.142:9981/stream/channelid/1910523872?
 http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 https://cdn.hklive.tv/xxxx/96/index.m3u8
@@ -1471,6 +1473,42 @@ https://obevcimanyd179314182.thapcam.link/live/may036FHD/chunklist.m3u8
 https://obevcimanyd179314182.thapcam.link/live/may065FHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 075
 https://179672673.global.cdnfastest.com/live/may075FHD/chunklist.m3u8
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 1
+#EXTGRP:спорт
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14180/index.m3u
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 2
+#EXTGRP:спорт
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14181/index.m3u
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 3
+#EXTGRP:спорт
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14182/index.m3u
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 4
+#EXTGRP:спорт
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14183/index.m3u
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 5
+#EXTGRP:спорт
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14184/index.m3u
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 6
+#EXTGRP:спорт
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14185/index.m3u
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 7
+#EXTGRP:спорт
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14186/index.m3u
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 8
+#EXTGRP:спорт
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14187/index.m3u
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",Setanta Event 9
+#EXTGRP:спорт
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14188/index.m3u
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 10
+#EXTGRP:спорт
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14189/index.m3u
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 11
+#EXTGRP:спорт
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14190/index.m3u
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 12
+#EXTGRP:спорт
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14191/index.m3u
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-1_🇨🇳
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226855/1.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-2_🇨🇳
@@ -1809,10 +1847,16 @@ https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_3_HD_HTTP/__op/dash-de
 https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_4_HD_HTTP/__op/dash-default/__dci/246/__f/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="⚽ SPORT EUROPE",VIAPLAY SPORTS 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163607&extension=ts
+#EXTINF:-1 tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="⚽ SPORT EUROPE",VIAPLAY SPORTS 1 FHD
+http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&extension=ts&play_token=IVSS5PbCug
 #EXTINF:-1 tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="⚽ SPORT EUROPE",VIAPLAY SPORTS 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45251&extension=ts
+#EXTINF:-1 tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="⚽ SPORT EUROPE",VIAPLAY SPORTS 2 FHD
+http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=154405&extension=ts&play_token=Sz0cj6w84W
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="⚽ SPORT EUROPE",VIAPLAY XTRA
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=546807&extension=ts
+#EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaPlay Extra FHD
+http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/753907.m3u8
 #EXTINF:-1 Logo="http://images.zaltv.club/logo/live.gif" group-title="⚽ SPORT EUROPE",DE: Sport Digital HD#
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
