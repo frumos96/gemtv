@@ -143,16 +143,17 @@ http://gg.gg/MYCINE
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE B4TV
 https://iplogger.com/CINEB4TV
 #EXTINF:-1 group-title="🎬| Phim" group-logo="https://tchiphuong.github.io/iptv/images/background/k-plus.png" tvg-id="kcinehd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png",CINE VIETTEL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8suAg7WXFGR1eN3kMBp0CA", "kid":"ahbb9Uk1U9t+xU/cGEuApA" },{ "kty":"oct", "k":"hSlLl8WWLQ0to3dgcR19Ig", "kid":"KcGXrPo1U9t+xU/cGEuApA" },{ "kty":"oct", "k":"LEHirXldF/d3t/PSzZA3xw", "kid":"cQWXrPo1U9t+xU/cGEuApA" }], "type":"temporary" }
-https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Qg+QQeS1MmBhQI7u2n80aA","kid":"nQdw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"F+eU3yitSHnkFFYtE4+Z2Q","kid":"5Utw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"sbTHo540AyIwLSJXW37szQ","kid":"8k+0EeOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"P7qdnqQX/GQO0jZmMdQYrw","kid":"3ly0KTKK2e/i8ZU5nQ1apQ"}],"type":"temporary"}
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv3.gif" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", LIFE MY+ DRM
 http://gg.gg/MYLIFEPLUS
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv3.gif" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", LIFE B4TV
 https://iplogger.com/LIFEB4TV
 #EXTINF:-1 group-title="🎬| Phim" group-logo="https://tchiphuong.github.io/iptv/images/background/k-plus.png" tvg-id="klifehd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-life.png",LIFE VIETTEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GPWACV2Iw9nhLvuuWACd4w", "kid":"iE5vri/tGZJLE1HRSgaw6Q" },{ "kty":"oct", "k":"GPWACV2Iw9nhLvuuWACd4w", "kid":"iE5vri/tGZJLE1HRSgaw6Q" },{ "kty":"oct", "k":"WiFa+sDmkcPwmt8unrEUww", "kid":"R/krZeDtGZJLE1HRSgaw6Q" },{ "kty":"oct", "k":"dbdCVr9TQC4kgotq5sS7bw", "kid":"jz0rZeDtGZJLE1HRSgaw6Q" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rYzTVA6IU25BWyCi6eFMsw","kid":"LDpBJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"/RhsW9MUFJ2qkzxx0M61SA","kid":"dH5BJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"MZj/PKMmrAC+/gj9Mb9tPA","kid":"gYKFVZeYlI9krXpiPNl76Q"},{"kty":"oct","k":"JhP3tQTc0MyUQBhFKh5wSQ","kid":"bY+FbeaYlI9krXpiPNl76Q"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬| Phim" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
@@ -316,9 +317,7 @@ http://iptvmedia.live:8080/Gamsgo677/72712fbe/32147
 http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823
 http://iptvmedia.live:8080/Gamsgo677/72712fbe/15714
 #EXTINF:-1 group-title="🎬| Phim" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",Sky Romance TV FHD DE
-http://safe.avivainsur.com:8080/Vizyon/cKC3fXZqRVTw/51060
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/13152
-#http://balkantv.net:25461/libertassnova/285JgksRxuc35fc7MKsm6q5S/15399
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/7231/index.m3u
 #EXTINF:-1 tvg-id="hbo2" tvg-logo="https://i.ibb.co/McRYfZH/test.gif" group-title="🎬| Phim",Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://i.ibb.co/SX5T9B9/Cine-Life-cc.webp" group-title="🎬| Phim",CineLife
@@ -560,12 +559,15 @@ https://7pal.short.gy/bein-uhd
 #http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=269457&extension=ts&play_token=
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",Easy Match⁴ᴷ
 http://uniontv.info:8080/31975454hejx/8388373737hwh/351538
-#EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-4k-ultra-hd-2008.png",CANAL+⁴ᴷULTRA HD
+#EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-4k-ultra-hd-2008.png",Canal+⁴ᴷ Foot+
 http://38gb.pro/live/4478355/94943550/ee751bde-8492-4b46-ac91-89415926c247.m3u8
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/209232
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png",Canal+⁴ᴷ Foot 
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=526130&extension=ts&play_token=MlgpSMgsLy
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
 http://onrev.xyz:80/mag00:1A:79:B2:D5:B7/U7Ed5pAXj8/151363
+#EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="http://gg.gg/canalkkk",CANAL+⁴ᴷULTRA HD
+http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526130&extension=ts&play_token=Jz8FXj0Ich
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ziggo.svg/330px-Ziggo.svg.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",Ziggo⁴ᴷ Sport
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-4k-1903.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",YES⁴ᴷ Sport5
@@ -666,6 +668,9 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩", FashionTV⁴ᴷ
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://www.astra2sat.com/wp-content/uploads/2016/03/NASA-TV-UHD-e1459284337362.jpg" group-title="🔥📺⚽ 4K 🇺 🇭 🇩", NASA TV⁴ᴷ
+http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/15239/index.m3u
+
 
 
 #-*------------------------------------------VTVCAB-*------------------------------------------#
@@ -1306,7 +1311,7 @@ http://gg.gg/MYSPORT1HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w0kuZY+0LBvDK5gQLTt43A", "kid":"9itAeb9TQ5XLbDVxR376RQ" },{ "kty":"oct", "k":"w0kuZY+0LBvDK5gQLTt43A", "kid":"9itAeb9TQ5XLbDVxR376RQ" },{ "kty":"oct", "k":"L/rL5l5HbVKjaL9Ov7gYiw", "kid":"tdb8MHBTQ5XLbDVxR376RQ" },{ "kty":"oct", "k":"bLbOLuZpJkFjVn+ADHcNOA", "kid":"/Rr8MHBTQ5XLbDVxR376RQ" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1gNT9vX7GvZq9LqBJPRCmg","kid":"Rh9cpYhBGGHdJ81O+EHPWg"},{"kty":"oct","k":"eMr9GRHIgscXF6UCmKvqBA","kid":"jmNcpYhBGGHdJ81O+EHPWg"},{"kty":"oct","k":"6lBJy/L4bqiv8DNrJ6MC0A","kid":"m2eg1ohBGGHdJ81O+EHPWg"},{"kty":"oct","k":"t/A+Ss9g96Hkk90WbG8TIQ","kid":"h3Sg7tdBGGHdJ81O+EHPWg"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1  group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 C2+
 https://iplogger.com/C2B4TV
@@ -1314,7 +1319,7 @@ https://iplogger.com/C2B4TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fcv15rSkJ5ytoPrij5MG/Q", "kid":"hRhUaZp+a+ag+FJEX9Rq7g" },{ "kty":"oct", "k":"4g+JWHg/tynVLS0oeijl5Q", "kid":"RMMQIEt+a+ag+FJEX9Rq7g" },{ "kty":"oct", "k":"OGB2bFPvLAqUc2gI2Or1Yw", "kid":"jAcQIEt+a+ag+FJEX9Rq7g" }], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n6k+TEUTx+p5Bj+XB69aQw","kid":"55jZeGj4rhMV4y/yxpkZww"},{"kty":"oct","k":"WG+ZbXW/pusa9Z7BwtiVow","kid":"L9zZeGj4rhMV4y/yxpkZww"},{"kty":"oct","k":"l5Iw6Kja8Q6B95kPL5nk5w","kid":"POAdqWj4rhMV4y/yxpkZww"},{"kty":"oct","k":"aASJKkeMlZ63BNMI5sF3Og","kid":"KO0dwbf4rhMV4y/yxpkZww"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1  group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MY+
 http://gg.gg/MYSPORT2HD
