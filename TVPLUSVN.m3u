@@ -95,21 +95,20 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 https://e8.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?cc|Referer=http://sctvonline.vn
 #EXTINF:0 tvg-id="htv7hd" group-title="📦 VTV" logo="https://i.imgur.com/L8fXB1M.png" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD SCTV
+https://code.vthanhtivi.pw/getlink/mytv/128/hd.m3u8
 https://e8.endpoint.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8?cc|Referer=http://sctvonline.vn
 #EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV7 FHDVIEON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://gg.gg/HTV7TVMY
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 FHDMY
 https://tiemnhazunn.click/vieon/htv7.php
-https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/r2LgsYR/HTV9.png" group-title="📦 VTV" tvg-chno="30" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 FHDVIEON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://gg.gg/HTV9TVMY
 #EXTINF:0 tvg-id="htv9hd" group-title="📦 VTV" logo="https://i.imgur.com/r3Jiu5Q.png" catchup="append" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD SCTV
+https://code.vthanhtivi.pw/getlink/mytv/190/hd.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8?cc|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/r2LgsYR/HTV9.png" group-title="📦 VTV" tvg-chno="30" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 FHDVMY
-https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="cantho" group-title="📦 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.webp", THTPCT HD|Cần Thơ
+//static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.webp", THTPCT HD|Cần Thơ
 https://live.canthotv.vn/live/tv_web/chunklist.m3u8
 https://vips-livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vinhlong1hd"type="stream" channelId="-1" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/103.png" tvg-chno="41" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtNzIwcCIsImV4cCI6MTYzMjA1NzkzOX0.ZjZ3z2_rhWMYzMCmJp3paek9drRsC67UM4uJupr9bVs-/thvl1-720p/chunks_dvr_range-${start}-900.m3u8", Vĩnh Long 1 HD Viettel
@@ -550,12 +549,6 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483921&extensi
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483920&extension=ts&play_token=
 #EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym8DWQHK2_ENw2lG0hi8P54fxgij1yxAF3SOe57RV8Yv.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSPORTS EN 3⁴ᴷ
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483919&extension=ts&play_token=
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-extra-1-1164.png"group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beIN Sports Xtra 1 FHD
-http://14.248.122.24:8889/wisd.php?id=149620
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/667466
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-extra-2-1165.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beIN Sports Xtra 2  FHD
-http://14.248.122.24:8889/wisd.php?id=149621
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/689266
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN⁴ᴷ Sports
 https://7pal.short.gy/bein-uhd
 #http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=269457&extension=ts&play_token=
@@ -1245,7 +1238,7 @@ https://cdn6.goprimetime.info/feed/202306140918/ch7hd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://61.19.242.134/feed/202306140918/chonehd/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chonehd/index.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://i.imgur.com/RSQLFiU.png" group- title="🆀🆄🅾🅲 🆃🅴",CH 8_🇹🇭
+#EXTINF:-1 tvg-chno="28" tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://i.imgur.com/RSQLFiU.png" group-title="🆀🆄🅾🅲 🆃🅴",CH 8_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://61.19.242.134/feed/202306140918/ch8/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/ch8/index.m3u8
@@ -1313,7 +1306,7 @@ http://gg.gg/MYSPORT1HD
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1  group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 C2+
 https://iplogger.com/C2B4TV
-#EXTINF:-1 group-title="K+" group-logo="https://tchiphuong.github.io/iptv/images/background/k-plus.png" tvg-id="ksport2hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-2.png", B42_SPORT🇻🇳 VIETTEL
+#EXTINF:-1 group-title="💚SPORT ASEAN" group-logo="https://tchiphuong.github.io/iptv/images/background/k-plus.png" tvg-id="ksport2hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-2.png", B42_SPORT🇻🇳 VIETTEL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1468,73 +1461,50 @@ https://obevcimanyd179314182.thapcam.link/live/may065FHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 075
 https://179672673.global.cdnfastest.com/live/may075FHD/chunklist.m3u8
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 1
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14180/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 2
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14181/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 3
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14182/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 4
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14183/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 5
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14184/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 6
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14185/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 7
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14186/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 8
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14187/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 9
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14188/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 10
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14189/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 11
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14190/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 12
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/14191/index.m3u
 #EXTINF:0 tvg-rec="7" group-title="🔴| Livestream" ,Fint Ga 1
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/20091/index.m3u
 #EXTINF:0 tvg-rec="7" group-title="🔴| Livestream" ,Fint Ga 2
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/20092/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" ,Fint Ga 3
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/20093/index.m3u
 #EXTINF:0 tvg-rec="7" group-title="🔴| Livestream" ,Pimple TV 1
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/20094/index.m3u
 #EXTINF:0 tvg-rec="1" group-title="🔴| Livestream" ,Pimple TV 2
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/20095/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" ,Pimple TV 3
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/20096/index.m3u
 #EXTINF:0 tvg-rec="3" group-title="🔴| Livestream" ,Pimple TV 4
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/20097/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" ,Pimple TV 5
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/20098/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" ,Prokop Sport Online 1
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/20099/index.m3u
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream" ,Prokop Sport Online 2
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/20103/index.m3u
 #EXTINF:0 tvg-rec="3" group-title="🔴| Livestream" ,Prokop Sport Online 3
-#EXTGRP:спорт
 http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/20104/index.m3u
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-1_🇨🇳
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226855/1.m3u8
@@ -1815,7 +1785,7 @@ https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_2_HD_HTTP/__op/dash-de
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=8b3f805666294fb2905dcf6cbe3fadf5&key=c8ad183c374949c7dce645bf75f634a0
 https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_3_HD_HTTP/__op/dash-default/__dci/245/__f/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title=⚽ SPORT EUROPE" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport 4 HD Iceland
+#EXTINF:-1 group-title="⚽ SPORT EUROPE" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport 4 HD Iceland
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
