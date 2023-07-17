@@ -176,7 +176,7 @@ https://synguyen.net/vthanhtivi_getlink/e8.endpoint.cdn.sctvonline.vn/hls/sctv4/
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV4.smil/chunklist_b1692000.m3u8
 https://hqth.me/SCTV4?khanggtv|Referer=http://sctvonline.vn/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
-https://live-ali4.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
+http://live.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 http://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="sctv16hd" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HDˢᵛ²
 https://inet.tinchuanchuaanh.com/hls/v1/e1.endpoint.cdn.sctvonline.vn/hls/sctv16/index.m3u8
@@ -837,7 +837,7 @@ https://inet.tinchuanchuaanh.com/hls/v1/e8.endpoint.cdn.sctvonline.vn/channel/sc
 https://inet.tinchuanchuaanh.com/hls/v1/e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://live.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
+https://live-ali4.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV7 HD SHOW TV
 https://inet.tinchuanchuaanh.com/hls/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv7/s1/index.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD VITV
