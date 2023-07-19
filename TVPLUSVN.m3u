@@ -254,8 +254,10 @@ https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="http://n.ysyz.top:99/buyaolian/hunandsj.png" group-title="🎬| Phim",湖南电视剧 Hunan TV Series HD
 http://124.232.233.15:6610/000000001001/201600020006/1400.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzd-zcipUGLLjxG9n67-kdZcTls6nSSv7oOw&usqp=CAU" group-title="🎬| Phim",IQYI🇲🇾
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571198&extension=ts&play_token=1kEm8DbZmS
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="🎬| Phim",IQYI🇲🇾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 #EXTINF:0 tvg-id="man" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/man/dvr-${start}-${offset}.m3u8", Man 360
 https://tiemnhazunn.click/tv360/tv360.php?id=237
 #EXTINF:0 tvg-id="woman" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/woman/dvr-${start}-${offset}.m3u8, Woman SCTV
@@ -272,12 +274,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?cc|Referer=
 https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
 #EXTINF:0 tvg-id="drfithd" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/drfit/dvr-${start}-${offset}.m3u8", Dr.Fit SCTV
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
-#EXTINF:-1  group-title="🆀🆄🅾🅲 🆃🅴" logo="https://photos.live-tv-channels.org/tv-logo/ae-gem-fit-2728-300x225.jpg",IR: GEM FIT
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/192766
-http://kuchini.site:8080/protoniumtv2020/y76jnexquwGsEZsw/166807
-#EXTINF:-1  group-title="🆀🆄🅾🅲 🆃🅴" logo="http://gg.gg/GEMTVIRAN",IR: GEM TV
-http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/192778
-http://kuchini.site:8080/protoniumtv2020/y76jnexquwGsEZsw/5459
+#EXTINF:-1  group-title="🆀🆄🅾🅲 🆃🅴" logo="https://photos.live-tv-channels.org/tv-logo/ae-gem-fit-2728-300x225.jpg",IR: GEM LIFE
+http://gg.gg/LIFEID
 #EXTINF:0 group-title="🆀🆄🅾🅲 🆃🅴" Logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/11/pluot-tv-fitness-deporte.jpg.png",Pluto TV Fitness BR
 https://i.mjh.nz/PlutoTV/630e30ba3583440007c64a20-alt.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png" group-title="🆀🆄🅾🅲 🆃🅴" , Pluto TV Fitness DE
@@ -310,12 +308,12 @@ http://gg.gg/TVNMOVIE
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683154
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🎬| Phim",ViuTV
-http://223.17.122.142:9981/stream/channelid/1814872983?
+http://gg.gg/ViuTVHK
 http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 http://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="🎬| Phim",ViuTV Six
-http://223.17.122.142:9981/stream/channelid/1910523872?
+http://gg.gg/ViuTVSixHK
 http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 https://cdn.hklive.tv/xxxx/96/index.m3u8
@@ -443,18 +441,11 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787.m3u8
 http://210.210.155.35:80/session/0c338296-303c-11e9-bdab-b82a72d63267/uq2663/h/h08/index2.m3u8
 #EXTINF:-1 tvg-id="GEM.sg" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/x64s18m/GEM.png" group-title="🌿| Lifestyle",SONY GEM
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941608&extension=ts&play_token=1kEm8DbZmS
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941608
-http://103.167.167.5:8111/play/a00z/index.m3u8
-http://iptvid.my.id/hmm/sgem.m3u8
+http://gg.gg/GEMID
 #EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="Sony One" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="🌿| Lifestyle",SONY ONE_ASIA
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941601&extension=ts&play_token=1kEm8DbZmS
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941628
-http://103.167.167.5:8111/play/a00u/index.m3u8
-http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/165077
+http://gg.gg/ONE_ID
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/375px-Logo_Lifetime_2020.svg.png" group-title="🌿| Lifestyle",Lifetime✓
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941669&extension=ts&play_token=1kEm8DbZmS
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941669
+http://gg.gg/LIFETIMEID
 #EXTINF:-1   tvg-logo="https://thumbor.prod.vidiocdn.com/uhO4k9iqRVaHjZeJXJ2KpRw_w-k=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="🌿| Lifestyle",TransTv🇮🇩
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://banner2.cleanpng.com/20180705/ysk/kisspng-trans7-indonesia-trans-tv-streaming-media-televisi-trans-march-5b3e7ad8485fe7.3547006515308213362965.jpg" group-title="🌿| Lifestyle",Trans7🇮🇩
@@ -2001,17 +1992,15 @@ http://525101722668389450.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/389450.ts
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport2 HD
 http://525101722668389451.onames.xyz:80/play/vi0105248/bM$6EUuUuSeh/389451.ts
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: Digi Sport 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport2.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport2 FHDˢᵛ²
-http://gg.gg/DIGISP2
-http://gg.gg/DIGISPV2
+http://gg.gg/DIGISP2RO
 #EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport3 HD
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1543985
 #EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: Digi Sport 3 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport3.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport3 FHDˢᵛ²
-http://gg.gg/DIGISP3
+http://gg.gg/DIGISP3RO
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport4 HD
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1543901
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group-title="🌈SPORT EX-YU🌈",DigiSport4 HDˢᵛ²
-http://kuchini.site:8080/faucontv/SWZWpu21nO6mkNgu/4219
-
+http://gg.gg/DIGISP4RO
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png" group-title="🌈SPORT EX-YU🌈",AL: Super Sport 1 HD
 http://gg.gg/SUPERSPORT1ALB
 http://homeuser22.hopto.me:22333/live?cId=1609&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
