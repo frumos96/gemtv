@@ -680,6 +680,7 @@ https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_HD/ma
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/onsports.php
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD CLVIP
+https://arcgmoblie.site/cliptv/cliptv.php?id=on-sports
 https://code.vthanhtivi.pw/getlink/cliptv/on-sports/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies 
 http://gg.gg/ONMovies8M
@@ -770,7 +771,7 @@ https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/man
 #https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="ON Football HD" tvg-id="http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1 và http://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv302&offset=1&nodelay=1 và https://r5yqppqecmliv.vcdn.cloud/manifest/vtvcab16-hd/playlist_1080p.m3u8" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/hls/BONGDA_HD_1924/sc-gaFEAA/m40_index.m3u8?startTime=${start}&stopTime=${end}",ON Football HD
-https://tiemnhazunn.click/cliptv/cliptv.php?id=on-football
+https://arcgmoblie.site/cliptv/cliptv.php?id=on-football
 http://live-ali2.tv360.vn/manifest/K_Plus_Sport2_test/playlist_1080p-5M.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ONFootballHDˢᵛ² EON
 #https://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
@@ -801,7 +802,8 @@ https://iplogger.com/ONF0B4LN3W
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bgQS3WPpeT2WWU8PgpNZdw", "kid":"9wwD5ILbT9aP+iVpXXXVvA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-ali4.tv360.vn/manifest/VTVCab18_OnNews_HD_50fps/master.mpd?timestamp=1683344463&token=d25177f196ac5b33e7e93f1d498cf33d&manifestfilter=video_bitrate:1-3600000&uid=16352080
-#EXTINF:-1  tvg-name="ON Sports News HD" tvg-id="http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1 và https://r5yqppqecmliv.vcdn.cloud/manifest/vtvcab18/playlist_1080p.m3u8" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/hls/THETHAO_TINTUC_HD_CL/sc-gaFEAA/m40_index.m3u8?startTime=${start}&stopTime=${end}",ON Sports News HD ONPLUS
+#EXTINF:-1  tvg-name="ON Sports News HD" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png",ON Sports News HD CLVIP
+https://arcgmoblie.site/cliptv/cliptv.php?id=on-sports-news
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZua55jZpehlsKZm6mWl6WkkZ1lZ15na58=&time=1689313523&mytv&id=onsportsnews
