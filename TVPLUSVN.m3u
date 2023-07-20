@@ -163,7 +163,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN FHD
 http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
-https://iplogger.com/AXN4M
+http://gg.gg/AXNHDVN
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=http://sctvonline.vn
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV FHD
@@ -291,8 +291,7 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc7-todaytv-hd/dvr-${start}-${offset}.m3u8", VTC7 HD - TodayTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vtc7-todaytv-hd/playlist.m3u8
+http://gg.gg/VTC7TODAYTV
 #EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc9-hd/dvr-${start}-${offset}.m3u8", VTC9 HD
 https://code.vthanhtivi.pw/getlink/mytv/399/hd.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc14-hd/dvr-${start}-${offset}.m3u8", VTC14 HD
@@ -306,8 +305,7 @@ http://gg.gg/TVNKR
 #EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="🎬| Phim",TVN_MOVIES_🇰🇷
 http://gg.gg/TVNMOVIE
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="http://gg.gg/131flp", THRILL ID
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=683154
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+http://gg.gg/THRILL_ID
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🎬| Phim",ViuTV
 http://gg.gg/ViuTVHK
 http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
