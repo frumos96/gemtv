@@ -355,9 +355,9 @@ https://iplogger.com/LMNUS
 #EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png", Lifetime US HD
 http://gg.gg/LMNUS
 #EXTINF:0  group-title="🎬| Phim" logo="https://mumbrella.com.au/wp-content/uploads/2016/10/SBS_VICELAND_LOGO_BLACK-468x126.jpg",SBS VICELAND AU
-http://gg.gg/SBSVICELANDAU
-#EXTINF:0  group-title="🎬| Phim" logo="https://saveoursbs.org/wp-content/uploads/2019/05/SBS-World-Movies-5.png",SBS WORLD MOVIES AU
-http://gg.gg/SBSWORLDMOVIESAU
+http://gg.gg/SBSVICELAND
+#EXTINF:0  group-title="🎬| Phim" logo="https://saveoursbs.org/wp-content/uploads/2019/05/SBS-World-Movies-5.png",SBS HD AU
+	http://gg.gg/SBSHD_AU
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="🎬| Phim",Family Flix HD
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUPE_NjPQjwkobVIbmsqf5eP9HHEHDsir1-hKJ_=s900-c-k-c0x00ffffff-no-rj" group-title="🎬| Phim",My time Movies Network
@@ -1203,10 +1203,14 @@ https://iplogger.com/SBSPLUS
 http://103.167.167.5:8111/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"  group-title="🆀🆄🅾🅲 🆃🅴" , SCTV_vid_🇮🇩
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/330px-Kapamilya_Channel_Logo_2020.svg.png"  group-title="🆀🆄🅾🅲 🆃🅴" ,ABS CBN🇵🇭
+http://gg.gg/ABSCBNPH
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/330px-Kapamilya_Channel_Logo_2020.svg.png"  group-title="🆀🆄🅾🅲 🆃🅴" ,ABS CBN Kapamilya Channel 🇵🇭
 http://gg.gg/ABSCBN
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="ANC.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/220px-ABS-CBN_News_Channel_%282015%29.svg.png",ANC 🇵🇭
-http://kuchini.site:8080/Giobox2/aPnVqQVT6GXhu92E/144833
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="ANC.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/ANClogo2014.svg",ANC 🇵🇭
+http://gg.gg/ANC_PH
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="ANC.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/The_Filipino_Channel_2011_logo.svg",TFC 🇵🇭
+http://gg.gg/TFC_PH
 #EXTINF:-1 tvg-id="Channel3.th" group-title="🆀🆄🅾🅲 🆃🅴"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://61.19.242.134/feed/202306140918/ch3hd/index.m3u8
