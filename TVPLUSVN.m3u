@@ -393,6 +393,7 @@ http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia FHD
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
 #EXTINF:0 tvg-id="discoveryasiahd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/205.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
+http://gg.gg/DiscoveryAsiaMYVN
 https://e4.endpoint.cdn.sctvonline.vn/hls/asia/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="ngchd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/206.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic
 https://iplogger.com/NATGEO8M
@@ -422,9 +423,11 @@ http://gg.gg/BBCLifeStyleMYHD
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
 https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿| Lifestyle" logo="http://images.zaltv.club/logo/da-vinc.png", Da Vinci HD
-https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+http://gg.gg/DaVinciMYVN
 #EXTINF:-1 tvg-id="tlchd" group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
 http://gg.gg/TLCMYHD
+#EXTINF:-1 tvg-id="animalhd" tvg-name="Animal Planet_HD" group-title="🌿| Lifestyle" tvg-logo="https://i.imgur.com/AApqW63.jpg",Animal Planet_HD
+http://gg.gg/AnimalPlanetMYVN
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/233.png", Hits
 https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:-1 tvg-id="historyhd" tvg-name="History" tvg-logo="https://i.ibb.co/d2dJNWn/cchistory.webp" group-title="🌿| Lifestyle",🍀|History FHD 
@@ -1136,6 +1139,8 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 http://hidra.live:80/wxFYeXT7K/do95R3pgW2/302728
 http://dnsplay.xyz:80/hldoudby/qubRsmkm/302728
 #https://nandplay.club:2053/8ZSmRY3kn5/AZ4mRz2rTsuR/1188
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1920px-TVE.svg.png", Televisión Española HD
+http://gg.gg/TVEMYHD
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV4中文国际HD
 https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/240px-Mbc1logo.png",MBC_arb
@@ -1223,12 +1228,29 @@ https://cdn6.goprimetime.info/feed/202306140918/ch8/index.m3u8
 http://61.19.242.134/feed/202306140918/chmcothd/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🆀🆄🅾🅲 🆃🅴" logo="https://cdn.hqth.me/logo/217.png", KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+http://gg.gg/KBSWORLD
 #EXTINF:0 type="stream" channelId="-1" group-title="🆀🆄🅾🅲 🆃🅴" logo="https://mytv.com.vn/upload/channel/65.png", TV5Monde Asie
-https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-
+http://gg.gg/TV5MONDEASIE
+#EXTINF:-1 tvg-id="nhkworldhd" tvg-name="NHK World Japan_HD" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.imgur.com/OJd9r6E.png",NHK WORLD JAPAN_HD
+http://gg.gg/nhkworldMYVN
+#EXTINF:-1 tvg-id="dw" tvg-name="DW_HD" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.imgur.com/op6hPn3.png",DW_HD
+http://gg.gg/DWMYVN
+#EXTINF:-1 tvg-id="channelnewsasia" tvg-name="Channel NewsAsia_HD" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.imgur.com/MztDCW5.png",Channel NewsAsia_HD
+http://gg.gg/CNAMYVN
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN_HD" group-title="Q🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN_HD
+http://gg.gg/CNNMYVN
+#EXTINF:-1 tvg-name="BBC News" group-title="Q🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.imgur.com/LjOE7VC.png",BBC World News HD
+http://gg.gg/BBCWorldNewsMYVN
 
 ---------------------------------------👶| Thiếu nhi----------------------------------------
+#EXTINF:-1 tvg-id="animaxhd" group-title="👶| Thiếu nhi" tvg-logo="https://i.imgur.com/ltRW5ev.png",ANIMAX_HD
+http://gg.gg/ANIMAXMYVN
+#EXTINF:-1 tvg-id="babytvhd"  group-title="👶| Thiếu nhi" tvg-logo="https://i.imgur.com/ZfV0s1S.png",Baby TV_HD
+http://gg.gg/BABYTVMY
+#EXTINF:-1 tvg-id="cartoonhd"  group-title="👶| Thiếu nhi" tvg-logo="https://i.imgur.com/OLeTUpu.png",Cartoon Network_HD
+http://gg.gg/CartoonNetworkMY
+#EXTINF:-1 tvg-id="dreamworks" tvg-name="Dreamwork_HD" group-title="👶| Thiếu nhi" tvg-logo="https://i.imgur.com/zE5oU1T.png",Dreamwork_HD
+http://gg.gg/DreamworkMYVN
 #EXTINF:0 type="stream" channelId="-1" group-title="👶| Thiếu nhi" logo="https://dl.dropboxusercontent.com/s/lslvqe41s8j7itv/PBS", PBS Kids HD
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="👶| Thiếu nhi" logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png", Happy Kids HD
