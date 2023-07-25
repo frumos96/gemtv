@@ -145,22 +145,22 @@ http://b4tv.live/b4tv/b4tv/6.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://bep40.me/live/b4tv3.gif", B4TEST2
 http://b4tv.live/b4tv/b4tv/7.m3u8
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE MY+ DRM
-http://gg.gg/CINEVTEL
 http://gg.gg/MYCINE
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE B4TV
 https://iplogger.com/CINEB4TV
 #EXTINF:-1 group-title="🎬| Phim" group-logo="https://tchiphuong.github.io/iptv/images/background/k-plus.png" tvg-id="kcinehd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png",CINE VIETTEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Qg+QQeS1MmBhQI7u2n80aA","kid":"nQdw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"F+eU3yitSHnkFFYtE4+Z2Q","kid":"5Utw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"sbTHo540AyIwLSJXW37szQ","kid":"8k+0EeOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"P7qdnqQX/GQO0jZmMdQYrw","kid":"3ly0KTKK2e/i8ZU5nQ1apQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/xfbpj7ykqsc2pvjm0fw8y/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=nzzxy3pdbk52iahjgxlcrndf9&mykplus&id=kcine
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv3.gif" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", LIFE MY+ DRM
 http://gg.gg/MYLIFEPLUS
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv3.gif" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", LIFE B4TV
 https://iplogger.com/LIFEB4TV
 #EXTINF:-1 group-title="🎬| Phim" group-logo="https://tchiphuong.github.io/iptv/images/background/k-plus.png" tvg-id="klifehd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-life.png",LIFE VIETTEL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rYzTVA6IU25BWyCi6eFMsw","kid":"LDpBJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"/RhsW9MUFJ2qkzxx0M61SA","kid":"dH5BJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"MZj/PKMmrAC+/gj9Mb9tPA","kid":"gYKFVZeYlI9krXpiPNl76Q"},{"kty":"oct","k":"JhP3tQTc0MyUQBhFKh5wSQ","kid":"bY+FbeaYlI9krXpiPNl76Q"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/qv5peeqosyx1u4mhid3qg/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=n1ckmhwyj7h3gxgjyq9xnkgiw&mykplus&id=klife
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬| Phim" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
@@ -1278,7 +1278,7 @@ http://gg.gg/MYSPORT1HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1gNT9vX7GvZq9LqBJPRCmg","kid":"Rh9cpYhBGGHdJ81O+EHPWg"},{"kty":"oct","k":"eMr9GRHIgscXF6UCmKvqBA","kid":"jmNcpYhBGGHdJ81O+EHPWg"},{"kty":"oct","k":"6lBJy/L4bqiv8DNrJ6MC0A","kid":"m2eg1ohBGGHdJ81O+EHPWg"},{"kty":"oct","k":"t/A+Ss9g96Hkk90WbG8TIQ","kid":"h3Sg7tdBGGHdJ81O+EHPWg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com//scl/fi/rf8wzhmnli5z52rrfbyth/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=5flwrfz5gkoi3lb1jthvv9kgf&mykplus&id=ksports1
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1  group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 C2+
 https://iplogger.com/C2B4TV
@@ -1286,28 +1286,10 @@ https://iplogger.com/C2B4TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n6k+TEUTx+p5Bj+XB69aQw","kid":"55jZeGj4rhMV4y/yxpkZww"},{"kty":"oct","k":"WG+ZbXW/pusa9Z7BwtiVow","kid":"L9zZeGj4rhMV4y/yxpkZww"},{"kty":"oct","k":"l5Iw6Kja8Q6B95kPL5nk5w","kid":"POAdqWj4rhMV4y/yxpkZww"},{"kty":"oct","k":"aASJKkeMlZ63BNMI5sF3Og","kid":"KO0dwbf4rhMV4y/yxpkZww"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/ftqk4dar06k279ybn91iq/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=srmjegzonczwgpp7ci2sqcvl0&mykplus&id=ksports2
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1  group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MY+
 http://gg.gg/MYSPORT2HD
-#EXTINF:-1  group-title="💚SPORT ASEAN" tvg-logo="https://i.imgur.com/feCOwYI.jpg",LIVE FOOTBALL 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97251b767c404371a0cf0cf25fffdf36:766a7aa6b9abe109623b3ce0824ba98d
-https://sglive.akamaized.net/bpk-tv/prod_klive1/default/index.mpd
-#EXTINF:-1  group-title="💚SPORT ASEAN" tvg-logo="https://i.imgur.com/HA6O7mZ.jpg",LIVE FOOTBALL 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dDne6KZ62B+Zto18e/p50g", "kid":"QXSdPAX5TOyqmN8rMVrTCQ" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/i.mpd
-#EXTINF:-1  group-title="💚SPORT ASEAN" tvg-logo="https://i.imgur.com/0saFodK.jpg",LIVE FOOTBALL 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8dc1da9c615d46e195b5ec8691507887:8e1c2aaa4ff12f48e783210331e0a0b9
-https://sglivecdn.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 1
 #https://livevlive.vtvcab.vn/ONSPORT1/m30_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
