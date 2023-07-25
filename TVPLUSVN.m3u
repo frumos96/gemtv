@@ -145,6 +145,7 @@ http://b4tv.live/b4tv/b4tv/6.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://bep40.me/live/b4tv3.gif", B4TEST2
 http://b4tv.live/b4tv/b4tv/7.m3u8
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE MY+ DRM
+http://gg.gg/CINEVTEL
 http://gg.gg/MYCINE
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE B4TV
 https://iplogger.com/CINEB4TV
