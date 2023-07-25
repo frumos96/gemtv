@@ -260,6 +260,8 @@ http://124.232.233.15:6610/000000001001/201600020006/1400.m3u8?m3u8_level=2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-logo="http://gg.gg/FlixImge" group-title="🎬| Phim",IN: &FLIX (4K).
+http://gg.gg/FlixIN
 #EXTINF:0 tvg-id="man" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/man/dvr-${start}-${offset}.m3u8", Man 360
 https://tiemnhazunn.click/tv360/tv360.php?id=237
 #EXTINF:0 tvg-id="woman" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/woman/dvr-${start}-${offset}.m3u8, Woman SCTV
@@ -318,13 +320,11 @@ http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19
 http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 https://cdn.hklive.tv/xxxx/96/index.m3u8
 http://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizismart-max-tr.png" group-title="🎬| Phim",DiziSmart_MAX HD TURKEY
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizismart-max-tr.png" group-title="🎬| Phim",Bein Movies Turk HD🇹🇷
+http://gg.gg/BeinMoviesTurk
 http://iptvmedia.live:8080/Gamsgo677/72712fbe/32147
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="🎬| Phim",DiziSmart_Premium HD TURKEY
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823
-http://iptvmedia.live:8080/Gamsgo677/72712fbe/15714
 #EXTINF:-1 group-title="🎬| Phim" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",Sky Romance TV FHD DE
-http://aqkez3l8.socminlt.com/iptv/VTCV7ERRUTH55R/7231/index.m3u
+http://gg.gg/SkyRomanceDE
 #EXTINF:-1 tvg-id="hbo2" tvg-logo="https://i.ibb.co/McRYfZH/test.gif" group-title="🎬| Phim",Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://i.ibb.co/SX5T9B9/Cine-Life-cc.webp" group-title="🎬| Phim",CineLife
@@ -506,16 +506,16 @@ http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=90
 #EXTVLCOPT:network-caching=1000
 http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19161/index.m3u8
 #http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7500.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 1 TURKEY⁴ᴷ
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 1 🇹🇷⁴ᴷ
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNErq0Xo-NUQh-AvVQC1PmLmHCw9cpCwcBCuGDqALdUcT/ts
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNGh2arrmyll-PXtWVpuO8x0/ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-2-743.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 2 TURKEY⁴ᴷ
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-2-743.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 2 🇹🇷⁴ᴷ
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNEofYgYf8Vj-GQSImOXLcfk/ts
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNAP_2ajFHVzgQjqpvgP4jCtQDRhJq72HqFvJ3YjXSGjV/ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 3 TURKEY PL
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 3 🇹🇷 PL
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1144.ts
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNIcGxNh58e0hDb_KqYtdCNE/ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 4 TURKEY BUNDESLIGA
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 4 🇹🇷 BUNDESLIGA
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNPAmMtvJBpj81VJ4yATLYfZcfuJ34xa1qX8MHHR6BjZV/ts
   #EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylp5fQN2WlloPJvYlNcWQgiwP1sB6xZCcsbOLxOyk_co.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSPORTS PREMIUM 1⁴ᴷ HD_🇸🇦
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238261&extension=ts&play_token=
