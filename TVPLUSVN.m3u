@@ -258,9 +258,7 @@ http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="http://n.ysyz.top:99/buyaolian/hunandsj.png" group-title="🎬| Phim",湖南电视剧 Hunan TV Series HD
 http://124.232.233.15:6610/000000001001/201600020006/1400.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="🎬| Phim",IQYI🇲🇾
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+http://gg.gg/iqiyicn
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-logo="http://gg.gg/FlixImge" group-title="🎬| Phim",IN: &FLIX (4K).
 http://gg.gg/FlixIN
 #EXTINF:0 tvg-id="man" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/man/dvr-${start}-${offset}.m3u8", Man 360
