@@ -2,21 +2,11 @@
 
 
 #EXTINF:-1 group-title="K+hqth" tvg-id="kcinehd" tvg-logo="https://tchiphuong.github.io/iptv/images/square/k-cine-hd.png",K+ CINE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeycinehd?key=20/2991888829/80keokeo
-https://hqth.me/kpluscinehd?id=kplus20/seasonid:2991/cine.mpd
+https://v3.sportsonline.sx/channels/hd/hd1.php
 #EXTINF:-1 group-title="K+hqth" tvg-id="klifehd" tvg-logo="https://tchiphuong.github.io/iptv/images/square/k-life-hd.png",K+ LIFE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeylifehd?key=28/199022112/80keokey
-https://hqth.me/kpluslifehd?id=20/seasonid:4763/live992/life.mpd
+https://v3.sportsonline.sx/channels/hd/hd2.php
 #EXTINF:-1 group-title="K+hqth" tvg-id="ksport1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/square/k-sport1-hd.png",K+ SPORT 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeysports1hd?key99/738829912/20sportskeokey
-https://hqth.me/kplussports1hd?id=klifesports291/seasonid:83112232211/sports.mpd
+https://v3.sportsonline.sx/channels/hd/hd3.php
 #EXTINF:-1 group-title="K+hqth" tvg-id="ksport2hd" tvg-logo="https://tchiphuong.github.io/iptv/images/square/k-sport2-50fps.png", K+ SPORT 2 50FPS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
