@@ -147,6 +147,8 @@ http://b4tv.live/b4tv/b4tv/5.m3u8
 http://b4tv.live/b4tv/b4tv/6.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://bep40.me/live/b4tv3.gif", B4TEST2
 http://b4tv.live/b4tv/b4tv/7.m3u8
+#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="🆀🆄🅾🅲 🆃🅴",北京体育休闲,
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226730/1.m3u8
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE MY+ DRM
 http://gg.gg/MYCINE
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE B4TV
@@ -1238,8 +1240,6 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226659/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226679/1.m3u8
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="🆀🆄🅾🅲 🆃🅴",北京纪实科教HD,
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226656/1.m3u8
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="🆀🆄🅾🅲 🆃🅴",北京体育休闲,
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226730/1.m3u8
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://live.yoitv.com:9083/query/s/gnpNcLEhwujjXOxTl7gaJg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS-Nippon TV🇯🇵
 http://203.162.235.41:16095/
 #EXTINF:-1 tvg-id="TBS.jp" tvg-name="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="🆀🆄🅾🅲 🆃🅴",TBS🇯🇵
