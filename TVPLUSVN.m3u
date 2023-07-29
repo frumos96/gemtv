@@ -616,8 +616,7 @@ http://180.69.179.235:9981/stream/channelid/509875291?ticket=778AAD76F0DC588F030
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州⁴ᴷ
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6708" tvg-logo="http://epg.it999.ru/img2/6708.png" tvg-rec="0",BOX⁴ᴷ Relax
-#EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19283/index.m3u8
+https://iplogger.com/BOXRELAX4K
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩"  tvg-logo="https://i.ytimg.com/vi/uYWzZ3EDuGQ/maxresdefault.jpg" ,FLYING OVER SWEDEN ULTRAHD⁴ᴷ
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=217671&extension=ts&play_token=
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6013" tvg-logo="http://epg.it999.ru/img2/6013.png" tvg-rec="0",UHD1⁴ᴷ DE
@@ -629,14 +628,12 @@ http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/16044/index.m3u8
 http://xcui.vitvabc.xyz:8880/287994016381/287994016381/31278
 http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/124514
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6707" tvg-logo="http://epg.it999.ru/img2/6707.png" tvg-rec="0",BOX⁴ᴷ Music
-#EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19282/index.m3u8
+https://iplogger.com/BOXMUSIC4K
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="4766" tvg-logo="http://epg.it999.ru/img/4766.png" tvg-rec="7",BCU⁴ᴷ Ultra
 #EXTVLCOPT:network-caching=1000
 http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/110456/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="5561" tvg-logo="http://epg.it999.ru/img2/5561.png" tvg-rec="0",BCU⁴ᴷ Premiere Ultra
-#EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/15023/index.m3u8
+https://iplogger.com/BCUPremiereUltra4K
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上⁴ᴷ
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EE6DBA9B-428F-460D-BAE3-5480771810C0.jpeg",北京IPTV⁴ᴷ
@@ -1093,11 +1090,9 @@ http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/665206
 http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/211917
 #http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/192770
 #EXTINF:0 group-title="🎵|Music" tvg-id="5948" tvg-logo="http://epg.it999.ru/img2/5948.png" tvg-rec="0",FRESH POP HIT
-#EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/18084/index.m3u8
+https://iplogger.com/FRESHPOPHIT
 #EXTINF:0 group-title="🎵|Music" tvg-id="6273" tvg-logo="http://epg.it999.ru/img2/6273.png" tvg-rec="0",FRESH Russian Pop HD
-#EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/18085/index.m3u8
+https://iplogger.com/FRESHRussianPop
 #EXTINF:-1 tvg-name="POWER LOVE" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgA5oYN1Lr2PjakdQv.png" group-title="🎵|Music", POWER LOVE
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER+" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgA5oYN1Lr2PjakdQv.png" group-title="🎵|Music", POWER+
@@ -1626,11 +1621,9 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918982&extensi
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="💚SPORT ASEAN",YES Sport 1 HD🇮🇱
-#EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/12249/index.m3u8
+http://gg.gg/YESSport1IL
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="💚SPORT ASEAN",YES Sport 2 HD🇮🇱
-#EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/12250/index.m3u8
+http://gg.gg/YESSport2IL
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="💚SPORT ASEAN",YES Sport 3 HD🇮🇱
 #EXTVLCOPT:network-caching=1000
 http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2388/index.m3u8
