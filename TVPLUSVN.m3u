@@ -329,12 +329,8 @@ http://iptvmedia.live:8080/Gamsgo677/72712fbe/32147
 http://gg.gg/SkyRomanceDE
 #EXTINF:-1 tvg-id="hbo2" tvg-logo="https://i.ibb.co/McRYfZH/test.gif" group-title="🎬| Phim",Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="hbo3" tvg-logo="https://i.ibb.co/SX5T9B9/Cine-Life-cc.webp" group-title="🎬| Phim",CineLife
-https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://image.lichphimrap.com/resize-image.php?src=raps/cinebox.png&" group-title="🎬| Phim", Cinebox HD
 http://66.160.192.241/cineboxcinehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="hbo3" tvg-logo="https://image.lichphimrap.com/resize-image.php?src=raps/cinebox.png&" group-title="🎬| Phim", BOX FILM
-https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://i.postimg.cc/rwwGLnGY/20230520-094143.jpg" group-title="🎬| Phim",Galaxy Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
@@ -358,14 +354,14 @@ http://crackle-xumo.amagi.tv/playlistX432p.m3u8
 https://iplogger.com/hallmarkm0vi3
 http://evolved.host:8080/JsnCdcSSe8/CWvQ6KPTQR/509118
 #EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1920px-LMN_logo_2019.svg.png", Lifetime Movie Network HD
-http://gg.gg/LIFETIMEUS
 https://iplogger.com/LMNUS
+http://gg.gg/LIFETIMEUS
 #EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png", Lifetime US HD
 http://gg.gg/LMNUS
 #EXTINF:0  group-title="🎬| Phim" logo="https://mumbrella.com.au/wp-content/uploads/2016/10/SBS_VICELAND_LOGO_BLACK-468x126.jpg",SBS VICELAND AU
 http://gg.gg/SBSVICELAND
 #EXTINF:0  group-title="🎬| Phim" logo="https://saveoursbs.org/wp-content/uploads/2019/05/SBS-World-Movies-5.png",SBS HD AU
-	http://gg.gg/SBSHD_AU
+http://gg.gg/SBSHD_AU
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="🎬| Phim",Family Flix HD
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUPE_NjPQjwkobVIbmsqf5eP9HHEHDsir1-hKJ_=s900-c-k-c0x00ffffff-no-rj" group-title="🎬| Phim",My time Movies Network
@@ -509,15 +505,14 @@ http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=90814&extensi
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=443338&extension=ts&play_token=f5SxajYgdf
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6583" tvg-logo="http://epg.it999.ru/img2/6583.png" tvg-rec="0",ELEVEN SPORTS 1⁴ᴷ_🇵🇹
 #EXTVLCOPT:network-caching=1000
-http://f2u5ntiy.megogo.xyz/iptv/N5U4GHRQQ5WAL9/20068/index.m3u8
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/20068/index.m3u8
+https://iplogger.com/ELEVENSPORTS1PL4K
 #http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7518.ts
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6583" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" tvg-rec="0",ELEVEN SPORTS 1 UHD PL⁴ᴷ
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=905665&extension=ts&play_token=0jUPfyTJIv
 #http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/209231
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="6585" tvg-logo="http://epg.it999.ru/img2/6585.png" tvg-rec="0",SPORT TV1⁴ᴷUHD PT
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19161/index.m3u8
+https://iplogger.com/SPORTTV1PT
 #http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7500.ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 1 🇹🇷⁴ᴷ
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNErq0Xo-NUQh-AvVQC1PmLmHCw9cpCwcBCuGDqALdUcT/ts
@@ -575,7 +570,7 @@ http://gg.gg/BBCSPORT
 https://7pal.short.gy/VSportUHD
 #EXTINF:1 tvg-id="viasatsport.fi" group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/vvmq4zv/Vsport-Uhd.png",⚽ V Sport Ultra ⁴ᴷ
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19163/index.m3u8
+https://iplogger.com/VSPORTULTRA
 #EXTINF:-1  group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://img.freepik.com/premium-vector/soccer-football-logo-vector_7888-111.jpg", TF1 ⁴ᴷ UHD
 http://gg.gg/TF1FR4K
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png",咪咕体育-MiGU 4K-HLG源
@@ -589,12 +584,11 @@ https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000/mnf.m3u8
 http://91.126.228.141:9981/stream/channelid/632049248?profile=pass
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="2803" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",ULTRA REX UHD⁴ᴷ
 #EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/5003/index.m3u8
+https://iplogger.com/ULTRAREX4K
 #EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",DIGI⁴ᴷ
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
 #EXTINF:-1 tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",TRAVELXP⁴ᴷ
-#EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/14026/index.m3u8
+https://iplogger.com/TRAVELXP4K
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" tvg-rec="3",TRT⁴ᴷ
 http://my-media.ddns.me:52381/kino.de@38789o46/kino@de5145611zt09/8609.ts
 #http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/245
@@ -605,11 +599,9 @@ http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/19091/index.m3u8
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://yt3.googleusercontent.com/wbxCrYrRYvuTn3oB-qst3TFyzOFimf9HRHlZKSfyp2l11qisukhaxU89H17w_Orvv4-xOeBiQX4=s900-c-k-c0x00ffffff-no-rj",N1 Play⁴ᴷ ULTRAHD SE
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=213219&extension=ts&play_token=
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-id="2802" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen⁴ᴷ TV
-#EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/5002/index.m3u8
+https://iplogger.com/MyZen4KTV
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/pLr9bX3/Sky-Nature.png",🍀| SKY HIGH NATUR ⁴ᴷHDR
-#EXTVLCOPT:network-caching=1000
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/14248/index.m3u8
+https://iplogger.com/SKYHIGHNATURE4K
 #EXTINF:0 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/pLr9bX3/Sky-Nature.png",🍀| SKY HIGH NATURE⁴ᴷ
 #EXTVLCOPT:network-caching=1000
 http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/14247/index.m3u8
@@ -1177,12 +1169,8 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226635/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-3
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-6
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226699/1.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-7
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-8
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-9
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226651/1.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-10
