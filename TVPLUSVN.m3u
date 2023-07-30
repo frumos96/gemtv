@@ -1115,6 +1115,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunkist.m3u8
 https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://i.imgur.com/FeFMOxH.png", MTV HD
+https://iplogger.com/MTV
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/69/hd/dvr-${start}-${end}.m3u8", Music Box HD
 https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
@@ -1256,6 +1257,8 @@ https://tiemnhazunn.click/japantv/?id=55
 https://iplogger.com/WOWOWCinemaJP
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="movieplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス / Movie Plus
 https://tiemnhazunn.click/japantv/?id=73
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="movieplus" tvg-logo="https://iplogger.com/VJapanChannel", 緯來日本 / Videoland Japan Channel
+https://iplogger.com/VideolandJapanChannel
 #EXTINF:0 group-title="🆀🆄🅾🅲 🆃🅴" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS_🇰🇷 
 https://s.id/1Gd2Q
 #EXTINF:0 group-title="🆀🆄🅾🅲 🆃🅴" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/330px-KBS_2_logo.svg.png", KBS2_🇰🇷
@@ -1283,16 +1286,20 @@ http://gg.gg/ANC_PH
 http://gg.gg/TFC_PH
 #EXTINF:-1 tvg-id="Channel3.th" group-title="🆀🆄🅾🅲 🆃🅴"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://iplogger.com/CH3TH
 http://gg.gg/CHANNEL3TH
 http://61.19.242.134/feed/202306140918/ch3hd/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/ch3hd/index.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🆀🆄🅾🅲 🆃🅴"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png", CH5 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://iplogger.com/CH5TH
 http://gg.gg/CHANNEL5TH
+http://103.112.191.9:880/LAOSAT1055.m3u8
 http://61.19.242.134/feed/202306140918/ch5hd/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/ch5hd/index.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🆀🆄🅾🅲 🆃🅴"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png", CH7 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://iplogger.com/CH7TH
 http://gg.gg/CHANNEL7TH
 http://61.19.242.134/feed/202306140918/ch7hd/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/ch7hd/index.m3u8
@@ -1629,9 +1636,9 @@ http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&c
 #EXTINF:-1,tvg-id="愛爾達體育2" tvg-name="愛爾達體育2" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2.png" group-title="💚SPORT ASEAN",愛爾達體育2 Elta•2🇹🇼
 http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
 #EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-1-1659.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 1 HD_🇹🇼
-http://61.221.81.93:8078/hls/25/80/esport.m3u8
+https://iplogger.com/Eleven1TW
 #EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-2-1660.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 2 HD_🇹🇼
-http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+https://iplogger.com/Eleven2TW
 #EXTINF:-1 tvg-logo="https://cdn.onews.tv/news/photo/202204/122177_141445_3952.jpg" group-title="💚SPORT ASEAN", TvN SPORTS_🇰🇷
 https://cdn-us-154.cloudrsst.com/live/olivetv_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="💚SPORT ASEAN", SPOTV 1_🇰🇷
@@ -1697,8 +1704,10 @@ http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=683117&e
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png" group-title="💚SPORT ASEAN",SPOTV-2🇮🇩
 http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941564&extension=ts&play_token=shareext.ts
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png" group-title="💚SPORT ASEAN",True Premier League 1 HD_🇹🇭
+https://iplogger.com/True1PremierLeague
 http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115758&extension=m3u8&play_token=shareext@truePremier1Eng.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png" group-title="💚SPORT ASEAN",True Premier League 2 HD_🇹🇭
+https://iplogger.com/True2PremierLeague
 http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115508&extension=m3u8&play_token=shareext@truePremier2Eng.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png" group-title="💚SPORT ASEAN",True Premier League 3 HD_🇹🇭
 http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115511&extension=m3u8&play_token=shareext@truePremier3Eng.m3u8
@@ -1706,6 +1715,10 @@ http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115511&exten
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 http://61.19.242.134/feed/202306140918/chpptvhd3/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="💚SPORT ASEAN",True Sport 1 HD_🇹🇭
+http://gg.gg/TRUESPORT1
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="💚SPORT ASEAN",True Sport 2 HD_🇹🇭
+http://gg.gg/TRUESPORT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=115501&extension=ts&play_token=
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="💚SPORT ASEAN",Now Sports 1_🇭🇰
