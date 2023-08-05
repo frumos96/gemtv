@@ -389,6 +389,8 @@ http://gg.gg/LMNUS
 http://gg.gg/SBSVICELAND
 #EXTINF:0  group-title="🎬| Phim" logo="https://saveoursbs.org/wp-content/uploads/2019/05/SBS-World-Movies-5.png",SBS HD AU
 http://gg.gg/SBSHD_AU
+#EXTINF:-1 group-title="🎬| Phim" logo="https://th.bing.com/th/id/OIP.WrhDWXPpeZQBailL4k3z7gAAAA?pid=ImgDet&rs=1",PARAMOUNT+ PRESENTA 
+http://gg.gg/PARAMOUNT-PRE
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="🎬| Phim",Family Flix HD
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUPE_NjPQjwkobVIbmsqf5eP9HHEHDsir1-hKJ_=s900-c-k-c0x00ffffff-no-rj" group-title="🎬| Phim",My time Movies Network
@@ -488,6 +490,11 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787.m3u8
 http://210.210.155.35:80/session/0c338296-303c-11e9-bdab-b82a72d63267/uq2663/h/h08/index2.m3u8
 #EXTINF:-1 tvg-id="GEM.sg" tvg-name="Sony GEM TV" tvg-logo="https://i.ibb.co/x64s18m/GEM.png" group-title="🌿| Lifestyle",SONY GEM
 http://gg.gg/GEMID
+#EXTINF:-1 tvg-id="SGEM.id" tvg-name="GEM HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png" group-title="🌿| Lifestyle",SONY GEM²
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
+https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 #EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="Sony One" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="🌿| Lifestyle",SONY ONE_ASIA
 http://gg.gg/ONE_ID
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/375px-Logo_Lifetime_2020.svg.png" group-title="🌿| Lifestyle",Lifetime✓
