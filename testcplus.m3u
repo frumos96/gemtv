@@ -36,6 +36,34 @@ https://cocc.me/kpluslive2hd?id=kplus02/seasonid=32/i.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cocc.me/livekpluskey3?code=1627739223/live03kplushd
 https://cocc.me/kpluslive3hd?id=kplus03/seasonid=46/i.mpd
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://khanggne.github.io/logo/vstv/vstv-image1.jpg",$ K+CINE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/kpluscine/key.php
+http://vip-livecdn.khanggtivi.duckdns.org/bpk-tv/prod_kplus_cinehd/local
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://khanggne.github.io/logo/vstv/vstv-image2.jpg" group-title="K+",$ K+LIFE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keylife.php
+http://vip-livecdn.khanggtivi.duckdns.org/manifest/K-PLUS-NS-SD/api=wyFu6yfq2HDcaJ4u2878OqfijViXbqEk9ykPKdECzcWjHrmbaSCK2YDx5Z7APpbYaHUPBEa4dx7xXF0t7wvqedhildVM0QCxTzaow
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" logo="https://khanggne.github.io/logo/vstv/vstv-image3.jpg",$ K+ SPORT1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keysport1.php
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://vip-livecdn.khanggtivi.duckdns.org/manifest/K_PLUS_PM_SD/api=eWR9DG56HfYUUU6SFuXc1qAOpB5mD2aDkLd7EyJ8LLMWGSprP7dYe5uSfPJV7jowqD5DAZfM5u08Eaz3ihGKuvzClECJ4kTau6yyL
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://khanggne.github.io/logo/vstv/vstv-image4.jpg",$ K+SPORT2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keysport2.php
+http://vip-livecdn.khanggtivi.duckdns.org/manifest/K_PLUS_PC_SD/api=W0Ytp1PJFI8ayekf9QHZIq0rtVDqZql8fUCoW54PUaI53rkDkYOEljpHUxxjE91UsvYvbJQAUvr0Lq90CY7yBBodMfzCYR1vFAOOK
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://khanggne.github.io/logo/vstv/vstv-image5.jpg",$ K+ Kids
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/kpluskids/key.php
+http://vip-livecdn.khanggtivi.duckdns.org/bpk-tv/prod_kplus_kidshd/local
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png", Astro Arena 2 HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
