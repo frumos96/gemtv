@@ -541,6 +541,8 @@ http://kuchini.site:8080/protoniumtv2020/y76jnexquwGsEZsw/146068
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩"tvg-logo="https://alzabeele.com/wp-content/uploads/2022/10/Promo-1024x1024.jpg",ASTRO_🇲🇾 Supersport2 ⁴ᴷ
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=1016545&extension=ts&play_token=
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EDD40422-068B-429C-80B0-F210D515DF2C.png",Hub🇸🇬 Premier Sport⁴ᴷ
+http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032518&extension=ts&play_hubpremier2UHD
+http://gg.gg/HubP2uhd
 https://7pal.short.gy/HubP2uhd
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-4k-1978.png",Now_🇭🇰 Premier Sport⁴ᴷ
 https://7pal.short.gy/nowsport4k
@@ -1612,6 +1614,12 @@ https://iplogger.com/PimpleTV3RU
 https://iplogger.com/PimpleTV4RU
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream✨" ,Pimple TV 5🇷🇺
 https://iplogger.com/PimpleTV5RU
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="🔴| Livestream✨",🇭🇲OPTUS_1_(Live•Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032471&extension=ts&play_Optus_1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="🔴| Livestream✨",🇭🇲OPTUS_2_(Live•Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032470&extension=ts&play_Optus_2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="🔴| Livestream✨",🇭🇲OPTUS_3_(Live•Event)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032469&extension=ts&play_Optus_3
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-1_🇨🇳
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226855/1.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-2_🇨🇳
@@ -1744,33 +1752,18 @@ http://gg.gg/spo2tvkr
 https://s.id/1MLFr
 #EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu10.png" group-title="💚SPORT ASEAN",MBC_SPORT_+_🇰🇷
 https://s.id/1MLFY
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="💚SPORT ASEAN",Champions TV🇮🇩 1 HD DRM🇮🇩
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="💚SPORT ASEAN",Champions TV🇮🇩 1 HD+🇮🇩
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298512
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880724
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="💚SPORT ASEAN",Champions TV🇮🇩 1 HD KUCHI🇮🇩
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298512
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="💚SPORT ASEAN",Champions TV🇮🇩 2 HD DRM🇮🇩
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="💚SPORT ASEAN",Champions TV🇮🇩 2 HD+🇮🇩
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298513
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880725
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="💚SPORT ASEAN",Champions TV🇮🇩 2 HD KUCHI🇮🇩
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298513
-#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="💚SPORT ASEAN",Champions TV🇮🇩 3 HD DRM🇮🇩
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="💚SPORT ASEAN",Champions TV🇮🇩 3 HD+
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298514
 https://anon.devds.site/link.php?hash=aHR0cDovL2RtdG4udHY6ODA4MC9saXZlL3VsdHJhc2VyNzIzL3FCUzlWZkU0dkMvNDIyMDY3LnRz
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="💚SPORT ASEAN",Champions TV🇮🇩 3 HD KUCHI
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298514
@@ -1979,8 +1972,8 @@ http://gg.gg/NovaSportsPremierLeague
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-prime-2643.png" group-title="⚽ SPORT EUROPE 🇪🇺",Nova Sports PRIME🇬🇷
 http://gg.gg/NovaSportsPRIMEGR
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 1_🇵🇹
-https://iplogger.com/ElevenSports1PT
 http://gg.gg/ElevenSports1PT
+https://iplogger.com/ElevenSports1PT
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 2_🇵🇹
 http://gg.gg/ElevenSports2PT
 https://iplogger.com/ElevenSports2PT
@@ -2091,46 +2084,61 @@ https://iplogger.com/SetantaEurasia_2
 
 ---------------------------------------SPORT AFRICA----------------------------------------
 #EXTINF:-1 tvg-id="supersportblitz.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-blitz-300.png" group-title="SPORT AFRICA",SuperSport Blitz HD_🇿🇦
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28906
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668376
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/682921
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-six-296.png" group-title="SPORT AFRICA",SuperSport GRANDSTAND HD_🇿🇦
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28897
 http://tbs-tv.com:8080/dark/kittylinetv/2629
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668372
 http://987161222318333694.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333694.ts
 #EXTINF:-1 tvg-id="supersportpsl.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="SPORT AFRICA",SuperSport PSL HD_🇿🇦
-=http://987161222318333699.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333699.ts
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28894
+http://987161222318333699.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333699.ts
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668368
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="SPORT AFRICA",SuperSport PremierLeague HD+_🇿🇦
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28896
 http://987161222318333698.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333698.ts
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668369
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-seven-297.png" group-title="SPORT AFRICA",SuperSport LaLiga HD _🇿🇦
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28895
 http://987161222318333698.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333695.ts
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668371
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="SPORT AFRICA",SuperSport Football HD _🇿🇦
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28896
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28901
 http://987161222318333693.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333693.ts
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668374
 #EXTINF:-1 tvg-id="supersportaction.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-fourteen-1144.png" group-title="SPORT AFRICA",SuperSport Action HD _🇿🇦
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28900
 http://987161222318333690.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333690.ts
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668360
 #EXTINF:-1 tvg-id="supersporttennis.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-ten-665.png" group-title="SPORT AFRICA",SuperSport Tennis HD_🇿🇦
+http://ultrontv.xyz:80/Mahen123/Mahen77/151503
 http://987161222318333701.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333701.ts
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668366
 #EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-one-291.png" group-title="SPORT AFRICA",SuperSport Variety 1 HD_🇿🇦
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28899
 http://987161222318333702.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333702.ts
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668365
 #EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-two-292.png" group-title="SPORT AFRICA",SuperSport Variety 2 HD _🇿🇦
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28898
 http://987161222318333702.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333703.ts
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668364
 #EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-three-293.png" group-title="SPORT AFRICA",SuperSport Variety 3 HD_🇿🇦 
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28903
 http://987161222318333702.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333704.ts
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668363
 #EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-four-294.png" group-title="SPORT AFRICA",SuperSport Variety 4 HD_🇿🇦 
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28902
 http://987161222318333702.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333705.ts
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668362
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-maximo-1-301.png" group-title="SPORT AFRICA",SuperSport Máximo 1 HD_🇿🇦
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28907
 http://987161222318333696.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333696.ts
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668361
 #EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Play FHD" tvg-logo="" group-title="SPORT AFRICA",DSTV| SuperSport Play FHD_🇿🇦
+http://ultrontv.xyz:80/Mahen123/Mahen77/151498
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668359
 
 ---------------------------------------FUBOL LATINO----------------------------------------
