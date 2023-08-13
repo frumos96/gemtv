@@ -136,20 +136,26 @@ http://gg.gg/H4IPH0NGTV
 https://on.thhp.vn/thplive/tv1live-transmux.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="📦 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png" catchup="append" catchup-days="2" catchup-source="https://live.thhp.vn/vod/index.m3u8?st=${start}000&et=${end}000&c=thpplus", THP+ HD | TH Hải Phòng
 https://mediatech.vncdn.vn//thplive/tv2live-transmux.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://bep40.me/live/b4tv2.gif", B4BOX
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4box.png", B4BOX (Kênh phim điện ảnh & series)
 http://b4tv.live/b4tv/b4tv/2.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://bep40.me/live/b4tv1.gif",  B4MEN
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4men.png", B4MEN (Kênh đàn ông đích thực)
 http://b4tv.live/b4tv/b4tv/1.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://bep40.me/live/b4tv4.gif", B4EVENT
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4event.png", B4EVENT1 (Kênh sự kiện thể thao)
 http://b4tv.live/b4tv/b4tv/3.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://bep40.me/live/b4tv.gif", B4TUBE
-http://b4tv.live/b4tv/b4tv/4.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://bep40.me/live/b4tv5.gif", B4CONNECT
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4event.png", B4EVENT2 (Kênh sự kiện thể thao)
+http://b4tv.live/b4tv/b4tv/47.m3u8
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4event.png", B4EVENT3 (Kênh sự kiện thể thao)
+http://b4tv.live/b4tv/b4tv/48.m3u8
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4connect.png", B4CONNECT1(Kênh kết nối bóng đá)
 http://b4tv.live/b4tv/b4tv/5.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://bep40.me/live/b4tv3.gif", B4TEST
-http://b4tv.live/b4tv/b4tv/6.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://bep40.me/live/b4tv3.gif", B4TEST2
-http://b4tv.live/b4tv/b4tv/7.m3u8
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4connect.png", B4CONNECT2(Kênh kết nối bóng đá)
+http://b4tv.live/b4tv/b4tv/76.m3u8
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4tube.png", B4TUBE (Kênh giải trí đỉnh cao)
+http://b4tv.live/b4tv/b4tv/4.m3u8
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4event.png", B4TEST1 (Kênh sự kiện thể thao)
+http://b4tv.live/b4tv/b4tv/10.m3u8
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4event.png", B4TEST2 (Kênh sự kiện thể thao)
+http://b4tv.live/b4tv/b4tv/20.m3u8
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="🆀🆄🅾🅲 🆃🅴",北京体育休闲,
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226730/1.m3u8
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", CINE MY+ DRM
