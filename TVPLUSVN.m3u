@@ -433,9 +433,9 @@ http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
 http://gg.gg/DiscoveryAsiaMYVN
 https://e4.endpoint.cdn.sctvonline.vn/hls/asia/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="ngchd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/206.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic
-https://iplogger.com/NATGEO8M
+http://gg.gg/NATGEOHD
 #EXTINF:0 tvg-id="ngwhd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/207.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
-https://iplogger.com/NATGEOWILD
+http://gg.gg/NATGEOWILD
 #EXTINF:0 group-title="🌿| Lifestyle" logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png?fit=960%2C540&ssl=1", AMAGI
 https://xplore-roku.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 group-title="🌿| Lifestyle" tvg-logo="https://www.tastemade.com.br/icons/icon-72x72.png?v=77aa54c80c1f1d706e21e9787677ea4e",Tastemade Travelᴴᴰ
@@ -1130,14 +1130,15 @@ http://tv.ctvcamau.vn/live/tv/tv.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://i.imgur.com/VHOdzjd.jpg", VEVO Pop FHD
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=b72b3d44-8d24-4833-8786-6ea77b1f7935&rendition=1080&session_id=00445cfb-bf4d-7983-d2bb-dabab3c362d5&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
-#EXTINF:0 group-title="🎵|Music" logo="https://i.ibb.co/fQjkFFk/kralpop.jpg", Kral Pop TR
-https://epg.pw/stream/b3edc5c1974901d9383e4c4ef88e7145c542116ede9fe16a53471db48ca7cc20.m3u8
+#EXTINF:0 group-title="🎵|Music" logo="https://i.ibb.co/fQjkFFk/kralpop.jpg", TRT MUZIK
+https://iplogger.com/TRTMUZIK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" group-title="🎵|Music",Drean Tuk HD
 http://gg.gg/DreamTURK
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/6886
 https://epg.pw/stream/c5bcb2c5a24cb9aa99ab4046358bf49524a9346de2222b73f8f0ba380698ed34.m3u8
 #http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/77369
-#EXTINF:0 group-title="🎵|Music" logo="https://dash.tvzinos.com/assets/images/channel/66893.jpg", Gem Latino IR
+#EXTINF:0 group-title="🎵|Music" logo="https://dash.tvzinos.com/assets/images/channel/66893.jpg", GEM MIFA+ IR
+https://iplogger.com/GEMMIFA_IR
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/665206
 http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/211917
 #http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/192770
@@ -1214,70 +1215,103 @@ http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/1242
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/330px-MBC_Drama_Plus_TV_Channel_Logo.png",MBC+ Drama🇦🇪
 http://gg.gg/MBC-UAE
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-1
+https://cntv.sbs/tv?auth=230813&id=cctv1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226635/1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-2
+https://cntv.sbs/tv?auth=230813&id=cctv2
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-3
+https://cntv.sbs/tv?auth=230813&id=cctv3
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-7
+https://cntv.sbs/tv?auth=230813&id=cctv7
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-9
+https://cntv.sbs/tv?auth=230813&id=cctv9
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226651/1.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-10
+https://cntv.sbs/tv?auth=230813&id=cctv10
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-11
+https://cntv.sbs/tv?auth=230813&id=cctv11
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-12
+https://cntv.sbs/tv?auth=230813&id=cctv12
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-13
+https://cntv.sbs/tv?auth=230813&id=cctv13
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-14
+https://cntv.sbs/tv?auth=230813&id=cctv14
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",中国教育1HD,
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",中国教育1HD
+https://cntv.sbs/tv?auth=230813&id=cetv1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226673/1.m3u8
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",湖南卫视HD Hồ Nam
+https://cntv.sbs/tv?auth=230813&id=hunws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",浙江卫视HD Chiết Giang
+https://cntv.sbs/tv?auth=230813&id=zjws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",江苏卫视HD Giang Tô
+https://cntv.sbs/tv?auth=230813&id=jsws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226692/1.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",北京卫视HD Bắc Kinh
+https://cntv.sbs/tv?auth=230813&id=bjws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226719/1.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",东方卫视HD Dragon TV
+https://cntv.sbs/tv?auth=230813&id=dfws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226734/1.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",深圳卫视HD Thâm Quyến
+https://cntv.sbs/tv?auth=230813&id=szws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",安徽卫视HD An Huy
+https://cntv.sbs/tv?auth=230813&id=ahws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226655/1.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png"group-title="🆀🆄🅾🅲 🆃🅴",辽宁卫视HD Liêu Ninh
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",辽宁卫视HD Liêu Ninh
+https://cntv.sbs/tv?auth=230813&id=lnws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226689/1.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",山东卫视HD Sơn Đông
+https://cntv.sbs/tv?auth=230813&id=sdws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226693/1.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",天津卫视HD Thiên Tân
+https://cntv.sbs/tv?auth=230813&id=tjws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226686/1.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",重庆卫视HD Trùng Khánh
+https://cntv.sbs/tv?auth=230813&id=cqws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226680/1.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",东南卫视HD Đông Nam Phúc Kiến
+https://cntv.sbs/tv?auth=230813&id=dnws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226670/1.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",河北卫视HD Hà Bắc
+https://cntv.sbs/tv?auth=230813&id=hbws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226684/1.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png"group-title="🆀🆄🅾🅲 🆃🅴",黑龙江卫视HD Hắc Long Giang
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",黑龙江卫视HD Hắc Long Giang
+https://cntv.sbs/tv?auth=230813&id=hljws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226716/1.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",河南卫视HD Hà Nam
+https://cntv.sbs/tv?auth=230813&id=hnws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226668/1.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png"  group-title="🆀🆄🅾🅲 🆃🅴",湖北卫视HD Hồ Bắc
+https://cntv.sbs/tv?auth=230813&id=hubws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226713/1.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",江西卫视HD Giang Tây
+https://cntv.sbs/tv?auth=230813&id=jxws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226682/1.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",厦门卫视 Đông Bắc
+https://cntv.sbs/tv?auth=230813&id=xmws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226695/1.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",贵州卫视HD Quý Châu
+https://cntv.sbs/tv?auth=230813&id=gzws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226672/1.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",四川卫视HD Tứ Xuyên
+https://cntv.sbs/tv?auth=230813&id=dfws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226659/1.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",海南卫视HD Hải Nam
+https://cntv.sbs/tv?auth=230813&id=hinws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226679/1.m3u8
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="🆀🆄🅾🅲 🆃🅴",北京纪实科教HD Bắc Kinh - Khoa học và giáo dục
+https://cntv.sbs/tv?auth=230813&id=bjjskj
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226656/1.m3u8
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://live.yoitv.com:9083/query/s/gnpNcLEhwujjXOxTl7gaJg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS-Nippon TV🇯🇵
 http://203.162.235.41:16095/
