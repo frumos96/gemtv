@@ -891,47 +891,67 @@ https://code.vthanhtivi.pw/getlink/cliptv/on-golf/chunklist_b5128000.m3u8
 
 ---------------------------------------SCTV----------------------------------------
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV1HD
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV2HD
 #EXTINF:-1 tvg-id="sctv3hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 -SEE TV HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV3HD
 #EXTINF:-1 tvg-id="sctv4hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV4HD
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live-ali4.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV7 HD SHOW TV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV7HD
 #EXTINF:-1 tvg-id="sctv8hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD VITV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV8HD
 #EXTINF:-1 tvg-id="sctv9hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV9HD
 #EXTINF:-1 tvg-id="sctv11hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD TV Star 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV11HD
 #EXTINF:-1 tvg-id="sctv12hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV12HD
 #EXTINF:-1 tvg-id="sctv13hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png", SCTV13 HD Lady TV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV13HD
 #EXTINF:-1 tvg-id="sctv14hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png", SCTV14 HD Kenh Phim Viet
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV14HD
 #EXTINF:-1 tvg-id="sctv15hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD SSPORT2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV15
 #EXTINF:-1 tvg-id="sctv16hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://inet.tinchuanchuaanh.com/hls/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD SSPORT
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV17
 #EXTINF:-1 tvg-id="sctv18hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD Kenh 18
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV18
 #EXTINF:-1 tvg-id="sctv19hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png", SCTV19 HD Channel T
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV19
 #EXTINF:-1 tvg-id="sctv20hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/82.png", SCTV20 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV20
 #EXTINF:-1 tvg-id="sctv21hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png", SCTV21 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV21
 #EXTINF:-1 tvg-id="sctv22hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTV22
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/SCTVPTH
 
 ---------------------------------------HTV----------------------------------------
