@@ -605,8 +605,6 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483919&extensi
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN⁴ᴷ Sports
 https://7pal.short.gy/bein-uhd
 #http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=269457&extension=ts&play_token=
-#EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",Easy Match⁴ᴷ
-http://uniontv.info:8080/31975454hejx/8388373737hwh/351538
 #EXTINF:-1 group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-4k-ultra-hd-2008.png",Canal+⁴ᴷ Foot+
 http://38gb.pro/live/4478355/94943550/ee751bde-8492-4b46-ac91-89415926c247.m3u8
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/209232
@@ -752,9 +750,9 @@ https://iplogger.com/ONMOVIES
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/f5729e7e-bf42-4e7d-988e-6204f94062b4/dvr-${start}-${offset}.m3u8",E Channel VEON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/ECHANNEL
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", ON E Channel CLVIP
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab5-e-channel/dvr-${start}-${offset}.m3u8", ON E Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/cliptv/on-echannel/chunklist_b5128000.m3u8
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab5-e-channel/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/dvr-${start}-${offset}.m3u8", ON Sports+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
