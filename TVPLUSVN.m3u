@@ -288,15 +288,26 @@ http://gg.gg/BOXMOVIE1_VN
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classicsˢᵛ²CLVIP
 http://gg.gg/HOLLYWOOD_CLASSICS
-#EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hitsˢᵛ²TVMY
+#EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box HitsTVMY
 http://gg.gg/boxhitMyTV
-#EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hitsˢᵛ²CLVIP
-https://iplogger.com/BoxHit
+#EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits²CLVIP
+https://iplogger.com/BOXHIT
+#EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits²TVMYK+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/boxhits.php
+https://livecdn.khanggtivi.xyz/manifest/BoxHits_HD/master.mpd
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", InTheBox CLVIP
 http://gg.gg/IN_THE_BOX
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", InTheBoxˢᵛ²
-https://arcgmoblie.site/cliptvmobile/test.php?id=in-the-box-channel
-https://tiemnhazunn.click/cliptv/inthebox.php
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/inthebox.php
+https://livecdn.khanggtivi.xyz/manifest/IntheBox_HD/master.mpd
+#https://arcgmoblie.site/cliptvmobile/test.php?id=in-the-box-channel
+#https://tiemnhazunn.click/cliptv/inthebox.php
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Action-Flix.jpg" group-title="🎬| Phim",PH:Tap Action Flix
 http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297672
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TapMovies-ph.png/330px-TapMovies-ph.png" group-title="🎬| Phim",PH: TAP Movies
