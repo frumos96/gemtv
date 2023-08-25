@@ -8,7 +8,6 @@ http://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1 HD MYTV
 https://iplogger.com/VTV1FHD
-http://gg.gg/HaNoiIPTV-VTV1_HD
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1 HD FPT 
 http://gg.gg/HaNoiIPTV-VTV1_HD
 #EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8", VTV2 FPT
@@ -220,7 +219,6 @@ https://iplogger.com/SCTV4
 http://live.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 http://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="sctv16hd" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HDˢᵛ²
-https://s.id/1SBuX
 https://iplogger.com/SCTV16
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO FHD MY+
