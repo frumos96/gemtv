@@ -38,7 +38,7 @@ http://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 https://arcgmoblie.site/fptplay/getfpt.php?id=vtv4-hd
 http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTINF:0 tvg-id="vtv5tnb" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-https://code.vthanhtivi.pw/getlink/tv360/157/2.m3u8
+https://tiemnhazunn.click/tv360/tv360.php?id=157
 https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
 #EXTINF:0 tvg-id="vtv5tn" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
@@ -132,7 +132,7 @@ http://gg.gg/THHP
 #EXTINF:-1 tvg-id="haiphongplus" group-title="📦 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png" catchup="append" catchup-days="2" catchup-source="https://live.thhp.vn/vod/index.m3u8?st=${start}000&et=${end}000&c=thpplus", THP+ HD | TH Hải Phòng
 https://iplogger.com/THPPLUS
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4box.png", B4BOX (Kênh phim điện ảnh & series)
-http://b4tv.live/b4tv/b4tv/2.m3u8
+http://b4tv.live/b4tv/b4tv/84.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4men.png", B4MEN (Kênh đàn ông đích thực)
 http://b4tv.live/b4tv/b4tv/1.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4event.png", B4EVENT1 (Kênh sự kiện thể thao)
@@ -142,15 +142,17 @@ http://b4tv.live/b4tv/b4tv/47.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4event.png", B4EVENT3 (Kênh sự kiện thể thao)
 http://b4tv.live/b4tv/b4tv/48.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4connect.png", B4CONNECT1(Kênh kết nối bóng đá)
-http://b4tv.live/b4tv/b4tv/5.m3u8
+http://b4tv.live/b4tv/b4tv/86.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4connect.png", B4CONNECT2(Kênh kết nối bóng đá)
 http://b4tv.live/b4tv/b4tv/76.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4tube.png", B4TUBE (Kênh giải trí đỉnh cao)
-http://b4tv.live/b4tv/b4tv/4.m3u8
+http://b4tv.live/b4tv/b4tv/85.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4event.png", B4TEST1 (Kênh sự kiện thể thao)
 http://b4tv.live/b4tv/b4tv/10.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4event.png", B4TEST2 (Kênh sự kiện thể thao)
 http://b4tv.live/b4tv/b4tv/20.m3u8
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4event.png", B4TEST3 (Kênh sự kiện thể thao)
+http://b4tv.live/b4tv/b4tv/4.m3u8
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="🆀🆄🅾🅲 🆃🅴",北京体育休闲,
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226730/1.m3u8
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif", CINE MY+ DRM
@@ -234,27 +236,6 @@ https://hbo-livecdn.khanggtivi.xyz/live_dzones/hbo_1080p/manifest.mpd
 #EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png", HBO HD MYK+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.khanggtivi.xyz/getplay/vthanhtivi_getlink/tvmienphi/hbo-no-drm/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOFamily" group-title="🎬| Phim" tvg-logo="https://img.vnmedia.xyz/logo/hbofamilyhd-asia.png",$ HBO Family HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-https://hbo-livecdn.khanggtivi.xyz/live_dzones/family_1080p/manifest.mpd
-#EXTINF:-1 tvg-id="HBOHits" group-title="🎬| Phim" tvg-logo="https://img.vnmedia.xyz/logo/hbohitshd-asia.png",$ HBO Hits HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-https://hbo-livecdn.khanggtivi.xyz/live_dzones/hits_1080p/manifest.mpd
-#EXTINF:-1 tvg-id="hbosignaturehd-asia" group-title="🎬| Phim" tvg-logo="https://img.vnmedia.xyz/logo/hbosignaturehd-asia.png",$ HBO Signature
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-https://hbo-livecdn.khanggtivi.xyz/live_dzones/signature_1080p/manifest.mpd
 #EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim" logo="https://i.imgur.com/F0N0TmU.jpg", Cinemax HD MYV
 http://gg.gg/cin3maxmyv
 #EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim" logo="https://i.imgur.com/F0N0TmU.jpg", Cinemax HD TV360
@@ -419,6 +400,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTINF:-1 tvg-id="GOLDEN-plus" tvg-logo="https://www.tvplusgratis.com/imge/goldenplus.png"  group-title="🎬| Phim",GOLDEN PLUS en Vivo🇧🇷
 https://iplogger.com/goldenplus
 http://dnsplay.xyz:80/hldoudby/qubRsmkm/34989
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.OXDXrmIfYNMsQV-N1SZGXAHaEE?pid=ImgDet&rs=1"  group-title="🎬| Phim",Universal Cinema🇧🇷
+http://gg.gg/UniversalCinema
 #EXTINF:0 tvg-id="hallmark" group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel🇺🇸
 https://iplogger.com/HALLMARKUS
 #EXTINF:0 tvg-id="hallmark" group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel²🇺🇸
@@ -2213,7 +2196,8 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668359
 http://hidra.live:80/wxFYeXT7K/do95R3pgW2/35149
 http://dnsplay.xyz:80/hldoudby/qubRsmkm/312712
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=130122&extension=ts&play_token=WNgFOTl1ak
-#EXTINF:-1 group-title="FUBOL LATINO" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-universo-723.png",UNIVERSO DEPORTES NETWORK USA
+#EXTINF:-1 group-title="FUBOL LATINO" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-universo-723.png",NBC UNIVERSO 🇺🇸
+http://gg.gg/NBCUNIVERSO
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/34715
 #EXTINF:-1 group-title="FUBOL LATINO" Logo="https://img.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network 🇺🇸
 http://gg.gg/USANETWORK
