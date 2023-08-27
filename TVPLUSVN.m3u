@@ -212,7 +212,7 @@ https://iplogger.com/SCTV16
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO FHD MY+
 http://gg.gg/HBOMYVN
-#EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png", HBO FPT
+#EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png", HBO MYK+
 https://iplogger.com/HBOVN4M
 #EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png", HBO VIEON MPD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -220,9 +220,8 @@ https://iplogger.com/HBOVN4M
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/01.php
 https://hbo-livecdn.khanggtivi.xyz/live_dzones/hbo_1080p/manifest.mpd
-#EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png", HBO MYK+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.khanggtivi.xyz/getplay/vthanhtivi_getlink/tvmienphi/hbo-no-drm/playlist.m3u8
+#EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim" logo="https://imgur.com/UmfhBQU.png", HBO FPT
+http://gg.gg/HBOFPT
 #EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim" logo="https://i.imgur.com/F0N0TmU.jpg", Cinemax HD MYV
 http://gg.gg/cin3maxmyv
 #EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim" logo="https://i.imgur.com/F0N0TmU.jpg", Cinemax HD TV360 MPD
