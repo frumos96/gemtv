@@ -15,9 +15,9 @@ http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 https://k4dzr60ab.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
 http://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8", VTV2 MYTV
-http://gg.gg/HaNoiIPTV-VTV2_HD
+http://gg.gg/VTV2FHD
 #EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8", VTV2 Viettel
-http://171.238.181.52:18080/192.m3u8
+http://gg.gg/HaNoiIPTV-VTV2_HD
 #EXTINF:0 tvg-id="vtv3hd" group-title="📦 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV3 HD FPT
 http://gg.gg/VTV3FHD
 https://k4dzr60ab.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
