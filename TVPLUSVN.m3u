@@ -141,6 +141,8 @@ http://b4tv.live/b4tv/b4tv/20.m3u8
 http://b4tv.live/b4tv/b4tv/4.m3u8
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="🆀🆄🅾🅲 🆃🅴",北京体育休闲,
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226730/1.m3u8
+#EXTINF:-1 tvg-id="999" tvg-name="測試02" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="🎬| Phim", PLAYY 영화
+https://iplogger.com/playykr
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif", CINE MY+ DRM
 https://live2onsport.vtvcab.vn/dash/K_CINE_6965/m20_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
