@@ -1,5 +1,0 @@
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" },{ "kty":"oct", "k":"+TCOiAyPnaUkGdOp99iOjA", "kid":"32kbdnxAQ3GgzwzyX//fNg" },{ "kty":"oct", "k":"I9i6mGzMXKrjePDxNOH9Sw", "kid":"7G1fp3xAQ3GgzwzyX//fNg" },{ "kty":"oct", "k":"I9j2urVJm71OROxK4gRPsw", "kid":"2Hpfv8tAQ3GgzwzyX//fNg" } ], "type":"temporary" }
-https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/i.mpd
