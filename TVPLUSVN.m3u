@@ -1871,25 +1871,42 @@ http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=683117&e
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png" group-title="💚SPORT ASEAN",SPOTV-2🇮🇩
 http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941564&extension=ts&play_token=shareext.ts
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png" group-title="💚SPORT ASEAN",True Premier League 1 HD_🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 https://iplogger.com/True1PremierLeague
-http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115758&extension=m3u8&play_token=shareext@truePremier1Eng.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png" group-title="💚SPORT ASEAN",True Premier League 2 HD_🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 https://iplogger.com/True2PremierLeague
-http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115508&extension=m3u8&play_token=shareext@truePremier2Eng.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png" group-title="💚SPORT ASEAN",True Premier League 3 HD_🇹🇭
-http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115511&extension=m3u8&play_token=shareext@truePremier3Eng.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="💚SPORT ASEAN", PPTV HD_🇹🇭
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 http://61.19.242.134/feed/202306140918/chpptvhd3/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="💚SPORT ASEAN",True Sport 1 HD_🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
 http://gg.gg/TRUESPORT1
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="💚SPORT ASEAN",True Sport 2 HD_🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 http://gg.gg/TRUESPORT2
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="💚SPORT ASEAN",True Sport 2 HD_🇹🇭
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="💚SPORT ASEAN",True Sport 3 HD_🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 http://gg.gg/TRUESPORT3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=115501&extension=ts&play_token=
+#EXTINF:1 tvg-id="TrueSportHD4.th" tvg-logo="https://i.postimg.cc/8cWt32Fj/20220927-064449.png" group-title="💚SPORT ASEAN", True Sport 4 HD_🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="💚SPORT ASEAN",Now Sports 1_🇭🇰
 https://iplogger.com/NOWSPORTS1HK
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-2-1990.png" group-title="💚SPORT ASEAN",Bein Now Sports 2_🇭🇰
@@ -2042,20 +2059,41 @@ http://gg.gg/NovaSportsPRIMEGR
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 1_🇵🇹
 http://gg.gg/ElevenSports1PT
 https://iplogger.com/ElevenSports1PT
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 1 web_🇵🇹 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium455/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 2_🇵🇹
 http://gg.gg/ElevenSports2PT
 https://iplogger.com/ElevenSports2PT
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 2 web_🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium456/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 3_🇵🇹
 http://gg.gg/ElevenSports3PT
 https://iplogger.com/ElevenSports3PT
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 3 web_🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium457/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1503.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 4_🇵🇹
 http://gg.gg/ElevenSports4PT
 https://iplogger.com/ElevenSports4PT
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1503.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 4 web_🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium458/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1504.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 5_🇵🇹
 http://gg.gg/ElevenSports5PT
 https://iplogger.com/ElevenSports5PT
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1504.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 5 web_🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium459/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1505.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 6_🇵🇹
 https://iplogger.com/ElevenSports6PT
+
 #EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",Dazn 1 MPD 🇪🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2150,55 +2188,70 @@ https://iplogger.com/SetantaEurasia_1
 https://iplogger.com/SetantaEurasia_2
 
 ---------------------------------------SPORT AFRICA----------------------------------------
-#EXTINF:-1 tvg-id="supersportblitz.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-blitz-300.png" group-title="SPORT AFRICA",SuperSport Blitz HD_🇿🇦
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28906
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668376
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/682921
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-six-296.png" group-title="SPORT AFRICA",SuperSport GRANDSTAND HD_🇿🇦
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28897
-http://tbs-tv.com:8080/dark/kittylinetv/2629
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668372
-http://987161222318333694.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333694.ts
-#EXTINF:-1 tvg-id="supersportpsl.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="SPORT AFRICA",SuperSport PSL HD_🇿🇦
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28894
-http://987161222318333699.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333699.ts
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668368
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="SPORT AFRICA",SuperSport PremierLeague HD+_🇿🇦
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28896
-http://987161222318333698.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333698.ts
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668369
-#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-seven-297.png" group-title="SPORT AFRICA",SuperSport LaLiga HD _🇿🇦
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28895
-http://987161222318333698.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333695.ts
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668371
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="SPORT AFRICA",SuperSport Football HD _🇿🇦
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28896
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28901
-http://987161222318333693.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333693.ts
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668374
-#EXTINF:-1 tvg-id="supersportaction.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-fourteen-1144.png" group-title="SPORT AFRICA",SuperSport Action HD _🇿🇦
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28900
-http://987161222318333690.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333690.ts
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668360
-#EXTINF:-1 tvg-id="supersporttennis.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-ten-665.png" group-title="SPORT AFRICA",SuperSport Tennis HD_🇿🇦
-http://ultrontv.xyz:80/Mahen123/Mahen77/151503
-http://987161222318333701.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333701.ts
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668366
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-one-291.png" group-title="SPORT AFRICA",SuperSport Variety 1 HD_🇿🇦
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28899
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668365
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-two-292.png" group-title="SPORT AFRICA",SuperSport Variety 2 HD _🇿🇦
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28898
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668364
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-three-293.png" group-title="SPORT AFRICA",SuperSport Variety 3 HD_🇿🇦 
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28903
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668363
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-four-294.png" group-title="SPORT AFRICA",SuperSport Variety 4 HD_🇿🇦 
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28902
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668362
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-maximo-1-301.png" group-title="SPORT AFRICA",SuperSport Máximo 1 HD_🇿🇦
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28907
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668361
+#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand"  tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium412/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport PSL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium413/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium414/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium56/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium415/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Variety 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium416/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Variety 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium417/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Variety 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium418/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Variety 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium419/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="SuperSport Action" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium420/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="SuperSport Tennis" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium423/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="SuperSport Motorsport" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Motorsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium424/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name="SuperSport Maximo 1" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Maximo 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium572/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Play FHD" tvg-logo="" group-title="SPORT AFRICA",DSTV| SuperSport Play FHD_🇿🇦
 http://ultrontv.xyz:80/Mahen123/Mahen77/151498
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668359
