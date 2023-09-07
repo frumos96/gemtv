@@ -161,7 +161,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif", CINE MYK+ MPD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZJ9jbJummMKZm6mWl6WkkZ1lZ15nZZs=&time=1692419975&mykplus&id=kcine
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/cine
 https://akavnpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv3.gif",LIFE B4TV
 https://iplogger.com/LIFEB4TV
@@ -181,7 +181,7 @@ https://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv3.gif", LIFE MYK+ MPD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZJ9jbJummMKZm6mWl6WkkZ1lZ15nZZs=&time=1692419975&mykplus&id=klife
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/life
 https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬| Phim" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
@@ -1512,7 +1512,7 @@ http://gg.gg/MYSPORT1HD
 #EXTINF:-1 group-title="💚SPORT ASEAN" group-logo="https://tchiphuong.github.io/iptv/images/background/k-plus.png" tvg-id="ksport1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png",B41_SPORT🇻🇳 MYK+ MPD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZJ9jbJummMKZm6mWl6WkkZ1lZ15nZZs=&time=1692419975&mykplus&id=ksport1
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/sp1
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 C2+
 https://iplogger.com/C2B4TV
@@ -1525,7 +1525,7 @@ http://gg.gg/MYSPORT2HD
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MYK+ MPD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZJ9jbJummMKZm6mWl6WkkZ1lZ15nZZs=&time=1692419975&mykplus&id=ksport2
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/sp2
 https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 1
 https://liveh12.vtvcab.vn/hls/VSTV9_FASTCHANNEL/03.m3u8
