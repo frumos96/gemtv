@@ -265,18 +265,25 @@ https://iplogger.com/BOXHIT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/boxhits.php
+#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/boxhits/?token=0acfbc50a01253f6b1efb91610c17bfdf7da2836e54a9d432b65e5a53a3634927f&time=1693764408&id=box-hits
 https://livecdn.khanggtivi.xyz/manifest/BoxHits_HD/master.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZpxmaJqil8KZm6mWl6WkkZ1lZl5oY6I=&time=1694145834&tv360&id=239
+http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", InTheBox CLVIP
 http://gg.gg/IN_THE_BOX
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", InTheBox² MPD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/inthebox.php
-https://livecdn.khanggtivi.xyz/manifest/IntheBox_HD/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZpxmaJqil8KZm6mWl6WkkZ1lZl5oY6I=&time=1694145834&tv360&id=235
+http://code.vthanhtivi.pw/getlink/tv360_2/235/manifest.mpd
 #https://arcgmoblie.site/cliptvmobile/test.php?id=in-the-box-channel
 #https://tiemnhazunn.click/cliptv/inthebox.php
+#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://bit.ly/40x0pxx" ,MY Cinema Asia🇮🇩 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://210.210.155.37/x6bnqe/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Action-Flix.jpg" group-title="🎬| Phim",PH:Tap Action Flix
 http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297672
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TapMovies-ph.png/330px-TapMovies-ph.png" group-title="🎬| Phim",PH: TAP Movies
@@ -499,7 +506,11 @@ http://gg.gg/AnimalPlanetMYVN
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/233.png", Hits
 https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:-1 tvg-id="historyhd" tvg-name="History" tvg-logo="https://i.ibb.co/d2dJNWn/cchistory.webp" group-title="🌿| Lifestyle",🍀|History VNP
-http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 ( Gecko) Chrome/81.0.4044.138 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/hsh8o8z2wxuff49l6wsxl/keys/token=ibbXxNHQvd3ezuXUxuCRYWZvYptma5ujlMKZnaKZnqOdlJxgYmNu&time=1690048941&?rlkey=7e3pb8r70n94gqpqcqi9u6azj&kplus&id=124
+http://vip-livecdn.khanggtivi.duckdns.org/bpk-tv/prod_history/default/i.mpd
 #EXTINF:-1 tvg-id="historyhd" tvg-name="History" tvg-logo="https://i.ibb.co/d2dJNWn/cchistory.webp" group-title="🌿| Lifestyle",🍀|History MYK+ MPD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -508,10 +519,11 @@ https://sglivevega.kplus.vn/bpk-tv/prod_history/default/index.mpd
 #EXTINF:-1 tvg-id="dmax" group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0 tvg-id="dmaxhd" group-title="🌿| Lifestyle" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg",DMAX MPD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY5tmZpegnMKZm6mWl6WkkZ1lZ15nZZs=&time=1691043519&cliptv&id=dmax
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://live-vbsplus2.khanggtivi.xyz/key/vieon/?token=88438a38292435b939845652c4f3da3c612698a4&time=1693897965824&live_msky&id=dmax
+https://livecdn.khanggtivi.xyz/getplay/vieon/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="🌿| Lifestyle",KPLUS HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787.m3u8
 http://210.210.155.35:80/session/0c338296-303c-11e9-bdab-b82a72d63267/uq2663/h/h08/index2.m3u8
@@ -2189,7 +2201,7 @@ http://safe.avivainsur.com:8080/Vizyon/cKC3fXZqRVTw/51416
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-ultra-hd-sweden.png" group-title="⚽ SPORT EUROPE 🇪🇺",V Sport UltraHD DK
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=114242&extension=ts&play_token=
 #EXTINF:1 tvg-id="" group-title="⚽ SPORT EUROPE 🇪🇺" tvg-logo="https://i.ibb.co/SrgjJjP/Vsportfootball.png" tvg-name="",⚽ V-Football
-http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/12076/index.m3u8
+http://87c576b1.cbilant.com/iptv/8E52MW5BS9BCE7/12076/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="⚽ SPORT EUROPE 🇪🇺",VIAPLAY SPORTS 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163607&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="⚽ SPORT EUROPE 🇪🇺",VIAPLAY SPORTS 2
@@ -2199,7 +2211,7 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=546807&extension=
 #EXTINF:1 tvg-id="freesports.uk" group-title="⚽ SPORT EUROPE 🇪🇺" tvg-name="Viaplay Xtra FHD VIP UK" tvg-logo="https://i.ibb.co/2yCdzKP/VSport-Extra.png",Viaplay Xtra FHD
 http://dc62c084.ottolok.net/iptv/8E52MW5BS9BCE7/12074/index.m3u8
 #EXTINF:1 tvg-id="premiersports.uk" tvg-name="Premier Sports 1 FHD VIP UK" tvg-logo="https://i.ibb.co/hDw5FSg/v-sport1.png" group-title="⚽ SPORT EUROPE 🇪🇺",⚽| V-Premium Sports
-http://87c576b1.cbilant.com/iptv/6GXDRQ5GNUAXH7/12079/index.m3u8
+http://87c576b1.cbilant.com/iptv/8E52MW5BS9BCE7/12079/index.m3u8
 #EXTINF:0 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="2364" tvg-logo="http://epg.it999.ru/img/2364.png" tvg-rec="3",Setanta Sports HD_🇺🇦
 https://iplogger.com/SetantaSportsUA
 #EXTINF:0 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="2363" tvg-logo="http://epg.it999.ru/img/2363.png" tvg-rec="3",Setanta Sports 2_🇺🇦
