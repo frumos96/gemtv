@@ -506,12 +506,13 @@ http://gg.gg/AnimalPlanetMYVN
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/233.png", Hits
 https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:-1 tvg-id="historyhd" tvg-name="History" tvg-logo="https://i.ibb.co/d2dJNWn/cchistory.webp" group-title="🌿| Lifestyle",🍀|History VNP
+https://hqth.me/tvpublive4
+#EXTINF:-1 tvg-id="historyhd" tvg-name="History" tvg-logo="https://i.ibb.co/d2dJNWn/cchistory.webp" group-title="🌿| Lifestyle",🍀|History MYK+ MPD
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 ( Gecko) Chrome/81.0.4044.138 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/hsh8o8z2wxuff49l6wsxl/keys/token=ibbXxNHQvd3ezuXUxuCRYWZvYptma5ujlMKZnaKZnqOdlJxgYmNu&time=1690048941&?rlkey=7e3pb8r70n94gqpqcqi9u6azj&kplus&id=124
 http://vip-livecdn.khanggtivi.duckdns.org/bpk-tv/prod_history/default/i.mpd
-#EXTINF:-1 tvg-id="historyhd" tvg-name="History" tvg-logo="https://i.ibb.co/d2dJNWn/cchistory.webp" group-title="🌿| Lifestyle",🍀|History MYK+ MPD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FhP2tARlu+kXQPeFcax5+g","kid":"Z2Xqe3zFTByGVR1rNECzmw"},{"kty":"oct","k":"GIBtY0E5EYKF3LcQgYKdGw","kid":"r6nqe3zFTByGVR1rNECzmw"},{"kty":"oct","k":"IS40VfxHMdCc1N+n++oKFg","kid":"vK0urHzFTByGVR1rNECzmw"},{"kty":"oct","k":"/PQx/UZPB3x4ns924oo2MA","kid":"qLouxMvFTByGVR1rNECzmw"}], "type":"temporary"}
