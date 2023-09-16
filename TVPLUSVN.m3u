@@ -250,34 +250,43 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim" tvg-logo="http://img-zlr2.tv360.vn/tv360-static/static/web/images/logo.png" ,TV360 MIỀN TÂY
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="boxmovie1" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-#EXTINF:0 tvg-id="boxmovie1" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 CLVIP
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://gg.gg/BOXMOVIE1_VN
+#EXTINF:0 tvg-id="boxmovie1" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 MPD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqNpZ5ulm8KZm6mWl6WkkZ1lZl5oY6I=&time=1694874968&tv360&id=159
+http://code.vthanhtivi.pw/getlink/tv360_2/159/manifest.mpd
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-#EXTINF:0 tvg-id="hollywoodclassics" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classicsˢᵛ²CLVIP
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://gg.gg/HOLLYWOOD_CLASSICS
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics² MPD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqNpZ5ulm8KZm6mWl6WkkZ1lZl5oY6I=&time=1694874968&tv360&id=160
+http://code.vthanhtivi.pw/getlink/tv360_2/160/manifest.mpd
 #EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box HitsTVMY
 http://gg.gg/boxhitMyTV
 #EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits²CLVIP
 https://iplogger.com/BOXHIT
 #EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits²TV MYK+ MPD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqNpZ5ulm8KZm6mWl6WkkZ1lZl5oY6I=&time=1694874968&tv360&id=239
+http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/boxhits/?token=0acfbc50a01253f6b1efb91610c17bfdf7da2836e54a9d432b65e5a53a3634927f&time=1693764408&id=box-hits
 https://livecdn.khanggtivi.xyz/manifest/BoxHits_HD/master.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZpxmaJqil8KZm6mWl6WkkZ1lZl5oY6I=&time=1694145834&tv360&id=239
-http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", InTheBox CLVIP
 http://gg.gg/IN_THE_BOX
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", InTheBox² MPD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZpxmaJqil8KZm6mWl6WkkZ1lZl5oY6I=&time=1694145834&tv360&id=235
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqNpZ5ulm8KZm6mWl6WkkZ1lZl5oY6I=&time=1694874968&tv360&id=235
 http://code.vthanhtivi.pw/getlink/tv360_2/235/manifest.mpd
 #https://arcgmoblie.site/cliptvmobile/test.php?id=in-the-box-channel
 #https://tiemnhazunn.click/cliptv/inthebox.php
@@ -322,17 +331,20 @@ http://gg.gg/StarSelectMovies
 #EXTINF:0 tvg-id="man" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/man/dvr-${start}-${offset}.m3u8", Man 360
 https://tiemnhazunn.click/tv360/tv360.php?id=237
 #EXTINF:0 tvg-id="woman" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/woman/dvr-${start}-${offset}.m3u8, Woman SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
 #EXTINF:0 tvg-id="woman" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/woman/dvr-${start}-${offset}.m3u8, Woman CLIPV
 https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
 https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
 #EXTINF:0 tvg-id="planetearthhd" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/planetearth/dvr-${start}-${offset}.m3u8", Planet Earth CLIPV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
 https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
 #EXTINF:0 tvg-id="drfithd" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/drfit/dvr-${start}-${offset}.m3u8", Dr.Fit SCTV
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #EXTINF:-1  group-title="🆀🆄🅾🅲 🆃🅴" logo="https://photos.live-tv-channels.org/tv-logo/ae-gem-fit-2728-300x225.jpg",IR: GEM LIFE
 https://iplogger.com/GEMFIT_IR
 http://gg.gg/GEMFITIR
@@ -449,7 +461,7 @@ http://gg.gg/AFNMYHD
 #EXTINF:0 tvg-id="discoveryhd" group-title="🌿| Lifestyle" logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
 http://gg.gg/DiscoveryMYHD
 #EXTINF:-1 group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", DiscoveryHD TV24
-#EXTVLCOPT:http-user-agent=http://sctvonline.vn
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia FHD
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
@@ -1106,7 +1118,7 @@ http://gg.gg/NAMDINHTVSD
 #EXTINF:-1 tvg-id="nghean" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/160.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/453/auto/dvr-${start}-${end}.m3u8", NTV HD | TH Nghệ An
 http://gg.gg/NGHEANTVHD
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/161.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/160/auto/dvr-${start}-${end}.m3u8", NTV HD | TH Ninh Bình
-http://cloud.vuducdong.uk:4000/rtp/232.84.3.89:11518
+http://gg.gg/NINHBINHHDTV
 #EXTINF:-1 tvg-id="quangninh1" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/168.png", QTV1 HD | TH Quảng Ninh
 http://103.90.220.236/qtvlive/tv1live.m3u8
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
