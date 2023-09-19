@@ -1148,6 +1148,8 @@ http://gg.gg/DRTHDTV
 http://gg.gg/DAKNONGHDTV
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/150.png", KTV HD | TH Khánh Hòa
 http://gg.gg/KTVHD
+#EXTINF:-1 group-title="Địa phương🇻🇳" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/163936-Lamdong.png", TH Lâm Đồng
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 tvg-id="quangngai" group-title="Địa phương🇻🇳" tvg-logo="https://i.imgur.com/Xh6cZmD.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/409/auto/dvr-${start}-${offset}.m3u8",PTQ HD - QUẢNG NGÃI
 http://gg.gg/QUANGNGAIHDTV
 http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
@@ -1654,31 +1656,6 @@ https://obevcimanyd179314182.thapcam.link/live/may036FHD/chunklist.m3u8
 https://obevcimanyd179314182.thapcam.link/live/may065FHD/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 075
 https://179672673.global.cdnfastest.com/live/may075FHD/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="CHN" group-title="🔴| Livestream✨" tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/04/Astro-renews-Premier-League-deal.jpg",Astro GO Live Event 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default.mpd
-
-#EXTINF:-1 tvg-id="CHN" group-title="🔴| Livestream✨" tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/04/Astro-renews-Premier-League-deal.jpg",Astro GO Live Event 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default.mpd
-
-#EXTINF:-1 tvg-id="CHN" group-title="🔴| Livestream✨" tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/04/Astro-renews-Premier-League-deal.jpg",Astro GO Live Event 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default.mpd
-
-#EXTINF:-1 tvg-id="CHN" group-title="🔴| Livestream✨" tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/04/Astro-renews-Premier-League-deal.jpg",Astro GO Live Event 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default.mpd
-
-#EXTINF:-1 tvg-id="CHN" group-title="🔴| Livestream✨" tvg-logo="https://sportskhabri.com/wp-content/uploads/2022/04/Astro-renews-Premier-League-deal.jpg",Astro GO Live Event 5
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default.mpd
 
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 1🇷🇺
 https://iplogger.com/SetantaEvent1RU
