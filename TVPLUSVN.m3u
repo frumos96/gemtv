@@ -86,20 +86,25 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:0 tvg-id="htv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/48.png" catchup="append" catchup-days="6" catchup-source="https://code.vthanhtivi.pw/xemlai/hplus/htv2-hd-2669/dvr-${start}-${offset}.m3u8", HTV2 HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 https://e8.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?cc|Referer=http://sctvonline.vn
-#EXTINF:0 tvg-id="htv7hd" group-title="📦 VTV" logo="https://i.imgur.com/L8fXB1M.png" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD SCTV
+#EXTINF:0 tvg-id="htv7hd" group-title="📦 VTV" logo="https://i.imgur.com/L8fXB1M.png" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD HTVC
 https://drm-livecdn.hplus.com.vn/htvonline/htv7hd.1080p.nimble.tms/playlist.m3u8
+#EXTINF:0 tvg-id="htv7hd" group-title="📦 VTV" logo="https://i.imgur.com/L8fXB1M.png" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD SCTV
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV7 MY
 http://gg.gg/HTV7TVMY
-#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 CLIP
-https://tiemnhazunn.click/vieon/htv7.php
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 360
 https://iplogger.com/HTV7HD
-#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 VIEON
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 CLIP
 http://gg.gg/HTV7TVCLIP
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 VIEON
+https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
+https://tiemnhazunn.click/vieon/htv7.php
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/r2LgsYR/HTV9.png" group-title="📦 VTV" tvg-chno="30" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 MY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://gg.gg/HTV9TVMY
-#EXTINF:0 tvg-id="htv9hd" group-title="📦 VTV" logo="https://i.imgur.com/r3Jiu5Q.png" catchup="append" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9HD MY
+#EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/r2LgsYR/HTV9.png" group-title="📦 VTV" tvg-chno="30" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 360
+http://live.tv360.vn/manifest/HTV9_HD/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="htv9hd" group-title="📦 VTV" logo="https://i.imgur.com/r3Jiu5Q.png" catchup="append" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9HD HTVC
 https://drm-livecdn.hplus.com.vn/htvonline/htv9hd.1080p.nimble.tms/playlist.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0  group-title="📦 VTV" logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.webp", THTPCT HD| Cần Thơ
@@ -144,22 +149,18 @@ http://b4tv.live/b4tv/b4tv/4.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226730/1.m3u8
 #EXTINF:-1 tvg-id="999" tvg-name="測試02" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="🎬| Phim", PLAYY 영화
 https://iplogger.com/playykr
-#EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif", CINE MY+ DRM
+#EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif", CINE MY+ ON360
 http://gg.gg/MYCINE
-https://live2onsport.vtvcab.vn/dash/K_CINE_6965/m20_index.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"3M85idW2iMmm6QaiyRoFTQ", "kid":"yOIdrLfvTfKmmDFE9fT0pg" } ], "type":"temporary"}
-http://s7266.cdn.mytvnet.vn:80/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif", CINE B4TV
 https://iplogger.com/CINEB4TV
-#EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif", CINE MY+ MPD
+#EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif", CINE MY MPD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/mytv/03.php
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net//keys/mytv/cine
 https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv2.gif", CINE MYK+ MPD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/cine
@@ -168,17 +169,14 @@ https://akavnpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 https://iplogger.com/LIFEB4TV
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv3.gif",LIFE MY+ DRM
 http://gg.gg/MYLIFEPLUS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"L8MZNN3NcAV7pp2rgXMHFg", "kid":"7hE1s+02Q8GCCNOUxBHcFw" } ], "type":"temporary"}
-http://s7267.cdn.mytvnet.vn:80/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-#EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv3.gif", LIFE MY+ MPD
+#EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv3.gif", LIFE MY MPD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZJ9jbJummMKZm6mWl6WkkZ1lZ15nZZs=&time=1692419975&mytv&id=klife
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net//keys/mytv/life
 https://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim" logo="https://bep40.me/live/b4tv3.gif", LIFE MYK+ MPD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/life
@@ -1496,30 +1494,50 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 ---------------------------------------🔴| Livestream------------------------------
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚SPORT ASEAN"  logo="https://bep40.me/live/b4tv.gif", B41_SPORT🇻🇳 C1+
 https://iplogger.com/C1B4TV
-#EXTINF:-1 tvg-id="ksport1hd" group-title="💚SPORT ASEAN"  logo="https://bep40.me/live/b4tv.gif", B41_SPORT🇻🇳 MY+ MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd
-http://gg.gg/MYSPORT1HD
-#EXTINF:-1 group-title="💚SPORT ASEAN" group-logo="https://tchiphuong.github.io/iptv/images/background/k-plus.png" tvg-id="ksport1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png",B41_SPORT🇻🇳 MYK+ MPD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="💚SPORT ASEAN"  logo="https://bep40.me/live/b4tv.gif", B41_SPORT🇻🇳 MYK+ MPD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/sp1
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/sport1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+http://gg.gg/MYSPORT1HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="💚SPORT ASEAN"  logo="https://bep40.me/live/b4tv.gif", B41_SPORT🇻🇳 MYPTV MPD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net//keys/mytv/sport1
+https://s12936.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 C2+
 https://iplogger.com/C2B4TV
-#EXTINF:-1  group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MY+ MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6rnP9BYWzW+cIUZmo1tNaA", "kid":"576aG5DUTnuBlmh+8EtdZw" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd
-http://gg.gg/MYSPORT2HD
-#EXTINF:-1 tvg-id="ksport2hd" group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MYK+ MPD
+#EXTINF:-1  group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MYPTV MPD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/sp2
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net//keys/mytv/sport2
+https://s12920.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+http://gg.gg/MYSPORT2HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MYK+ MPD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/sport2
 https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+#EXTINF:-1 group-title="💚SPORT ASEAN" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-live-1.png",K+ LIVE 1
+#KODIPROP:inputstream.adaptive.manifest_type=dấu gạch ngang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/live1
+https://akavnpt.kplus.vn/bpk-tv/prod_klive1/default/index.mpd?maxrate=3000000
+
+#EXTINF:-1 group-title="💚SPORT ASEAN" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-live-2.png",K+ LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/live2
+https://akaviettel.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
+
+#EXTINF:-1 group-title="💚SPORT ASEAN" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-live-3.png",K+ LIVE 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/live3
+https://akaviettel.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 1
 https://liveh12.vtvcab.vn/hls/VSTV9_FASTCHANNEL/03.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 2
@@ -2039,29 +2057,39 @@ http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/7539
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
-#EXTINF:-1 Logo="http://images.zaltv.club/logo/live.gif" group-title="⚽ SPORT EUROPE 🇪🇺",Sport Digital🇩🇪
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=824817733470_image-header_pDach_1674763073000&quality=70&width=500" group-title="⚽ SPORT EUROPE 🇪🇺",Sport Digital🇩🇪
 http://gg.gg/SportdigitalFussballDE
 http://tbs-tv.com:8080/dark/kittylinetv/2335
 http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/274817
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/8244
-#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="⚽ SPORT EUROPE 🇪🇺" , DAZN 1🇩🇪
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=824817733470_image-header_pDach_1674763073000&quality=70&width=500" group-title="⚽ SPORT EUROPE 🇪🇺",Sport Digital🇩🇪
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group-title="⚽ SPORT EUROPE 🇪🇺",Dazn Bar 1🇩🇪
+http://gg.gg/DAZN1DE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="⚽ SPORT EUROPE 🇪🇺" , DAZN 1🇩🇪 MPD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=762962501269_image-header_pDach_1662550975000&quality=70&width=500" group-title="⚽ SPORT EUROPE 🇪🇺",Dazn Bar 1🇩🇪 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png" group-title="⚽ SPORT EUROPE 🇪🇺",Dazn Bar 2🇩🇪
+http://gg.gg/DAZN2DE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="⚽ SPORT EUROPE 🇪🇺" , DAZN  2🇩🇪
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 group-title="Thể thao" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=762965573106_image-header_pDach_1662550976000&quality=70&width=500" group-title="⚽ SPORT EUROPE 🇪🇺",Dazn Bar 2🇩🇪 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group-title="⚽ SPORT EUROPE 🇪🇺",Dazn Bar 1🇩🇪
-http://gg.gg/DAZN1DE
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png" group-title="⚽ SPORT EUROPE 🇪🇺",Dazn Bar 2🇩🇪
-http://gg.gg/DAZN2DE
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-1-374.png" group-title="⚽ SPORT EUROPE 🇪🇺",Nova Sports 1🇬🇷
 http://gg.gg/NovaSports1GR
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-2-375.png" group-title="⚽ SPORT EUROPE 🇪🇺",Nova Sports 2🇬🇷
@@ -2161,10 +2189,22 @@ http://gg.gg/CANAL-FOOT360FR
 https://webudit.cdnbos.lol/lb/premium463/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-1-589.png" group-title="⚽ SPORT EUROPE 🇪🇺",Play Sports 1🇧🇪 
 http://gg.gg/PlaySports1BE
+#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829625_image-header_pRow_1688019823000&quality=70&width=500",Play Sports 1🇧🇪 DAZN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-2-590.png" group-title="⚽ SPORT EUROPE 🇪🇺",Play Sports 2🇧🇪 
 http://gg.gg/PlaySports2BE
+#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829627_image-header_pRow_1688020141000&quality=70&width=500",Play Sports 2🇧🇪 DAZN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-3-591.png" group-title="⚽ SPORT EUROPE 🇪🇺",Play Sports 3🇧🇪 
 http://gg.gg/PlaySports3BE
+#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175995461629_image-header_pRow_1688020143000&quality=70&width=500",Play Sports 3🇧🇪 DAZN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-41-592.png" group-title="⚽ SPORT EUROPE 🇪🇺",Play Sports 4🇧🇪 
 http://gg.gg/PlaySports4BE
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png" group-title="⚽ SPORT EUROPE 🇪🇺",CANAL+ SPORT FHD_🇵🇱
