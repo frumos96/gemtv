@@ -1313,14 +1313,17 @@ http://gg.gg/TVEMYHD
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
 https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/240px-Mbc1logo.png",MBC🇦🇪
+https://iplogger.com/MBC1ARAB
 http://gg.gg/MBCUAE
 #https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png",MBC Drama🇦🇪
+https://iplogger.com/MBCDRAMAUS
 http://gg.gg/MBCDRAMAUAE
 http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/687532
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/319.ts
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/1242
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/330px-MBC_Drama_Plus_TV_Channel_Logo.png",MBC+ Drama🇦🇪
+https://iplogger.com/MBCDRAMAPLUS
 http://gg.gg/MBC-UAE
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226635/1.m3u8
@@ -1431,6 +1434,7 @@ https://iplogger.com/KBS2
 #EXTINF:0 group-title="🆀🆄🅾🅲 🆃🅴" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/2560px-KBS_DRAMA.svg.png", KBSDRAMA_🇰🇷
 https://iplogger.com/KBSDRAMA
 #EXTINF:0 group-title="🆀🆄🅾🅲 🆃🅴" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/300px-Munhwa_Broadcasting_Company.svg.png",MBC_🇰🇷
+https://s.id/mbckr
 http://gg.gg/MBCKOREA
 #EXTINF:0 group-title="🆀🆄🅾🅲 🆃🅴" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SBS_Plus_logo_2018.svg/800px-SBS_Plus_logo_2018.svg.png", SBS PLUS_🇰🇷
 https://iplogger.com/SBSPLUS
@@ -1477,21 +1481,27 @@ https://cdn6.goprimetime.info/feed/202306140918/ch8/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://61.19.242.134/feed/202306140918/chmcothd/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🆀🆄🅾🅲 🆃🅴" logo="https://cdn.hqth.me/logo/217.png", KBS World
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
 http://gg.gg/KBSWORLD
 #EXTINF:0 type="stream" channelId="-1" group-title="🆀🆄🅾🅲 🆃🅴" logo="https://mytv.com.vn/upload/channel/65.png", TV5Monde Asie
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/tv5-monde-asie/playlist.m3u8
 http://gg.gg/TV5MONDEASIE
 #EXTINF:-1 tvg-id="nhkworldhd" tvg-name="NHK World Japan_HD" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.imgur.com/OJd9r6E.png",NHK WORLD JAPAN_HD
+https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 http://gg.gg/nhkworldMYVN
 #EXTINF:-1 tvg-id="dw" tvg-name="DW_HD" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.imgur.com/op6hPn3.png",DW_HD
+https://code.vthanhtivi.pw/getlink/vieon/dw-hd/playlist.m3u8
 http://gg.gg/DWMYVN
 #EXTINF:-1 tvg-id="channelnewsasia" tvg-name="Channel NewsAsia_HD" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.imgur.com/MztDCW5.png",Channel NewsAsia_HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 http://gg.gg/CNAMYVN
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN_HD" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN_HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY5tqZ5Ojm8KZm6mWl6WkkZ1lZ15nZZs=&time=1691084148&mytv_msky&id=593
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
+https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 http://gg.gg/CNNMYVN
 #EXTINF:-1 tvg-name="BBC News" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.imgur.com/LjOE7VC.png",BBC World News HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/index.m3u8|Referer=http://sctvonline.vn/
