@@ -398,17 +398,19 @@ http://gg.gg/TVNKR
 https://s.id/TVNMOVIE
 http://gg.gg/TVNMOVIE
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="http://gg.gg/131flp", THRILL ID
+https://s.id/ThrillID
 http://gg.gg/THRILL_ID
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🎬| Phim",ViuTV🇭🇰
-http://gg.gg/ViuTVHK
 http://cdn.hkdtmb.com/hls/99/index.m3u8
+http://gg.gg/ViuTVHK
 #EXTINF:-1 tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="🎬| Phim",ViuTV Six🇭🇰
-http://gg.gg/ViuTVSixHK
 http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 https://cdn.hklive.tv/xxxx/96/index.m3u8
 http://cdn.hkdtmb.com/hls/96/index.m3u8
+http://gg.gg/ViuTVSixHK
 #EXTINF:-1 group-title="🎬| Phim" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",Sky Romance TV🇩🇪
+https://iplogger.com/SkyRomanceDE
 http://gg.gg/SkyRomanceDE
 #EXTINF:-1 tvg-id="hbo2" tvg-logo="https://i.ibb.co/McRYfZH/test.gif" group-title="🎬| Phim",Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -2152,6 +2154,7 @@ http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/7539
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=824817733470_image-header_pDach_1674763073000&quality=70&width=500" group-title="⚽ SPORT EUROPE 🇪🇺",Sport Digital🇩🇪
+https://s.id/SpFussballDE
 http://gg.gg/SportdigitalFussballDE
 http://tbs-tv.com:8080/dark/kittylinetv/2335
 http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/274817
@@ -2160,6 +2163,7 @@ http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/8244
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png" group-title="⚽ SPORT EUROPE 🇪🇺",Dazn Bar 1🇩🇪
+https://s.id/DAZN1BARDE
 http://gg.gg/DAZN1DE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="⚽ SPORT EUROPE 🇪🇺" , DAZN 1🇩🇪 MPD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2172,6 +2176,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd|User-
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png" group-title="⚽ SPORT EUROPE 🇪🇺",Dazn Bar 2🇩🇪
+https://s.id/DAZN2BARDE
 http://gg.gg/DAZN2DE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="⚽ SPORT EUROPE 🇪🇺" , DAZN  2🇩🇪
 #KODIPROP:inputstreamaddon=inputstream.adaptive
