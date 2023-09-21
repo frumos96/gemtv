@@ -375,6 +375,7 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc7-todaytv-hd/dvr-${start}-${offset}.m3u8", VTC7 HD - TodayTV
+https://iplogger.com/VTC7TODAYTV
 http://gg.gg/VTC7TODAYTV
 #EXTINF:-1 tvg-id="vtc9hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc9-hd/dvr-${start}-${offset}.m3u8", VTC9 HD
 https://1117141481.vnns.net/VTC9/chunks.m3u8
@@ -423,13 +424,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTINF:-1 tvg-id="GOLDEN-plus" tvg-logo="https://www.tvplusgratis.com/imge/goldenplus.png"  group-title="🎬| Phim",GOLDEN PLUS en Vivo🇧🇷
 https://iplogger.com/goldenplus
 http://dnsplay.xyz:80/hldoudby/qubRsmkm/34989
-#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.OXDXrmIfYNMsQV-N1SZGXAHaEE?pid=ImgDet&rs=1"  group-title="🎬| Phim",Universal Cinema🇧🇷
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.OXDXrmIfYNMsQV-N1SZGXAHaEE?pid=ImgDet&rs=1"  group-title="🎬| Phim",Universal CHANNEL
+https://iplogger.com/UNIVERSALCLA
 http://gg.gg/UniversalCinema
 #EXTINF:0 tvg-id="hallmark" group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel🇺🇸
 https://iplogger.com/HALLMARKUS
 #EXTINF:0 tvg-id="hallmark" group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel²🇺🇸
-http://gg.gg/hallmarkus
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544577
+http://gg.gg/hallmarkus
 http://iptv365.xyz:900/5300690644/2656525529/376243
 http://evolved.host:8080/JsnCdcSSe8/CWvQ6KPTQR/417892
 http://box.slweb.tv:8880/pacha-man1/VnozvptUkP6p3Ed/1088
@@ -444,8 +446,8 @@ http://evolved.host:8080/JsnCdcSSe8/CWvQ6KPTQR/509118
 https://iplogger.com/LMNUS
 http://gg.gg/LIFETIMEUS
 #EXTINF:0 group-title="🎬| Phim" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png", Lifetime US🇺🇸
-http://gg.gg/LMNUS
 https://iplogger.com/LIFETIMEUS
+http://gg.gg/LMNUS
 #EXTINF:0  group-title="🎬| Phim" logo="https://mumbrella.com.au/wp-content/uploads/2016/10/SBS_VICELAND_LOGO_BLACK-468x126.jpg",SBS VICELAND AU
 https://iplogger.com/SBSVICELAND
 http://gg.gg/SBSVICELAND
