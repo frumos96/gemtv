@@ -447,10 +447,13 @@ http://gg.gg/LIFETIMEUS
 http://gg.gg/LMNUS
 https://iplogger.com/LIFETIMEUS
 #EXTINF:0  group-title="🎬| Phim" logo="https://mumbrella.com.au/wp-content/uploads/2016/10/SBS_VICELAND_LOGO_BLACK-468x126.jpg",SBS VICELAND AU
+https://iplogger.com/SBSVICELAND
 http://gg.gg/SBSVICELAND
 #EXTINF:0  group-title="🎬| Phim" logo="https://saveoursbs.org/wp-content/uploads/2019/05/SBS-World-Movies-5.png",SBS HD AU
+https://iplogger.com/SBSWMOVIES
 http://gg.gg/SBSHD_AU
 #EXTINF:-1 group-title="🎬| Phim" logo="https://th.bing.com/th/id/OIP.WrhDWXPpeZQBailL4k3z7gAAAA?pid=ImgDet&rs=1",PARAMOUNT+ PRESENTA 
+https://iplogger.com/PARAMOUNTC
 http://gg.gg/PARAMOUNT-PRE
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="🎬| Phim",Family Flix HD
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
@@ -1540,9 +1543,6 @@ http://gg.gg/BBCWorldNewsMYVN
 #EXTINF:-1 tvg-id="animaxhd" group-title="👶| Thiếu nhi" tvg-logo="https://i.imgur.com/ltRW5ev.png",ANIMAX_HD
 http://vthanhtivi.pw:5000/animax/index.m3u8
 http://gg.gg/ANIMAXMYVN
-#EXTINF:-1 tvg-id="babytvhd"  group-title="👶| Thiếu nhi" tvg-logo="https://i.imgur.com/ZfV0s1S.png",Baby TV_HD
-
-http://gg.gg/BABYTVMY
 #EXTINF:-1 tvg-id="cartoonhd"  group-title="👶| Thiếu nhi" tvg-logo="https://i.imgur.com/OLeTUpu.png",Cartoon Network_HD
 http://vthanhtivi.pw:5000/cartoon/index.m3u8
 http://gg.gg/CartoonNetworkMY
@@ -1553,6 +1553,8 @@ http://gg.gg/CartoonNetworkMY
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/cliptv/dreamwork.php
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd	
 http://gg.gg/DreamworkMYVN
+#EXTINF:-1 group-title="👶| Thiếu nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nick_Jr._logo_2023_%28outline%29.webp",Nick Junior UK
+https://iplogger.com/NickJunior
 #EXTINF:0 type="stream" channelId="-1" group-title="👶| Thiếu nhi" logo="https://dl.dropboxusercontent.com/s/lslvqe41s8j7itv/PBS", PBS Kids HD
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="👶| Thiếu nhi" logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png", Happy Kids HD
@@ -2219,13 +2221,19 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd|User-
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
 
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-1-374.png" group-title="⚽ SPORT EUROPE 🇪🇺",Nova Sports 1🇬🇷
+https://iplogger.com/NovaSports1GR
 http://gg.gg/NovaSports1GR
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-2-375.png" group-title="⚽ SPORT EUROPE 🇪🇺",Nova Sports 2🇬🇷
+https://iplogger.com/NovaSports2GR
 http://gg.gg/NovaSports2GR
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-premier-league-2781.png" group-title="⚽ SPORT EUROPE 🇪🇺",Nova Sports Premier League🇬🇷
+https://iplogger.com/NovaSportsEFL
 http://gg.gg/NovaSportsPremierLeague
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-prime-2643.png" group-title="⚽ SPORT EUROPE 🇪🇺",Nova Sports PRIME🇬🇷
+https://iplogger.com/NovaSportsPRIMEGR
 http://gg.gg/NovaSportsPRIMEGR
+#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-prime-2643.png" group-title="⚽ SPORT EUROPE 🇪🇺",Nova Sports START🇬🇷
+https://iplogger.com/NovaSportsSTARTGR
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 1_🇵🇹
 https://iplogger.com/ElevenSports1PT
 http://gg.gg/ElevenSports1PT
@@ -2550,12 +2558,13 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1543901
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: Digi Sport 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/DigiSport4.ro.png" group-title="🌈SPORT EX-YU🌈",Digi Sport 4²🇷🇴
 http://gg.gg/DIGISP4RO
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png" group-title="🌈SPORT EX-YU🌈",Super Sport 1 HD🇦🇱
+https://iplogger.com/SUPERSPORT1ALB
 http://gg.gg/SUPERSPORT1ALB
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-2-692.png" group-title="🌈SPORT EX-YU🌈",Super Sport 2 HD🇦🇱
+https://iplogger.com/SUPERSPORT2ALB
 http://gg.gg/SUPERSPORT2ALB
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-3-693.png" group-title="🌈SPORT EX-YU🌈",Super Sport 3 HD🇦🇱
-http://gg.gg/SUPERSPORT2ALB
-#EXTINF:-1 logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-4-694.png" group-title="🌈SPORT EX-YU🌈",Super Sport 4 HD🇦🇱
+https://iplogger.com/SUPERSPORT3ALB
 http://gg.gg/SUPERSPORT2ALB
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png" group-title="🌈SPORT EX-YU🌈",EX-YU: ARENA•SPORT 1 HD🇭🇷
 http://80.252.37.194:5000/udp/233.233.233.3:12000
