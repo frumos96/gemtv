@@ -128,6 +128,8 @@ http://gg.gg/H4IPH0NGTV
 http://gg.gg/THHP
 #EXTINF:-1 tvg-id="haiphongplus" group-title="📦 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png" catchup="append" catchup-days="2" catchup-source="https://live.thhp.vn/vod/index.m3u8?st=${start}000&et=${end}000&c=thpplus", THP+ HD | TH Hải Phòng
 https://iplogger.com/THPPLUS
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://thumbs4.imagebam.com/e1/71/0e/MEP34SZ_t.jpg",XPLUS RELAX
+https://tinyurl.com/xplusrelax
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4box.png", B4BOX (Kênh phim điện ảnh & series)
 http://b4tv.live/b4tv/b4tv/84.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4men.png", B4MEN (Kênh đàn ông đích thực)
@@ -471,6 +473,8 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 #EXTINF:-1 tvg-id="novaplay" group-title="🎬| Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nova_Play_logo.svg/1000px-Nova_Play_logo.svg.png",NovaPlay Brazil
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1592383770.m3u8
+#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://fa-media.s3.amazonaws.com/web/lrzyg4sx0q_fa_share.jpg",Film & Arts Latin
+https://tinyurl.com/FilmArtsLA
 #EXTINF:-1 tvg-id="starmovies" group-title="🎬| Phim" tvg-logo="http://gg.gg/12z6lp", Star 1 HD
 https://tiemnhazunn.click/japantv/?id=52
 #EXTINF:-1 tvg-id="starmovies" group-title="🎬| Phim" tvg-logo="http://gg.gg/12z6lp", Star 2 HD
@@ -567,12 +571,8 @@ http://vip-livecdn.khanggtivi.duckdns.org/bpk-tv/prod_history/default/i.mpd
 https://sglivevega.kplus.vn/bpk-tv/prod_history/default/index.mpd
 #EXTINF:-1 tvg-id="dmax" group-title="🌿| Lifestyle" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:0 tvg-id="dmaxhd" group-title="🌿| Lifestyle" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg",DMAX MPD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://live-vbsplus2.khanggtivi.xyz/key/vieon/?token=88438a38292435b939845652c4f3da3c612698a4&time=1693897965824&live_msky&id=dmax
-https://livecdn.khanggtivi.xyz/getplay/vieon/live_dzones/dmax.smil/manifest.mpd
+#EXTINF:0 group-title="🌿| Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png",Canal Off
+https://tinyurl.com/Off4K
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="🌿| Lifestyle",KPLUS HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787.m3u8
 http://210.210.155.35:80/session/0c338296-303c-11e9-bdab-b82a72d63267/uq2663/h/h08/index2.m3u8
@@ -1344,6 +1344,8 @@ http://dnsplay.xyz:80/hldoudby/qubRsmkm/302728
 https://iplogger.com/A3SeriesES
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1920px-TVE.svg.png", Televisión Española HD
 http://gg.gg/TVEMYHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/800px-Logo_TNT_Novelas.png" group-title="🆀🆄🅾🅲 🆃🅴", TNT Novelas🇧🇷
+https://tinyurl.com/TNTNovelas
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV4中文国际HD
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
 https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000/mnf.m3u8
@@ -1689,90 +1691,90 @@ https://hqth.me/tvpublive2
 https://hqth.me/tvpublive3
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://hqth.me/3D4", TVPub 4
 https://hqth.me/tvpublive4
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 1 HD 
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv 1 HD 
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 1 FHD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv 1 FHD
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 2 HD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv 2 HD
 https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 2 FHD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv 2 FHD
 https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 3 HD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv 3 HD
 https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 3 FHD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv 3 FHD
 https://179314182.global.cdnfastest.com/live/may2FHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv NEN FHD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv NEN FHD
 https://179314182.global.cdnfastest.com/live/nenFHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv NEN HD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv NEN HD
 https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv OLD FHD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv OLD FHD
 https://179314182.global.cdnfastest.com/live/oldFHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv OLD HD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv OLD HD
 https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv PHO FHD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv PHO FHD
 https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv PHO HD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv PHO HD
 https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv CUON FHD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv CUON FHD
 https://179672673.global.cdnfastest.com/live/cuonFHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv CUON HD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv CUON HD
 https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv MYTOM FHD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv MYTOM FHD
 https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv MYTOM HD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv MYTOM HD
 https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv BUNCHA FHD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv BUNCHA FHD
 https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv BUNCHA HD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv BUNCHA HD
 https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv TRAUGACBEP FHD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv TRAUGACBEP FHD
 https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv TRAUGACBEP HD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv TRAUGACBEP HD
 https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv SOI FHD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv SOI FHD
 https://obevcimanyd179314182.thapcam.link/live/soiFHD/playlist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv SOI FHD
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv SOI FHD
 https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv HD 6
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv HD 6
 https://1123139281.cdn.khmer-hd.com/may6/chunks.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv HD 9
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv HD 9
 https://1123139281.cdn.khmer-hd.com/may9/chunks.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 9
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv 9
 https://179314182.global.cdnfastest.com/live/may9/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 10
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv 10
 https://179314182.global.cdnfastest.com/live/may10/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 101
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv 101
 https://179314182.global.cdnfastest.com/live/may101/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv 110
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv 110
 https://obevcimanyd179314182.thapcam.link/live/may010FHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 036
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv FHD 036
 https://obevcimanyd179314182.thapcam.link/live/may036FHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 065
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv FHD 065
 https://obevcimanyd179314182.thapcam.link/live/may065FHD/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="http://gg.gg/veboftv",VEBOtv FHD 075
+#EXTINF:-1 group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://i.pinimg.com/280x280_RS/00/42/ba/0042bac333b578e4d6ebb047268c2cc5.jpg",VEBOtv FHD 075
 https://179672673.global.cdnfastest.com/live/may075FHD/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 1³
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 1³🇧🇷
 https://iplogger.com/STAR1LATIN
 http://gg.gg/STAR-BR
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 2³
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 2³🇧🇷
 https://iplogger.com/STAR2LATIN
 http://gg.gg/STAR-2BR
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 3³
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 3³🇧🇷
 https://iplogger.com/STAR3LATIN
 http://gg.gg/STAR-3BR
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 4³
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 4³🇧🇷
 https://iplogger.com/STAR4LATIN
 http://gg.gg/STAR-3BR
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 5³
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 5³🇧🇷
 https://iplogger.com/STAR5LATIN
 http://gg.gg/STAR-3BR
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 6³
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 6³🇧🇷
 https://iplogger.com/STAR6LATIN
 http://gg.gg/STAR-3BR
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 3³
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 7³🇧🇷
 https://iplogger.com/STAR7LATIN
 http://gg.gg/STAR-3BR
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 3³
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 8³🇧🇷
 https://iplogger.com/STAR8LATIN
 http://gg.gg/STAR-3BR
 #EXTINF:0 tvg-rec="7" group-title="🔴| Livestream✨" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",Pimple TV 1🇷🇺
@@ -1793,6 +1795,18 @@ https://iplogger.com/MEGOGOSP2UA
 https://iplogger.com/MEGOGOSP3UA
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream✨" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-megogo-football-4-2708.png",MEGOGO SPORT 4 🇺🇦
 https://iplogger.com/MEGOGOSP4UA
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream✨" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-megogo-football-5-2709.png",MEGOGO SPORT 4 🇺🇦
+https://tinyurl.com/MEGOGOSP5UA
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream✨" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-megogo-football-5-2709.png",MEGOGO SPORT 4 🇺🇦
+https://tinyurl.com/MEGOGOSP6UA
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream✨" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-megogo-football-5-2709.png",MEGOGO SPORT 4 🇺🇦
+https://tinyurl.com/MEGOGOSP7UA
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream✨" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-megogo-football-5-2709.png",MEGOGO SPORT 4 🇺🇦
+https://tinyurl.com/MEGOGOSP8UA
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream✨" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-megogo-football-5-2709.png",MEGOGO SPORT 4 🇺🇦
+https://tinyurl.com/MEGOGOSP9UA
+#EXTINF:0 tvg-rec="0" group-title="🔴| Livestream✨" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-megogo-football-5-2709.png",MEGOGO SPORT 4 🇺🇦
+https://tinyurl.com/MEGOGOSP10UA
 #EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-optus-sports-1313.png" group-title="🔴| Livestream✨",🇭🇲OPTUS_1_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032471&extension=ts&play_Optus_1
 #EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-optus-sports-1313.png" group-title="🔴| Livestream✨",🇭🇲OPTUS_2_(Live•Event)
@@ -1812,19 +1826,6 @@ https://iplogger.com/SetantaEvent4RU
 https://iplogger.com/SetantaEvent5RU
 #EXTINF:0 tvg-rec="0" group-title="🔴| Livestream✨" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 6🇷🇺
 https://iplogger.com/SetantaEvent6RU
-#EXTINF:0  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-nederland-2756.png" group-title="🔴| Livestream✨" ,Viaplay  Premier League 1🇳🇱 (Live•Event)
-http://gg.gg/VIAPLAYPL1
-#EXTINF:0  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-nederland-2756.png" group-title="🔴| Livestream✨" ,Viaplay  Premier League 2🇳🇱 (Live•Event)
-http://gg.gg/VIAPLAYPL2
-#EXTINF:0  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-nederland-2756.png" group-title="🔴| Livestream✨" ,Viaplay  Premier League 3🇳🇱 (Live•Event)
-http://gg.gg/VIAPLAYPL3
-#EXTINF:0  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-nederland-2756.png" group-title="🔴| Livestream✨" ,Viaplay  Premier League 4🇳🇱 (Live•Event)
-http://gg.gg/VIAPLAYPL4
-#EXTINF:0  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-nederland-2756.png" group-title="🔴| Livestream✨" ,Viaplay  Premier League 5🇳🇱 (Live•Event)
-http://gg.gg/VIAPLAYPL5
-#EXTINF:0  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-nederland-2756.png" group-title="🔴| Livestream✨" ,Viaplay  DARTEN 🇳🇱 (Live•Event)
-http://gg.gg/VIAPLAYDARTEN
-
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-1_🇨🇳
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226855/1.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",MiGu-2_🇨🇳
