@@ -2412,62 +2412,48 @@ https://iplogger.com/SetantaEurasia_2
 ---------------------------------------SPORT AFRICA----------------------------------------
 #EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand"  tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Grandstand
 https://iplogger.com/SuperSportGrandstand
-
 #EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport PSL
 https://iplogger.com/SuperSportPSL
-
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Premier League
 https://iplogger.com/SuperSportEPL
-
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium56/index.m3u8
-
+https://s.id/SuperSportFUBOL
+#EXTINF:-1 tvg-id="SuperSportFootballPlus.za" tvg-name="SuperSport Football Plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-plus-za.png" group-title="SPORT AFRICA",SuperSport Football PLUS
+https://s.id/SuperSportFUBOLPLUS
 #EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport LaLiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium415/index.m3u8
-
+https://s.id/SuperSportLALIGA
 #EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Variety 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium416/index.m3u8
-
+https://s.id/SuperSportVariety1
 #EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Variety 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium417/index.m3u8
-
+https://s.id/SuperSportVariety2
 #EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Variety 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium418/index.m3u8
-
+https://s.id/SuperSportVariety3
 #EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Variety 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium419/index.m3u8
-
+https://s.id/SuperSportVariety4
 #EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="SuperSport Action" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium420/index.m3u8
-
+https://s.id/SuperSportAction
 #EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="SuperSport Tennis" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Tennis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium423/index.m3u8
-
-#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="SuperSport Motorsport" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Motorsports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium424/index.m3u8
-
+https://tinyurl.com/SuperSportTENIS
 #EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name="SuperSport Maximo 1" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT AFRICA",SuperSport Maximo 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnbos.lol/lb/premium572/index.m3u8
+https://s.id/SuperSportMaximo1
+#EXTINF:-1 tvg-id="SuperSportMaximo2.za" tvg-name="SuperSport Maximo 2" tvg-logo="https://supersport-cms-prod.azureedge.net/media/m3ldhapr/maximo-1.png" group-title="SPORT AFRICA",DSTV: SuperSport Máximo 2 FHD
+https://tinyurl.com/SuperSportMaximo2
+#EXTINF:-1 tvg-id="supersportott1.za" tvg-name="Super Sport OTT 1" tvg-logo="https://supersport-cms-prod.azureedge.net/media/m1tnc4h4/supersport-ott-1.png" group-title="SPORT AFRICA",DSTV: Super Sport OTT (FHD)
+https://tinyurl.com/SuperSportOTT1
+#EXTINF:-1 tvg-id="supersportott2.za" tvg-name="Super Sport OTT 2" tvg-logo="https://supersport-cms-prod.azureedge.net/media/ofwjhfg4/supersport-ott-2.png" group-title="SPORT AFRICA",DSTV: Super Sport OTT 2 (FHD)
+https://tinyurl.com/SuperSportOTT2
+#EXTINF:-1 tvg-id="supersportott3.za" tvg-name="Super Sport OTT 3" tvg-logo="https://supersport-cms-prod.azureedge.net/media/j4zgc2cs/supersport-ott-3.png" group-title="SPORT AFRICA",DSTV: Super Sport OTT 3 (FHD)
+https://tinyurl.com/SuperSportOTT3
+#EXTINF:-1 tvg-id="supersportott4.za" tvg-name="Super Sport OTT 4" tvg-logo="https://supersport-cms-prod.azureedge.net/media/scofujew/supersport-ott-4.png" group-title="SPORT AFRICA",DSTV: Super Sport OTT 4 (FHD)
+https://tinyurl.com/SuperSportOTT4
+#EXTINF:-1 tvg-id="supersportott5.za" tvg-name="Super Sport OTT 5" tvg-logo="https://supersport-cms-prod.azureedge.net/media/qwlihdeu/supersport-ott-5.png" group-title="SPORT AFRICA",DSTV: Super Sport OTT 5 (FHD)
+https://tinyurl.com/SuperSportOTT5
+#EXTINF:-1 tvg-id="supersportott6.za" tvg-name="Super Sport OTT 6" tvg-logo="https://supersport-cms-prod.azureedge.net/media/upgdtlsi/supersport-ott-6.png" group-title="SPORT AFRICA",DSTV: Super Sport OTT 6 (FHD)
+https://tinyurl.com/SuperSportOTT6
+#EXTINF:-1 tvg-id="supersportott7.za" tvg-name="Super Sport OTT 7" tvg-logo="https://supersport-cms-prod.azureedge.net/media/q24jrjac/supersport-ott-7.png" group-title="SPORT AFRICA",DSTV: Super Sport OTT 7 (FHD)
+https://tinyurl.com/SuperSportOTT7
+#EXTINF:-1 tvg-id="supersportott8.za" tvg-name="Super Sport OTT 8" tvg-logo="https://supersport-cms-prod.azureedge.net/media/1rydpzl5/supersport-ott-8.png" group-title="SPORT AFRICA",DSTV: Super Sport OTT 8 (FHD)
+https://tinyurl.com/SuperSportOTT8
 #EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Play FHD" tvg-logo="" group-title="SPORT AFRICA",DSTV| SuperSport Play FHD_🇿🇦
 http://ultrontv.xyz:80/Mahen123/Mahen77/151498
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668359
@@ -2478,9 +2464,10 @@ http://hidra.live:80/wxFYeXT7K/do95R3pgW2/35149
 http://dnsplay.xyz:80/hldoudby/qubRsmkm/312712
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=130122&extension=ts&play_token=WNgFOTl1ak
 #EXTINF:-1 group-title="FUBOL LATINO" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-universo-723.png",NBC UNIVERSO 🇺🇸
-http://gg.gg/NBCUNIVERSO
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/34715
+http://gg.gg/NBCUNIVERSO
 #EXTINF:-1 group-title="FUBOL LATINO" Logo="https://img.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network 🇺🇸
+https://s.id/usanetwork
 http://gg.gg/USANETWORK
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=130123&extension=ts&play_token=uCxaeDT85B
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/43901
