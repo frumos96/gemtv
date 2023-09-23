@@ -283,27 +283,20 @@ http://gg.gg/boxhitMyTV
 #EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits²CLVIP
 https://iplogger.com/BOXHIT
 #EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits²TV MYK+ MPD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqNpZ5ulm8KZm6mWl6WkkZ1lZl5oY6I=&time=1694874968&tv360&id=239
-http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/boxhits/?token=0acfbc50a01253f6b1efb91610c17bfdf7da2836e54a9d432b65e5a53a3634927f&time=1693764408&id=box-hits
+#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/tv360/?id=239
 https://livecdn.khanggtivi.xyz/manifest/BoxHits_HD/master.mpd
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", InTheBox CLVIP
 https://iplogger.com/IN_THE_BOX
 http://gg.gg/IN_THE_BOX
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim" logo="https://cdn.hqth.me/logo/thumbs/189.png", InTheBox² MPD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqNpZ5ulm8KZm6mWl6WkkZ1lZl5oY6I=&time=1694874968&tv360&id=235
-http://code.vthanhtivi.pw/getlink/tv360_2/235/manifest.mpd
-#https://arcgmoblie.site/cliptvmobile/test.php?id=in-the-box-channel
-#https://tiemnhazunn.click/cliptv/inthebox.php
+#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/tv360/?id=235
+https://livecdn.khanggtivi.xyz/tv360-2/?id=235
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://bit.ly/40x0pxx" ,MY Cinema Asia🇮🇩 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://210.210.155.37/x6bnqe/h/h193/index.m3u8
@@ -662,7 +655,7 @@ http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNAP_2ajFHVzgQjqpvgP4jCtQDRhJq72H
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNIcGxNh58e0hDb_KqYtdCNE/ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 4 🇹🇷 BUNDESLIGA
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNPAmMtvJBpj81VJ4yATLYfZcfuJ34xa1qX8MHHR6BjZV/ts
-  #EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylp5fQN2WlloPJvYlNcWQgiwP1sB6xZCcsbOLxOyk_co.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSPORTS PREMIUM 1⁴ᴷ HD_🇸🇦
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylp5fQN2WlloPJvYlNcWQgiwP1sB6xZCcsbOLxOyk_co.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSPORTS PREMIUM 1⁴ᴷ HD_🇸🇦
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238261&extension=ts&play_token=
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/109
 #EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylyDkSBz4CMKbrq5CbCc90jGAzvbzqR5Sq7fjB4EobHd.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSPORTS PREMIUM 2⁴ᴷ HD_🇸🇦
@@ -782,10 +775,8 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 https://iplogger.com/NASAUHD
 #EXTINF:0 tvg-id="NatureRelax4K" group-title="🔥📺⚽ 4K 🇺 🇭 🇩" tvg-logo="https://i.ibb.co/BN7RnsB/5190d-Op8zt-L.png",🍀| NatureRelax⁴ᴷ
 https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng" group-title="🔥📺⚽ 4K 🇺 🇭 🇩", Loupe⁴ᴷ
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn6.aptoide.com/imgs/1/6/6/16604a0a7587a0b052e928fe95b02a05_icon.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩", Loupe⁴ᴷ
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩", FashionTV
-https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩", FashionTV⁴ᴷ
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
@@ -1148,7 +1139,9 @@ https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hitv" group-title="Địa phương🇻🇳" logo="https://meco.mytv.vn/static/channel/92.png?ver=14", HaNoicab 1
 https://code.vthanhtivi.pw/getlink/mytv/45/hd.m3u8
 #EXTINF:0 tvg-id="youtv" group-title="Địa phương🇻🇳"  tvg-logo="https://i.ibb.co/h9ZpW1H/hanoicab2.png", Hanoicab2 - YouTV
-https://code.vthanhtivi.pw/getlink/tv360/31/0.m3u8
+http://vthanhtivi.pw:5000/youtv/index.m3u8
+#EXTINF:-1 group-title="Địa phương🇻🇳" tvg-logo="https://phuhdtv.github.io/logo/PayTV/phim-hay.png",Phim Hay
+https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_b228915playlist.m3u8
 #EXTINF:0 tvg-id="antg" group-title="Địa phương🇻🇳"  tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
 http://gg.gg/hanoicab3
 #EXTINF:-1 tvg-id="haiduong" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/144.png", THD | TH Hải Dương
