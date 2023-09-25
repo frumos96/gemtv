@@ -1360,73 +1360,79 @@ http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/1242
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/330px-MBC_Drama_Plus_TV_Channel_Logo.png",MBC+ Drama🇦🇪
 https://iplogger.com/MBCDRAMAPLUS
 http://gg.gg/MBC-UAE
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-1
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC🇺🇸
+http://stream.cvmtv.site/NBC?token=live
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS🇺🇸
+http://stream.cvmtv.site/CBS?token=live
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC🇺🇸
+http://stream.cvmtv.site/ABC?token=live
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX🇺🇸
+http://stream.cvmtv.site/FOX?token=live
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-1🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226635/1.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-2🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-3🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-7🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-9🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226651/1.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-10🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-11🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-12🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-13🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="🆀🆄🅾🅲 🆃🅴",CCTV-14🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",中国教育1HD
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226673/1.m3u8
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",湖南卫视HD Hồ Nam
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",湖南卫视HD Hồ Nam🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",浙江卫视HD Chiết Giang
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",浙江卫视HD Chiết Giang🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",江苏卫视HD Giang Tô
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",江苏卫视HD Giang Tô🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226692/1.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",北京卫视HD Bắc Kinh
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",北京卫视HD Bắc Kinh🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226719/1.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",东方卫视HD Dragon TV
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",东方卫视HD Dragon TV🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226734/1.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",深圳卫视HD Thâm Quyến
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",深圳卫视HD Thâm Quyến🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",安徽卫视HD An Huy
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",安徽卫视HD An Huy🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226655/1.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",辽宁卫视HD Liêu Ninh
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",辽宁卫视HD Liêu Ninh🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226689/1.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",山东卫视HD Sơn Đông
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",山东卫视HD Sơn Đông🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226693/1.m3u8
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",天津卫视HD Thiên Tân
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",天津卫视HD Thiên Tân🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226686/1.m3u8
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",重庆卫视HD Trùng Khánh
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",重庆卫视HD Trùng Khánh🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226680/1.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",东南卫视HD Đông Nam Phúc Kiến
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",东南卫视HD Đông Nam Phúc Kiến🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226670/1.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",河北卫视HD Hà Bắc
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",河北卫视HD Hà Bắc🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226684/1.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",黑龙江卫视HD Hắc Long Giang
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",黑龙江卫视HD Hắc Long Giang🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226716/1.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",河南卫视HD Hà Nam
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",河南卫视HD Hà Nam🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226668/1.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png"  group-title="🆀🆄🅾🅲 🆃🅴",湖北卫视HD Hồ Bắc
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png"  group-title="🆀🆄🅾🅲 🆃🅴",湖北卫视HD Hồ Bắc🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226713/1.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",江西卫视HD Giang Tây
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",江西卫视HD Giang Tây🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226682/1.m3u8
-#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",厦门卫视 Đông Bắc
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",厦门卫视 Đông Bắc🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226695/1.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",贵州卫视HD Quý Châu
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",贵州卫视HD Quý Châu🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226672/1.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",四川卫视HD Tứ Xuyên
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",四川卫视HD Tứ Xuyên🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226659/1.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",海南卫视HD Hải Nam
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🆀🆄🅾🅲 🆃🅴",海南卫视HD Hải Nam🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226679/1.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-speed="1MB/s" group-title="🆀🆄🅾🅲 🆃🅴",云南卫视 Vân Nam
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-speed="1MB/s" group-title="🆀🆄🅾🅲 🆃🅴",云南卫视 Vân Nam🇨🇳
 https://cntv.sbs/tv?auth=2309081833&id=ynws
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="🆀🆄🅾🅲 🆃🅴",北京纪实科教HD Bắc Kinh - Khoa học và giáo dục
+#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="🆀🆄🅾🅲 🆃🅴",北京纪实科教HD Bắc Kinh - Khoa học và giáo dục🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226656/1.m3u8
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://live.yoitv.com:9083/query/s/gnpNcLEhwujjXOxTl7gaJg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS-Nippon TV🇯🇵
 http://203.162.235.41:16095/
@@ -1439,28 +1445,28 @@ http://203.162.235.41:15094/
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://live.yoitv.com:9083/query/s/iU_IC-e38CjfLhlvUxqWRg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI🇯🇵 
 https://tiemnhazunn.click/japantv/?id=7
 http://203.162.235.41:17097/
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2560px-NHK_logo.svg.png", NHK
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2560px-NHK_logo.svg.png", NHK🇯🇵
 http://203.162.235.41:12091/
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://live.yoitv.com:9083/query/s/dRNhWs1DLdcWq_ufN6fElg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO🇯🇵 
 https://tiemnhazunn.click/japantv/?id=8
 http://203.162.235.41:19098/
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="140" tvg-logo="https://tinyurl.com/2szxntcd", Dance Channel
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="140" tvg-logo="https://tinyurl.com/2szxntcd", Dance Channel🇯🇵
 https://tiemnhazunn.click/japantv/?id=140
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="60" tvg-logo="https://tinyurl.com/mu3u9fcx", Green
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="60" tvg-logo="https://tinyurl.com/mu3u9fcx", Green🇯🇵
 https://tiemnhazunn.click/japantv/?id=60
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="110" tvg-logo="https://tinyurl.com/4tkn85ec", Gunma TV
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="110" tvg-logo="https://tinyurl.com/4tkn85ec", Gunma TV🇯🇵
 https://tiemnhazunn.click/japantv/?id=110
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://livean.yhvserve.com:9083/query/s/HloiOsNhiBm-DF9vVfFMTw==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Prime  
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://livean.yhvserve.com:9083/query/s/HloiOsNhiBm-DF9vVfFMTw==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Prime🇯🇵 
 https://iplogger.com/WOWOWPrime
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://livean.yhvserve.com:9083/query/s/g8s69Z5bxLZgAoqqFT8iDg==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Live  
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://livean.yhvserve.com:9083/query/s/g8s69Z5bxLZgAoqqFT8iDg==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Live🇯🇵  
 https://iplogger.com/WOWOWLiveJP
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="55" tvg-logo="https://www.wowowplus.jp/parts/common/img/logo_sp.png?1130", WOWOW plus
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="55" tvg-logo="https://www.wowowplus.jp/parts/common/img/logo_sp.png?1130", WOWOW plus🇯🇵
 https://tiemnhazunn.click/japantv/?id=55
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://livean.yhvserve.com:9083/query/s/iF6iKCiap5agDJYZhyVjwg==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Cinema  
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="http://livean.yhvserve.com:9083/query/s/iF6iKCiap5agDJYZhyVjwg==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Cinema 🇯🇵 
 https://iplogger.com/WOWOWCinemaJP
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="movieplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス / Movie Plus
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="movieplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス / Movie Plus🇯🇵
 https://tiemnhazunn.click/japantv/?id=73
-#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="movieplus" tvg-logo="https://iplogger.com/VJapanChannel", 緯來日本 / Videoland Japan Channel
+#EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="movieplus" tvg-logo="https://iplogger.com/VJapanChannel", 緯來日本 / Videoland Japan Channel🇯🇵
 https://iplogger.com/VideolandJapanChannel
 #EXTINF:0 group-title="🆀🆄🅾🅲 🆃🅴" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS_🇰🇷 
 http://gg.gg/SBSKOR
@@ -1527,7 +1533,7 @@ http://gg.gg/KBSWORLD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/tv5-monde-asie/playlist.m3u8
 http://gg.gg/TV5MONDEASIE
-#EXTINF:-1 tvg-id="nhkworldhd" tvg-name="NHK World Japan_HD" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.imgur.com/OJd9r6E.png",NHK WORLD JAPAN_HD
+#EXTINF:-1 tvg-id="nhkworldhd" tvg-name="NHK World Japan_HD" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.imgur.com/OJd9r6E.png",NHK WORLD JAPAN_HD🇯🇵
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 http://gg.gg/nhkworldMYVN
 #EXTINF:-1 tvg-id="dw" tvg-name="DW_HD" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://i.imgur.com/op6hPn3.png",DW_HD
