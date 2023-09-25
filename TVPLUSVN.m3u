@@ -342,6 +342,8 @@ http://gg.gg/FlixIN
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317" group-title="🎬| Phim",STAR SELECT MOVIES HD🇮🇳
 https://s.id/StarSelectMovies
 http://gg.gg/StarSelectMovies
+#EXTINF:-1 tvg-logo="https://tinyurl.com/FOXLIFEINIMG" group-title="🎬| Phim",FOX LIFE HD🇮🇳
+https://iplogger.com/FOXLIFEIN
 #EXTINF:-1 tvg-id="zeecafehd.in" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/19/Untitled-1.jpg?itok=60idFHQ6" group-title="🎬| Phim", ZEE CAFE HD🇮🇳
 https://iplogger.com/ZEECAFEIN
 #EXTINF:0 tvg-id="man" group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/man/dvr-${start}-${offset}.m3u8", Man 360
@@ -364,10 +366,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #EXTINF:-1  group-title="🆀🆄🅾🅲 🆃🅴" logo="https://photos.live-tv-channels.org/tv-logo/ae-gem-fit-2728-300x225.jpg",IR: GEM LIFE
 https://iplogger.com/GEMFIT_IR
 http://gg.gg/GEMFITIR
-#EXTINF:0 group-title="🆀🆄🅾🅲 🆃🅴" Logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/11/pluot-tv-fitness-deporte.jpg.png",Pluto TV Fitness🇧🇷
-https://i.mjh.nz/PlutoTV/630e30ba3583440007c64a20-alt.m3u8
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png" group-title="🆀🆄🅾🅲 🆃🅴" , Pluto TV Fitness🇩🇪
-https://iplogger.com/PFitnessDE
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png" group-title="🆀🆄🅾🅲 🆃🅴" , Pluto TV Fitness🇪🇸
 https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
 #EXTINF:-1 c tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/POPSUGARFitness_logo_dark.png" group-title="🆀🆄🅾🅲 🆃🅴" , POPSUGAR Fitness🇺🇸
