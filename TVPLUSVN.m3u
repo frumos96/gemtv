@@ -339,11 +339,11 @@ http://124.232.233.15:6610/000000001001/201600020006/1400.m3u8?m3u8_level=2
 https://maper.info/IQYI_shareext
 http://gg.gg/iqiyicn
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-logo="http://gg.gg/FlixImge" group-title="🎬| Phim",&FLIX🇮🇳
-https://s.id/FLIX4KIN
 http://gg.gg/FlixIN
+https://s.id/FLIX4KIN
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317" group-title="🎬| Phim",STAR SELECT MOVIES HD🇮🇳
-https://s.id/StarSelectMovies
 http://gg.gg/StarSelectMovies
+https://s.id/StarSelectMovies
 #EXTINF:-1 tvg-logo="https://tinyurl.com/FOXLIFEINIMG" group-title="🎬| Phim",FOX LIFE HD🇮🇳
 https://iplogger.com/FOXLIFEIN
 #EXTINF:-1 tvg-id="zeecafehd.in" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/19/Untitled-1.jpg?itok=60idFHQ6" group-title="🎬| Phim", ZEE CAFE HD🇮🇳
@@ -1360,6 +1360,8 @@ http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/1242
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/330px-MBC_Drama_Plus_TV_Channel_Logo.png",MBC+ Drama🇦🇪
 https://iplogger.com/MBCDRAMAPLUS
 http://gg.gg/MBC-UAE
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN: SONY TV HD" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="🆀🆄🅾🅲 🆃🅴",SONY ASIA HD🇮🇳
+https://iplogger.com/SONYASIA_IN
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC🇺🇸
 http://stream.cvmtv.site/NBC?token=live
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS🇺🇸
