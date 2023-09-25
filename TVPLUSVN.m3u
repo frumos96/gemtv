@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
-#PLAYLISTINF:frumos96 version="v8" url="https://s.id/hieu3r,http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG"
+#PLAYLISTINF:frumos96 version="v8" url="https://s.id/hieu3r" url="http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG"
 
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1 Viettel
