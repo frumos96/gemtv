@@ -371,11 +371,10 @@ http://gg.gg/popurfitness
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="vtc1" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc1-hd/dvr-${start}-${offset}.m3u8", VTC1 HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
+https://1117141481.vnns.net/vtc1_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc7-todaytv-hd/dvr-${start}-${offset}.m3u8", VTC7 HD - TodayTV
+https://1117141481.vnns.net/VTC7/chunks.m3u8
 https://iplogger.com/VTC7TODAYTV
-http://gg.gg/VTC7TODAYTV
 #EXTINF:-1 tvg-id="vtc9hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc9-hd/dvr-${start}-${offset}.m3u8", VTC9 HD
 https://1117141481.vnns.net/VTC9/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc14-hd/dvr-${start}-${offset}.m3u8", VTC14 HD
@@ -941,7 +940,7 @@ https://arcgmoblie.site/cliptv/cliptv.php?id=on-sports-news
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
 http://gg.gg/ONSPORTNEW18MY
 #EXTINF:-1 tvg-id="btv5hd" group-title="🧡| VTVcab" tvg-logo="https://i.ytimg.com/vi/BJPhLkAwz00/maxresdefault.jpg", BTV5 - ON Sports Action
-https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
+http://gg.gg/BTV5-OnSportAction
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8",ON Vie Dramas 
 https://s.id/VieDramasVN
 http://gg.gg/VieDramas8M
@@ -1066,8 +1065,7 @@ https://hqth.me/HTVCPLUS?getkey389/htvc.sml/code=728881jknd74jjfv7993hnx779174jd
 
 ---------------------------------------💙| VTC----------------------------------------
 #EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/g6rH1cs.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC1 HD
-#EXTVLCOPT:http-user-agent="Bear TV"
-https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/PA12mGb.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC2
 #EXTVLCOPT:http-user-agent="Bear TV"
 https://1117141481.vnns.net/VTC2/chunks.m3u8
@@ -2581,13 +2579,18 @@ http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1543901
 http://gg.gg/DIGISP4RO
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png" group-title="🌈SPORT EX-YU🌈",Super Sport 1 HD🇦🇱
 https://iplogger.com/SUPERSPORT1ALB
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-1-691.png" group-title="🌈SPORT EX-YU🌈",Super Sport 1² HD🇦🇱
 http://gg.gg/SUPERSPORT1ALB
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-2-692.png" group-title="🌈SPORT EX-YU🌈",Super Sport 2 HD🇦🇱
 https://iplogger.com/SUPERSPORT2ALB
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-2-692.png" group-title="🌈SPORT EX-YU🌈",Super Sport 2² HD🇦🇱
 http://gg.gg/SUPERSPORT2ALB
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-3-693.png" group-title="🌈SPORT EX-YU🌈",Super Sport 3 HD🇦🇱
 https://iplogger.com/SUPERSPORT3ALB
-http://gg.gg/SUPERSPORT2ALB
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-3-693.png" group-title="🌈SPORT EX-YU🌈",Super Sport 3² HD🇦🇱
+http://gg.gg/SUPERSPORT3ALB
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-super-sport-4-694.png" group-title="🌈SPORT EX-YU🌈",Super Sport 4 HD🇦🇱
+http://gg.gg/SUPERSPORT4ALB
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png" group-title="🌈SPORT EX-YU🌈",EX-YU: ARENA•SPORT 1 HD🇭🇷
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
