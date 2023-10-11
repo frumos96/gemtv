@@ -645,12 +645,15 @@ https://iplogger.com/SPORTTV1PT
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNErq0Xo-NUQh-AvVQC1PmLmHCw9cpCwcBCuGDqALdUcT/ts
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNGh2arrmyll-PXtWVpuO8x0/ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-2-743.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 2 🇹🇷⁴ᴷ
+https://iplogger.com/BEINSPORT2TR
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNEofYgYf8Vj-GQSImOXLcfk/ts
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNAP_2ajFHVzgQjqpvgP4jCtQDRhJq72HqFvJ3YjXSGjV/ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 3 🇹🇷 PL
+https://iplogger.com/BEINSPORT3EPLTR
 #http://cmsott.com:8080/live/Eggantbvttxd/HFNAtgqncHKN/1144.ts
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNIcGxNh58e0hDb_KqYtdCNE/ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSports 4 🇹🇷 BUNDESLIGA
+https://iplogger.com/BEINSPORT4TR
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNPAmMtvJBpj81VJ4yATLYfZcfuJ34xa1qX8MHHR6BjZV/ts
 #EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylp5fQN2WlloPJvYlNcWQgiwP1sB6xZCcsbOLxOyk_co.png" group-title="🔥📺⚽ 4K 🇺 🇭 🇩",beINSPORTS PREMIUM 1⁴ᴷ HD_🇸🇦
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238261&extension=ts&play_token=
@@ -1124,10 +1127,8 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 ---------------------------------------ÐỊA PHƯƠNG----------------------------------------
 #EXTINF:-1 tvg-id="bacgiang" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/109.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/bacgiang_2000.stream/chunks_dvr_range-${start}-10800.m3u8", BGTV HD | TH Bắc Giang
-https://iplogger.com/BACGIAGTV
 http://gg.gg/BACGIANGHDTV
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/110.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/360/auto/dvr-${start}-${end}.m3u8", BTV HD | TH Bắc Ninh
-https://iplogger.com/BACNIHTV
 http://gg.gg/BACNINHHDTV
 #EXTINF:-1 tvg-id="hanam" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/140.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/40/auto/dvr-${start}-${end}.m3u8", THHN HD | TH Hà Nam
 http://103.90.220.236/thhnlive/tv1live.m3u8
