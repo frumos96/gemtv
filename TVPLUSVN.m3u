@@ -134,7 +134,7 @@ http://gg.gg/THHP
 #EXTINF:-1 tvg-id="haiphongplus" group-title="📦 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png" catchup="append" catchup-days="2" catchup-source="https://live.thhp.vn/vod/index.m3u8?st=${start}000&et=${end}000&c=thpplus", THP+ HD | TH Hải Phòng
 https://iplogger.com/THPPLUS
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://thumbs4.imagebam.com/e1/71/0e/MEP34SZ_t.jpg",XPLUS RELAX
-https://tinyurl.com/xplusrelax
+https://iplogger.com/xplusrelax
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4box.png", B4BOX (Kênh phim điện ảnh & series)
 http://b4tv.live/b4tv/b4tv/84.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="http://103.172.78.47:18001/b4men.png", B4MEN (Kênh đàn ông đích thực)
@@ -1148,8 +1148,8 @@ http://gg.gg/HUNGYENHDTV
 #EXTINF:-1 tvg-id="namdinh" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/159.png", NTV | TH Nam Định
 http://gg.gg/NAMDINHTVSD
 #EXTINF:-1 tvg-id="nghean" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/160.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/453/auto/dvr-${start}-${end}.m3u8", NTV HD | TH Nghệ An
-https://iplogger.com/NGHEANTV
 http://gg.gg/NGHEANTVHD
+https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/161.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/160/auto/dvr-${start}-${end}.m3u8", NTV HD | TH Ninh Bình
 https://iplogger.com/NINHBIHTV
 http://gg.gg/NINHBINHHDTV
