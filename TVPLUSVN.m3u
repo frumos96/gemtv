@@ -2,20 +2,18 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" url="https://www.livesoccertv.com/" url="https://sport-tv-guide.live/" url="https://www.liveaugoal.com/"
 #PLAYLISTINF:frumos96 version="v8" url="http://khanggtivi.xyz/" url="http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG" url="https://www.thesportsdb.com/" url="https://www.sporteventz.com/en/" 
 
-
-
-#EXTINF:0 tvg-id="vtv1hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 Viettel
+#EXTINF:0 tvg-id="vtv1hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 360
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
-http://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 HD MYTV
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 VIEON
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://gg.gg/VTV1ONHD
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 HD FPT 
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦 VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 FPT 
 https://iplogger.com/VTV1FHD
-#EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV2 FPT
-http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV2 MYTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://gg.gg/VTV2FHD
+#EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV2 FPT
+http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV2 Viettel
 https://live2onsport.vtvcab.vn/onplus/VTV2_HD/m20_index.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="📦 VTV" logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV3 360
@@ -301,9 +299,9 @@ https://livecdn.khanggtivi.xyz/tv360-2/?id=235
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://210.210.155.37/x6bnqe/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Action-Flix.jpg" group-title="🎬| Phim",PH:Tap Action Flix
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297672
+http://gg.gg/TapActionFlix
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TapMovies-ph.png/330px-TapMovies-ph.png" group-title="🎬| Phim",PH: TAP Movies
-http://p4.giffy.be:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=297674
+http://gg.gg/TAPMoviesPH
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="🎬| Phim",CCTV_6.MOVIE
 https://iplogger.com/cctv6cnv1
 https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
@@ -1474,7 +1472,9 @@ https://iplogger.com/SBSPLUS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="🆀🆄🅾🅲 🆃🅴" , SCTV_se🇮🇩 FHD
 http://gg.gg/SCTVINDO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/330px-Kapamilya_Channel_Logo_2020.svg.png"  group-title="🆀🆄🅾🅲 🆃🅴" ,ABS CBN🇵🇭
-http://gg.gg/ABSCBNPH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=785
+http://tiemnhazunn.click/daddylivehd/785/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/330px-Kapamilya_Channel_Logo_2020.svg.png"  group-title="🆀🆄🅾🅲 🆃🅴" ,ABS CBN Kapamilya Channel 🇵🇭
 http://gg.gg/ABSCBN
 #EXTINF:-1 group-title="🆀🆄🅾🅲 🆃🅴" tvg-id="ANC.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/ANClogo2014.svg",ANC 🇵🇭
@@ -1888,28 +1888,27 @@ http://120.196.232.124:8088/PLTV/13/224/3221227960/1.m3u8
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="💚SPORT ASEAN",Astro SuperSport 1 FHD_🇲🇾
 https://iplogger.com/ASSP1
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png"   group-title="💚SPORT ASEAN",Astro SuperSport 1²_🇲🇾
-http://gg.gg/assp1my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium123/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=123
+http://tiemnhazunn.click/daddylivehd/123/index.m3u8
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="💚SPORT ASEAN",Astro SuperSport 2 FHD_🇲🇾
 https://iplogger.com/ASSP2
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png"   group-title="💚SPORT ASEAN",Astro SuperSport 2²_🇲🇾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium124/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=124
+http://tiemnhazunn.click/daddylivehd/124/index.m3u8
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="💚SPORT ASEAN",Astro SuperSport 3 FHD_🇲🇾
 https://iplogger.com/ASSP3
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png"   group-title="💚SPORT ASEAN",Astro SuperSport 3²_🇲🇾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium125/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=125
+http://tiemnhazunn.click/daddylivehd/125/index.m3u8
 #EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="💚SPORT ASEAN",Astro SuperSport 4 FHD_🇲🇾
 https://iplogger.com/ASSP4
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png"   group-title="💚SPORT ASEAN",Astro SuperSport 4²_🇲🇾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium126/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=126
+http://tiemnhazunn.click/daddylivehd/126/index.m3u8
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="💚SPORT ASEAN",Astro SuperSport 5 FHD_🇲🇾
 https://iplogger.com/ASSP5
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918982&extension=ts&play_token=
