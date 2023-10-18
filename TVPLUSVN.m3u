@@ -1568,30 +1568,6 @@ https://akaviettel.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jhwqqk/xL0jngyEDMeCguQ","kid":"jcHanGFdRuGVteyGkVB4hw"},{"kty":"oct","k":"0CMpqYfSyJYc8wUYbey75Q","kid":"1QXanGFdRuGVteyGkVB4hw"},{"kty":"oct","k":"iISnsTUxlCbyPNE0S28YVw","kid":"4gkezWFdRuGVteyGkVB4hw"},{"kty":"oct","k":"uGhZQ/L3uBQx+zqLZuU5Xw","kid":"zhYe5bBdRuGVteyGkVB4hw"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 1
-https://liveh12.vtvcab.vn/hls/VSTV9_FASTCHANNEL/03.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png",ON Plus TV 2
-https://liveh12.vtvcab.vn/hls/VSTV10_FASTCHANNEL/03.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png", ON Plus Live 1
-https://live2onsport.vtvcab.vn/onplus/ONSPORT1/m20_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png", ON Plus Live 2
-https://live2onsport.vtvcab.vn/onplus/ONSPORT2/m30_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨"tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png", ON Plus Live 3
-https://live2onsport.vtvcab.vn/onplus/ONSPORT3/m30_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png", ON Plus Live 4
-https://live2onsport.vtvcab.vn/onplus/ONSPORT4/m30_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png", ON Plus Live 5
-https://live2onsport.vtvcab.vn/onplus/ONSPORT5/m20_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png", ON Plus Live 6
-https://live2onsport.vtvcab.vn/onplus/ONSPORT6/m30_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png", ON Plus Live 7
-https://live2onsport.vtvcab.vn/onplus/ONSPORT7/m30_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png", ON Plus Live 8
-https://live2onsport.vtvcab.vn/onplus/ONSPORT8/m30_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png", ON Plus Live 9
-https://live2onsport.vtvcab.vn/onplus/ONSPORT9/m30_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://i.ibb.co/5FSPH6k/on-plus-BEARTV.png", ON Plus Live 10
-https://live2onsport.vtvcab.vn/onplus/ONSPORT10/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://hqth.me/3D4", TVPub
 https://hqth.me/tvpublive
 #EXTINF:-1 group-title="🔴| Livestream✨" tvg-logo="https://hqth.me/3D4", TVPub 1
@@ -1693,19 +1669,14 @@ http://gg.gg/STAR-2BR
 http://gg.gg/STAR-3BR
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 4³🇧🇷
 https://iplogger.com/STAR4LATIN
-http://gg.gg/STAR-3BR
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 5³🇧🇷
 https://iplogger.com/STAR5LATIN
-http://gg.gg/STAR-3BR
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 6³🇧🇷
 https://iplogger.com/STAR6LATIN
-http://gg.gg/STAR-3BR
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 7³🇧🇷
 https://iplogger.com/STAR7LATIN
-http://gg.gg/STAR-3BR
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg" group-title="🔴| Livestream✨",STAR+ 8³🇧🇷
 https://iplogger.com/STAR8LATIN
-http://gg.gg/STAR-3BR
 #EXTINF:0 tvg-rec="7" group-title="🔴| Livestream✨" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",Pimple TV 1🇷🇺
 https://iplogger.com/PimpleTV1RU
 #EXTINF:0 tvg-rec="1" group-title="🔴| Livestream✨" tvg-logo="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png",Pimple TV 2🇷🇺
@@ -1752,6 +1723,18 @@ https://tinyurl.com/SportCast3Live
 https://tinyurl.com/SportCast4Live
 #EXTINF:-1   tvg-logo="https://tinyurl.com/sportcastIMG" group-title="🔴| Livestream✨",Sport Cast 5_(Live•Event)
 https://tinyurl.com/SportCast5Live
+#EXTINF:-1   tvg-logo="https://tinyurl.com/RUSHSIMG" group-title="🔴| Livestream✨",RUSH SPOR 1🇨🇷_(Live•Event)
+https://tinyurl.com/RUSHSPORT1
+#EXTINF:-1   tvg-logo="https://tinyurl.com/RUSHSIMG" group-title="🔴| Livestream✨",RUSH SPOR 2🇨🇷_(Live•Event)
+https://tinyurl.com/RUSHSPORT2
+#EXTINF:-1   tvg-logo="https://tinyurl.com/RUSHSIMG" group-title="🔴| Livestream✨",RUSH SPOR 3🇨🇷_(Live•Event)
+https://tinyurl.com/RUSHSPORT3
+#EXTINF:-1   tvg-logo="https://tinyurl.com/RUSHSIMG" group-title="🔴| Livestream✨",RUSH SPOR 4🇨🇷_(Live•Event)
+https://tinyurl.com/RUSHSPORT4
+#EXTINF:-1   tvg-logo="https://tinyurl.com/RUSHSIMG" group-title="🔴| Livestream✨",RUSH SPOR 5🇨🇷_(Live•Event)
+https://tinyurl.com/RUSHSPORT5
+#EXTINF:-1   tvg-logo="https://tinyurl.com/RUSHSIMG" group-title="🔴| Livestream✨",RUSH SPOR 6🇨🇷_(Live•Event)
+https://tinyurl.com/RUSHSPORT6
 #EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-optus-sports-1313.png" group-title="🔴| Livestream✨",🇭🇲OPTUS_1_(Live•Event)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032471&extension=ts&play_Optus_1
 #EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-optus-sports-1313.png" group-title="🔴| Livestream✨",🇭🇲OPTUS_2_(Live•Event)
@@ -2383,6 +2366,7 @@ http://gg.gg/USANETWORK
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=130123&extension=ts&play_token=uCxaeDT85B
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/43901
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-flow-sports-1-1553.png" group-title="💎FUBOL LATINO💎",Flow Sports🇨🇷
+https://tinyurl.com/FlowSports1
 http://gg.gg/FlowSportsCAR
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-flow-sports-1-1553.png" group-title="💎FUBOL LATINO💎",Rush Sports🇨🇷
 http://gg.gg/RushCAR
