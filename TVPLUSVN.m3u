@@ -2242,28 +2242,30 @@ http://gg.gg/CANAL-FOOT360FR
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnbos.lol/lb/premium463/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-1-589.png" group-title="⚽ SPORT EUROPE 🇪🇺",Play Sports 1🇧🇪 
-https://iplogger.com/PlaySports1BE
 http://gg.gg/PlaySports1BE
 #EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829625_image-header_pRow_1688019823000&quality=70&width=500",Play Sports 1🇧🇪 DAZN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-voo-sport-world-1-799.png" group-title="⚽ SPORT EUROPE 🇪🇺",VOO Sport World 1🇧🇪 
+https://iplogger.com/VOOSportWorld1BE
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-2-590.png" group-title="⚽ SPORT EUROPE 🇪🇺",Play Sports 2🇧🇪 
-https://iplogger.com/PlaySports2BE
 http://gg.gg/PlaySports2BE
 #EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829627_image-header_pRow_1688020141000&quality=70&width=500",Play Sports 2🇧🇪 DAZN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-voo-sport-world-2-800.png" group-title="⚽ SPORT EUROPE 🇪🇺",VOO Sport World 2🇧🇪 
+https://iplogger.com/VOOSportWorld2BE
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-3-591.png" group-title="⚽ SPORT EUROPE 🇪🇺",Play Sports 3🇧🇪 
-https://iplogger.com/PlaySports3BE
 http://gg.gg/PlaySports3BE
 #EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175995461629_image-header_pRow_1688020143000&quality=70&width=500",Play Sports 3🇧🇪 DAZN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-voo-sport-world-3-801.png" group-title="⚽ SPORT EUROPE 🇪🇺",VOO Sport World 3🇧🇪 
+https://iplogger.com/VOOSportWorld3BE
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-41-592.png" group-title="⚽ SPORT EUROPE 🇪🇺",Play Sports 4🇧🇪 
-https://iplogger.com/PlaySports4BE
 http://gg.gg/PlaySports4BE
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png" group-title="⚽ SPORT EUROPE 🇪🇺",CANAL+ SPORT FHD_🇵🇱
 http://stream.cvmtv.site/canal1?token=live
