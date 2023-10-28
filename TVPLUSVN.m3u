@@ -1090,7 +1090,6 @@ http://gg.gg/NAMDINHTVSD
 http://gg.gg/NGHEANTVHD
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/161.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/160/auto/dvr-${start}-${end}.m3u8", NTV HD | TH Ninh Bình
-https://iplogger.com/NINHBIHTV
 http://gg.gg/NINHBINHHDTV
 #EXTINF:-1 tvg-id="quangninh1" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/168.png", QTV1 HD | TH Quảng Ninh
 http://103.90.220.236/qtvlive/tv1live.m3u8
@@ -1622,6 +1621,8 @@ https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
 https://obevcimanyd179314182.thapcam.link/live/soiFHD/playlist.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv SOI HD🇻🇳
 https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-uno-353.png" group-title="⚽ SPORT EUROPE 🇪🇺",Sky Sport Uno🇮🇹
+https://iplogger.com/SKYSPORTUNOIT
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-premier-league-2765.png" group-title="⚽ SPORT EUROPE 🇪🇺",Sky Sport Premier League🇩🇪
 https://iplogger.com/SKYSPORTEPL
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-top-event-2764.png" group-title="⚽ SPORT EUROPE 🇪🇺",Sky Sport Top Event🇩🇪
