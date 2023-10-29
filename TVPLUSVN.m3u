@@ -155,7 +155,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226730/1.m3u8
 #EXTINF:-1 tvg-id="999" tvg-name="測試02" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="🎬| Phim 😜📣", PLAYY 영화
 https://iplogger.com/playykr
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim 😜📣" logo="https://bep40.me/live/b4tv2.gif", CINE MY+ ON360
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 http://gg.gg/MYCINE
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim 😜📣" logo="https://bep40.me/live/b4tv2.gif", CINE B4TV
 https://iplogger.com/CINEB4TV
@@ -174,7 +174,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim 😜📣" logo="https://bep40.me/live/b4tv3.gif",LIFE B4TV
 https://iplogger.com/LIFEB4TV
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim 😜📣" logo="https://bep40.me/live/b4tv3.gif",LIFE MY+ DRM
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 http://gg.gg/MYLIFEPLUS
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim 😜📣" logo="https://bep40.me/live/b4tv3.gif", LIFE MYK+ MPD
 https://hqth.me/testchannel2
@@ -1530,6 +1530,7 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://iplogger.com/C1B4TV
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚SPORT ASEAN"  logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png", B41_SPORT🇻🇳 MYK+HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 http://gg.gg/MYSPORT1HD
 #EXTINF:-1 group-title="💚SPORT ASEAN" tvg-id="ksport1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png",B41_SPORT🇻🇳 MYNET+ MPD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1545,8 +1546,9 @@ https://s12936.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 C2+
 https://iplogger.com/C2B4TV
-http://gg.gg/MYSPORT2HD
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MYK+ MPD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+http://gg.gg/MYSPORT2HD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1577,17 +1579,21 @@ https://hqth.me/tvpublive2
 https://hqth.me/tvpublive3
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://hqth.me/3D4", TVPub 4
 https://hqth.me/tvpublive4
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 1 HD🇻🇳 
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv HD🇻🇳 
+https://1123139281.cdn.khmer-hd.com/may00HD/chunks.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv FHD🇻🇳 
+https://obevcimanyd179314182.thapcam.link/live/may00FHD/playlist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 1 (THO)HD🇻🇳 
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 1 FHD🇻🇳
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 1 (THO)FHD🇻🇳
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 2 HD🇻🇳
 https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 2 FHD🇻🇳
 https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 3 HD🇻🇳
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 3 (NEN)HD🇻🇳
 https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 3 FHD🇻🇳
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 3 (NEN)FHD🇻🇳
 https://179314182.global.cdnfastest.com/live/may3FHD/chunklist.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv NEN HD🇻🇳
 https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8
@@ -1605,6 +1611,10 @@ https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8
 https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv CUON FHD🇻🇳
 https://179672673.global.cdnfastest.com/live/cuonFHD/chunklist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv BAT HD🇻🇳
+https://1123139281.cdn.khmer-hd.com/batHD/playlist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv BAT FHD🇻🇳
+https://obevcimanyd179314182.thapcam.link/live/batFHD/playlist.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv MYTOM HD🇻🇳
 https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv MYTOM FHD🇻🇳
