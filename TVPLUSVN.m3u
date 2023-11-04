@@ -13,7 +13,7 @@ https://iplogger.com/VTV1FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://gg.gg/VTV2FHD
 #EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV2 360
-http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+http://live.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV2 SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
