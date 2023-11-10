@@ -2303,11 +2303,9 @@ http://stream.cvmtv.site/canal5?token=live
 #EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
 http://stream.cvmtv.site/canalpre?token=live
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-spiler-tv-1674.png" group-title="⚽ SPORT EUROPE 🇪🇺",Spiler1 TVSD HU 
-http://premiumiptvmk.com:8080/kodicologne/48e237edd2/56768
-http://194.76.186.33:8000/play/a01k/index.m3u8
+https://s.id/Spiler1HU
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-spiler-tv-2-1675.png" group-title="⚽ SPORT EUROPE 🇪🇺",Spiler2 TVHD HU LALIGA
-http://premiumiptvmk.com:8080/kodicologne/48e237edd2/77769
-http://safe.avivainsur.com:8080/Vizyon/cKC3fXZqRVTw/51416
+https://s.id/Spiler2HU
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-ultra-hd-sweden.png" group-title="⚽ SPORT EUROPE 🇪🇺",V Sport UltraHD DK
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=114242&extension=ts&play_token=
 #EXTINF:1 tvg-id="" group-title="⚽ SPORT EUROPE 🇪🇺" tvg-logo="https://i.ibb.co/SrgjJjP/Vsportfootball.png" tvg-name="",⚽ V-Football
