@@ -345,7 +345,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #EXTINF:-1  group-title="🆀🆄🅾🅲 🆃🅴" logo="https://photos.live-tv-channels.org/tv-logo/ae-gem-fit-2728-300x225.jpg",IR: GEM LIFE
 https://iplogger.com/GEMFIT_IR
-http://gg.gg/GEMFITIR
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png" group-title="🆀🆄🅾🅲 🆃🅴" , Pluto TV Fitness🇪🇸
 https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
 #EXTINF:-1 c tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/POPSUGARFitness_logo_dark.png" group-title="🆀🆄🅾🅲 🆃🅴" , POPSUGAR Fitness🇺🇸
@@ -935,6 +934,7 @@ https://iplogger.com/SCTV12HD
 https://iplogger.com/SCTV13HD
 #EXTINF:-1 tvg-id="sctv14hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png", SCTV14 HD Kenh Phim Viet
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://iplogger.com/SCTV14HD
 #EXTINF:-1 tvg-id="sctv15hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD SSPORT2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -1197,10 +1197,7 @@ http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/6886
 https://epg.pw/stream/c5bcb2c5a24cb9aa99ab4046358bf49524a9346de2222b73f8f0ba380698ed34.m3u8
 #http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/77369
 #EXTINF:0 group-title="🎵|Music" logo="https://dash.tvzinos.com/assets/images/channel/66893.jpg", GEM MIFA+ IR
-http://gg.gg/GEMMIFA_IR
-http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/665206
-http://sharkytv.com:2082/instaplay7863aa/R37fWSzvZh/211917
-#http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/192770
+http://gg.gg/GEMMIFAIR
 #EXTINF:0 group-title="🎵|Music" tvg-id="5948" tvg-logo="http://epg.it999.ru/img2/5948.png" tvg-rec="0",FRESH POP HIT
 https://iplogger.com/FRESHPOPHIT
 #EXTINF:0 group-title="🎵|Music" tvg-id="6273" tvg-logo="http://epg.it999.ru/img2/6273.png" tvg-rec="0",FRESH Russian Pop HD
