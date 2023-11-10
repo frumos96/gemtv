@@ -1606,21 +1606,8 @@ http://gg.gg/MYSPORT2HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net//keys/mytv/sport2
 https://s12920.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-live-1.png",K+ LIVE 1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dmp6prmr4QliOzzggkupjQ","kid":"lyUbdnxAQ3GgzwzyX//fNg"},{"kty":"oct","k":"+TCOiAyPnaUkGdOp99iOjA","kid":"32kbdnxAQ3GgzwzyX//fNg"},{"kty":"oct","k":"I9i6mGzMXKrjePDxNOH9Sw","kid":"7G1fp3xAQ3GgzwzyX//fNg"},{"kty":"oct","k":"I9j2urVJm71OROxK4gRPsw","kid":"2Hpfv8tAQ3GgzwzyX//fNg"}],"type":"temporary"}
-https://akavnpt.kplus.vn/bpk-tv/prod_klive1/default/index.mpd?maxrate=3000000
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-live-2.png",K+ LIVE 2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dDne6KZ62B+Zto18e/p50g","kid":"QXSdPAX5TOyqmN8rMVrTCQ"},{"kty":"oct","k":"WMcAvoA7wlZrHX++La6QdA","kid":"ibidPAX5TOyqmN8rMVrTCQ"},{"kty":"oct","k":"6spodc4nCHDLP4ePZkqD7A","kid":"lrzhbQX5TOyqmN8rMVrTCQ"},{"kty":"oct","k":"oCLuUmYfnzsdM7n4hREgpA","kid":"gsnhhVT5TOyqmN8rMVrTCQ"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-live-3.png",K+ LIVE 3
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jhwqqk/xL0jngyEDMeCguQ","kid":"jcHanGFdRuGVteyGkVB4hw"},{"kty":"oct","k":"0CMpqYfSyJYc8wUYbey75Q","kid":"1QXanGFdRuGVteyGkVB4hw"},{"kty":"oct","k":"iISnsTUxlCbyPNE0S28YVw","kid":"4gkezWFdRuGVteyGkVB4hw"},{"kty":"oct","k":"uGhZQ/L3uBQx+zqLZuU5Xw","kid":"zhYe5bBdRuGVteyGkVB4hw"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhevent.png", VThanh Live Event
+http://stream2.vthanhtivi.pw:5080/LiveApp/streams/okita2.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://hqth.me/3D4", TVPub
 https://hqth.me/tvpublive
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://hqth.me/3D4", TVPub 1
