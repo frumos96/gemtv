@@ -1146,14 +1146,12 @@ http://103.90.220.236/bptvlive/tv2live.m3u8
 http://202.43.109.142:1935/ttv11/tntv/chunklist_w1911531279.m3u8
 http://gg.gg/TTV11HD
 #EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/133.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/404/auto/dvr-${start}-${end}.m3u8", ĐNRTV1 HD | TH Đồng Nai
-https://code.vthanhtivi.pw/getlink/fptplay/dong-nai-1/chunklist_b2500000.m3u8
 http://gg.gg/DNRTV1HD
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/134.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/95/auto/dvr-${start}-${end}.m3u8", ĐNRTV2 HD | TH Đồng Nai
-https://code.vthanhtivi.pw/getlink/tv360/255/playlist.m3u8
 http://gg.gg/DNRTV2HD
 #EXTINF:0 group-title="Địa phương🇻🇳" tvg-logo="https://i.ibb.co/MDzhFJb/LONGAN.png", Long An
-https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 http://gg.gg/LA34HDTV
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 tvg-id="tiengiang" group-title="Địa phương🇻🇳" tvg-logo="https://cdn.hqth.me/logo/thumbs/180.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/54/auto/dvr-${start}-${end}.m3u8", THTG HD | TH Tiền Giang
 http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
