@@ -143,6 +143,10 @@ https://iplogger.com/xplusrelax
 http://b4tv.live/b4tv/b4tv/84.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4boxplus.png", B4BOX PLUS
 http://b4tv.live/b4tv/b4tv/120.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="http://103.172.78.47/logotubevent.png", B4TUBEVENT 1
+http://b4tv.live/b4tv/b4tv/55.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="http://103.172.78.47/logotubevent.png", B4TUBEVENT 2
+http://b4tv.live/b4tv/b4tv/56.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT+ 1
 http://b4tv.live/b4tv/b4tv/19.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT+ 2
@@ -805,7 +809,9 @@ https://arcgmoblie.site/cliptv/cliptv.php?id=on-sports
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://iplogger.com/ONMOVIES
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ONMovies² HD
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ONMovies² SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
 http://gg.gg/ONMovies8M
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/f5729e7e-bf42-4e7d-988e-6204f94062b4/dvr-${start}-${offset}.m3u8",E Channel VEON
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
