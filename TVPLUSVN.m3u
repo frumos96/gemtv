@@ -2275,9 +2275,11 @@ http://gg.gg/CANAL-SPORT4PL
 http://stream.cvmtv.site/canal5?token=live
 #EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
 http://stream.cvmtv.site/canalpre?token=live
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-spiler-tv-1674.png" group-title="⚽ SPORT EUROPE 🇪🇺",Spiler1 TVSD HU 
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-spiler-tv-1674.png" group-title="⚽ SPORT EUROPE 🇪🇺",Spiler1 HU EPL
+http://gg.gg/Spiler1HU
 https://s.id/Spiler1HU
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-spiler-tv-2-1675.png" group-title="⚽ SPORT EUROPE 🇪🇺",Spiler2 TVHD HU LALIGA
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-spiler-tv-2-1675.png" group-title="⚽ SPORT EUROPE 🇪🇺",Spiler2 LALIGA
+http://gg.gg/Spiler2HU
 https://s.id/Spiler2HU
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/viasat-ultra-hd-sweden.png" group-title="⚽ SPORT EUROPE 🇪🇺",V Sport UltraHD DK
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:B7:20:F3&stream=114242&extension=ts&play_token=
