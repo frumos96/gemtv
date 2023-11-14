@@ -265,21 +265,18 @@ http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_108
 #EXTINF:0 tvg-id="boxmovie1" group-title="🎬| Phim 😜📣" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://gg.gg/BOXMOVIE1_VN
-#EXTINF:0 tvg-id="boxmovie1" group-title="🎬| Phim 😜📣" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 360
-#EXTVLCOPT:http-user-agent=ReactnativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://iplogger.com/BOXMOVIE1
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🎬| Phim 😜📣" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://gg.gg/HOLLYWOOD_CLASSICS
-#EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim 😜📣" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box HitsTVMY
-http://gg.gg/boxhitMyTV
-https://s.id/BOXHITSVN
-#EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim 😜📣" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits²CLVIP
+#EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim 😜📣" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://iplogger.com/BOXHIT
-#EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim 😜📣" logo="https://cdn.hqth.me/logo/thumbs/189.png", InTheBox CLVIP
+#http://gg.gg/boxhitMyTV
+#https://s.id/BOXHITSVN
+#EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim 😜📣" logo="https://cdn.hqth.me/logo/thumbs/189.png", InTheBox 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-http://gg.gg/IN_THE_BOX
+https://iplogger.com/BOXCHANNEL
+#http://gg.gg/IN_THE_BOX
 #EXTINF:-1 group-title="🎬| Phim 😜📣" tvg-logo="https://bit.ly/40x0pxx" ,MY Cinema Asia🇮🇩 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://210.210.155.37/x6bnqe/h/h193/index.m3u8
