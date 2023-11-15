@@ -1577,27 +1577,27 @@ http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
 
 ---------------------------------------🔴| Livestream------------------------------
-#EXTINF:-1 tvg-id="ksport1hd" group-title="💚SPORT ASEAN" logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png", B41_SPORT🇻🇳 C1+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png", B41_SPORT🇻🇳 C1+
 https://iplogger.com/C1B4TV
-#EXTINF:-1 tvg-id="ksport1hd" group-title="💚SPORT ASEAN"  logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png", B41_SPORT🇻🇳 MYK+HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="👑 SPORT ASEAN🌏🔥"  logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png", B41_SPORT🇻🇳 MYK+HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 http://gg.gg/MYSPORT1HD
-#EXTINF:-1 group-title="💚SPORT ASEAN" tvg-id="ksport1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png",B41_SPORT🇻🇳 MYNET+ MPD
+#EXTINF:-1 group-title="👑 SPORT ASEAN🌏🔥" tvg-id="ksport1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png",B41_SPORT🇻🇳 MYNET+ MPD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net//keys/mytv/sport1
 https://s12936.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-#EXTINF:-1 group-title="💚SPORT ASEAN" tvg-id="ksport1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png",B41_SPORT🇻🇳 MYK+ MPD
+#EXTINF:-1 group-title="👑 SPORT ASEAN🌏🔥" tvg-id="ksport1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png",B41_SPORT🇻🇳 MYK+ MPD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sU1Fq+Zjt7GxznYr42BbXg","kid":"SqrhGwI/QtsUlgTkb+qJBw"},{"kty":"oct","k":"SIk49PbP2kgOr5+Ar1/nXQ","kid":"ku7hGwI/QtsUlgTkb+qJBw"},{"kty":"oct","k":"hDLy8qU2+tavZ2eBFlYUtQ","kid":"n/IlTAI/QtsUlgTkb+qJBw"},{"kty":"oct","k":"gjH0YoemcHET8KCT764slg","kid":"i/8lZFE/QtsUlgTkb+qJBw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 C2+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 C2+
 https://iplogger.com/C2B4TV
-#EXTINF:-1 tvg-id="ksport2hd" group-title="💚SPORT ASEAN" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MYK+ MPD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MYK+ MPD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 http://gg.gg/MYSPORT2HD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
@@ -1617,10 +1617,60 @@ https://hqth.me/tvpublive2
 https://hqth.me/tvpublive3
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://hqth.me/3D4", TVPub 4
 https://hqth.me/tvpublive4
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv HD🇻🇳 
-https://1123139281.cdn.khmer-hd.com/may00HD/chunks.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv FHD🇻🇳 
-https://obevcimanyd179314182.thapcam.link/live/may00FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" tvg-logo="https://iplogger.com/ChampionsTV1IMG" group-title="👑 SPORT ASEAN🌏🔥",Champions TV 1 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2" tvg-logo="https://iplogger.com/ChampionsTV2IMG" group-title="👑 SPORT ASEAN🌏🔥",Champions TV 2 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
+https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-name="Champions TV 3" tvg-logo="https://iplogger.com/ChampionsTV3IMG" group-title="👑 SPORT ASEAN🌏🔥",Champions TV 3 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
+https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
+#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-name="Champions TV 5" tvg-logo="https://iplogger.com/ChampionsTV5IMG" group-title="👑 SPORT ASEAN🌏🔥",Champions TV 5 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yGGRr8NyxQBuurbovfYeFA","kid":"eSybOCYVxH_fuEDf0jh7iw"}],"type": "temporary"}
+https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
+#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-name="Champions TV 6" tvg-logo="https://iplogger.com/ChampionsTV6IMG" group-title="👑 SPORT ASEAN🌏🔥",Champions TV 6 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
+https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN Sports 1 AIS🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN Sports 2 AIS🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN Sports 3 AIS🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN Sports 4 AIS🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN Sports 5 AIS🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN Sports 6 AIS🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN Sports 7 AIS🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 1 (THO)HD🇻🇳 
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 1 (THO)FHD🇻🇳
@@ -1633,42 +1683,6 @@ https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8
 https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 3 (NEN)FHD🇻🇳
 https://179314182.global.cdnfastest.com/live/may3FHD/chunklist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv NEN HD🇻🇳
-https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv NEN FHD🇻🇳
-https://179314182.global.cdnfastest.com/live/nenFHD/chunklist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv OLD HD🇻🇳
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv OLD FHD🇻🇳
-https://179314182.global.cdnfastest.com/live/oldFHD/chunklist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv PHO HD🇻🇳
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv PHO FHD🇻🇳
-https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv CUON HD🇻🇳
-https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv CUON FHD🇻🇳
-https://179672673.global.cdnfastest.com/live/cuonFHD/chunklist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv BAT HD🇻🇳
-https://1123139281.cdn.khmer-hd.com/batHD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv BAT FHD🇻🇳
-https://obevcimanyd179314182.thapcam.link/live/batFHD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv MYTOM HD🇻🇳
-https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv MYTOM FHD🇻🇳
-https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv BUNCHA FHD🇻🇳
-https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv BUNCHA HD🇻🇳
-https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv TRAUGACBEP FHD🇻🇳
-https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv TRAUGACBEP HD🇻🇳
-https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv SOI FHD🇻🇳
-https://obevcimanyd179314182.thapcam.link/live/soiFHD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv SOI HD🇻🇳
-https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="📣🔴| Livestream📌♾💟" , La Liga Premier | Paramount+
 https://iplogger.com/ParamountPlus
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-uno-353.png" group-title="⚽ SPORT EUROPE 🇪🇺",Sky Sport Uno🇮🇹
@@ -1857,241 +1871,221 @@ http://120.196.232.124:8088/PLTV/13/224/3221227956/1.m3u8
 http://120.196.232.124:8088/PLTV/13/224/3221227960/1.m3u8
 
 ---------------------------------------SPORT ASEAN----------------------------------------
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="💚SPORT ASEAN",Astro SuperSport 1 FHD_🇲🇾
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1 FHD_🇲🇾
 https://iplogger.com/ASSP1
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png"   group-title="💚SPORT ASEAN",Astro SuperSport 1²_🇲🇾
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1²_🇲🇾
 http://gg.gg/assp1my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=123
 http://tiemnhazunn.click/daddylivehd/123/index.m3u8
-#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="💚SPORT ASEAN",Astro SuperSport 2 FHD_🇲🇾
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 2 FHD_🇲🇾
 https://iplogger.com/ASSP2
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png"   group-title="💚SPORT ASEAN",Astro SuperSport 2²_🇲🇾
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 2²_🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=124
 http://tiemnhazunn.click/daddylivehd/124/index.m3u8
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="💚SPORT ASEAN",Astro SuperSport 3 FHD_🇲🇾
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 3 FHD_🇲🇾
 https://iplogger.com/ASSP3
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png"   group-title="💚SPORT ASEAN",Astro SuperSport 3²_🇲🇾
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 3²_🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=125
 http://tiemnhazunn.click/daddylivehd/125/index.m3u8
-#EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="💚SPORT ASEAN",Astro SuperSport 4 FHD_🇲🇾
+#EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 4 FHD_🇲🇾
 https://iplogger.com/ASSP4
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png"   group-title="💚SPORT ASEAN",Astro SuperSport 4²_🇲🇾
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 4²_🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=126
 http://tiemnhazunn.click/daddylivehd/126/index.m3u8
-#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="💚SPORT ASEAN",Astro SuperSport 5 FHD_🇲🇾
+#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 5 FHD_🇲🇾
 https://iplogger.com/ASSP5
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918982&extension=ts&play_token=
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png"   group-title="💚SPORT ASEAN",Astro SuperSport 5²_🇲🇾
+#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 5²_🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium43/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="💚SPORT ASEAN",YES Sport 1 HD🇮🇱
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 1 HD🇮🇱
 https://iplogger.com/YESSport1IL
-#EXTINF:-1 tvg-id="Sport1.il" tvg-name="Sport 1" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png"  group-title="💚SPORT ASEAN",YES Sport 1 HD web 🇮🇱
+#EXTINF:-1 tvg-id="Sport1.il" tvg-name="Sport 1" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png"  group-title="👑 SPORT ASEAN🌏🔥",YES Sport 1 HD web 🇮🇱
 http://gg.gg/YESSport1IL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnbos.lol/lb/premium140/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="💚SPORT ASEAN",YES Sport 2 HD🇮🇱
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 2 HD🇮🇱
 https://iplogger.com/YESSport2IL
-#EXTINF:-1 tvg-id="Sport2.il" tvg-name="Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="💚SPORT ASEAN",YES Sport 2 HD web 🇮🇱
+#EXTINF:-1 tvg-id="Sport2.il" tvg-name="Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 2 HD web 🇮🇱
 http://gg.gg/YESSport2IL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnbos.lol/lb/premium141/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="💚SPORT ASEAN",YES Sport 3 HD🇮🇱
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 3 HD🇮🇱
 https://iplogger.com/YESSport3IL
-#EXTINF:-1 tvg-id="Sport3.il" tvg-name="Sport 3" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="💚SPORT ASEAN",YES Sport 3 HD web 🇮🇱
+#EXTINF:-1 tvg-id="Sport3.il" tvg-name="Sport 3" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 3 HD web 🇮🇱
 http://gg.gg/YESSport3IL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnbos.lol/lb/premium142/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-4-1024.png" group-title="💚SPORT ASEAN",YES Sport 4 HD🇮🇱
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-4-1024.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 4 HD🇮🇱
 https://iplogger.com/YESSport4IL
-#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="💚SPORT ASEAN",YES Sport  HD web 🇮🇱
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport  HD web 🇮🇱
 http://gg.gg/YESSport4IL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnbos.lol/lb/premium143/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-5-1025.png" group-title="💚SPORT ASEAN",YES Sport 5 HD🇮🇱
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-5-1025.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5 HD🇮🇱
 https://iplogger.com/YESSport5IL
 http://gg.gg/YESSport5IL
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-gold-1028.png" group-title="💚SPORT ASEAN",YES Sport 5 Gold🇮🇱
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-gold-1028.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5 Gold🇮🇱
 http://gg.gg/YESSport5GOLDIL
 https://s.id/YESFubol5GIL
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-live-1027.png" group-title="💚SPORT ASEAN",YES Sport 5 Live HD🇮🇱
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-live-1027.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5 Live HD🇮🇱
 http://gg.gg/YESSport5LIVEIL
 https://s.id/YESFubol5LIVEIL
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-stars-1828.png" group-title="💚SPORT ASEAN",YES Sport 5+ Stars HD🇮🇱
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-stars-1828.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5+ Stars HD🇮🇱
 http://gg.gg/YESSport5-StarsIL
 https://s.id/YESFubol5PLUSIVEIL
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png" group-title="💚SPORT ASEAN",YES Sport 5+ HD🇮🇱
+#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5+ HD🇮🇱
 http://gg.gg/YESSport5-IL
 https://s.id/YESFubol5PLUSIL
-#EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="💚SPORT ASEAN", CCTV5 HD_🇨🇳
+#EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="👑 SPORT ASEAN🌏🔥", CCTV5 HD_🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5H265_4000
 https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
-#EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5+.png" group-title="💚SPORT ASEAN", CCTV5+ HD_🇨🇳
+#EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5+.png" group-title="👑 SPORT ASEAN🌏🔥", CCTV5+ HD_🇨🇳
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-elta-sports-1404.png" group-title="💚SPORT ASEAN",Elta•1🇹🇼
+#EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-elta-sports-1404.png" group-title="👑 SPORT ASEAN🌏🔥",Elta•1🇹🇼
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tvg-id="愛爾達體育" tvg-name="愛爾達體育" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育.png" group-title="💚SPORT ASEAN",愛爾達體育 Elta•1🇹🇼
+#EXTINF:-1,tvg-id="愛爾達體育" tvg-name="愛爾達體育" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育.png" group-title="👑 SPORT ASEAN🌏🔥",愛爾達體育 Elta•1🇹🇼
 http://gg.gg/ELTASPORT1
-#EXTINF:-1,tvg-id="愛爾達體育2" tvg-name="愛爾達體育2" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2.png" group-title="💚SPORT ASEAN",愛爾達體育2 Elta•2🇹🇼
+#EXTINF:-1,tvg-id="愛爾達體育2" tvg-name="愛爾達體育2" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2.png" group-title="👑 SPORT ASEAN🌏🔥",愛爾達體育2 Elta•2🇹🇼
 http://gg.gg/ELTASPORT2TW
-#EXTINF:-1,tvg-id="愛爾達體育2" tvg-name="愛爾達體育2" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2.png" group-title="💚SPORT ASEAN",愛爾達體育3 Elta•3🇹🇼
+#EXTINF:-1,tvg-id="愛爾達體育2" tvg-name="愛爾達體育2" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2.png" group-title="👑 SPORT ASEAN🌏🔥",愛爾達體育3 Elta•3🇹🇼
 http://gg.gg/ELTASPORT3
-#EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-1-1659.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 1 HD_🇹🇼
+#EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-1-1659.png" group-title="👑 SPORT ASEAN🌏🔥",ELEVEN•SPORTS 1 HD_🇹🇼
 https://iplogger.com/Eleven1TW
-#EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-2-1660.png" group-title="💚SPORT ASEAN",ELEVEN•SPORTS 2 HD_🇹🇼
+#EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-2-1660.png" group-title="👑 SPORT ASEAN🌏🔥",ELEVEN•SPORTS 2 HD_🇹🇼
 https://iplogger.com/Eleven2TW
-#EXTINF:-1 tvg-logo="https://cdn.onews.tv/news/photo/202204/122177_141445_3952.jpg" group-title="💚SPORT ASEAN", TvN SPORTS_🇰🇷
+#EXTINF:-1 tvg-logo="https://cdn.onews.tv/news/photo/202204/122177_141445_3952.jpg" group-title="👑 SPORT ASEAN🌏🔥", TvN SPORTS_🇰🇷
 https://s.id/TVNSPORTKR
-#EXTINF:-1 tvg-logo="https://cdn.onews.tv/news/photo/202204/122177_141445_3952.jpg" group-title="💚SPORT ASEAN", KBSN SPORTS_🇰🇷
+#EXTINF:-1 tvg-logo="https://cdn.onews.tv/news/photo/202204/122177_141445_3952.jpg" group-title="👑 SPORT ASEAN🌏🔥", KBSN SPORTS_🇰🇷
 https://s.id/KBSNSPORT
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="💚SPORT ASEAN", SPOTV 1_🇰🇷
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="👑 SPORT ASEAN🌏🔥", SPOTV 1_🇰🇷
 http://gg.gg/SPOTV1KR
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="💚SPORT ASEAN", SPOTV 2_🇰🇷
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="👑 SPORT ASEAN🌏🔥", SPOTV 2_🇰🇷
 http://gg.gg/SPOTV2KR
-#EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu10.png" group-title="💚SPORT ASEAN",SBS_SPORT_🇰🇷
+#EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu10.png" group-title="👑 SPORT ASEAN🌏🔥",SBS_SPORT_🇰🇷
 https://s.id/SBSSportsKR
-#EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu10.png" group-title="💚SPORT ASEAN",MBC_SPORT_+_🇰🇷
+#EXTINF:-1   tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu10.png" group-title="👑 SPORT ASEAN🌏🔥",MBC_SPORT_+_🇰🇷
 https://s.id/MBCSPORTS
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" tvg-logo="https://iplogger.com/ChampionsTV1IMG" group-title="💚SPORT ASEAN",Champions TV 1 MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
-https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2" tvg-logo="https://iplogger.com/ChampionsTV2IMG" group-title="💚SPORT ASEAN",Champions TV 2 MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
-https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
-#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-name="Champions TV 3" tvg-logo="https://iplogger.com/ChampionsTV3IMG" group-title="💚SPORT ASEAN",Champions TV 3 MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
-https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
-#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-name="Champions TV 5" tvg-logo="https://iplogger.com/ChampionsTV5IMG" group-title="💚SPORT ASEAN",Champions TV 5 MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cb5cc747f5f71e381f0c7d71863eb6a:c70742da755e9a27217223f56b8a8266
-https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
-#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-name="Champions TV 6" tvg-logo="https://iplogger.com/ChampionsTV6IMG" group-title="💚SPORT ASEAN",Champions TV 6 MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=923deae82891e37b282b71ba508fb3bc:62c82a4c668811372b4eb374bd75c55b
-https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-1-1077.png" group-title="💚SPORT ASEAN",SPOTV1🇮🇩
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-1-1077.png" group-title="👑 SPORT ASEAN🌏🔥",SPOTV1🇮🇩
 http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=683117&extension=ts&play_token=shareext.ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png" group-title="💚SPORT ASEAN",SPOTV-2🇮🇩
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-th-bein-sports-2-1078.png" group-title="👑 SPORT ASEAN🌏🔥",SPOTV-2🇮🇩
 http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941564&extension=ts&play_token=shareext.ts
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png" group-title="💚SPORT ASEAN",True Premier League 1 HD_🇹🇭
+#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png" group-title="👑 SPORT ASEAN🌏🔥",True Premier League 1 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png" group-title="💚SPORT ASEAN",True Premier League 1 HD LAO_🇹🇭 
+#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png" group-title="👑 SPORT ASEAN🌏🔥",True Premier League 1 HD LAO_🇹🇭 
 https://iplogger.com/True1PremierLeague
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png" group-title="💚SPORT ASEAN",True Premier League 2 HD_🇹🇭
+#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png" group-title="👑 SPORT ASEAN🌏🔥",True Premier League 2 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png" group-title="💚SPORT ASEAN",True Premier League 2 HD LAO_🇹🇭 
+#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png" group-title="👑 SPORT ASEAN🌏🔥",True Premier League 2 HD LAO_🇹🇭 
 https://iplogger.com/True2PremierLeague
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png" group-title="💚SPORT ASEAN",True Premier League 3 HD_🇹🇭
+#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png" group-title="👑 SPORT ASEAN🌏🔥",True Premier League 3 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="💚SPORT ASEAN", PPTV HD AIS_🇹🇭
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="👑 SPORT ASEAN🌏🔥", PPTV HD AIS_🇹🇭
 https://tinyurl.com/PPTVTHLAND
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="💚SPORT ASEAN", PPTV HD_🇹🇭
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="👑 SPORT ASEAN🌏🔥", PPTV HD_🇹🇭
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 http://61.19.242.134/feed/202306140918/chpptvhd3/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="💚SPORT ASEAN",True Sport 1 HD_🇹🇭
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="👑 SPORT ASEAN🌏🔥",True Sport 1 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="💚SPORT ASEAN",True Sport1 LAO_🇹🇭
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="👑 SPORT ASEAN🌏🔥",True Sport1 LAO_🇹🇭
 http://gg.gg/TRUESPORT1
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="💚SPORT ASEAN",True Sport 2 HD_🇹🇭
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="👑 SPORT ASEAN🌏🔥",True Sport 2 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="💚SPORT ASEAN",True Sport 2 LAO_🇹🇭
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="👑 SPORT ASEAN🌏🔥",True Sport 2 LAO_🇹🇭
 http://gg.gg/TRUESPORT2
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="💚SPORT ASEAN",True Sport 3 HD_🇹🇭
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="👑 SPORT ASEAN🌏🔥",True Sport 3 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="💚SPORT ASEAN",True Sport 3 LAO_🇹🇭
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="👑 SPORT ASEAN🌏🔥",True Sport 3 LAO_🇹🇭
 http://gg.gg/TRUESPORT3
-#EXTINF:1 tvg-id="TrueSportHD4.th" tvg-logo="https://i.postimg.cc/8cWt32Fj/20220927-064449.png" group-title="💚SPORT ASEAN", True Sport 4 HD_🇹🇭
+#EXTINF:1 tvg-id="TrueSportHD4.th" tvg-logo="https://i.postimg.cc/8cWt32Fj/20220927-064449.png" group-title="👑 SPORT ASEAN🌏🔥", True Sport 4 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="💚SPORT ASEAN",Now Sports 1_🇭🇰
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="👑 SPORT ASEAN🌏🔥",Now Sports 1_🇭🇰
 https://iplogger.com/NOWSPORTS1HK
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-2-1990.png" group-title="💚SPORT ASEAN",Bein Now Sports 2_🇭🇰
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-2-1990.png" group-title="👑 SPORT ASEAN🌏🔥",Bein Now Sports 2_🇭🇰
 https://iplogger.com/NOWSPORTS2HK
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-3-1991.png" group-title="💚SPORT ASEAN", Now Sports 3_🇭🇰
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-3-1991.png" group-title="👑 SPORT ASEAN🌏🔥", Now Sports 3_🇭🇰
 https://iplogger.com/NOWSPORTS3HK
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="💚SPORT ASEAN",Now Premier Sports 1_🇭🇰
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="👑 SPORT ASEAN🌏🔥",Now Premier Sports 1_🇭🇰
 http://gg.gg/NowPremierSports1HK
 http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110622&extension=ts&play_token=shareext@.m3u8
-#EXTINF:-1   tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/uan17t1655810451.png" group-title="💚SPORT ASEAN",HUB•SPORTS•1_🇸🇬
+#EXTINF:-1   tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/uan17t1655810451.png" group-title="👑 SPORT ASEAN🌏🔥",HUB•SPORTS•1_🇸🇬
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1110667&extension=ts&shareext@HubSports1
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="💚SPORT ASEAN",HUB•SPORTS•2#•_🇸🇬 BUNDESLIGA
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="👑 SPORT ASEAN🌏🔥",HUB•SPORTS•2#•_🇸🇬 BUNDESLIGA
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1110666&extension=ts&shareext@HubSports2
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="💚SPORT ASEAN",HUB•SPORTS•4_🇸🇬
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="👑 SPORT ASEAN🌏🔥",HUB•SPORTS•4_🇸🇬
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1110665&extension=ts&shareext@HubSports4
-#EXTINF:-1 tvg-id="sonyten1hd.in"tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2o6EEdyuSIMc53sKv4MzL3H.png" group-title="💚SPORT ASEAN",SONY_TEN 1 FH Bundesliga_🇮🇳
+#EXTINF:-1 tvg-id="sonyten1hd.in"tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2o6EEdyuSIMc53sKv4MzL3H.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 1 FH Bundesliga_🇮🇳
 https://iplogger.com/SONYSPORT1IN
-#EXTINF:-1 tvg-id="sonyten1hd.in"tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2o6EEdyuSIMc53sKv4MzL3H.png" group-title="💚SPORT ASEAN",SONY_TEN 1ˢᵛ² FHD Bundesliga_🇮🇳
+#EXTINF:-1 tvg-id="sonyten1hd.in"tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2o6EEdyuSIMc53sKv4MzL3H.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 1ˢᵛ² FHD Bundesliga_🇮🇳
 http://gg.gg/SONYSPORT1IN
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114576&extension=ts
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2r57wXFDbDf_qXkU_c8GWTg.png" group-title="💚SPORT ASEAN",SONY_TEN 2 FHD Bundesliga_🇮🇳
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2r57wXFDbDf_qXkU_c8GWTg.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 2 FHD Bundesliga_🇮🇳
 https://iplogger.com/SONYSPORT2IN
 
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2r57wXFDbDf_qXkU_c8GWTg.png" group-title="💚SPORT ASEAN",SONY_TEN 2ˢᵛ² FHD Bundesliga_🇮🇳
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2r57wXFDbDf_qXkU_c8GWTg.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 2ˢᵛ² FHD Bundesliga_🇮🇳
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114577&extension=ts
 http://gg.gg/SONYSPORT2IN
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oA5SCQwEeBvvOTFV08rgLT.png" group-title="💚SPORT ASEAN",SONY_TEN 3 FHD Bundesliga_🇮🇳
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oA5SCQwEeBvvOTFV08rgLT.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 3 FHD Bundesliga_🇮🇳
 https://iplogger.com/SONYSPORT3IN
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oA5SCQwEeBvvOTFV08rgLT.png" group-title="💚SPORT ASEAN",SONY_TEN 3ˢᵛ² FHD Bundesliga_🇮🇳
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oA5SCQwEeBvvOTFV08rgLT.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 3ˢᵛ² FHD Bundesliga_🇮🇳
 http://gg.gg/SONYSPORT3IN
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114578&extension=ts
-#EXTINF:-1 tvg-id="sonyten4hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oA5SCQwEeBvvOTFV08rgLT.png" group-title="💚SPORT ASEAN",SONY_TEN 4 FHD _🇮🇳
+#EXTINF:-1 tvg-id="sonyten4hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oA5SCQwEeBvvOTFV08rgLT.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 4 FHD _🇮🇳
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156024&extension=ts
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2ocvTunhT7cC5aTeuuvqgVK.png" group-title="💚SPORT ASEAN",SONY_SIX FHD(D2H)_🇮🇳
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2ocvTunhT7cC5aTeuuvqgVK.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_SIX FHD(D2H)_🇮🇳
 https://iplogger.com/SONYSPORT5IN
 http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/240692
 http://humiptv.live:8080/live/Antonio123/Antonio123/98870.ts
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDFcWJ3n8AzK2y5tT4ctD_f.png" group-title="💚SPORT ASEAN",STARSPORTS 1 FHD (D2H)_🇮🇳
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDFcWJ3n8AzK2y5tT4ctD_f.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS 1 FHD (D2H)_🇮🇳
 https://iplogger.com/STARSPORT1IN
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDFcWJ3n8AzK2y5tT4ctD_f.png" group-title="💚SPORT ASEAN",STARSPORTS 1(TATAPLAY)_🇮🇳
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDFcWJ3n8AzK2y5tT4ctD_f.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS 1(TATAPLAY)_🇮🇳
 http://gg.gg/STARSPORT1IN
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBWnglMlCY_VQQYt1iLZBrJ.png" group-title="💚SPORT ASEAN",STARSPORTS 2 FHD (D2H)_🇮🇳
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBWnglMlCY_VQQYt1iLZBrJ.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS 2 FHD (D2H)_🇮🇳
 https://iplogger.com/STARSPORT2IN
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBWnglMlCY_VQQYt1iLZBrJ.png" group-title="💚SPORT ASEAN",STARSPORTS 2 (TATAPLAY)_🇮🇳
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBWnglMlCY_VQQYt1iLZBrJ.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS 2 (TATAPLAY)_🇮🇳
 http://gg.gg/STARSPORT2IN
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-star-sports-3-228.png" group-title="💚SPORT ASEAN",STARSPORTS 3 FHD (D2H)_🇮🇳
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-star-sports-3-228.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS 3 FHD (D2H)_🇮🇳
 https://iplogger.com/STARSPORT3IN
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-star-sports-3-228.png" group-title="💚SPORT ASEAN",STARSPORTS 3(TATAPLAY)_🇮🇳
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-star-sports-3-228.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS 3(TATAPLAY)_🇮🇳
 http://gg.gg/STARSPORT3IN
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="💚SPORT ASEAN",STARSPORTS SELECT 1 Premier League_🇮🇳
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS SELECT 1 Premier League_🇮🇳
 http://test-otv1.ftpbd.net/streams/116/index.m3u8
 https://iplogger.com/STARSPORTSSELECT1IN
 http://hostengine.live/live/wrecks82/habsiptv82/56776.m3u8
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="💚SPORT ASEAN",STARSPORTS SELECT 1² Premier League_🇮🇳
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS SELECT 1² Premier League_🇮🇳
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155972&extension=ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="💚SPORT ASEAN",STARSPORTS SELECT 2_🇮🇳
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS SELECT 2_🇮🇳
 http://test-otv1.ftpbd.net/streams/125/index.m3u8
 https://iplogger.com/STARSPORTSSELECT2IN
 http://hostengine.live/live/wrecks82/habsiptv82/56777.m3u8
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="💚SPORT ASEAN",STARSPORTS SELECT 2²_🇮🇳
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS SELECT 2²_🇮🇳
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155973&extension=ts
 
 
