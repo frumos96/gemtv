@@ -1674,7 +1674,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 1 (THO)HD🇻🇳 
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 1 (THO)FHD🇻🇳
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
+https://obevcimanyd179314182.thapcam.link/live/Z1FHD/chunklist.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 2 HD🇻🇳
 https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 2 FHD🇻🇳
@@ -1683,6 +1683,83 @@ https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8
 https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",VEBOtv 3 (NEN)FHD🇻🇳
 https://179314182.global.cdnfastest.com/live/may3FHD/chunklist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg", VEBOtv 4 (MYTOM)HD🇻🇳
+https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg", VEBOtv 4 (MYTOM)FHD🇻🇳
+https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg", VEBOtv 5 (PHO)HD🇻🇳
+https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg", VEBOtv 5 (PHO)FHD🇻🇳
+https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 6 (TRAUGBEP)HD🇻🇳
+https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 6 (TRAUGBEP)FHD🇻🇳
+https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 7 (NEN)HD🇻🇳
+https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 7 (NEN)FHD🇻🇳
+https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 8 (OLD)HD🇻🇳
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 8 (OLD)FHD🇻🇳
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 10 (CUON)HD🇻🇳
+https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 10 (CUON)FHD🇻🇳
+https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 11 (BUNCHA)HD🇻🇳
+https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 11 (BUNCHA)FHD🇻🇳
+https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 12 (SOI)HD🇻🇳
+https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 12 (SOI)FHD🇻🇳
+https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png",C AKHIA 1
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 2
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m202nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 3
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m203nd/chunklist.m3u8Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 4
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m301nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 5
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m302nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 6
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m304nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 7
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m401nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 8
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m402nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 9
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m403nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 10
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m501nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 11
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m502nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 12
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m503nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 13
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m206nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 14
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m204nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA 15
+#EXTVLCOPT:http-user-agent="BearTV"
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m205nd/chunklist.m3u8|Referer=https://tructiep2.cakhia27.tv/
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="📣🔴| Livestream📌♾💟" , La Liga Premier | Paramount+
 https://iplogger.com/ParamountPlus
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-uno-353.png" group-title="⚽ SPORT EUROPE 🇪🇺",Sky Sport Uno🇮🇹
