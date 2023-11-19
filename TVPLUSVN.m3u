@@ -198,8 +198,6 @@ http://gg.gg/MYCINE
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINE B4TV
 https://iplogger.com/CINEB4TV
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINE MYK+ MPD
-#EXTVLCOPT:http-user-agent=KhanggTivi
-http://f56ba39027.vws.khanggtivi.xyz/52099f0d-fbba-4e6d-8b4c-df0feaf578e8/1kXx-T93oxqh3pgbkPUIlQ0CqhUnCl8WPuZA1vqjyioID_4/1700182846/index.m3u8?s=kpluscine&deviceType=125&userId=14532359&deviceId=33029084&type=tv&p=0&zn=netott&rkey=14532359jRLRRfLF&ctl=9.40&hc=ctl12&sl=2&drmsrv=api-v2-vthn-vnd.khanggtivi.xyz&naddr=123.29.77.73&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=VTL&rbk=17216246100&pnode=104.28.242.248&isp=all
 https://hqth.me/testchannel1
 #EXTINF:0 tvg-id="kaction" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",LIFE B4TV
 https://iplogger.com/LIFEB4TV
@@ -207,8 +205,6 @@ https://iplogger.com/LIFEB4TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 http://gg.gg/MYLIFEPLUS
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png", LIFE MYK+ MPD
-#EXTVLCOPT:http-user-agent=KhanggTivi
-http://f56ba39027.vws.khanggtivi.xyz/52099f0d-fbba-4e6d-8b4c-df0feaf578e8/1kXx-T93oxqh3pgbkPUIlQ0CqhUnCl8WPuZA1vqjyioID_4/1700182846/index.m3u8?s=kpluslife&deviceType=126&userId=14532359&deviceId=33029084&type=tv&p=0&zn=netott&rkey=14532359jRLRRfLF&ctl=9.40&hc=ctl12&sl=2&drmsrv=api-v2-vthn-vnd.khanggtivi.xyz&naddr=123.29.77.73&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=VTL&rbk=17216246100&pnode=104.28.242.248&isp=all
 https://hqth.me/testchannel2
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬| Phim 😜📣" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
