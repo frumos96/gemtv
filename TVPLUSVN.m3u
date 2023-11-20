@@ -142,12 +142,14 @@ http://stream2.vthanhtivi.pw:5080/LiveApp/streams/okita.m3u8
 http://stream.vthanhtivi.pw:5080/LiveApp/streams/okita.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4ˢᵛ² - Giải trí
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://iplogger.com/SCTV4
 #EXTINF:-1 group-title="📦 VTV🍬" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
 http://live.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 http://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="sctv16hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HDˢᵛ²
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://iplogger.com/SCTV16
 #EXTINF:-1 tvg-id="antvhd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
@@ -215,12 +217,11 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="🎬| Phim 😜📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN FHD
 http://gg.gg/AXNHDVN
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬| Phim 😜📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD MPD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/axn.php
-https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
+https://coca.dl.dropboxusercontent.com/s/pywyfr2s5rd54afsseyyw/ 																																	 ㅤ?axn      										 													 &rlkey=bqbee9gyf2cwuuk4zaqcjurgq#EXTVLCOPT:http-referer=http://sctvonline.vn
+#https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim 😜📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV FHD MPD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -275,6 +276,7 @@ https://iplogger.com/BOXHIT
 #https://s.id/BOXHITSVN
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim 😜📣" logo="https://cdn.hqth.me/logo/thumbs/189.png", InTheBox 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://coca.dl.dropboxusercontent.com/s/vb05w85t4tu7wed/ 																																	  ㅤ?box								 												 |Referer=https://sctvonline.vn/
 https://iplogger.com/BOXCHANNEL
 #http://gg.gg/IN_THE_BOX
 #EXTINF:-1 group-title="🎬| Phim 😜📣" tvg-logo="https://bit.ly/40x0pxx" ,MY Cinema Asia🇮🇩 
@@ -446,7 +448,7 @@ https://s.id/DiscoveryMYVN
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
-https://coca.dl.dropboxusercontent.com/s/3dfnjxi7y2o6a42w1dtjd/?discovery&rlkey=g4r88ck9kaz8y30zje9x88og7  
+https://coca.dl.dropboxusercontent.com/s/3dfnjxi7y2o6a42w1dtjd/ 																																	 ㅤ?discovery      										 													 &rlkey=g4r88ck9kaz8y30zje9x88og7#EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:-1 group-title="🌿 Lifestyle ⭐️🤕" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -475,7 +477,7 @@ http://51.89.67.79:25461/stalker348574985793/stalker348574985793/45
 #EXTINF:0 tvg-id="outdoorfhd" group-title="🌿 Lifestyle ⭐️🤕" logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://coca.dl.dropboxusercontent.com/s/b1na5fyhm1ix1w1/ 
+https://coca.dl.dropboxusercontent.com/s/b1na5fyhm1ix1w1/ 																																  ㅤ?outdoor 										 													 |Referer=https://sctvonline.vn/
 #http://gg.gg/OutdoorChannelVN
 #https://s.id/OutdoorMYVN
 #EXTINF:0 tvg-id="blueantent" group-title="🌿 Lifestyle ⭐️🤕" logo="https://cdn.hqth.me/logo/thumbs/228.png", Blue Ant Entertainment
@@ -487,7 +489,7 @@ http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
-https://coca.dl.dropboxusercontent.com/s/p7rywcf2mhbv69ajjcq1w/?bbcearth&rlkey=xbc6bol3pkm3ymcgydjhnmebg  
+https://coca.dl.dropboxusercontent.com/s/p7rywcf2mhbv69ajjcq1w/ 																																	 ㅤ?bbcearth      										 													 &rlkey=xbc6bol3pkm3ymcgydjhnmebg
 #http://gg.gg/BBCEarthMYHD
 #https://s.id/BBCEarthMYVN
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="🌿 Lifestyle ⭐️🤕" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle MPD
@@ -1661,10 +1663,6 @@ https://obevcimanyd179314182.thapcam.link/live/SOIFHD/chunklist.m3u8
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luhd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Cay
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cayhd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Thợ Lặn
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@lanhd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Thợ Xây
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@thoxayhd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Lú
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luluhd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Lôi
@@ -1673,6 +1671,18 @@ https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@loihd1.flv
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@paohd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Phọt
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@phothd1.flv
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Khoai
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@khoaihd1.flv
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Cỏ
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cohd1.flv
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Táo
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@taohd1.flv
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Chất
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chathd1.flv
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Thợ Lặn
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@lanhd1.flv
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Thợ Xây
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@thoxayhd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA H+
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@hplushd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Cá Bịp
@@ -1681,8 +1691,6 @@ https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@biphd1.flv
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@pchuduhd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Tây Môn Chuối
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cachuoihd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Cỏ
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cohd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Xi Măng
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@ximanghd1.flv
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="📣🔴| Livestream📌♾💟" , La Liga Premier | Paramount+
