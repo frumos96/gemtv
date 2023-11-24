@@ -198,7 +198,7 @@ https://iplogger.com/CINEB4TV
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINE 360
 https://hqth.me/testchannel1
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINE MYK+ MPD
-http://cdn.vthanhtivi.pw/K_CINE/index.m3u8?token=bee45f1eef952170674709aff31b1d13535c5de2-4b5eb95ea7b20a6ad19237ed16bf91e8-1700417733-1700406933
+https://iplogger.com/cineK
 #EXTINF:0 tvg-id="kaction" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTION B4TV
 https://iplogger.com/LIFEB4TV
 #EXTINF:0 tvg-id="kaction" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTION  360
@@ -207,7 +207,7 @@ http://gg.gg/MYLIFEPLUS
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTION ON
 https://hqth.me/testchannel2
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTION MYK+ MPD
-http://cdn.vthanhtivi.pw/K_ACTION/index.m3u8?token=f4f847073c17793bb4654e1b6a9030d3518ae77f-b0b7a63f8358fe5de54eef3bf8bfaca1-1700417733-1700406933
+https://iplogger.com/ActionK
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬| Phim 😜📣" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="🎬| Phim 😜📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN FHD
@@ -460,10 +460,10 @@ http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=1833
 #EXTINF:0 group-title="🌿 Lifestyle ⭐️🤕" logo="https://images4.imagebam.com/71/bf/96/MEFIXCS_o.png", Nat Geo People
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/45
 #EXTINF:0 tvg-id="outdoorfhd" group-title="🌿 Lifestyle ⭐️🤕" logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
+#http://gg.gg/OutdoorChannelVN
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://coca.dl.dropboxusercontent.com/s/b1na5fyhm1ix1w1/ 																																  ㅤ?outdoor 										 													 |Referer=https://sctvonline.vn/
-#http://gg.gg/OutdoorChannelVN
 #https://s.id/OutdoorMYVN
 #EXTINF:0 tvg-id="blueantent" group-title="🌿 Lifestyle ⭐️🤕" logo="https://cdn.hqth.me/logo/thumbs/228.png", Blue Ant Entertainment
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
@@ -525,6 +525,8 @@ https://sglive.akamaized.net/bpk-tv/prod_history/default/index.mpd
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0 group-title="🌿 Lifestyle ⭐️🤕" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png",Canal Off
 https://tinyurl.com/Off4K
+#EXTINF:-1 tvg-id="arirang" group-title="🌿 Lifestyle ⭐️🤕" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang [Truyền hình Hàn Quốc]
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="🌿 Lifestyle ⭐️🤕",KPLUS HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787.m3u8
 http://210.210.155.35:80/session/0c338296-303c-11e9-bdab-b82a72d63267/uq2663/h/h08/index2.m3u8
@@ -971,7 +973,7 @@ https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist_b5000000.m3u8
 https://drm-livecdn.hplus.com.vn/htvonline/htv4.480p.nimble.tms/playlist.m3u8
 #https://tiemnhazunn.click/htvc/htv4.php
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="💛| HTV" tvg-logo="https://i.ibb.co/kmMHzKJ/HTVTHETHAO.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV THỂ THAO
-http://live.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-5M.m3u8
+http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
 https://hqth.me/HTVCTHUANVIET?getkey78/htvc.sml/code=728881jknd74jjfv7993hnx779174jd88cn39991764n8c7756x33u312/stream.sml/chunklist_b5123000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/55.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt HD
@@ -1462,6 +1464,8 @@ http://gg.gg/ANIMAXMYVN
 #EXTINF:-1 tvg-id="cartoonhd"  group-title="👶| Thiếu nhi" tvg-logo="https://i.imgur.com/OLeTUpu.png",Cartoon Network_HD
 http://vthanhtivi.pw:5000/cartoon/index.m3u8
 http://gg.gg/CartoonNetworkMY
+#EXTINF:-1 tvg-id="Kkidshd" group-title="👶| Thiếu nhi" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS FHD [Thiếu nhi]
+http://m3u.at/Kkids23-fhd
 #EXTINF:-1 group-title="👶| Thiếu nhi" tvg-id="zoomoo.id" tvg-logo="https://i.imgur.com/ciTJrnl.png",Zoo Moo Asia
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="dreamworks" tvg-name="Dreamwork_HD" group-title="👶| Thiếu nhi" tvg-logo="https://i.imgur.com/zE5oU1T.png",Dreamwork_HD
@@ -1490,14 +1494,14 @@ https://iplogger.com/C1B4TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 http://gg.gg/MYSPORT1HD
 #EXTINF:-1 group-title="👑 SPORT ASEAN🌏🔥" tvg-id="ksport1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png",B41_SPORT🇻🇳 MYNET+ MPD
-http://cdn.vthanhtivi.pw/K_SPORT1/index.m3u8?token=811e5f95d0879a8860912cd4b552a1f91e7ec475-7a369d4a50adb6a08dc09c2a92481abb-1700417733-1700406933
+https://iplogger.com/fubol1K
 #EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 C2+
 https://iplogger.com/C2B4TV
 #EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MPD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 http://gg.gg/MYSPORT2HD
 #EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MYK+ MPD
-http://cdn.vthanhtivi.pw/K_SPORT2/index.m3u8?token=33a0fb09888038594fdc4471e527b86801f22ec8-85aad3bbd7444e74e6fdb37b8cbce8c5-1700417733-1700406933
+https://iplogger.com/fubol2K
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhevent.png", VThanh Live Event
 http://stream2.vthanhtivi.pw:5080/LiveApp/streams/okita2.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://hqth.me/3D4", TVPub
