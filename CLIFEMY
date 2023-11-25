@@ -1,30 +1,16 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1  tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/i.mpd" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BCINE%20HD.png",K+CINE HD
-#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"roOM/RPYtLRL9JY6eHhfUA", "kid":"DibC3DM+R0id4kExw7noHw" } ], "type":"temporary" }
-http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-#EXTINF:-1  tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/i.mpd" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BACTION%20HD.png",K+ACTION HD
-#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"idujgHe54YlRNXKcJ2X8nQ", "kid":"79heDyqnQXC313NafOz7JA" } ], "type":"temporary" }
-http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-#EXTINF:-1  tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BSPORT%201%20HD.png",K+SPORT1 HD
-#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4CUAbzdvHspsMy1ZHTdr/Q", "kid":"iof/eF7cT7yoNgjBaGRlNA" } ], "type":"temporary" }
-http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-#EXTINF:-1  tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/i.mpd" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BSPORT%202%20HD.png",K+SPORT2 HD
+#SCTV K+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="SCTV|K +" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_kpm_165655722566.png",K+ SPORT 1 SCTV
+https://bit.ly/sctv-k-sport-1-hd?khich-plus.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="SCTV|K +" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_kpc_165655724357.png",K+ SPORT 2 SCTV
+https://bit.ly/sctv-k-sport-2-hd?khich-plus.m3u8
+#EXTINF:-1 tvg-id="kcinehd" group-title="SCTV|K +" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_k1_16565571103.png",K+ CINE SCTV
+https://bit.ly/SCTV-K-CINE-HD?khich-plus.m3u8
+#EXTINF:-1 tvg-id="kaction" group-title="SCTV|K +" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/10/16/icon_channel_kns_169741243704.jpg",K+ ACTION SCTV
+https://bit.ly/SCTV-K-ACTION?khich-plus.m3u8
+#EXTINF:-1 tvg-id="kkidshd" group-title="SCTV|K +" tvg-logo="https://images.fptplay.net/media/channels/OTT/2022/10/07/icon_channel_k-kids-hd_16651153548.jpg",K+ KIDS SCTV
+https://bit.ly/SCTV-k-KIDS-HD?khich-plus.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
