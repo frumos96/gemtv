@@ -73,13 +73,11 @@ http://gg.gg/VTV9FHD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_720p/chunks_dvr_range-${start}-${offset}.m3u8", HanoiTV1 HD MYTV
-https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_w878389384_b3128000_slen.m3u8
-#EXTINF:-1 tvg-id="hanoi1" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_720p/chunks_dvr_range-${start}-${offset}.m3u8", HanoiTV1 HD
 http://gg.gg/HANOI1TVMY
+https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_w878389384_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_720p/chunks_dvr_range-${start}-${offset}.m3u8", HanoiTV2 HD
-https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist_b3128000_slen.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png" catchup="append" catchup-days="2" catchup-source="https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_720p/chunks_dvr_range-${start}-${offset}.m3u8", HanoiTV2 HD MYTV
 http://gg.gg/HANOI2TVMY
+https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/128.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/90/auto/dvr-${start}-${end}.m3u8", DaNangTV1 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/129.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/60/auto/dvr-${start}-${end}.m3u8", DaNangTV2 HD
@@ -94,9 +92,7 @@ http://gg.gg/HaNoiIPTV-HTV7_HD
 https://tiemnhazunn.click/vieon/htv7.php
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV🍬" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 FPT
 https://iplogger.com/HTV7HD
-http://gg.gg/HTV7HDFPT
 https://s.id/HTV7MYVN
-http://gg.gg/HTV7TVCLIP
 https://s.id/HTV7CLIP
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV🍬" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -107,26 +103,18 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
 http://gg.gg/HTV9TVMY
 https://s.id/HTV9MYVN
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/r2LgsYR/HTV9.png" group-title="📦 VTV🍬" tvg-chno="30" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 360
-http://live.tv360.vn/manifest/HTV9_HD/playlist_1080p.m3u8
-#EXTINF:0 tvg-id="htv9hd" group-title="📦 VTV🍬" logo="https://i.imgur.com/r3Jiu5Q.png" catchup="append" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9HD HTVC
-https://drm-livecdn.hplus.com.vn/htvonline/htv9hd.1080p.nimble.tms/playlist.m3u8
-#EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/r2LgsYR/HTV9.png" group-title="📦 VTV🍬" tvg-chno="30" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 360
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
 #EXTINF:0  group-title="📦 VTV🍬" logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.webp", THTPCT HD| Cần Thơ
 https://live.canthotv.vn/live/tv_web/chunklist.m3u8
-https://vips-livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vinhlong1hd"type="stream" channelId="-1" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/103.png" tvg-chno="41" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 1 HD 360
-http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
-#EXTINF:0 tvg-id="vinhlong1hd"type="stream" channelId="-1" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/103.png" tvg-chno="41" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtNzIwcCIsImV4cCI6MTYzMjA1NzkzOX0.ZjZ3z2_rhWMYzMCmJp3paek9drRsC67UM4uJupr9bVs-/thvl1-720p/chunks_dvr_range-${start}-900.m3u8", Vĩnh Long 1 HD  SCTV
+#EXTINF:0 tvg-id="vinhlong1hd"type="stream" channelId="-1" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/103.png" tvg-chno="41" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtNzIwcCIsImV4cCI6MTYzMjA1NzkzOX0.ZjZ3z2_rhWMYzMCmJp3paek9drRsC67UM4uJupr9bVs-/thvl1-720p/chunks_dvr_range-${start}-900.m3u8", Vĩnh Long 1 HD SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://gg.gg/THVL1MYHD
 #https://s.id/THVL1MYVN
 #EXTINF:0 tvg-id="vinhlong2hd"type="stream" channelId="-1" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/104.png" tvg-chno="42" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 2 HD 360
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://gg.gg/THVL2MYHD
-#EXTINF:0 tvg-id="vinhlong2hd"type="stream" channelId="-1" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/104.png" tvg-chno="42" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDItNzIwcCIsImV4cCI6MTYzMjA1ODMwMH0.4PTHR8_ixewLqEsezx2dUUnJaHLplrvQLZww8Nlr9no-/thvl2-720p/chunks_dvr_range-${start}-1140.m3u8", Vĩnh Long 2 HD  SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8
@@ -1493,15 +1481,15 @@ https://iplogger.com/C1B4TV
 http://gg.gg/MYSPORT1HD
 #EXTINF:-1 group-title="👑 SPORT ASEAN🌏🔥" tvg-id="ksport1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png",B41_SPORT🇻🇳 MYNET+ MPD
 https://iplogger.com/fubol1K
-#EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 C2+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://images.fptplay.net/media/channels/icon_channel_kpc_165655724357.png", B42_SPORT🇻🇳 C2+
 https://iplogger.com/C2B4TV
-#EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MPD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://images.fptplay.net/media/channels/icon_channel_kpc_165655724357.png", B42_SPORT🇻🇳 MPD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 http://gg.gg/MYSPORT2HD
-#EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://bep40.me/live/b4tv3.gif", B42_SPORT🇻🇳 MYK+ MPD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://images.fptplay.net/media/channels/icon_channel_kpc_165655724357.png", B42_SPORT🇻🇳 MYK+ MPD
 https://iplogger.com/fubol2K
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhevent.png", VThanh Live Event
-http://stream2.vthanhtivi.pw:5080/LiveApp/streams/okita2.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhevent.png", VThanh Live EXTra
+http://stream2.vthanhtivi.pw:5080/LiveApp/streams/xtra.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://hqth.me/3D4", TVPub
 https://hqth.me/tvpublive
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://hqth.me/3D4", TVPub 1
@@ -1598,18 +1586,20 @@ https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8
 https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 8 (OLD)FHD🇻🇳
 https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 10 (CUON)HD🇻🇳
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 9 (CUON)HD🇻🇳
 https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 10 (CUON)FHD🇻🇳
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 9 (CUON)FHD🇻🇳
 https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 11 (BUNCHA)HD🇻🇳
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 10 (BUNCHA)HD🇻🇳
 https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 11 (BUNCHA)FHD🇻🇳
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 10 (BUNCHA)FHD🇻🇳
 https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 12 (SOI)HD🇻🇳
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 11 (SOI)HD🇻🇳
 https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 12 (SOI)FHD🇻🇳
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 11 (SOI)FHD🇻🇳
 https://obevcimanyd179314182.thapcam.link/live/SOIFHD/chunklist.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png",CAKHIA Giàng A Pho
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cakhiahd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png",CAKHIA Giàng A Lử
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luhd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Cay
