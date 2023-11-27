@@ -301,16 +301,15 @@ http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
 http://124.232.233.15:6610/000000001001/201600020006/1400.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="🎬| Phim 😜📣",IQYI🇲🇾
 http://gg.gg/iqiyicn
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-logo="http://gg.gg/FlixImge" group-title="🎬| Phim 😜📣",&FLIX🇮🇳
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="http://gg.gg/FlixImge" group-title="🎬| Phim 😜📣",&FLIX🇮🇳
 http://gg.gg/FlixIN
 https://s.id/FLIX4KIN
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317" group-title="🎬| Phim 😜📣",STAR SELECT MOVIES HD🇮🇳
 http://gg.gg/StarSelectMovies
 https://s.id/StarSelectMovies
-#EXTINF:-1 tvg-logo="https://tinyurl.com/FOXLIFEINIMG" group-title="🎬| Phim 😜📣",FOX LIFE HD🇮🇳
-https://iplogger.com/FOXLIFEIN
-#EXTINF:-1 tvg-logo="https://tinyurl.com/FOXLIFEINIMG" group-title="🎬| Phim 😜📣",FOX LIFE HD🇮🇳
+#EXTINF:-1 tvg-id="foxlifehd.in" tvg-logo="https://tinyurl.com/FOXLIFEINIMG" group-title="🎬| Phim 😜📣",FOX LIFE HD🇮🇳
 https://iplogger.com/FOXLIFEIN2
+#https://iplogger.com/FOXLIFEIN
 #EXTINF:-1 tvg-id="zeecafehd.in" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/19/Untitled-1.jpg?itok=60idFHQ6" group-title="🎬| Phim 😜📣", ZEE CAFE HD🇮🇳
 https://iplogger.com/ZEECAFEIN
 #EXTINF:0 tvg-id="man" group-title="🚩🚩🚩🚩🚩Foreign🚩" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/cliptv/man/dvr-${start}-${offset}.m3u8", Man 360
@@ -1620,7 +1619,7 @@ https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@paohd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Phọt
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@phothd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png",CAKHIA Giàng A Phò
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@phohd1.flv
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cakhiahd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Khoai
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@khoaihd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Cỏ
@@ -1988,23 +1987,21 @@ https://iplogger.com/NOWSPORTS2HK
 https://iplogger.com/NOWSPORTS3HK
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-1-1989.png" group-title="👑 SPORT ASEAN🌏🔥",Now Premier Sports 1_🇭🇰
 http://gg.gg/NowPremierSports1HK
-http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110622&extension=ts&play_token=shareext@.m3u8
-#EXTINF:-1   tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/uan17t1655810451.png" group-title="👑 SPORT ASEAN🌏🔥",HUB•SPORTS•1_🇸🇬
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1110667&extension=ts&shareext@HubSports1
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="👑 SPORT ASEAN🌏🔥",HUB•SPORTS•2#•_🇸🇬 BUNDESLIGA
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1110666&extension=ts&shareext@HubSports2
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="👑 SPORT ASEAN🌏🔥",HUB•SPORTS•4_🇸🇬
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1110665&extension=ts&shareext@HubSports4
+#EXTINF:-1 tvg-id="HubSports1.sg" tvg-name="Hub Sports 1 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/uan17t1655810451.png" group-title="👑 SPORT ASEAN🌏🔥",HUB•SPORTS•1_🇸🇬
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501593
+#EXTINF:-1 tvg-id="HubSports2.sg" tvg-name="Hub Sports 2 FHD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="👑 SPORT ASEAN🌏🔥",HUB•SPORTS•2#•_🇸🇬 BUNDESLIGA
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501592
+#EXTINF:-1 tvg-id="HubSports4.sg" tvg-name="Hub Sports 4 FHD" tvg-logo="https://www.rapidtvnews.com/images/HUB_Sports_Arena.png" group-title="👑 SPORT ASEAN🌏🔥",HUB•SPORTS•4_🇸🇬
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501590
 #EXTINF:-1 tvg-id="sonyten1hd.in"tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2o6EEdyuSIMc53sKv4MzL3H.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 1 FH Bundesliga_🇮🇳
 https://iplogger.com/SONYSPORT1IN
 #EXTINF:-1 tvg-id="sonyten1hd.in"tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2o6EEdyuSIMc53sKv4MzL3H.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 1ˢᵛ² FHD Bundesliga_🇮🇳
 http://gg.gg/SONYSPORT1IN
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114576&extension=ts
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2r57wXFDbDf_qXkU_c8GWTg.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 2 FHD Bundesliga_🇮🇳
-https://iplogger.com/SONYSPORT2IN
-
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2r57wXFDbDf_qXkU_c8GWTg.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 2ˢᵛ² FHD Bundesliga_🇮🇳
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114577&extension=ts
+https://iplogger.com/SONYSPORT2IN
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2r57wXFDbDf_qXkU_c8GWTg.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 2ˢᵛ² FHD Bundesliga_🇮🇳
 http://gg.gg/SONYSPORT2IN
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oA5SCQwEeBvvOTFV08rgLT.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 3 FHD Bundesliga_🇮🇳
 https://iplogger.com/SONYSPORT3IN
@@ -2030,7 +2027,6 @@ https://iplogger.com/STARSPORT3IN
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-star-sports-3-228.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS 3(TATAPLAY)_🇮🇳
 http://gg.gg/STARSPORT3IN
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS SELECT 1 Premier League_🇮🇳
-http://test-otv1.ftpbd.net/streams/116/index.m3u8
 https://iplogger.com/STARSPORTSSELECT1IN
 http://hostengine.live/live/wrecks82/habsiptv82/56776.m3u8
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS SELECT 1² Premier League_🇮🇳
