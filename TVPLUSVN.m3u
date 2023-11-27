@@ -1029,7 +1029,7 @@ https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_b228915playl
 #EXTINF:0 tvg-id="antg" group-title="🟦🟦Địa phương🇻🇳🟦🟦"  tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
 http://gg.gg/hanoicab3
 #EXTINF:-1 tvg-id="haiduong" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/144.png", THD | TH Hải Dương
- URL	http://gg.gg/HDG360
+http://gg.gg/HDG360
 #EXTINF:-1 tvg-id="hungyen" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/149.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/408/auto/dvr-${start}-${end}.m3u8", HY HD | TH Hưng Yên
 https://iplogger.com/HUNGYENTV
 http://gg.gg/HUNGYENHDTV
@@ -1045,7 +1045,6 @@ http://103.90.220.236/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/169.png", QTV3 HD | TH Quảng Ninh
 http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="thaibinh" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/175.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/122/auto/dvr-${start}-${end}.m3u8", TBTV HD | TH Thái Bình
-https://iplogger.com/THAIBINHTV
 http://gg.gg/THAIBINHTVHD
 #EXTINF:-1 tvg-id="thainguyen" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/176.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/406/auto/dvr-${start}-${end}.m3u8", TN1 HD | TH Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
@@ -1073,7 +1072,7 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
 http://gg.gg/QUANGNGAIHDTV
 #EXTINF:-1 tvg-id="baria" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/tonghop/brt/dvr-${start}-${offset}.m3u8", BRT HD | TH Bà Rịa Vũng Tàu
-http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://gg.gg/BARIAVT
 #EXTINF:-1 tvg-id="binhduong1" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/115.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/402/auto/dvr-${start}-${end}.m3u8", BTV1 HD | TH Bình Dương
 http://gg.gg/HaNoiIPTV-BTV1_HD
