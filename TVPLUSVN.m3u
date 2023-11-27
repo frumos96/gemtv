@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1 
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" url="https://www.livesoccertv.com/" url="https://sport-tv-guide.live/" url="https://www.liveaugoal.com/"
-#PLAYLISTINF:frumos96 version="v8" url="http://khanggtivi.xyz/" url="http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG" url="https://www.thesportsdb.com/" url="https://www.sporteventz.com/en/" 
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600" 
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/israelpremium.xml" 
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" 
+#PLAYLISTINF:frumos96 version="v8"  url="https://s.id/khichtivi" url="http://khanggtivi.xyz/" url="http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG" url="https://www.thesportsdb.com/" url="https://www.sporteventz.com/en/"url="https://www.livesoccertv.com/" url="https://sport-tv-guide.live/" url="https://www.liveaugoal.com/" 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 360
@@ -354,7 +357,6 @@ http://cdn.hkdtmb.com/hls/99/index.m3u8
 http://gg.gg/ViuTVSixHK
 #EXTINF:-1 group-title="🎬| Phim 😜📣" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",SkyRomance TV 🇩🇪
 https://iplogger.com/SkyRomanceDE
-#EXTINF:-1 group-title="🎬| Phim 😜📣" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",SkyRomance TV 🇩🇪
 http://gg.gg/SkyRomanceDE
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://image.lichphimrap.com/resize-image.php?src=raps/cinebox.png&" group-title="🎬| Phim 😜📣", Cinebox HD
 http://66.160.192.241/cineboxcinehd/tracks-v1a1/mono.m3u8
@@ -364,24 +366,20 @@ http://dnsplay.xyz:80/hldoudby/qubRsmkm/34989
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.OXDXrmIfYNMsQV-N1SZGXAHaEE?pid=ImgDet&rs=1"  group-title="🎬| Phim 😜📣",Universal CHANNEL
 https://iplogger.com/UNIVERSALCLA
 http://gg.gg/UniversalCinema
-#EXTINF:0 tvg-id="hallmark" group-title="🎬| Phim 😜📣" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel 🇺🇸
-https://iplogger.com/HALLMARKUS
 #EXTINF:0 tvg-id="hallmark" group-title="🎬| Phim 😜📣" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel² 🇺🇸
 http://gg.gg/hallmarkus
+https://iplogger.com/HALLMARKUS
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544577
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sony_Crackle_Logo.png/revision/latest?cb=20190917114804" group-title="🎬| Phim 😜📣",Crackle
 http://crackle-xumo.amagi.tv/playlistX432p.m3u8
 #EXTINF:-1 tvg-logo="https://iplogger.com/hallmarklog0" group-title="🎬| Phim 😜📣",Hallmark Movies & Mysteries 🇺🇸
 https://iplogger.com/hallmarkm0vi3
 http://evolved.host:8080/JsnCdcSSe8/CWvQ6KPTQR/509118
-#EXTINF:0 group-title="🎬| Phim 😜📣" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1920px-LMN_logo_2019.svg.png", LifetimeMovieNetwork🇺🇸
-https://s.id/LMNUS
-#EXTINF:0 group-title="🎬| Phim 😜📣" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1920px-LMN_logo_2019.svg.png", LifetimeMovieNetwork² 🇺🇸
-https://iplogger.com/LMNUS
-#EXTINF:0 group-title="🎬| Phim 😜📣" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png", Lifetime US🇺🇸
+#EXTINF:0 group-title="🎬| Phim 😜📣" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime US🇺🇸
 https://iplogger.com/LIFETIMEUS
-#EXTINF:0 group-title="🎬| Phim 😜📣" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png", Lifetime US² 🇺🇸
+#EXTINF:0 group-title="🎬| Phim 😜📣" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",LifetimeMovieNetwork² 🇺🇸
 http://gg.gg/LIFETIMEUS
+https://iplogger.com/LMNUS
 http://gg.gg/LMNUS
 #EXTINF:-1 group-title="🎬| Phim 😜📣" logo="https://th.bing.com/th/id/OIP.WrhDWXPpeZQBailL4k3z7gAAAA?pid=ImgDet&rs=1",PARAMOUNT+ PRESENTA 
 http://gg.gg/PARAMOUNT-PRE
@@ -1745,13 +1743,6 @@ https://tinyurl.com/RUSHSPORT4
 https://tinyurl.com/RUSHSPORT5
 #EXTINF:-1   tvg-logo="https://tinyurl.com/RUSHSIMG" group-title="📣🔴| Livestream📌♾💟",RUSH SPOR 6🇨🇷_(Live•Event)
 https://tinyurl.com/RUSHSPORT6
-#EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-optus-sports-1313.png" group-title="📣🔴| Livestream📌♾💟",🇭🇲OPTUS_1_(Live•Event)
-http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032471&extension=ts&play_Optus_1
-#EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-optus-sports-1313.png" group-title="📣🔴| Livestream📌♾💟",🇭🇲OPTUS_2_(Live•Event)
-http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032470&extension=ts&play_Optus_2
-#EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-optus-sports-1313.png" group-title="📣🔴| Livestream📌♾💟",🇭🇲OPTUS_3_(Live•Event)
-http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032469&extension=ts&play_Optus_3
-#EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-optus-sports-1313.png" group-title="📣🔴| Livestream📌♾💟",🇭🇲OPTUS_3_(Live•Event)
 #EXTINF:0 tvg-rec="0" group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 1🇷🇺
 https://iplogger.com/SetantaEvent1RU
 #EXTINF:0 tvg-rec="0" group-title="📣🔴| Livestream📌♾💟" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-setanta-asia-sg-1506.png",Setanta Event 2🇷🇺
