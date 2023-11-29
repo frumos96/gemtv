@@ -289,9 +289,7 @@ http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="🎬| Phim 😜📣",湖南卫视 Hunan TV HD
-http://gg.gg/HunanCN
-http://60.208.16.27:1505/gudou.php?id=hunanHD_7000
-https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/hunandy.png" group-title="🎬| Phim 😜📣",湖南电影Hunan Film HD
 http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="http://n.ysyz.top:99/buyaolian/hunandsj.png" group-title="🎬| Phim 😜📣",湖南电视剧 Hunan TV Series HD
