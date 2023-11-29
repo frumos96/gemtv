@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1 
-#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600" 
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/israelpremium.xml" 
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" 
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml" m3uautoload=2
+#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600" m3uautoload=3  
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/israelpremium.xml" m3uautoload=4  
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" m3uautoload=5
 #PLAYLISTINF:frumos96 version="v8"  url="https://s.id/khichtivi" url="http://khanggtivi.xyz/" url="http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG" url="https://www.thesportsdb.com/" url="https://www.sporteventz.com/en/"url="https://www.livesoccertv.com/" url="https://sport-tv-guide.live/" url="https://www.liveaugoal.com/" 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
@@ -183,17 +183,16 @@ https://iplogger.com/playykr
 http://gg.gg/MYCINE
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINE B4TV
 https://iplogger.com/CINEB4TV
-#EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINE 360
 https://hqth.me/testchannel1
+#EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINE 360
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINE MYK+ MPD
 https://iplogger.com/cineK
 #EXTINF:0 tvg-id="kaction" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTION B4TV
 https://iplogger.com/LIFEB4TV
+https://hqth.me/testchannel2
 #EXTINF:0 tvg-id="kaction" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTION  360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 http://gg.gg/MYLIFEPLUS
-#EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTION ON
-https://hqth.me/testchannel2
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTION MYK+ MPD
 https://iplogger.com/ActionK
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬| Phim 😜📣" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
@@ -216,7 +215,6 @@ http://gg.gg/KIXHD8M
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
 https://coca.dl.dropboxusercontent.com/s/bk6el8frz1udohx/
-#https://iplogger.com/KIX_HD
 #EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim 😜📣" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO FHD MY+
 http://gg.gg/HBOFPT
 https://s.id/HBOMYVN
@@ -246,18 +244,9 @@ http://gg.gg/BOXMOVIE1_VN
 http://gg.gg/HOLLYWOOD_CLASSICS
 #EXTINF:0 tvg-id="boxhits" group-title="🎬| Phim 😜📣" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
 http://gg.gg/BOXHITVN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://fbvip88.com/key/keyy/boxhits.php
-https://fbvip88.com/tv360/tv360.php?id=239
 #https://s.id/BOXHITSVN
 #EXTINF:0 tvg-id="inthebox" group-title="🎬| Phim 😜📣" logo="https://cdn.hqth.me/logo/thumbs/189.png",InTheBox
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://fbvip88.com/key/keyy/inthebox.php
-https://fbvip88.com/tv360/tv360.php?id=235
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://coca.dl.dropboxusercontent.com/s/vb05w85t4tu7wed/ 																																	  ㅤ?box								 												 |Referer=https://sctvonline.vn/
 https://iplogger.com/BOXCHANNEL
