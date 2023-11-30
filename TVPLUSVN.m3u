@@ -207,8 +207,6 @@ https://coca.dl.dropboxusercontent.com/s/pywyfr2s5rd54afsseyyw/ 																
 #https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🎬| Phim 😜📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
 http://m3u.at/WBTV-hdm3u8
-https://s.id/WarnerVN
-http://gg.gg/WARNERTV
 #EXTINF:0 tvg-id="kix" group-title="🎬| Phim 😜📣" logo="https://i.imgur.com/Lod13YD.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
 http://gg.gg/KIXHD8M
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate 
