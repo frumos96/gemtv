@@ -336,7 +336,6 @@ http://cdn.hkdtmb.com/hls/99/index.m3u8
 http://gg.gg/ViuTVSixHK
 #EXTINF:-1 group-title="🎬| Phim 😜📣" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",SkyRomance TV 🇩🇪
 https://iplogger.com/SkyRomanceDE
-http://gg.gg/SkyRomanceDE
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://image.lichphimrap.com/resize-image.php?src=raps/cinebox.png&" group-title="🎬| Phim 😜📣", Cinebox HD
 http://66.160.192.241/cineboxcinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GOLDEN-plus" tvg-logo="https://www.tvplusgratis.com/imge/goldenplus.png"  group-title="🎬| Phim 😜📣",GOLDEN PLUS en Vivo🇧🇷
@@ -570,12 +569,16 @@ http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/109
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238262&extension=ts&play_token=
 #EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvTStaro4Ynnjh8f5TkdQrasyGgtudCESF097SZYiZW_.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS PREMIUM 3⁴ᴷ HD 4K_🇸🇦
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238263&extension=ts&play_token=
-#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/AR_BEINSPORTS_1_HD.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS 1⁴ᴷ HD ARAB_🇸🇦
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238265&extension=ts&play_token= 
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-751.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS 1⁴ᴷ HD ARAB_🇸🇦 TOTAL E+L+B
+http://gg.gg/BeinFubol1AR
 #EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS 2⁴ᴷ HD ARAB_🇸🇦 
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238264&extension=ts&play_token=
-#EXTINF:-1 tvg-id="beinsports3ar.qa"  tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/AR_BEINSPORTS_3_HD.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS 3⁴ᴷ HD ARAB_🇸🇦
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=238266&extension=ts&play_token=
+http://gg.gg/BeinFubol2AR
+#EXTINF:-1 tvg-id="beinsports3ar.qa"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS 3⁴ᴷ HD ARAB_🇸🇦 LALIGA
+http://gg.gg/BeinFubol3AR
+#EXTINF:-1 tvg-id="beinsports5ar.qa"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS 3⁴ᴷ HD ARAB_🇸🇦 BUNDESLIGA
+http://gg.gg/BeinFubol5AR
+#EXTINF:-1 tvg-id="beinsports7ar.qa"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS 3⁴ᴷ HD ARAB_🇸🇦 LALIGA
+http://gg.gg/BeinFubol7AR
 #EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name="beIN SPORTS EN 1 HD" tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/EN_BEINSPORTS_1_HD.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS EN 1⁴ᴷ_🇸🇦
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=483921&extension=ts&play_token=
 #EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-name="beIN SPORTS EN 2 HD" tvg-logo="http://exaott.xyz/lagi/AR_BEIN_SPORTS_HD/EN_BEINSPORTS_2_HD.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS EN 2⁴ᴷ_🇸🇦
