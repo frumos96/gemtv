@@ -1,8 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1 
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml" m3uautoload=2
-#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600" m3uautoload=3  
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/israelpremium.xml" m3uautoload=4  
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" m3uautoload=5
+#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml" refresh="3600" m3uautoload=3  
+#EXTM3U url-tvg="https://epg.mammothtv.my.id/local/epg.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/arabiapremiumeng.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/india.xml,https://www.bevy.be/bevyfiles/poland.xml,https://www.bevy.be/bevyfiles/russia.xml,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml" refresh="3600" m3uautoload=4  
 #PLAYLISTINF:frumos96 version="v8"  url="https://s.id/khichtivi" url="http://khanggtivi.xyz/" url="http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG" url="https://www.thesportsdb.com/" url="https://www.sporteventz.com/en/"url="https://www.livesoccertv.com/" url="https://sport-tv-guide.live/" url="https://www.liveaugoal.com/" 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
@@ -1375,7 +1374,7 @@ http://vthanhtivi.pw:5000/cartoon/index.m3u8
 http://gg.gg/CartoonNetworkMY
 #EXTINF:-1 tvg-id="Kkidshd" group-title="👶| Thiếu nhi" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS [Thiếu nhi]
 https://iplogger.com/KidsK
-http://m3u.at/Kkids23-fhd
+http://m3u.at/Khich-plus-KIDS?index.m3u8
 #EXTINF:-1 group-title="👶| Thiếu nhi" tvg-id="zoomoo.id" tvg-logo="https://i.imgur.com/ciTJrnl.png",Zoo Moo Asia
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="dreamworks" tvg-name="Dreamwork_HD" group-title="👶| Thiếu nhi" tvg-logo="https://i.imgur.com/zE5oU1T.png",Dreamwork_HD
@@ -1568,6 +1567,12 @@ https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cohd1.flv
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@taohd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Chất
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chathd1.flv
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="📣🔴| Livestream📌♾💟" , La Liga Premier | Paramount+
 https://iplogger.com/ParamountPlus
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-uno-353.png" group-title="⚽ SPORT EUROPE 🇪🇺",Sky Sport Uno🇮🇹
@@ -1581,7 +1586,6 @@ https://iplogger.com/CANALPremierLeagueFR
 http://gg.gg/CANAL-PremierLeagueFR
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-premier-league-2781.png" group-title="⚽ SPORT EUROPE 🇪🇺",NovaSports PremierLeague 🇬🇷
 https://iplogger.com/NovaSportsEFL
-#EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-premier-league-2781.png" group-title="⚽ SPORT EUROPE 🇪🇺",NovaSports PremierLeague² 🇬🇷
 http://gg.gg/NovaSportsPremierLeague
 #EXTINF: -1 tvg-logo="https://i.ibb.co/16Wjk0W/20231002-000547.jpg" group-title="📣🔴| Livestream📌♾💟", JioTV Live Event 1🇮🇳
 https://iplogger.com/JioTVLive1
@@ -1751,29 +1755,29 @@ http://120.196.232.124:8088/PLTV/13/224/3221227960/1.m3u8
 ---------------------------------------SPORT ASEAN----------------------------------------
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1 FHD_🇲🇾
 https://iplogger.com/ASSP1
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1²_🇲🇾
 http://gg.gg/assp1my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=123
-http://tiemnhazunn.click/daddylivehd/123/index.m3u8
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1²_🇲🇾
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium123/index.m3u8
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 2 FHD_🇲🇾
 https://iplogger.com/ASSP2
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 2²_🇲🇾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=124
-http://tiemnhazunn.click/daddylivehd/124/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium124/index.m3u8
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 3 FHD_🇲🇾
 https://iplogger.com/ASSP3
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 3²_🇲🇾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=125
-http://tiemnhazunn.click/daddylivehd/125/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium125/index.m3u8
 #EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 4 FHD_🇲🇾
 https://iplogger.com/ASSP4
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 4²_🇲🇾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=126
-http://tiemnhazunn.click/daddylivehd/126/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium126/index.m3u8
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 5 FHD_🇲🇾
 https://iplogger.com/ASSP5
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918982&extension=ts&play_token=
@@ -1782,36 +1786,36 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918982&extensi
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 1 HD🇮🇱
+http://gg.gg/YESSport1IL
 https://iplogger.com/YESSport1IL
 #EXTINF:-1 tvg-id="Sport1.il" tvg-name="Sport 1" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png"  group-title="👑 SPORT ASEAN🌏🔥",YES Sport 1 HD web 🇮🇱
-http://gg.gg/YESSport1IL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.cdnbos.lol/lb/premium140/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 2 HD🇮🇱
+http://gg.gg/YESSport2IL
 https://iplogger.com/YESSport2IL
 #EXTINF:-1 tvg-id="Sport2.il" tvg-name="Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 2 HD web 🇮🇱
-http://gg.gg/YESSport2IL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.cdnbos.lol/lb/premium141/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 3 HD🇮🇱
+http://gg.gg/YESSport3IL
 https://iplogger.com/YESSport3IL
 #EXTINF:-1 tvg-id="Sport3.il" tvg-name="Sport 3" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 3 HD web 🇮🇱
-http://gg.gg/YESSport3IL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.cdnbos.lol/lb/premium142/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-4-1024.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 4 HD🇮🇱
+http://gg.gg/YESSport4IL
 https://iplogger.com/YESSport4IL
 #EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport  HD web 🇮🇱
-http://gg.gg/YESSport4IL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.cdnbos.lol/lb/premium143/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-5-1025.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5 HD🇮🇱
-https://iplogger.com/YESSport5IL
 http://gg.gg/YESSport5IL
+https://iplogger.com/YESSport5IL
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-gold-1028.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5 Gold🇮🇱
 http://gg.gg/YESSport5GOLDIL
 https://s.id/YESFubol5GIL
@@ -1832,15 +1836,14 @@ https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1   tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-elta-sports-1404.png" group-title="👑 SPORT ASEAN🌏🔥",Elta•1🇹🇼
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-id="愛爾達體育" tvg-name="愛爾達體育" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育.png" group-title="👑 SPORT ASEAN🌏🔥",愛爾達體育 Elta•1🇹🇼
-rtmp://9sv2.mine.nu:1935/sat/md051
 http://gg.gg/ELTASPORT1
+rtmp://9sv2.mine.nu/sat/md021
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-id="愛爾達體育2" tvg-name="愛爾達體育2" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2.png" group-title="👑 SPORT ASEAN🌏🔥",愛爾達體育2 Elta•2🇹🇼
 http://gg.gg/ELTASPORT2TW
 #EXTINF:-1,tvg-id="愛爾達體育2" tvg-name="愛爾達體育2" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2.png" group-title="👑 SPORT ASEAN🌏🔥",愛爾達體育3 Elta•3🇹🇼
-rtmp://9sv2.mine.nu/sat/md021
+rtmp://9sv2.mine.nu:1935/sat/md051
 http://gg.gg/ELTASPORT3
 #EXTINF:0  Logo="https://img.sport-tv-guide.live/images/tv-station-tw-eleven-sports-1-1659.png" group-title="👑 SPORT ASEAN🌏🔥",ELEVEN•SPORTS 1 HD_🇹🇼
 https://iplogger.com/Eleven1TW
@@ -2049,32 +2052,58 @@ https://iplogger.com/NovaSportsPRIMEGR
 http://gg.gg/NovaSportsPRIMEGR
 #EXTINF:-1 Logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sports-prime-2643.png" group-title="⚽ SPORT EUROPE 🇪🇺",Nova Sports START 🇬🇷
 https://iplogger.com/NovaSportsSTARTGR
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 1_🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN.1.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 1_🇵🇹
 https://iplogger.com/ElevenSports1PT
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 1 web_🇵🇹 
 http://gg.gg/ElevenSports1PT
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 2_🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN.1.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 1 MPDweb_🇵🇹 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
+#EXTINF:-1 tvg-id="ELEVEN.2.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 2_🇵🇹
 https://iplogger.com/ElevenSports2PT
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 2 web_🇵🇹
 http://gg.gg/ElevenSports2PT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnbos.lol/lb/premium456/index.m3u8
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 3_🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN.2.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 2 MPDweb_🇵🇹
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+#EXTINF:-1 tvg-id="ELEVEN.3.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 3_🇵🇹
 https://iplogger.com/ElevenSports3PT
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 3 web_🇵🇹
 http://gg.gg/ElevenSports3PT
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1503.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 4_🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN.3.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 3 MPDweb_🇵🇹 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
+#EXTINF:-1 tvg-id="ELEVEN.4.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1503.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 4_🇵🇹
 https://iplogger.com/ElevenSports4PT
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1503.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 4 web_🇵🇹
 http://gg.gg/ElevenSports4PT
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1504.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 5_🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN.4.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1503.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 4 web_🇵🇹
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
+#EXTINF:-1 tvg-id="ELEVEN.5.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1504.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 5_🇵🇹
 https://iplogger.com/ElevenSports5PT
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1504.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 5 web_🇵🇹
 http://gg.gg/ElevenSports5PT
-#EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1505.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 6_🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN.5.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1504.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 5 web_🇵🇹
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
+#EXTINF:-1 tvg-id="ELEVEN.6.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1505.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven Sports 6_🇵🇹
 https://iplogger.com/ElevenSports6PT
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd
 #EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",Dazn 1 MPD 🇪🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
