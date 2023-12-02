@@ -199,12 +199,12 @@ https://iplogger.com/CINEB4TV
 https://hqth.me/testchannel1
 https://iplogger.com/cineK
 #EXTINF:0 tvg-id="kaction" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTIONK FHD
-https://iplogger.com/LIFEB4TV
+http://gg.gg/MYLIFEPLUS
 #EXTINF:0 tvg-id="kaction" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTIONK HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://hqth.me/testchannel2
-http://gg.gg/MYLIFEPLUS
+https://iplogger.com/LIFEB4TV
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTIONK SD
+https://hqth.me/testchannel2
 https://iplogger.com/ActionK
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬| Phim 😜📣" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
@@ -390,11 +390,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #EXTINF:0 tvg-id="afnhd" group-title="🌿 Lifestyle ⭐️🤕" logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate
-#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://gg.gg/afnwcc?uri=https://coca.dl.dropboxusercontent.com/scl/fi/afn.m3u8 
-#https://s.id/AFNVN
-#http://gg.gg/AFNMYHD
+http://gg.gg/AFNMYHD
 #EXTINF:0 tvg-id="discoveryhd" group-title="🌿 Lifestyle ⭐️🤕" logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
 http://gg.gg/DiscoveryMYHD
 https://s.id/DiscoveryMYVN
