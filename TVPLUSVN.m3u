@@ -93,6 +93,7 @@ https://iplogger.com/HTV7HD
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV🍬" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 FPT
 http://gg.gg/HTV7HDFPT
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV🍬" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 SCTV
+http://vtv.cvmtv.site/HTV7?token=live
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
@@ -326,9 +327,7 @@ https://s.id/TVNKR
 #EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="🎬| Phim 😜📣",TVN_MOVIES_🇰🇷
 https://s.id/TVNMOVIE
 #EXTINF:-1 group-title="🎬| Phim 😜📣" tvg-logo="http://gg.gg/131flp", THRILL ID
-https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
-https://s.id/ThrillID
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+https://iplogger.com/ThrillID
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🎬| Phim 😜📣",ViuTV🇭🇰
 http://gg.gg/ViuTVHK
 http://cdn.hkdtmb.com/hls/99/index.m3u8
@@ -1749,31 +1748,35 @@ http://120.196.232.124:8088/PLTV/13/224/3221227956/1.m3u8
 http://120.196.232.124:8088/PLTV/13/224/3221227960/1.m3u8
 
 ---------------------------------------SPORT ASEAN----------------------------------------
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1 FHD_🇲🇾
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1_🇲🇾 STL
+https://s.id/assp01
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1²_🇲🇾
 https://iplogger.com/ASSP1
 http://gg.gg/assp1my
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1²_🇲🇾
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.hlsjs.ru/lb/premium123/index.m3u8
-#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 2 FHD_🇲🇾
-https://iplogger.com/ASSP2
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 2_🇲🇾 STL
+https://s.id/assp02
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 2²_🇲🇾
+https://iplogger.com/ASSP2
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.hlsjs.ru/lb/premium124/index.m3u8
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 3 FHD_🇲🇾
-https://iplogger.com/ASSP3
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 3_🇲🇾 STL
+https://s.id/assp03
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 3²_🇲🇾
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.hlsjs.ru/lb/premium125/index.m3u8
-#EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 4 FHD_🇲🇾
-https://iplogger.com/ASSP4
+https://iplogger.com/ASSP3
+#EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 4_🇲🇾 STL
+https://s.id/assp04
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 4²_🇲🇾
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.hlsjs.ru/lb/premium126/index.m3u8
+https://iplogger.com/ASSP4
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 5 FHD_🇲🇾
 https://iplogger.com/ASSP5
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918982&extension=ts&play_token=
