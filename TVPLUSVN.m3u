@@ -99,7 +99,7 @@ http://vtv.cvmtv.site/HTV7?token=live
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/r2LgsYR/HTV9.png" group-title="📦 VTV🍬" tvg-chno="30" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 MY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://s.id/HTV9MYVN
+https://iplogger.com/HTV9HD
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/r2LgsYR/HTV9.png" group-title="📦 VTV🍬" tvg-chno="30" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 360
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
@@ -195,17 +195,17 @@ https://iplogger.com/playykr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 http://gg.gg/MYCINE
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINEK HD
+https://hqth.me/testchannel1
 https://iplogger.com/CINEB4TV
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINE SD
-https://hqth.me/testchannel1
 https://iplogger.com/cineK
 #EXTINF:0 tvg-id="kaction" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTIONK FHD
 http://gg.gg/MYLIFEPLUS
 #EXTINF:0 tvg-id="kaction" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTIONK HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://hqth.me/testchannel2
 https://iplogger.com/LIFEB4TV
 #EXTINF:0 tvg-id="klifehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTIONK SD
-https://hqth.me/testchannel2
 https://iplogger.com/ActionK
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬| Phim 😜📣" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
@@ -562,10 +562,12 @@ http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNIcGxNh58e0hDb_KqYtdCNE/ts
 https://iplogger.com/BEINSPORT4TR
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNPAmMtvJBpj81VJ4yATLYfZcfuJ34xa1qX8MHHR6BjZV/ts
 #EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-751.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS 1⁴ᴷ HD ARAB_🇸🇦 TOTAL E+L+B
+https://s.id/BeinSport1
 http://gg.gg/BeinFubol1AR
 #EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS 2⁴ᴷ HD ARAB_🇸🇦  EPL
 http://gg.gg/BeinFubol2AR
 #EXTINF:-1 tvg-id="beinsports3ar.qa"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS 3⁴ᴷ HD ARAB_🇸🇦 LALIGA
+https://s.id/BeinSport3
 http://gg.gg/BeinFubol3AR
 #EXTINF:-1 tvg-id="beinsports5ar.qa"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSPORTS 5⁴ᴷ HD ARAB_🇸🇦 BUNDESLIGA
 http://gg.gg/BeinFubol5AR
@@ -1456,27 +1458,27 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN Sports 3 AIS🇹🇭
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/-3.png" group-title="👑 SPORT ASEAN🌏🔥", Sports 3 AIS🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN Sports 4 AIS🇹🇭
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/-4.png" group-title="👑 SPORT ASEAN🌏🔥", Sports 4 AIS🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN Sports 5 AIS🇹🇭
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/-5.png" group-title="👑 SPORT ASEAN🌏🔥", Sports 5 AIS🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN Sports 6 AIS🇹🇭
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/-1.png" group-title="👑 SPORT ASEAN🌏🔥", Sports 6 AIS🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN Sports 7 AIS🇹🇭
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/-7.png" group-title="👑 SPORT ASEAN🌏🔥", Sports 7 AIS🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
@@ -1563,6 +1565,7 @@ https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@taohd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bearsportslive-new.png", CAKHIA Giàng A Chất
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chathd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
+https://s.id/peacockepl
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
