@@ -163,8 +163,10 @@ https://1117141481.vnns.net/VTC14/chunks.m3u8
 https://iplogger.com/xplusrelax
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4box.png", B4BOX 
 http://b4tv.live/b4tv/b4tv/84.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4boxplus.png", B4BOX PLUS
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4boxplus.png", B4BOX PLUS (Kênh phim trực tiếp song song)
 http://b4tv.live/b4tv/b4tv/120.m3u8
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="http://b4tv.live/logob4select.png", B4SELECT (Kênh chương trình theo yêu cầu)
+http://b4tv.live/b4tv/b4tv/168.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="http://103.172.78.47/logotubevent.png", B4TUBEVENT 1
 http://b4tv.live/b4tv/b4tv/55.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="http://103.172.78.47/logotubevent.png", B4TUBEVENT 2
@@ -187,8 +189,6 @@ http://b4tv.live/b4tv/b4tv/48.m3u8
 http://b4tv.live/b4tv/b4tv/86.m3u8
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4connect.png", B4CONNECT2
 http://b4tv.live/b4tv/b4tv/76.m3u8
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4tube.png", B4TUBE 
-http://b4tv.live/b4tv/b4tv/85.m3u8
 #EXTINF:-1 tvg-id="999" tvg-name="測試02" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="🎬| Phim 😜📣", PLAYY 영화
 https://iplogger.com/playykr
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim 😜📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINEK FHD
