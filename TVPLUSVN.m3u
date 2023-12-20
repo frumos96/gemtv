@@ -57,6 +57,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/8.png" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTVCầnThơ HD Viettel
+https://s.id/vtv6vn
 http://gg.gg/VTVCANtHO
 #EXTINF:0 tvg-id="vtv7hd"  group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/9.png" tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV7 FPT
 https://s.id/vtv7vn
@@ -126,11 +127,16 @@ http://gg.gg/H4IPH0NGTV
 https://iplogger.com/THPPLUS
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",Vie Giải trí FHD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
 http://gg.gg/VIEGIAITRISD
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8", ON Sports HD B4
+https://s.id/ONSportsVN
 https://iplogger.com/0nsport
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies 360HD 
+https://s.id/ONMOVIES
 http://gg.gg/ONMOVIES4M
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", ON E Channel
+https://s.id/EChannel
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/dvr-${start}-${offset}.m3u8", ON Sports+² VEON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://gg.gg/ONSportsPlus
@@ -139,8 +145,9 @@ https://iplogger.com/onf00tb4ll
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ONSportsNews B4
 https://iplogger.com/ONF0B4LN3W
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8",ON Vie Dramas FHD
+https://s.id/VieDramas
 http://gg.gg/VieDramas8M
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhmovies.png", VThanh Movies
+#EXTINF:-1 group-title="🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhmovies.png", VThanh Movies
 http://stream2.vthanhtivi.pw:1935/live/vthanhmovies.smil/playlist.m3u8
 http://stream3.vthanhtivi.pw:1935/live/vthanhmovies.smil/playlist.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4ˢᵛ² - Giải trí
