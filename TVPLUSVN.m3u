@@ -148,6 +148,8 @@ https://iplogger.com/ONF0B4LN3W
 https://s.id/VieDramas
 http://gg.gg/VieDramas8M
 #EXTINF:-1 group-title="🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhmovies.png", VThanh Movies
+http://vthanhtivi.pw/vthanhmovies/mpegts
+
 http://stream2.vthanhtivi.pw:1935/live/vthanhmovies.smil/playlist.m3u8
 http://stream3.vthanhtivi.pw:1935/live/vthanhmovies.smil/playlist.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4ˢᵛ² - Giải trí
@@ -707,7 +709,6 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 http://gg.gg/ONSPORT3MY
-https://hqth.me/zLje
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -772,7 +773,6 @@ http://gg.gg/OnMusic360
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ON Football HD VIP
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://hqth.me/jxee
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 http://gg.gg/ONFOOTBALL16MY
@@ -782,7 +782,6 @@ http://gg.gg/ontrendingtv
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ONSportsNews FHD 360
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://hqth.me/iHJFD
 http://gg.gg/ONSPORTNEW18MY
 https://arcgmoblie.site/cliptv/cliptv.php?id=on-sports-news
 #EXTINF:-1 tvg-id="btv5hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://i.ytimg.com/vi/BJPhLkAwz00/maxresdefault.jpg", BTV5 - ON Sports Action
@@ -1089,10 +1088,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://i.imgur.com/VHOdzjd.jpg", VEVO Pop FHD
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=b72b3d44-8d24-4833-8786-6ea77b1f7935&rendition=1080&session_id=00445cfb-bf4d-7983-d2bb-dabab3c362d5&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
 #EXTINF:-1 group-title="🎵|Music" tvg-logo="https://cdn.hqth.me/vthanhmusic.png", VThanh Music
-http://stream2.vthanhtivi.pw:1935/live/vthanhmusic.smil/playlist.m3u8
-http://stream3.vthanhtivi.pw:1935/live/vthanhmusic.smil/playlist.m3u8
-#EXTINF:-1 group-title="🎵|Music" tvg-logo="https://cdn.hqth.me/vthanhmusic.png", VThanh Music (ON Live)
-https://code.vthanhtivi.pw/getlink/onlive/vthanhtivi/231107.m3u8
+http://vthanhtivi.pw/vthanhmusic/mpegts
 #EXTINF:0 group-title="🎵|Music" logo="https://i.ibb.co/fQjkFFk/kralpop.jpg", TRT MUZIK
 https://iplogger.com/TRTMUZIK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" group-title="🎵|Music",Drean Tuk HD
@@ -1423,14 +1419,11 @@ https://iplogger.com/C2B4TV
 #EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://images.fptplay.net/media/channels/icon_channel_kpc_165655724357.png",SPORT2K🇻🇳 SD
 https://iplogger.com/fubol2K
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhevent.png", VThanh Event 1
-http://stream2.vthanhtivi.pw:1935/live/vthanhevent1.smil/playlist.m3u8
-http://stream3.vthanhtivi.pw:1935/live/vthanhevent1.smil/playlist.m3u8
+http://vthanhtivi.pw/vthanhevent1/mpegts
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhevent2.png", VThanh Event 2
-http://stream2.vthanhtivi.pw:1935/live/vthanhevent2.smil/playlist.m3u8
-http://stream3.vthanhtivi.pw:1935/live/vthanhevent2.smil/playlist.m3u8
+http://vthanhtivi.pw/vthanhevent2/mpegts
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhxtra.png", VThanh Xtra
-http://stream2.vthanhtivi.pw:1935/live/vthanhxtra.smil/playlist.m3u8
-http://stream3.vthanhtivi.pw:1935/live/vthanhxtra.smil/playlist.m3u8
+http://vthanhtivi.pw/vthanhxtra/mpegts
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://hqth.me/3D4", TVPub
 https://hqth.me/tvpublive
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://hqth.me/3D4", TVPub 1
