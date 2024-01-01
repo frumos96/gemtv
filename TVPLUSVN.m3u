@@ -12,6 +12,7 @@ http://vtv.cvmtv.site/VTV1HD?token=live
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 http://gg.gg/VTV1ONHD
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 WEB
+https://cdnw-liv02.todayplus.com.vn/hdb/smil:vtv1-sub.smil/chunklist_w28623972_b2289152.m3u8
 http://gg.gg/VTV1NET
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 LAOTV
 https://ctrl.laotv.la/live/VTV1HD/index.m3u8
