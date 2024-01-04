@@ -153,8 +153,8 @@ http://gg.gg/VieDramas8M
 https://s.id/spotv
 #EXTINF:-1 tvg-name="SPOTV2" group-title="📦 VTV🍬" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV2
 https://s.id/spo2tv
-#EXTINF:-1 group-title="🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhmovies.png", VThanh Movies
-http://vthanhtivi.pw/vthanhmovies/mpegts
+#EXTINF:-1 group-title="🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhchannel_thumb.png", VThanh Channel
+http://vthanhtivi.pw/vthanhchannel/mpegts
 #EXTINF:0 tvg-id="sctv4hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4ˢᵛ² - Giải trí
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
@@ -1102,8 +1102,6 @@ http://tv.ctvcamau.vn/live/tv/tv.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://i.imgur.com/VHOdzjd.jpg", VEVO Pop FHD
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=b72b3d44-8d24-4833-8786-6ea77b1f7935&rendition=1080&session_id=00445cfb-bf4d-7983-d2bb-dabab3c362d5&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
-#EXTINF:-1 group-title="🎵|Music" tvg-logo="https://cdn.hqth.me/vthanhmusic.png", VThanh Music
-http://vthanhtivi.pw/vthanhmusic/mpegts
 #EXTINF:0 group-title="🎵|Music" logo="https://i.ibb.co/fQjkFFk/kralpop.jpg", TRT MUZIK
 https://iplogger.com/TRTMUZIK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" group-title="🎵|Music",Drean Tuk HD
@@ -1433,6 +1431,10 @@ https://iplogger.com/C2B4TV
 https://iplogger.com/C2B4TV
 #EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://images.fptplay.net/media/channels/icon_channel_kpc_165655724357.png",SPORT2K🇻🇳 SD
 https://iplogger.com/fubol2K
+#EXTINF:-1 tvg-id="vthanhsp1" group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1
+http://vthanhtivi.pw/vthanhsports1/mpegts
+#EXTINF:-1 tvg-id="vthanhsp2" group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports2_thumb.png", VThanh Sports 2
+http://vthanhtivi.pw/vthanhsports2/mpegts
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhevent.png", VThanh Event 1
 http://vthanhtivi.pw/vthanhevent1/mpegts
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhevent2.png", VThanh Event 2
