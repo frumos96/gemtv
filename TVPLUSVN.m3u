@@ -6,15 +6,16 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 360
-http://free.cvmtv.site/VTV1HD?token=live
+https://iplogger.com/VTV1FHD
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 http://gg.gg/VTV1ONHD
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 WEB
-https://cdnw-liv02.todayplus.com.vn/hdb/smil:vtv1-sub.smil/chunklist_w28623972_b2289152.m3u8
 http://gg.gg/VTV1NET
+https://cdnw-liv02.todayplus.com.vn/hdb/smil:vtv1-sub.smil/chunklist_w28623972_b2289152.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 LAOTV
+http://str1.cvmtv.site/VTV1HD?token=live
 https://ctrl.laotv.la/live/VTV1HD/index.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV2 VIETTEL
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -24,7 +25,7 @@ http://gg.gg/VTV2FHD
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV3 360
-https://iplogger.com/VTV3FHD
+http://str1.cvmtv.site/VTV3HD?token=live
 #EXTINF:0 tvg-id="vtv3hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV3 WEB
 http://gg.gg/VTV3FHD
 #EXTINF:0 tvg-id="vtv3hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV3 SCTV
@@ -47,7 +48,7 @@ http://gg.gg/VTV5TNFHD
 #EXTINF:0 tvg-id="vtv5hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/5.png" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 FHD Viettel
 http://171.238.181.52:18080/194.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/5.png" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 FHD 360
-http://free.cvmtv.site/vtv5?token=live
+http://str1.cvmtv.site/vtv5?token=live
 #EXTINF:0 tvg-id="vtv5hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/5.png" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 SCTV
 https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -99,7 +100,7 @@ https://iplogger.com/HTV7HD
 https://s.id/htv7cf
 http://gg.gg/HTV7HDFPT
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV🍬" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 SCTV
-http://free.cvmtv.site/htv7?token=live
+http://str1.cvmtv.site/htv7?token=live
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
@@ -720,7 +721,7 @@ https://iplogger.com/VIEGIAITRI
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",Vie Giải trí SD 
-http://free.cvmtv.site/vie?token=live
+http://str1.cvmtv.site/vie?token=live
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab2-on-phim-viet/dvr-${start}-${offset}.m3u8", ON Phim Việt² 360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/ONPHIMVIET
@@ -1200,13 +1201,13 @@ http://gg.gg/MBC-UAE
 #EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN: SONY TV HD" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="🚩🚩🚩🚩🚩Foreign🚩",SONY ASIA HD🇮🇳
 https://iplogger.com/SONYASIA_IN
 #EXTINF:-1 group-title="🚩🚩🚩🚩🚩Foreign🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC🇺🇸
-http://free.cvmtv.site/NBC?token=live
+http://str1.cvmtv.site/NBC?token=live
 #EXTINF:-1 group-title="🚩🚩🚩🚩🚩Foreign🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS🇺🇸
-http://free.cvmtv.site/CBS?token=live
+http://str1.cvmtv.site/CBS?token=live
 #EXTINF:-1 group-title="🚩🚩🚩🚩🚩Foreign🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC🇺🇸
-http://free.cvmtv.site/ABC?token=live
+http://str1.cvmtv.site/ABC?token=live
 #EXTINF:-1 group-title="🚩🚩🚩🚩🚩Foreign🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX🇺🇸
-http://free.cvmtv.site/FOX?token=live
+http://str1.cvmtv.site/FOX?token=live
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🚩🚩🚩🚩🚩Foreign🚩",CCTV-1🇨🇳
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226635/1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🚩🚩🚩🚩🚩Foreign🚩",CCTV-2🇨🇳
@@ -2127,10 +2128,10 @@ https://iplogger.com/VOOSportWorld3BE
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-41-592.png" group-title="⚽ SPORT EUROPE 🇪🇺",Play Sports 4🇧🇪 
 http://gg.gg/PlaySports4BE
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png" group-title="⚽ SPORT EUROPE 🇪🇺",CANAL+ SPORT FHD_🇵🇱
-http://free.cvmtv.site/canal1?token=live
+http://str1.cvmtv.site/canal1?token=live
 http://gg.gg/CANAL-SPORT1PL
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-sport-2-707.png" group-title="⚽ SPORT EUROPE 🇪🇺",CANAL+ SPORT 2 FHD_🇵🇱
-http://free.cvmtv.site/canal2?token=live
+http://str1.cvmtv.site/canal2?token=live
 http://gg.gg/CANAL-SPORT2PL
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-sport-3-1883.png" group-title="⚽ SPORT EUROPE 🇪🇺",CANAL+ SPORT 3 FHD_🇵🇱
 http://gg.gg/CANAL-SPORT3PL
