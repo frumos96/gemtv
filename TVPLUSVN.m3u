@@ -99,13 +99,15 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/129.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/60/auto/dvr-${start}-${end}.m3u8", DaNangTV2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:0 tvg-id="htv2hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/48.png" tvg-chno="25" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8", HTV2 HD
-https://iplogger.com/HTV2HD
+https://s.id/htv2360
 https://e8.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?cc|Referer=http://sctvonline.vn
+https://iplogger.com/HTV2HD
 #EXTINF:0 tvg-id="htv7hd" group-title="📦 VTV🍬" logo="https://i.imgur.com/L8fXB1M.png" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD HTVC
 http://str1.cvtv.xyz/htv7?token=live
 https://iplogger.com/HTV7HD
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV🍬" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 NET
-https://s.id/htv7cf
+https://s.id/htv7360
+#https://s.id/htv7cf
 http://gg.gg/HTV7HDFPT
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="📦 VTV🍬" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -142,6 +144,7 @@ https://iplogger.com/THPPLUS
 https://iplogger.com/VIEGIAITRI
 http://gg.gg/VIEGIAITRISD
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8", ON Sports HD B4
+https://s.id/ONSportsVIE
 https://s.id/ONSportsVN
 https://iplogger.com/0nsport
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies 360HD 
@@ -1651,7 +1654,6 @@ http://gg.gg/NovaSportsPremierLeague
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1_🇲🇾 STL
 https://s.id/assp1_shareext-m3u8
 #https://s.id/assp01
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1²_🇲🇾
 https://iplogger.com/ASSP1
 http://gg.gg/assp1my
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
@@ -1660,7 +1662,6 @@ https://webudit.hlsjs.ru/lb/premium123/index.m3u8
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 2_🇲🇾 STL
 https://s.id/assp2_shareext-m3u8
 #https://s.id/assp02
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 2²_🇲🇾
 https://iplogger.com/ASSP2
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1668,7 +1669,6 @@ https://webudit.hlsjs.ru/lb/premium124/index.m3u8
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 3_🇲🇾 STL
 https://s.id/assp3_shareext-m3u8
 #https://s.id/assp03
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 3²_🇲🇾
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.hlsjs.ru/lb/premium125/index.m3u8
@@ -1676,7 +1676,6 @@ https://iplogger.com/ASSP3
 #EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 4_🇲🇾 STL
 https://s.id/assp4_shareext-m3u8
 #https://s.id/assp04
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 4²_🇲🇾
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.hlsjs.ru/lb/premium126/index.m3u8
@@ -1684,35 +1683,30 @@ https://iplogger.com/ASSP4
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 5 FHD_🇲🇾
 https://iplogger.com/ASSP5
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918982&extension=ts&play_token=
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png"   group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 5²_🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 1 HD🇮🇱
 http://gg.gg/YESSport1IL
 https://iplogger.com/YESSport1IL
-#EXTINF:-1 tvg-id="Sport1.il" tvg-name="Sport 1" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png"  group-title="👑 SPORT ASEAN🌏🔥",YES Sport 1 HD web 🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.cdnbos.lol/lb/premium140/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-2-1022.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 2 HD🇮🇱
 http://gg.gg/YESSport2IL
 https://iplogger.com/YESSport2IL
-#EXTINF:-1 tvg-id="Sport2.il" tvg-name="Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 2 HD web 🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.cdnbos.lol/lb/premium141/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-3-1023.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 3 HD🇮🇱
 http://gg.gg/YESSport3IL
 https://iplogger.com/YESSport3IL
-#EXTINF:-1 tvg-id="Sport3.il" tvg-name="Sport 3" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 3 HD web 🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.cdnbos.lol/lb/premium142/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-4-1024.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 4 HD🇮🇱
 http://gg.gg/YESSport4IL
 https://iplogger.com/YESSport4IL
-#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport  HD web 🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.cdnbos.lol/lb/premium143/index.m3u8
@@ -1830,17 +1824,14 @@ http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501592
 http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/501590
 #EXTINF:-1 tvg-id="sonyten1hd.in"tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2o6EEdyuSIMc53sKv4MzL3H.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 1 FH Bundesliga_🇮🇳
 https://iplogger.com/SONYSPORT1IN
-#EXTINF:-1 tvg-id="sonyten1hd.in"tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2o6EEdyuSIMc53sKv4MzL3H.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 1ˢᵛ² FHD Bundesliga_🇮🇳
 http://gg.gg/SONYSPORT1IN
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114576&extension=ts
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2r57wXFDbDf_qXkU_c8GWTg.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 2 FHD Bundesliga_🇮🇳
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114577&extension=ts
 https://iplogger.com/SONYSPORT2IN
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2r57wXFDbDf_qXkU_c8GWTg.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 2ˢᵛ² FHD Bundesliga_🇮🇳
 http://gg.gg/SONYSPORT2IN
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oA5SCQwEeBvvOTFV08rgLT.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 3 FHD Bundesliga_🇮🇳
 https://iplogger.com/SONYSPORT3IN
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oA5SCQwEeBvvOTFV08rgLT.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 3ˢᵛ² FHD Bundesliga_🇮🇳
 http://gg.gg/SONYSPORT3IN
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114578&extension=ts
 #EXTINF:-1 tvg-id="sonyten4hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8RjcVrKi6AuodX3jCxRso2oA5SCQwEeBvvOTFV08rgLT.png" group-title="👑 SPORT ASEAN🌏🔥",SONY_TEN 4 FHD _🇮🇳
@@ -1851,11 +1842,9 @@ http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/240692
 http://humiptv.live:8080/live/Antonio123/Antonio123/98870.ts
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDFcWJ3n8AzK2y5tT4ctD_f.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS 1 FHD (D2H)_🇮🇳
 https://iplogger.com/STARSPORT1IN
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDFcWJ3n8AzK2y5tT4ctD_f.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS 1(TATAPLAY)_🇮🇳
 http://gg.gg/STARSPORT1IN
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBWnglMlCY_VQQYt1iLZBrJ.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS 2 FHD (D2H)_🇮🇳
 https://iplogger.com/STARSPORT2IN
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBWnglMlCY_VQQYt1iLZBrJ.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS 2 (TATAPLAY)_🇮🇳
 http://gg.gg/STARSPORT2IN
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-star-sports-3-228.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS 3 FHD (D2H)_🇮🇳
 https://iplogger.com/STARSPORT3IN
@@ -1864,13 +1853,11 @@ http://gg.gg/STARSPORT3IN
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS SELECT 1 Premier League_🇮🇳
 https://iplogger.com/STARSPORTSSELECT1IN
 http://hostengine.live/live/wrecks82/habsiptv82/56776.m3u8
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLBnFREmGBDJcpY6wA6E7VmKNJLqt1rF5VN4fc1WLscpHQ.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS SELECT 1² Premier League_🇮🇳
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155972&extension=ts
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS SELECT 2_🇮🇳
 http://test-otv1.ftpbd.net/streams/125/index.m3u8
 https://iplogger.com/STARSPORTSSELECT2IN
 http://hostengine.live/live/wrecks82/habsiptv82/56777.m3u8
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8Uz8qDeXloLqZpozRNyFNLDWUzYTfw9_Yjpu3fqsZYy5ZzXqWRI0OAnBFWuD1JmafA.png" group-title="👑 SPORT ASEAN🌏🔥",STARSPORTS SELECT 2²_🇮🇳
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155973&extension=ts
 
 
@@ -1896,12 +1883,6 @@ https://7pal.short.gy/tntspts3
 http://gg.gg/TNTSPORT3UK
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-espn-98.png" group-title="⚽ SPORT EUROPE 🇪🇺",UK: BTSport ESPN HD_🇬🇧
 http://gg.gg/TNTSPORT4UK
-#EXTINF:-1 tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="⚽ SPORT EUROPE 🇪🇺",VIAPLAY SPORTS 1 FHD
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163607&extension=ts
-http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&extension=ts&play_token=IVSS5PbCug
-#EXTINF:-1 tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="⚽ SPORT EUROPE 🇪🇺",VIAPLAY SPORTS 2 FHD
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45251&extension=ts
-http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=154405&extension=ts&play_token=Sz0cj6w84W
 #EXTINF:-1 Logo="http://images.zaltv.club/logo/live.gif" group-title="⚽ SPORT EUROPE 🇪🇺",Sport Digital(MPD)🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2126,41 +2107,26 @@ https://iplogger.com/SetantaEurasia_2
 #EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand"  tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Grandstand_🇿🇦
 https://iplogger.com/SuperSportGrandstand
 #EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="✨SPORT AFRICA🔸📣",SuperSport PSL
+https://7pal.short.gy/spersppsl
 https://iplogger.com/SuperSportPSL
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Premier League_🇿🇦
+https://7pal.short.gy/spersppl
 https://iplogger.com/SuperSportEPL
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Football_🇿🇦
+https://7pal.short.gy/sperspfb
 https://tinyurl.com/SuperSportFUBOL
 https://s.id/SuperSportFUBOL
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="⚽| Thể thao",  SkySport8-PremierLeague_NZ-FHD
+https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 tvg-id="SuperSportFootballPlus.za" tvg-name="SuperSport Football Plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-plus-za.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Football PLUS_🇿🇦
 https://s.id/SuperSportFUBOLPLUS
 #EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="✨SPORT AFRICA🔸📣",SuperSport LaLiga_🇿🇦
+https://7pal.short.gy/sperspllg
 https://tinyurl.com/SuperSportLALIGA
 https://s.id/SuperSportLALIGA
-#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Variety 1_🇿🇦
-https://tinyurl.com/SuperSportVariety1
-https://s.id/SuperSportVariety1
-#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Variety 2_🇿🇦
-https://tinyurl.com/SuperSportVariety2
-https://s.id/SuperSportVariety2
-#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Variety 3_🇿🇦
-https://tinyurl.com/SuperSportVariety3
-https://s.id/SuperSportVariety3
-#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Variety 4_🇿🇦
-https://tinyurl.com/SuperSportVariety4
-https://s.id/SuperSportVariety4
-#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="SuperSport Action" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Action_🇿🇦
-https://tinyurl.com/SuperSportAction
-https://s.id/SuperSportAction
 #EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="SuperSport Tennis" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Tennis_🇿🇦
+https://7pal.short.gy/spersptns
 https://tinyurl.com/SuperSportTENNIS
-#EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name="SuperSport Maximo 1" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Maximo 1_🇿🇦
-https://tinyurl.com/SuperSportMaximo1
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Play FHD" tvg-logo="" group-title="✨SPORT AFRICA🔸📣",DSTV| SuperSport Play FHD_🇿🇦
-http://ultrontv.xyz:80/Mahen123/Mahen77/151498
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1668359
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Play FHD" tvg-logo="" group-title="✨SPORT AFRICA🔸📣",DSTV| SuperSport Play 2 FHD_🇿🇦
-https://tinyurl.com/SuperSportPlay2
 
 ---------------------------------------FUBOL LATINO----------------------------------------
 #EXTINF:-1 group-title="💎FUBOL LATINO💎" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-universo-723.png",UNIVERSO Latino
