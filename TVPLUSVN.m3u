@@ -98,9 +98,11 @@ http://gg.gg/HANOI2TVMY
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/129.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/60/auto/dvr-${start}-${end}.m3u8", DaNangTV2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:0 tvg-id="htv2hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/48.png" tvg-chno="25" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8", HTV2 HD
-https://s.id/htv2360
-#https://e8.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?cc|Referer=http://sctvonline.vn
+#EXTINF:0 tvg-id="htv2hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/48.png" tvg-chno="25" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8", HTV2 360
+https://api.wintv.me/htv2/index.m3u8
+#https://s.id/htv2360
+#EXTINF:0 tvg-id="htv2hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/48.png" tvg-chno="25" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8", HTV2 SCTV
+https://e8.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?cc|Referer=http://sctvonline.vn
 #https://iplogger.com/HTV2HD
 #EXTINF:0 tvg-id="htv7hd" group-title="📦 VTV🍬" logo="https://i.imgur.com/L8fXB1M.png" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD HTVC
 http://str1.cvtv.xyz/htv7?token=live
@@ -141,10 +143,9 @@ http://gg.gg/H4IPH0NGTV
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 https://iplogger.com/THPPLUS
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",Vie Giải trí FHD 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://str1.cvtv.xyz/vie?token=live
-https://iplogger.com/VIEGIAITRI
-http://gg.gg/VIEGIAITRISD
+#https://iplogger.com/VIEGIAITRI
+#http://gg.gg/VIEGIAITRISD
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8", ON Sports HD B4
 https://s.id/ONSportsVIE
 #https://s.id/ONSportsVN
@@ -153,7 +154,8 @@ https://s.id/ONSportsVIE
 https://s.id/ONMOVIES
 http://gg.gg/ONMOVIES4M
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", ON E Channel
-https://s.id/EChannel
+https://api.wintv.me/vtvcab5/index.m3u8
+#https://s.id/EChannel
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/dvr-${start}-${offset}.m3u8", ON Sports+² VEON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.wintv.me/vtvcab6/index.m3u8
@@ -275,15 +277,10 @@ http://gg.gg/KIXHD8M
 https://coca.dl.dropboxusercontent.com/s/bk6el8frz1udohx/
 #EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim 😜📣" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO FHD MY+
 http://fpt.vthanhtivi.pw/hbo/index.m3u8
-https://s.id/hbocf
-http://gg.gg/HBOFPT
-#EXTINF:0 tvg-id="hbohd" group-title="🎬| Phim 😜📣" logo="https://imgur.com/UmfhBQU.png", HBO MYK+
+http://gg.gg/HaNoiIPTV-HBO_HD
 https://iplogger.com/HBOVN4M
 #EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim 😜📣" logo="https://i.imgur.com/F0N0TmU.jpg", Cinemax
-https://s.id/cinemaxvn
-http://gg.gg/cin3maxmyv
-#EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim 😜📣" logo="https://i.imgur.com/F0N0TmU.jpg" , Cinemax² 
-https://iplogger.com/CINEMAXVN
+http://gg.gg/HaNoiIPTV-Cinemax_HD
 #EXTINF:-1 group-title="🎬| Phim 😜📣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Little_Saigon_TV_logo.svg/254px-Little_Saigon_TV_logo.svg.png", Little Saigon TV
 https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
 #EXTINF:-1 group-title="🎬| Phim 😜📣" tvg-logo="https://hqth.me/ibclogo", IBC VietMy
@@ -343,11 +340,10 @@ http://gg.gg/iqiyicn
 http://gg.gg/FlixIN
 https://s.id/FLIX4KIN
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317" group-title="🎬| Phim 😜📣",STAR SELECT MOVIES HD🇮🇳
-http://gg.gg/StarSelectMovies
-https://s.id/StarSelectMovies
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="foxlifehd.in" tvg-logo="https://tinyurl.com/FOXLIFEINIMG" group-title="🎬| Phim 😜📣",FOX LIFE HD🇮🇳
-https://iplogger.com/FOXLIFEIN2
-#https://iplogger.com/FOXLIFEIN
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://line.lion-ott.com:80/abcd1234/abcd1234/281644
 #EXTINF:-1 tvg-id="zeecafehd.in" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/19/Untitled-1.jpg?itok=60idFHQ6" group-title="🎬| Phim 😜📣", ZEE CAFE HD🇮🇳
 https://iplogger.com/ZEECAFEIN
 #EXTINF:-1  group-title="🚩🚩🚩Foreign🚩🚩🚩" logo="https://photos.live-tv-channels.org/tv-logo/ae-gem-fit-2728-300x225.jpg",IR: GEM LIFE
@@ -385,23 +381,11 @@ http://66.160.192.241/cineboxcinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GOLDEN-plus" tvg-logo="https://www.tvplusgratis.com/imge/goldenplus.png"  group-title="🎬| Phim 😜📣",GOLDEN PLUS en Vivo🇧🇷
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 http://dnsplay.xyz:80/hldoudby/qubRsmkm/34989
-#EXTINF:0 tvg-id="hallmark" group-title="🎬| Phim 😜📣" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1920px-Hallmark_Channel.svg.png", Hallmark Channel² 🇺🇸
-http://gg.gg/hallmarkus
-https://iplogger.com/HALLMARKUS
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1544577
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sony_Crackle_Logo.png/revision/latest?cb=20190917114804" group-title="🎬| Phim 😜📣",Crackle
 http://crackle-xumo.amagi.tv/playlistX432p.m3u8
 #EXTINF:-1 tvg-logo="https://iplogger.com/hallmarklog0" group-title="🎬| Phim 😜📣",Hallmark Movies & Mysteries 🇺🇸
-https://iplogger.com/hallmarkm0vi3
-http://evolved.host:8080/JsnCdcSSe8/CWvQ6KPTQR/509118
-#EXTINF:0 group-title="🎬| Phim 😜📣" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime US🇺🇸
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61447&extension=ts&play_token=zxfe34Bu5h&sn2=
-#EXTINF:0 group-title="🎬| Phim 😜📣" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",LifetimeMovieNetwork² 🇺🇸
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61392&extension=ts&play_token=3JsJcyfnbj&sn2=
-#EXTINF:-1 group-title="🎬| Phim 😜📣" logo="https://th.bing.com/th/id/OIP.WrhDWXPpeZQBailL4k3z7gAAAA?pid=ImgDet&rs=1",PARAMOUNT+ PRESENTA 
-http://gg.gg/PARAMOUNT-PRE
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-logo="https://tbivision.com/files/2017/03/paramount-channel.png" group-title="🎬| Phim 😜📣",PARAMOUNT CHANNEL
-https://iplogger.com/PARAMOUNTC
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUPE_NjPQjwkobVIbmsqf5eP9HHEHDsir1-hKJ_=s900-c-k-c0x00ffffff-no-rj" group-title="🎬| Phim 😜📣",My time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
@@ -441,8 +425,7 @@ https://s.id/DiscoveryMYVN
 #KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
 https://coca.dl.dropboxusercontent.com/s/3dfnjxi7y2o6a42w1dtjd/ 																																	 ㅤ?discovery      										 													 &rlkey=g4r88ck9kaz8y30zje9x88og7#EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:-1 group-title="🌿 Lifestyle ⭐️🤕" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia FHD
-http://fpt.vthanhtivi.pw/discoveryasia/index.m3u8
-#http://gg.gg/DiscoveryAsiaMYVN
+http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
