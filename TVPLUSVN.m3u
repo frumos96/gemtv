@@ -127,19 +127,19 @@ https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u
 http://str1.cvtv.xyz/vie?token=live
 #https://iplogger.com/VIEGIAITRI
 #http://gg.gg/VIEGIAITRISD
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8", ON 🔥📺 4K 🇺 🇭 🇩⚽📣 HD B4
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8", ON FUBOL HD B4
 http://gg.gg/HaNoiIPTV-ON_Sports_HD
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies 360HD 
 https://s.id/ONMOVIES
 http://gg.gg/ONMOVIES4M
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", ON E Channel
 https://wintv.fun/360/184/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/dvr-${start}-${offset}.m3u8", ON 🔥📺 4K 🇺 🇭 🇩⚽📣+² VEON
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/dvr-${start}-${offset}.m3u8", ON FUBOL+ VEON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://gg.gg/HaNoiIPTV-ON_Sports_Plus_HD
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ON FootballHD B4
 http://gg.gg/HaNoiIPTV-ON_Football_HD
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ON🔥📺 4K 🇺 🇭 🇩⚽📣News B4
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ONFUBOLNews B4
 https://s.id/ONFNEWS
 https://iplogger.com/ONF0B4LN3W
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8",ON Vie Dramas FHD
@@ -220,11 +220,11 @@ http://vthanhtivi.pw/vthanhaudio/mpegts
 #EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio (ON Live)
 https://code.vthanhtivi.pw/getlink/onlive/vthanhtivi/231107.m3u8
 #EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh 🔥📺⚽📣 1
-http://vthanhtivi.pw/vthanh🔥📺 4K 🇺 🇭 🇩⚽📣1/mpegts
+http://vthanhtivi.pw/vthanhsport1/mpegts
 #EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh 🔥📺⚽📣 1 (4K)
-http://viettel.nekocdn.xyz/vthanh🔥📺 4K 🇺 🇭 🇩⚽📣1/mpegts
+http://viettel.nekocdn.xyz/vthanhsport1/mpegts
 #EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports2_thumb.png", VThanh 🔥📺+⚽📣 2
-http://vthanhtivi.pw/vthanh🔥📺 4K 🇺 🇭 🇩⚽📣2/mpegts
+http://vthanhtivi.pw/vthanhsport2/mpegts
 #EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhevent1_thumb.png", VThanh Event 1
 http://vthanhtivi.pw/vthanhevent1/mpegts
 #EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhevent2_thumb.png", VThanh Event 2
@@ -487,36 +487,26 @@ https://7pal.short.gy/HPremier1
 https://7pal.short.gy/HPremier2
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣", HubPremier3⁴ᴷ
 https://7pal.short.gy/HPremier3
-#EXTINF:-1 group-title="🔥📺 4K 🇺 🇭 🇩⚽📣" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-🔥📺 4K 🇺 🇭 🇩⚽📣-4k-1978.png",Now_🇭🇰 Premier Sport⁴ᴷ
+#EXTINF:-1 group-title="🔥📺 4K 🇺 🇭 🇩⚽📣" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sport-4k-1978.png",Now_🇭🇰 Premier Sport⁴ᴷ
 https://7pal.short.gy/nowsport4k
 https://iplogger.com/NOWEPL4K
-#EXTINF:-1 tvg-id="English.-.Now.🔥📺 4K 🇺 🇭 🇩⚽📣.Premier.League.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣", Now🔥📺 4K 🇺 🇭 🇩⚽📣PL1⁴ᴷ🇭🇰
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣", NowFUBOLPL1⁴ᴷ🇭🇰
 https://7pal.short.gy/nowhkp1
-#EXTINF:-1 tvg-id="English.-.Now.🔥📺 4K 🇺 🇭 🇩⚽📣.Premier.League.2.hk" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣", Now🔥📺 4K 🇺 🇭 🇩⚽📣PL2⁴ᴷ🇭🇰
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣", NowFUBOLPL2⁴ᴷ🇭🇰
 https://7pal.short.gy/nowhkp2
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-hd-940.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",ESPN⁴ᴷ UHD 
-https://iplogger.com/ESPN4KBR
-http://xcui.vitvabc.xyz:8880/287994016279/287994016279/31034
-http://lmtv.me:80/3Xa6ZR/7yzVQY/95654
-#EXTINF:-1 group-title="🔥📺 4K 🇺 🇭 🇩⚽📣" tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",V SportUltraHD
+#EXTINF:-1 + tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",V SportUltraHD
 https://7pal.short.gy/VSportUHD
-#EXTINF:-1 group-title="🔥📺 4K 🇺 🇭 🇩⚽📣" tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",Sky🔥📺 4K 🇺 🇭 🇩⚽📣MainEvent
+#EXTINF:-1 + tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",Sky🔥📺 4K 🇺 🇭 🇩⚽📣MainEvent
 https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 group-title="🔥📺 4K 🇺 🇭 🇩⚽📣"  tvg-id="BT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",TNTSportUltimate
+#EXTINF:-1 tvg-id="BT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",TNTSportUltimate
 https://7pal.short.gy/TNTUltimate
 #EXTINF:-1 group-title="🔥📺 4K 🇺 🇭 🇩⚽📣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",DIGI⁴ᴷ
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=443338&extension=ts&play_token=IbiKMobvj5
 https://7pal.short.gy/digi4k
-#EXTINF:-1 group-title="🔥📺 4K 🇺 🇭 🇩⚽📣" tvg-id="6583" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" tvg-rec="0",ELEVEN 🔥📺 4K 🇺 🇭 🇩⚽📣 1 UHD PL⁴ᴷ
-https://7pal.short.gy/11🔥📺 4K 🇺 🇭 🇩⚽📣1
-#EXTINF:0 group-title="🔥📺 4K 🇺 🇭 🇩⚽📣" tvg-id="6585" tvg-logo="http://epg.it999.ru/img2/6585.png" tvg-rec="0",SPORT TV1⁴ᴷUHD PT
-#EXTVLCOPT:network-caching=1000
-https://iplogger.com/SPORTTV1PT
-#http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/7500.ts
+#EXTINF:-1 group-title="🔥📺 4K 🇺 🇭 🇩⚽📣" tvg-id="6583" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" tvg-rec="0",ELEVEN FUBOL 1 UHD PL⁴ᴷ
+https://7pal.short.gy/11sport1
 #EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-logo="https://i.imgur.com/EPIy6eZ.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",5Sport4K
 https://7pal.short.gy/5sport
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",Sky🔥📺 4K 🇺 🇭 🇩⚽📣F1UHD
-https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/N7K865M.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",ZiggoSportUHD
 https://7pal.short.gy/ZiggoSport
 #EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.UHD.de" tvg-logo="https://i.imgur.com/wgvrku8.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",SkySport_BundesligaUHD.de
@@ -527,29 +517,29 @@ https://7pal.short.gy/eusport4k
 https://7pal.short.gy/csmtesuhd
 #EXTINF:-1 tvg-id="M..LaLiga.UHD.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",M+LaLigaUHD.es
 https://7pal.short.gy/mplusuhd
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-🔥📺 4K 🇺 🇭 🇩⚽📣-max-1-742.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beIN🔥📺 4K 🇺 🇭 🇩⚽📣 1 🇹🇷⁴ᴷ
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sport-max-1-742.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beIN SP 1 🇹🇷⁴ᴷ
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNErq0Xo-NUQh-AvVQC1PmLmHCw9cpCwcBCuGDqALdUcT/ts
 #http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNGh2arrmyll-PXtWVpuO8x0/ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-🔥📺 4K 🇺 🇭 🇩⚽📣-max-2-743.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beIN🔥📺 4K 🇺 🇭 🇩⚽📣 2 🇹🇷⁴ᴷ
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sport-max-2-743.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beIN SP 2 🇹🇷⁴ᴷ
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:BF:8F:D1&stream=57800&extension=ts&play_token=30MMvWt2i0&sn2=
 #http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNAP_2ajFHVzgQjqpvgP4jCtQDRhJq72HqFvJ3YjXSGjV/ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-🔥📺 4K 🇺 🇭 🇩⚽📣-3-642.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beIN🔥📺 4K 🇺 🇭 🇩⚽📣 3 🇹🇷 PL
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sport-3-642.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSP 3 🇹🇷 PL
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:BF:8F:D1&stream=57803&extension=ts&play_token=jxheapGniv&sn2=
 #http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNIcGxNh58e0hDb_KqYtdCNE/ts
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-🔥📺 4K 🇺 🇭 🇩⚽📣-3-642.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beIN🔥📺 4K 🇺 🇭 🇩⚽📣 4 🇹🇷 BUNDESLIGA
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sport-3-642.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSP 4 🇹🇷 BUNDESLIGA
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:BF:8F:D1&stream=57806&extension=ts&play_token=IOrsZwyYD5&sn2=
 #http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNPAmMtvJBpj81VJ4yATLYfZcfuJ34xa1qX8MHHR6BjZV/ts
-#EXTINF:-1 tvg-id="bein🔥📺 4K 🇺 🇭 🇩⚽📣1ar.qa" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-🔥📺 4K 🇺 🇭 🇩⚽📣-751.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beIN🔥📺 4K 🇺 🇭 🇩⚽📣 1⁴ᴷ HD ARAB_🇸🇦 TOTAL E+L+B
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sport-751.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beIN SP 1⁴ᴷ HD ARAB_🇸🇦 TOTAL E+L+B
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=59306&extension=ts&play_token=dZi1y14DqE&sn2=
-#EXTINF:-1 tvg-id="bein🔥📺 4K 🇺 🇭 🇩⚽📣2ar.qa" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beIN🔥📺 4K 🇺 🇭 🇩⚽📣 2⁴ᴷ HD ARAB_🇸🇦  EPL
+#EXTINF:-1 tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSP 2⁴ᴷ HD ARAB_🇸🇦  EPL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=192766&extension=ts&play_token=k5mWKkZoAh&sn2=
-#EXTINF:-1 tvg-id="bein🔥📺 4K 🇺 🇭 🇩⚽📣3ar.qa"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-🔥📺 4K 🇺 🇭 🇩⚽📣-3-754.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beIN🔥📺 4K 🇺 🇭 🇩⚽📣 3⁴ᴷ HD ARAB_🇸🇦 LALIGA
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sport-3-754.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beIN🔥SP 3⁴ᴷ HD ARAB_🇸🇦 LALIGA
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=59308&extension=ts&play_token=sXni4C5h3a&sn2=
-#EXTINF:-1 tvg-id="bein🔥📺 4K 🇺 🇭 🇩⚽📣5ar.qa"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-🔥📺 4K 🇺 🇭 🇩⚽📣-5-756.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beIN🔥📺 4K 🇺 🇭 🇩⚽📣 5⁴ᴷ HD ARAB_🇸🇦 BUNDESLIGA
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sport-5-756.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSP 5⁴ᴷ HD ARAB_🇸🇦 BUNDESLIGA
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=59310&extension=ts&play_token=BiSKJF4R6p&sn2=
-#EXTINF:-1 tvg-id="bein🔥📺 4K 🇺 🇭 🇩⚽📣7ar.qa"  tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-🔥📺 4K 🇺 🇭 🇩⚽📣-7-758.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beIN🔥📺 4K 🇺 🇭 🇩⚽📣 7⁴ᴷ HD ARAB_🇸🇦 
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-🔥sport-7-758.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",beINSP 7⁴ᴷ HD ARAB_🇸🇦 
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=192761&extension=ts&play_token=cb6cIXO42d&sn2=
-#EXTINF:-1 group-title="🔥📺 4K 🇺 🇭 🇩⚽📣" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN⁴ᴷ 🔥📺 4K 🇺 🇭 🇩⚽📣
+#EXTINF:-1 group-title="🔥📺 4K 🇺 🇭 🇩⚽📣" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN⁴ᴷ 
 https://7pal.short.gy/bein-uhd
 #EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="Sports", HubPremier1-FHD
 https://7pal.short.gy/HPremier1
@@ -598,52 +588,31 @@ http://tinyurl.com/OnPhimViet
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8
-#EXTINF:-1  tvg-name="ON 🔥📺 4K 🇺 🇭 🇩⚽📣 HD" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/hls/THETHAO_HD_1924/sc-gaFEAA/m40_index.m3u8?startTime=${start}&stopTime=${end}",ON 🔥📺 4K 🇺 🇭 🇩⚽📣 HD VIP
-https://api.wintv.me/vtvcab6/index.m3u8
-http://gg.gg/ONSPORT3MY
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies FHD 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/vtvcab4/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/f5729e7e-bf42-4e7d-988e-6204f94062b4/dvr-${start}-${offset}.m3u8",E Channel VEON
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/vtvcab5/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/dvr-${start}-${offset}.m3u8", ON 🔥📺 4K 🇺 🇭 🇩⚽📣+
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://api.wintv.me/vtvcab6/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/dvr-${start}-${offset}.m3u8", ON 🔥📺 4K 🇺 🇭 🇩⚽📣+² SCTV
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/dvr-${start}-${offset}.m3u8", ON Sport+ SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/dvr-${start}-${offset}.m3u8",ON O2TV HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/vtvcab7/index.m3u8
+http://gg.gg/HaNoiIPTV-ON_O2TV_HD
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/${start}/${offset}",ON O2TV²
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/6c7701f5-7ea6-4168-a245-3be82065ae58/dvr-${start}-${offset}.m3u8",ON Info HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/vtvcab9/index.m3u8
+https://wintv.fun/360/189/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/6c7701f5-7ea6-4168-a245-3be82065ae58/dvr-${start}-${offset}.m3u8", ON Infoˢᵛ² SD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/f7aaa051-d67c-4131-a486-98699d4c9863/dvr-${start}-${offset}.m3u8",ON Cine FHD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/vtvcab10/index.m3u8
+https://wintv.fun/360/176/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/f7aaa051-d67c-4131-a486-98699d4c9863/dvr-${start}-${offset}.m3u8",ON Cineˢᵛ²
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab12-style-tv/dvr-${start}-${offset}.m3u8", ON Style HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.wintv.me/vtvcab12/index.m3u8
+https://wintv.fun/360/184/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355/dvr-${start}-${offset}.m3u8",ON Style TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
@@ -656,17 +625,9 @@ http://gg.gg/OnMusic360
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ON Football HD VIP
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://api.wintv.me/vtvcab16/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/25.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/1b029a49-b0fe-4ac5-b1cf-a9cb782ed0ec/dvr-${start}-${offset}.m3u8",ON TRENDING SCTV
-https://api.wintv.me/vtvcab17/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ON🔥📺 4K 🇺 🇭 🇩⚽📣News FHD 360
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://api.wintv.me/vtvcab18/index.m3u8
-#EXTINF:-1 tvg-id="btv5hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://i.ytimg.com/vi/BJPhLkAwz00/maxresdefault.jpg", BTV5 - ON 🔥📺 4K 🇺 🇭 🇩⚽📣 Action
+https://wintv.fun/360/186/index.m3u8
+#EXTINF:-1 tvg-id="btv5hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://i.ytimg.com/vi/BJPhLkAwz00/maxresdefault.jpg", BTV5 - ON SPORT Action
 http://gg.gg/BTV5-OnSportAction
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8",ON Vie Dramas 360 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1206,37 +1167,37 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://images.fptplay.net/media/channels/icon_channel_kpc_165655724357.png",SPORT2K🇻🇳 FHD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN 🔥📺 4K 🇺 🇭 🇩⚽📣 1 AIS🇹🇭
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN sport 1 AIS🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN 🔥📺 4K 🇺 🇭 🇩⚽📣 2 AIS🇹🇭
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="👑 SPORT ASEAN🌏🔥",BeIN sport 2 AIS🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/-3.png" group-title="👑 SPORT ASEAN🌏🔥", 🔥📺 4K 🇺 🇭 🇩⚽📣 3 AIS🇹🇭
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/-3.png" group-title="👑 SPORT ASEAN🌏🔥", BeIN sport 3 AIS🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/-4.png" group-title="👑 SPORT ASEAN🌏🔥", 🔥📺 4K 🇺 🇭 🇩⚽📣 4 AIS🇹🇭
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/-4.png" group-title="👑 SPORT ASEAN🌏🔥", BeIN sport 4 AIS🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/-5.png" group-title="👑 SPORT ASEAN🌏🔥", 🔥📺 4K 🇺 🇭 🇩⚽📣 5 AIS🇹🇭
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/-5.png" group-title="👑 SPORT ASEAN🌏🔥", BeIN sport 5 AIS🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/-1.png" group-title="👑 SPORT ASEAN🌏🔥", 🔥📺 4K 🇺 🇭 🇩⚽📣 6 AIS🇹🇭
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/-1.png" group-title="👑 SPORT ASEAN🌏🔥", BeIN sport 6 AIS🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/-7.png" group-title="👑 SPORT ASEAN🌏🔥", 🔥📺 4K 🇺 🇭 🇩⚽📣 7 AIS🇹🇭
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/-7.png" group-title="👑 SPORT ASEAN🌏🔥", BeIN sport 7 AIS🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
@@ -1305,43 +1266,43 @@ https://live-eu-cizve9esipliv.thapcam.link/soiHD/index.m3u8#|Referer=https://wat
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://images4.imagebam.com/ae/bf/af/MEP5PC1_o.jpg",  VEBOtv 11 (SOI)FHD🇻🇳
 #EXTVLCOPT:http-referrer=https://watch.ezyproxy.com
 https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8#|Referer=https://watch.ezyproxy.com
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png",CAKHIA Cá Heo
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg",CAKHIA Cá Heo
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@caheohd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Thợ Lặn
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Thợ Lặn
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@lanhd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Thợ Xây
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Thợ Xây
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@thoxayhd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA H+
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA H+
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@hplushd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Cá Bịp
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Cá Bịp
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@biphd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Chu Du
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Chu Du
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@pchuduhd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Tây Môn Chuối
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Tây Môn Chuối
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cachuoihd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Xi Măng
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Xi Măng
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@ximanghd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png",CAKHIA Giàng A Lử
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg",CAKHIA Giàng A Lử
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luhd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Giàng A Cay
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Cay
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cayhd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Giàng A Lú
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Lú
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luluhd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Giàng A Lôi
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Lôi
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@loihd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Giàng A Páo
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Páo
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@paohd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Giàng A Phọt
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Phọt
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@phothd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png",CAKHIA Giàng A Phò
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg",CAKHIA Giàng A Phò
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cakhiahd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Giàng A Khoai
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Khoai
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@khoaihd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Giàng A Cỏ
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Cỏ
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cohd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Giàng A Táo
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Táo
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@taohd1.flv
-#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://i.ibb.co/rbMMsQ2/Bear🔥📺 4K 🇺 🇭 🇩⚽📣live-new.png", CAKHIA Giàng A Chất
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Chất
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chathd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
 https://s.id/peacockepl
@@ -1488,37 +1449,37 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.1.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-1-pt-1500.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven 🔥📺 4K 🇺 🇭 🇩⚽📣 1 MPDweb_🇵🇹 
+#EXTINF:-1 tvg-id="ELEVEN.1.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-1-pt-1500.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven FUBOL 1 MPDweb_🇵🇹 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.2.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-2-pt-1501.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven 🔥📺 4K 🇺 🇭 🇩⚽📣 2 MPDweb_🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN.2.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-2-pt-1501.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven FUBOL 2 MPDweb_🇵🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.3.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-3-pt-1502.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven 🔥📺 4K 🇺 🇭 🇩⚽📣 3 MPDweb_🇵🇹 
+#EXTINF:-1 tvg-id="ELEVEN.3.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-3-pt-1502.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven FUBOL 3 MPDweb_🇵🇹 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.4.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-4-pt-1503.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven 🔥📺 4K 🇺 🇭 🇩⚽📣 4 web_🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN.4.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-4-pt-1503.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven FUBOL 4 web_🇵🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.5.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-5-pt-1504.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven 🔥📺 4K 🇺 🇭 🇩⚽📣 5 web_🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN.5.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-5-pt-1504.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven FUBOL 5 web_🇵🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.6.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-6-pt-1505.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven 🔥📺 4K 🇺 🇭 🇩⚽📣 6_🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN.6.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-6-pt-1505.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven FUBOL 6_🇵🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1551,15 +1512,15 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=418639&extensio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnbos.lol/lb/premium463/index.m3u8
-#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829625_image-header_pRow_1688019823000&quality=70&width=500",Play 🔥📺 4K 🇺 🇭 🇩⚽📣 1🇧🇪 DAZN
+#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829625_image-header_pRow_1688019823000&quality=70&width=500",Play FUBOL 1🇧🇪 DAZN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
-#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829627_image-header_pRow_1688020141000&quality=70&width=500",Play 🔥📺 4K 🇺 🇭 🇩⚽📣 2🇧🇪 DAZN
+#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175989829627_image-header_pRow_1688020141000&quality=70&width=500",Play FUBOL  2🇧🇪 DAZN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
-#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175995461629_image-header_pRow_1688020143000&quality=70&width=500",Play 🔥📺 4K 🇺 🇭 🇩⚽📣 3🇧🇪 DAZN
+#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=175995461629_image-header_pRow_1688020143000&quality=70&width=500",Play FUBOL  3🇧🇪 DAZN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
