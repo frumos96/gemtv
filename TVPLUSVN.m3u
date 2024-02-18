@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml" m3uautoload=2
 #EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml" refresh="3600" m3uautoload=3  
 #EXTM3U url-tvg="https://epg.mammothtv.my.id/local/epg.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/arabiapremiumeng.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/india.xml,https://www.bevy.be/bevyfiles/poland.xml,https://www.bevy.be/bevyfiles/russia.xml,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml" refresh="3600" m3uautoload=4  
-#PLAYLISTINF:frumos96 version="v8"  url="https://s.id/khichtivi"  url="https://calemtv.000webhostapp.com/cltv.txt" url="http://khanggtivi.xyz/" url="http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG" url="https://www.the🔥📺 4K 🇺 🇭 🇩⚽📣db.com/" url="https://www.sporteventz.com/en/"url="https://www.livesoccertv.com/" url="https://sport-tv-guide.live/" url="https://www.liveaugoal.com/" 
+#PLAYLISTINF:frumos96 version="v8"  url="https://s.id/khichtivi"  url="https://calemtv.000webhostapp.com/cltv.txt" url="http://khanggtivi.xyz/" url="http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG" url="https://www.thesportsdb.com/" url="https://www.sporteventz.com/en/"url="https://www.livesoccertv.com/" url="https://sport-tv-guide.live/" url="https://www.liveaugoal.com/" 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 360
@@ -128,7 +128,7 @@ http://str1.cvtv.xyz/vie?token=live
 #https://iplogger.com/VIEGIAITRI
 #http://gg.gg/VIEGIAITRISD
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8", ON 🔥📺 4K 🇺 🇭 🇩⚽📣 HD B4
-http://gg.gg/HaNoiIPTV-ON_🔥📺 4K 🇺 🇭 🇩⚽📣_HD
+http://gg.gg/HaNoiIPTV-ON_Sports_HD
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies 360HD 
 https://s.id/ONMOVIES
 http://gg.gg/ONMOVIES4M
@@ -136,7 +136,7 @@ http://gg.gg/ONMOVIES4M
 https://wintv.fun/360/184/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/dvr-${start}-${offset}.m3u8", ON 🔥📺 4K 🇺 🇭 🇩⚽📣+² VEON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://gg.gg/HaNoiIPTV-ON_🔥📺 4K 🇺 🇭 🇩⚽📣_Plus_HD
+http://gg.gg/HaNoiIPTV-ON_Sports_Plus_HD
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ON FootballHD B4
 http://gg.gg/HaNoiIPTV-ON_Football_HD
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ON🔥📺 4K 🇺 🇭 🇩⚽📣News B4
@@ -156,7 +156,7 @@ http://183.182.100.241:1938/threstr2/spotv/playlist.m3u8
 #EXTINF:-1 tvg-name="SPOTV2" group-title="📦 VTV🍬" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV2
 http://183.182.100.241:1938/threstr2/spotv2/playlist.m3u8
 #https://s.id/spo2tv
-#EXTINF:-1 tvg-id="btv5hd" group-title="⚽| Thể thao" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onaction1.jpg",BTV5 - ON 🔥📺 4K 🇺 🇭 🇩⚽📣 Action
+#EXTINF:-1 tvg-id="btv5hd" group-title="⚽| Thể thao" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onaction1.jpg",BTV5 - ON Sports Action
 https://wintv.fun/360/2380/index.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4ˢᵛ² - Giải trí
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -219,11 +219,11 @@ http://vthanhtivi.pw/vthanhanime/mpegts
 http://vthanhtivi.pw/vthanhaudio/mpegts
 #EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio (ON Live)
 https://code.vthanhtivi.pw/getlink/onlive/vthanhtivi/231107.m3u8
-#EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanh🔥📺 4K 🇺 🇭 🇩⚽📣1_thumb.png", VThanh 🔥📺 4K 🇺 🇭 🇩⚽📣 1
+#EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh 🔥📺⚽📣 1
 http://vthanhtivi.pw/vthanh🔥📺 4K 🇺 🇭 🇩⚽📣1/mpegts
-#EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanh🔥📺 4K 🇺 🇭 🇩⚽📣1_thumb.png", VThanh 🔥📺 4K 🇺 🇭 🇩⚽📣 1 (4K)
+#EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh 🔥📺⚽📣 1 (4K)
 http://viettel.nekocdn.xyz/vthanh🔥📺 4K 🇺 🇭 🇩⚽📣1/mpegts
-#EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanh🔥📺 4K 🇺 🇭 🇩⚽📣2_thumb.png", VThanh 🔥📺 4K 🇺 🇭 🇩⚽📣 2
+#EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports2_thumb.png", VThanh 🔥📺+⚽📣 2
 http://vthanhtivi.pw/vthanh🔥📺 4K 🇺 🇭 🇩⚽📣2/mpegts
 #EXTINF:-1 group-title=📣🔴| Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhevent1_thumb.png", VThanh Event 1
 http://vthanhtivi.pw/vthanhevent1/mpegts
