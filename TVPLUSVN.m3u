@@ -128,7 +128,7 @@ http://str1.cvtv.xyz/vie?token=live
 #https://iplogger.com/VIEGIAITRI
 #http://gg.gg/VIEGIAITRISD
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8", ON FUBOL HD B4
-http://gg.gg/HaNoiIPTV-ON_Sports_HD
+https://api.wintv.me/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies 360HD 
 https://s.id/ONMOVIES
 http://gg.gg/ONMOVIES4M
@@ -136,7 +136,7 @@ http://gg.gg/ONMOVIES4M
 https://wintv.fun/360/184/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/dvr-${start}-${offset}.m3u8", ON FUBOL+ VEON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://gg.gg/HaNoiIPTV-ON_Sports_Plus_HD
+https://api.wintv.me/vtvcab6/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ON FootballHD B4
 http://gg.gg/HaNoiIPTV-ON_Football_HD
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ONFUBOLNews B4
@@ -569,6 +569,8 @@ http://gg.gg/OnMusic360
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/25.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/1b029a49-b0fe-4ac5-b1cf-a9cb782ed0ec/dvr-${start}-${offset}.m3u8",ON TRENDING SCTV
 https://wintv.fun/360/186/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://i.imgur.com/wpRXpJg.png", ON Sports News 
+https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://i.ytimg.com/vi/BJPhLkAwz00/maxresdefault.jpg", BTV5 - ON SPORT Action
 http://gg.gg/BTV5-OnSportAction
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡OnPlus➡️✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8",ON Vie Dramas 360 
@@ -950,21 +952,16 @@ http://175.178.236.58:8088/china/ysp.php?ch=cctv3
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-9🇨🇳
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-10🇨🇳
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
-
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-11🇨🇳
 http://175.178.236.58:8088/china/ysp.php?ch=cctv11
-
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-12🇨🇳
 http://175.178.236.58:8088/china/ysp.php?ch=cctv12
-
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-13🇨🇳
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-14🇨🇳
 http://175.178.236.58:8088/china/ysp.php?ch=cctv14
-
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",湖南卫视HD Hồ Nam🇨🇳
 http://175.178.236.58:8088/china/ysp.php?ch=hunws
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",浙江卫视HD Chiết Giang🇨🇳
@@ -1319,7 +1316,7 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://jiandjh.51vip.biz:5678/sxg.php?id=CCTV-5H265_4000
 https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5+.png" group-title="👑 SPORT ASEAN🌏🔥", CCTV5+ HD_🇨🇳
-https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png" group-title="👑 SPORT ASEAN🌏🔥",True Premier League 1 HD_🇹🇭
