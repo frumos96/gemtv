@@ -133,7 +133,7 @@ https://api.wintv.me/vtvcab3/index.m3u8
 https://s.id/ONMOVIES
 http://gg.gg/ONMOVIES4M
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", ON E Channel
-https://wintv.fun/360/184/index.m3u8
+https://wintv.fun/360/182/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/dvr-${start}-${offset}.m3u8", ON FUBOL+ VEON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.wintv.me/vtvcab6/index.m3u8
