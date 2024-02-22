@@ -953,51 +953,55 @@ https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-9🇨🇳
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-10🇨🇳
-https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-10-HQ
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-11🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=cctv11
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-11-HQ
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-12🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=cctv12
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-12-HQ
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-13🇨🇳
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-13-HQ
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-14🇨🇳
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-14-HQ
 http://175.178.236.58:8088/china/ysp.php?ch=cctv14
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",湖南卫视HD Hồ Nam🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=hunws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_HUNAN-HQ
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",浙江卫视HD Chiết Giang🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=zjws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_ZHEJIANG-HQ
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",江苏卫视HD Giang Tô🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=jsws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_JIANGSU-HQ
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",北京卫视HD Bắc Kinh🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=bjws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_BEIJING-HQ
+#EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",北京纪实科教 Bắc KinhTài Liệu Khoa Giáo🇨🇳
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_BEIJINGJS-HD
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",东方卫视HD Dragon TV🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=dfws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_DONGFANG-HQ
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",深圳卫视HD Thâm Quyến🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=szws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_SHENZHEN-HQ
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",安徽卫视HD An Huy🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=ahws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_ANHUI-HQ
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",辽宁卫视HD Liêu Ninh🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=lnws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_LIAONING-HQ
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",山东卫视HD Sơn Đông🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=sdws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_SHANDONG-HQ
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",天津卫视HD Thiên Tân🇨🇳
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226686/1.m3u8
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_TIANJIN-HQ
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",重庆卫视HD Trùng Khánh🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=cqws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CHONGQING-HQ
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",东南卫视HD Đông Nam Phúc Kiến🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=dnws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_DONGNAN-HQ
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",河北卫视HD Hà Bắc🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=hbws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_HEBEI-HQ
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",黑龙江卫视HD Hắc Long Giang🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=hljws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_HEILONGJIANG-HQ
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png"  group-title="🚩🚩🚩Foreign🚩🚩🚩",湖北卫视HD Hồ Bắc🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=hubws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_HUBEI-HQ
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",江西卫视HD Giang Tây🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=jxws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_JIANGXI-HQ
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",四川卫视HD Tứ Xuyên🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=scws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_SICHUAN-HQ
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",海南卫视HD Hải Nam🇨🇳
-http://175.178.236.58:8088/china/ysp.php?ch=hinws
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_HAINAN-HQ
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="http://live.yoitv.com:9083/query/s/gnpNcLEhwujjXOxTl7gaJg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS-Nippon TV🇯🇵
 http://203.162.235.41:16095/
 #EXTINF:-1 tvg-id="TBS.jp" tvg-name="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="🚩🚩🚩Foreign🚩🚩🚩",TBS🇯🇵
@@ -1243,6 +1247,12 @@ https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cohd1.flv
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@taohd1.flv
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Chất
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chathd1.flv
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",咪咕综合 Total
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1tyzh
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://pp.myapp.com/ma_icon/0/icon_10939789_1706773671/256",咪咕足球 Sport
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zq
+#EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", 咪咕健身 Yoga
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1js
 #EXTINF:-1 group-title="📣🔴| Livestream📌♾💟" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
 https://s.id/peacockepl
 #KODIPROP:inputstreamaddon=inputstream.adaptive
