@@ -227,19 +227,17 @@ http://b4tv.live/b4tv/b4tv/86.m3u8
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4connect.png", B4CONNECT2
 http://b4tv.live/b4tv/b4tv/76.m3u8
 #EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhchannel_thumb.png", VThanh Channel
-http://vthanhtivi.pw/vthanhchannel/mpegts
-#EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhanime_thumb.png", VThanh Anime
-http://vthanhtivi.pw/vthanhanime/mpegts
+http://viettel.nekocdn.xyz/vthanhchannel/mpegts
 #EXTINF:-1 tvg-id="vthanhaudio" group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio
-http://vthanhtivi.pw/vthanhaudio/mpegts
+http://viettel.nekocdn.xyz/vthanhaudio/mpegts
 #EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio (ON Live)
 https://code.vthanhtivi.pw/getlink/onlive/vthanhtivi/231107.m3u8
 #EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh 🔥📺⚽📣 1
-http://vthanhtivi.pw/vthanhsport1/mpegts
+http://viettel.nekocdn.xyz/vthanhsports1/mpegts
 #EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh 🔥📺⚽📣 1 (4K)
-http://viettel.nekocdn.xyz/vthanhsport1/mpegts
+http://viettel.nekocdn.xyz/vthanhsports1-4k/mpegts
 #EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports2_thumb.png", VThanh 🔥📺+⚽📣 2
-http://vthanhtivi.pw/vthanhsport2/mpegts
+http://viettel.nekocdn.xyz/vthanhsports2/mpegts
 #EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhevent1_thumb.png", VThanh Event 1
 http://vthanhtivi.pw/vthanhevent1/mpegts
 #EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhevent2_thumb.png", VThanh Event 2
@@ -1453,32 +1451,7 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png" group-title="⚽ SPORT EUROPE 🇪🇺",CANAL+ SPORT FHD_🇵🇱
-http://str1.cvtv.xyz/canal1?token=live
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-sport-2-707.png" group-title="⚽ SPORT EUROPE 🇪🇺",CANAL+ SPORT 2 FHD_🇵🇱
-http://str1.cvtv.xyz/canal2?token=live
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-sport-3-1883.png" group-title="⚽ SPORT EUROPE 🇪🇺",CANAL+ SPORT 3 FHD_🇵🇱
-http://gg.gg/CANAL-SPORT3PL
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-sport-4-1884.png" group-title="⚽ SPORT EUROPE 🇪🇺",CANAL+ SPORT 4 FHD_🇵🇱
-http://gg.gg/CANAL-SPORT4PL
-#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="canalsp5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png",Canal+ Sport 5
-http://str1.cvtv.xyz/canal5?token=live
-#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
-http://str1.cvtv.xyz/canalpre?token=live
-#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="diema1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png",Diema Sport 1
-http://str1.cvtv.xyz/Diema1?token=live
-#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="diema2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
-http://str1.cvtv.xyz/Diema2?token=live
-#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="diema3" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/diema3.png",Diema Sport 3
-http://str1.cvtv.xyz/Diema3?token=live
-#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺"" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
-http://str1.cvtv.xyz/Match?token=live
-#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺"" tvg-id="mf1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-1-733.png",Match Futbol 1 Serie A
-http://str1.cvtv.xyz/MF1?token=live
-#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺"" tvg-id="mf2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-2-734.png",Match Futbol 2 Serie A
-http://str1.cvtv.xyz/MF2?token=live
-#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺"" tvg-id="mf3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-match-football-3-735.png",Match Futbol 3 Bundesliga
-http://str1.cvtv.xyz/MF3?token=live
+
 
 
 ---------------------------------------✨SPORT AFRICA🔸📣----------------------------------------
