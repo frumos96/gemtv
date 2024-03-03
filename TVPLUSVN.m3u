@@ -867,9 +867,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://i.imgur.com/VHOdzjd.jpg", VEVO Pop FHD
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f3491c50b093e00015a3c4c_samsung_eu&manifest_id=b72b3d44-8d24-4833-8786-6ea77b1f7935&rendition=1080&session_id=00445cfb-bf4d-7983-d2bb-dabab3c362d5&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=e57f3f13873618fdda8a35c74346413d43fa125fd0642e29daf05d6bf1b3e806&ipv=4&pv=1
 #EXTINF:0 group-title="🎵|Music" tvg-id="5948" tvg-logo="http://epg.it999.ru/img2/5948.png" tvg-rec="0",FRESH POP HIT
-https://iplogger.com/FRESHPOPHIT
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/18084/index.m3u8
 #EXTINF:0 group-title="🎵|Music" tvg-id="6273" tvg-logo="http://epg.it999.ru/img2/6273.png" tvg-rec="0",FRESH Russian Pop HD
-https://iplogger.com/FRESHRussianPop
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/18085/index.m3u8
 #EXTINF:-1 tv-id="Jasmin TV" tvg-logo="https://image.roku.com/channels/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png" group-title="🎵|Music",海外|Jasmin TV
 http://gg.gg/JasminTV
 #EXTINF:-1 tvg-name="POWER LOVE" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgA5oYN1Lr2PjakdQv.png" group-title="🎵|Music", POWER LOVE
@@ -1350,12 +1350,7 @@ https://7pal.short.gy/tntspts1
 https://7pal.short.gy/tntspts2
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="⚽ SPORT EUROPE 🇪🇺",UK: BTSport 3 HD_🇬🇧
 https://7pal.short.gy/tntspts3
-#EXTINF:-1 Logo="http://images.zaltv.club/logo/live.gif" group-title="⚽ SPORT EUROPE 🇪🇺",Sport Digital(MPD)🇩🇪
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=824817733470_image-header_pDach_1674763073000&quality=70&width=500" group-title="⚽ SPORT EUROPE 🇪🇺",Sport Digital🇩🇪
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=824817733470_image-header_pDach_1674763073000&quality=70&width=500" group-title="⚽ SPORT EUROPE 🇪🇺",Sport Digital🇩🇪 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
@@ -1385,19 +1380,19 @@ https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.4.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-4-pt-1503.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven FUBOL 4 web_🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN.4.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-4-pt-1503.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven FUBOL 4 MPDweb_🇵🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.5.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-5-pt-1504.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven FUBOL 5 web_🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN.5.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-5-pt-1504.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven FUBOL 5 MPDweb_🇵🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
-#EXTINF:-1 tvg-id="ELEVEN.6.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-6-pt-1505.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven FUBOL 6_🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN.6.pt" Logo="https://img.sport-tv-guide.live/images/tv-station-eleven-🔥📺 4K 🇺 🇭 🇩⚽📣-6-pt-1505.png" group-title="⚽ SPORT EUROPE 🇪🇺",Eleven FUBOL 6 MPD_🇵🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1448,22 +1443,11 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=42370&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=59833&extension=ts&play_token=gZDdXJ4OFZ&sn2=
 #EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-voo-sport-world-3-801.png",VOO Sport World 3🇧🇪
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=390410&extension=ts&play_token=T2BOniMZo2&sn2=
-
-
-
----------------------------------------✨SPORT AFRICA🔸📣----------------------------------------
-#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/super🔥📺 4K 🇺 🇭 🇩⚽📣.png" group-title="✨SPORT AFRICA🔸📣",SuperSport PSL
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="⚽ SPORT EUROPE 🇪🇺",SuperSport PSL
 https://7pal.short.gy/spersppsl
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/super🔥📺 4K 🇺 🇭 🇩⚽📣.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Premier League_🇿🇦
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="⚽ SPORT EUROPE 🇪🇺",SuperSport Premier League_🇿🇦
 https://7pal.short.gy/spersppl
-#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/super🔥📺 4K 🇺 🇭 🇩⚽📣.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Football_🇿🇦
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="⚽ SPORT EUROPE 🇪🇺",SuperSport Football_🇿🇦
 https://7pal.short.gy/sperspfb
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="⚽| Thể thao",  SkySport8-PremierLeague_NZ-FHD
-https://7pal.short.gy/skyspt8nz
-#EXTINF:-1 tvg-id="SuperSportFootballPlus.za" tvg-name="SuperSport Football Plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-plus-za.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Football PLUS_🇿🇦
-https://s.id/SuperSportFUBOLPLUS
-#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/super🔥📺 4K 🇺 🇭 🇩⚽📣.png" group-title="✨SPORT AFRICA🔸📣",SuperSport LaLiga_🇿🇦
-https://7pal.short.gy/sperspllg
-#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="SuperSport Tennis" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/super🔥📺 4K 🇺 🇭 🇩⚽📣.png" group-title="✨SPORT AFRICA🔸📣",SuperSport Tennis_🇿🇦
-https://7pal.short.gy/spersptns
+
 
