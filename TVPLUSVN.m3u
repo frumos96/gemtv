@@ -228,11 +228,11 @@ http://b4tv.live/b4tv/b4tv/86.m3u8
 http://b4tv.live/b4tv/b4tv/76.m3u8
 #EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhchannel_thumb.png", VThanh Channel
 http://viettel.nekocdn.xyz/vthanhchannel/mpegts
-#EXTINF:-1 tvg-id="vthanhaudio" group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio
+#EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio
 http://viettel.nekocdn.xyz/vthanhaudio/mpegts
 #EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio (ON Live)
 https://code.vthanhtivi.pw/getlink/onlive/vthanhtivi/231107.m3u8
-#EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh 🔥📺⚽📣 1
+#EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh🔥📺⚽📣 1
 http://viettel.nekocdn.xyz/vthanhsports1/mpegts
 #EXTINF:-1 group-title=📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh 🔥📺⚽📣 1 (4K)
 http://viettel.nekocdn.xyz/vthanhsports1-4k/mpegts
@@ -308,8 +308,6 @@ http://line.lion-ott.com:80/abcd1234/abcd1234/281644
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png" group-title="🚩🚩🚩Foreign🚩🚩🚩" , Pluto TV Fitness🇪🇸
 https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
 
-
-
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim 😜📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinema World MPD
 https://s.id/cwdvn
@@ -330,7 +328,7 @@ http://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="🎬| Phim 😜📣",ViuTV Six🇭🇰
 http://str1.cvtv.xyz/Viu6?token=live
 #EXTINF:-1 group-title="🎬| Phim 😜📣" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",SkyRomance TV 🇩🇪
-http://myf-tv.com:8080/play/live.php?mac=00:1A:79:BF:8F:D1&stream=58228&extension=ts&play_token=qxH6Ax86EQ&sn2=
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/7231/index.m3u8
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://image.lichphimrap.com/resize-image.php?src=raps/cinebox.png&" group-title="🎬| Phim 😜📣", Cinebox HD
 http://66.160.192.241/cineboxcinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GOLDEN-plus" tvg-logo="https://www.tvplusgratis.com/imge/goldenplus.png"  group-title="🎬| Phim 😜📣",GOLDEN PLUS en Vivo🇧🇷
