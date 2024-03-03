@@ -443,7 +443,7 @@ https://7pal.short.gy/nowhkp1
 https://7pal.short.gy/nowhkp2
 #EXTINF:-1 + tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",V SportUltraHD
 https://7pal.short.gy/VSportUHD
-#EXTINF:-1 + tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",Sky🔥📺 4K 🇺 🇭 🇩⚽📣MainEvent
+#EXTINF:-1 + tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",Skysport MainEvent
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="BT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",TNTSportUltimate
 https://7pal.short.gy/TNTUltimate
@@ -485,22 +485,16 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=59310&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=192761&extension=ts&play_token=cb6cIXO42d&sn2=
 #EXTINF:-1 group-title="🔥📺 4K 🇺 🇭 🇩⚽📣" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN⁴ᴷ 
 https://7pal.short.gy/bein-uhd
-#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="Sports", HubPremier1-FHD
+#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣", HubPremier1-FHD
 https://7pal.short.gy/HPremier1
-#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="Sports", HubPremier2-FHD
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣", HubPremier2-FHD
 https://7pal.short.gy/HPremier2
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="Sports", HubPremier3-FHD
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣", HubPremier3-FHD
 https://7pal.short.gy/HPremier3
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://i.imgur.com/PD1qeRO.jpg" group-title="Sports", USA_NetWork-FHD
-https://7pal.short.gy/usanetwork
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="Sports", NowSports_PremierLeague1-FHD
-https://7pal.short.gy/nowhkp1
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.2.hk" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="Sports", NowSports_PremierLeague2-FHD
-https://7pal.short.gy/nowhkp2
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.3.hk" tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png" group-title="Sports", NowSports_PremierLeague3-FHD
-https://7pal.short.gy/nowhkp3
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="" group-title="Sports", SkySport8-PremierLeague_NZ-FHD
-https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",Canal+ Foot UHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=388877&extension=ts&play_token=QsJ23W8f89&sn2=
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-fr-canal-420.png" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣",Canal+ UHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=141666&extension=ts&play_token=jgkYewj4kc&sn2=
 #EXTINF:-1 group-title="🔥📺 4K 🇺 🇭 🇩⚽📣" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州⁴ᴷ
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="🔥📺 4K 🇺 🇭 🇩⚽📣", Nature⁴ᴷ
@@ -935,13 +929,13 @@ https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/in
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/330px-MBC_Drama_Plus_TV_Channel_Logo.png",MBC+ Drama🇦🇪
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC🇺🇸
-http://str1.cvtv.xyz/NBC?token=live
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61387&extension=ts&play_token=Tl9MpGzhEz&sn2=
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS🇺🇸
-http://str1.cvtv.xyz/CBS?token=live
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61465&extension=ts&play_token=JvDex2QUYX&sn2=
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC🇺🇸
-http://str1.cvtv.xyz/ABC?token=live
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61430&extension=ts&play_token=hYEPk43PWu&sn2=
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX🇺🇸
-http://str1.cvtv.xyz/FOX?token=live
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61403&extension=ts&play_token=xhDFDIaqFh&sn2=
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-1🇨🇳
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CCTV-2🇨🇳
@@ -1223,6 +1217,8 @@ https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cohd1.flv
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@taohd1.flv
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Chất
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chathd1.flv
+#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Giàng A Chuối
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cachuoihd1.flv
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://m.media-amazon.com/images/I/41sM2dvFSRL.png",咪咕综合 Total
 http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1tyzh
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://pp.myapp.com/ma_icon/0/icon_10939789_1706773671/256",咪咕足球 Sport
@@ -1236,8 +1232,8 @@ https://s.id/peacockepl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="📣🔴Livestream📌♾💟" , La Liga Premier | Paramount+
-https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
+#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61368&extension=ts&play_token=OTGHDYA41S&sn2=
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/04/la-chaine-tv-canal-plus-premiere-league.png",Canal + Premier League
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=295371&extension=ts&play_token=fbUXsQ2hnO&sn2=
 
@@ -1249,20 +1245,17 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHh_Kff4-kzcuh6nNJ_LLJ8/ts
 https://webudit.webhd.ru/lb/premium123/index.m3u8
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 2_🇲🇾 STL
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC8ttQfzFCmEeV7vhxqIaN4/ts
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium124/index.m3u8
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 3_🇲🇾 STL
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJ2F63ZpL79Bnr5OdgfzNQ/ts
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium125/index.m3u8
 https://iplogger.com/ASSP3
 #EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 4_🇲🇾 STL
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNnlQnFFSvZmEhAn2e47uTI/ts
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium126/index.m3u8
@@ -1451,6 +1444,12 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
+#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-voo-sport-world-1-799.png",VOO Sport World 1🇧🇪
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=42370&extension=ts&play_token=lRUDjArfCJ&sn2=
+#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-voo-sport-world-2-800.png",VOO Sport World 2🇧🇪
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=59833&extension=ts&play_token=gZDdXJ4OFZ&sn2=
+#EXTINF:-1 group-title="⚽ SPORT EUROPE 🇪🇺" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-voo-sport-world-3-801.png",VOO Sport World 3🇧🇪
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=390410&extension=ts&play_token=T2BOniMZo2&sn2=
 
 
 
