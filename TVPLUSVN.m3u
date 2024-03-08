@@ -330,16 +330,10 @@ http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/7231/index.m3u8
 http://66.160.192.241/cineboxcinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GOLDEN-plus" tvg-logo="https://www.tvplusgratis.com/imge/goldenplus.png"  group-title="🎬| Phim 😜📣",GOLDEN PLUS en Vivo🇧🇷
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sony_Crackle_Logo.png/revision/latest?cb=20190917114804" group-title="🎬| Phim 😜📣",Crackle
-http://crackle-xumo.amagi.tv/playlistX432p.m3u8
 #EXTINF:-1 tvg-logo="https://iplogger.com/hallmarklog0" group-title="🎬| Phim 😜📣",Hallmark Movies & Mysteries 🇺🇸
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 tvg-logo="https://tbivision.com/files/2017/03/paramount-channel.png" group-title="🎬| Phim 😜📣",PARAMOUNT CHANNEL
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUPE_NjPQjwkobVIbmsqf5eP9HHEHDsir1-hKJ_=s900-c-k-c0x00ffffff-no-rj" group-title="🎬| Phim 😜📣",My time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/70a59ba856a9f1f5c8734ca43c227d5eea334fe16d83daf73d2c062dd1e44513.png" group-title="🎬| Phim 😜📣",FilmRise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHOfC7AwxV34iuBNUN0f77dbqHvsQ8l2l7Q&usqp=CAU" group-title="🎬| Phim 😜📣",Rakuten Action Movies
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="moviebox" group-title="🎬| Phim 😜📣" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_box_mn.png",Movie box
@@ -379,8 +373,6 @@ https://xplore-roku.amagi.tv/playlist1080-p.m3u8
 https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊台.png" group-title="🌿 Lifestyle ⭐️🤕",亞洲旅遊台 Asia Travel
 http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-#EXTINF:0 group-title="🌿 Lifestyle ⭐️🤕" logo="https://images4.imagebam.com/71/bf/96/MEFIXCS_o.png", Nat Geo People
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/45
 #EXTINF:0 tvg-id="outdoorfhd" group-title="🌿 Lifestyle ⭐️🤕" logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
 https://wintv.fun/360/216/index.m3u8
 #EXTINF:-1 group-title="🌿 Lifestyle ⭐️🤕" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth FHD
@@ -870,6 +862,7 @@ http://175.178.236.58:8088/china/ysp.php?ch=cctv15
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://i.imgur.com/FeFMOxH.png", MTV HD
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:BF:8F:D1&stream=44055&extension=ts&play_token=bnCXuxzgjM&sn2=
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/69/hd/dvr-${start}-${end}.m3u8", Music Box HD
+https://wintv.fun/360/289/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://i.imgur.com/KWg9F4c.png", VIVA HD
@@ -1031,7 +1024,7 @@ http://fpt.vthanhtivi.pw/animax/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd"  group-title="👶| Thiếu nhi" tvg-logo="https://i.imgur.com/OLeTUpu.png",Cartoon Network_HD
 http://fpt.vthanhtivi.pw/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="Kkidshd" group-title="👶| Thiếu nhi" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS [Thiếu nhi]
-http://fpt.vthanhtivi.pw/kkids/index.m3u8
+https://vcis.nekocdn.xyz/kkids/index.m3u8
 #EXTINF:-1 group-title="👶| Thiếu nhi" tvg-id="zoomoo.id" tvg-logo="https://i.imgur.com/ciTJrnl.png",Zoo Moo Asia
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="dreamworks" tvg-name="Dreamwork_HD" group-title="👶| Thiếu nhi" tvg-logo="https://i.imgur.com/zE5oU1T.png",Dreamwork_HD
@@ -1316,6 +1309,26 @@ http://gg.gg/TRUESPORT3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/9e/Sony_Sports_Ten_1_2022.png/revision/latest?cb=20221211181900" group-title="👑 SPORT ASEAN🌏🔥",Sony Sports Ten 1 HD_🇮🇳
+http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/55284.m3u8
+#EXTINF:1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="👑 SPORT ASEAN🌏🔥",Sony Sports Ten 2 HD_🇮🇳 DFB
+http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/55282.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/All-logos4.gif" group-title="👑 SPORT ASEAN🌏🔥",Sony Sports Ten 3 HD_🇮🇳
+http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/55281.m3u8
+#EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-star-sports-1-226.png" group-title="👑 SPORT ASEAN🌏🔥",Star Sports 1 HD_🇮🇳
+http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/55273.m3u8
+#EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-star-sports-2-227.png" group-title="👑 SPORT ASEAN🌏🔥",Star Sports 2 HD_🇮🇳
+http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/55272.m3u8
+#EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-star-sports-3-228.png" group-title="👑 SPORT ASEAN🌏🔥",Star Sports 31 HD_🇮🇳
+http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/55271.m3u8
+#EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-star-sports-select-1-230.png" group-title="👑 SPORT ASEAN🌏🔥",Star Sports Select 1 HD_🇮🇳
+http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/55270.m3u8
+#EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-star-sports-select-2-231.png" group-title="👑 SPORT ASEAN🌏🔥",Star Sports Select 2 HD_🇮🇳
+http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/55269.m3u8
+
+
+
+
 
 
 ---------------------------------------SPORT EUROPE----------------------------------------
