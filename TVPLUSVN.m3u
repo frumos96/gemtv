@@ -317,6 +317,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B
 #EXTINF:-1 tvg-id="foxlifehd.in" tvg-logo="https://tinyurl.com/FOXLIFEINIMG" group-title="🎬😜 Phim 🔍📣",FOX LIFE HD🇮🇳
 http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://line.lion-ott.com:80/abcd1234/abcd1234/281644
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" group-title="🎬😜 Phim 🔍📣",&FLIX HD🇮🇳
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155990&extension=ts
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png" group-title="🚩🚩🚩Foreign🚩🚩🚩" , Pluto TV Fitness🇪🇸
 https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
 
@@ -334,15 +338,8 @@ https://s.id/TVNKR
 https://s.id/TVNMOVIE
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-logo="http://gg.gg/131flp", THRILL ID
 https://code.vthanhtivi.pw/channel/VE96R09XUno5NXRwUGp5SktyL1dyNlRRL05tdU5PeVpOUWpBQTdwM3l1dFB6M2xEb1lHbkZZK0U3Vk13Uy9TYk0wbXhoNEZIckhVRHJpN25rOTFQckE9PQ==/master.m3u8
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
-https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kr6k6TR/one.png" group-title="🎬😜 Phim 🔍📣",SONY ONE
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
-https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+http://iptvtree.net:8080/F14995/a84c0963/165077
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🎬😜 Phim 🔍📣",ViuTV🇭🇰
 http://str1.cvtv.xyz/Viu?token=live
 http://cdn.hkdtmb.com/hls/99/index.m3u8
@@ -384,6 +381,7 @@ http://gg.gg/AFNMYHD
 #EXTINF:0 tvg-id="discoveryhd" group-title="🌿⭐️ Lifestyle ⭐️🔍" logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://viettel.nekocdn.xyz/Discovery/index.m3u8
+http://s4.nihontv.net:21585/discovery/index.m3u8
 #EXTINF:-1 group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", DiscoveryHD TV24
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
