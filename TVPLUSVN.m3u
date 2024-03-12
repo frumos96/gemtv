@@ -12,7 +12,7 @@ https://s.id/VTV1360
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 WEB
-https://qnetlive.nethubtv.vn/live/vtv1.smil/chunklist_b2128000_sleng.m3u8
+https://vtc301220.cdn.vnns.io/VTV1HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦 VTV🍬" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 LAOTV
 http://str1.cvtv.xyz/VTV1HD?token=live
 https://ctrl.laotv.la/live/VTV1HD/index.m3u8
@@ -169,21 +169,29 @@ https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/01.m3u8
 #EXTINF:-1 tvg-name="SPOTV" group-title="📦 VTV🍬" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
 http://183.182.100.241:1938/threstr2/spotv/playlist.m3u8
 #https://s.id/spotv
 #EXTINF:-1 tvg-name="SPOTV2" group-title="📦 VTV🍬" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
 http://183.182.100.241:1938/threstr2/spotv2/playlist.m3u8
 #https://s.id/spo2tv
 #EXTINF:-1 tvg-id="btv5hd" group-title="📦 VTV🍬" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onaction1.jpg",BTV5 - ON Sports Action
 https://wintv.fun/360/2380/index.m3u8
-#EXTINF:0 tvg-id="sctv4hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4ˢᵛ² - Giải trí
+#EXTINF:0 tvg-id="sctv4hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 FHD² 
+https://live.pipitv.top/stream/channelid/1725690571
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s.id/SCTV4HD
 https://iplogger.com/SCTV4
 #EXTINF:-1 group-title="📦 VTV🍬" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
 https://wintv.fun/360/232/index.m3u8
-#EXTINF:0 tvg-id="sctv16hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HDˢᵛ²
+#EXTINF:0 tvg-id="sctv16hd" group-title="📦 VTV🍬" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 FHD²
+https://live.pipitv.top/stream/channelid/201405821
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
