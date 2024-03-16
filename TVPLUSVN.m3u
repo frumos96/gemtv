@@ -183,7 +183,6 @@ http://183.182.100.241:1938/threstr2/spotv2/playlist.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onaction1.jpg",BTV5 - ON Sports Action
 https://wintv.fun/360/2380/index.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 FHD² 
-https://live.pipitv.top/stream/channelid/1725690571
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s.id/SCTV4HD
@@ -191,7 +190,6 @@ https://iplogger.com/SCTV4
 #EXTINF:-1 group-title="📦🍬 VTV💯🔔" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
 https://wintv.fun/360/232/index.m3u8
 #EXTINF:0 tvg-id="sctv16hd" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 FHD²
-https://live.pipitv.top/stream/channelid/201405821
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
