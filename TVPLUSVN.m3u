@@ -268,6 +268,7 @@ http://viettel.nekocdn.xyz/AXN/index.m3u8
 https://coca.dl.dropboxusercontent.com/s/pywyfr2s5rd54afsseyyw/ 																																	 ㅤ?axn      										 													 &rlkey=bqbee9gyf2cwuuk4zaqcjurgq#EXTVLCOPT:http-referer=http://sctvonline.vn
 #https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
+http://iptvzin.asuscomm.com:9876/rtp/232.84.2.51:10516
 https://s.id/Warnervn
 #EXTINF:0 tvg-id="kix" group-title="🎬😜 Phim 🔍📣" logo="https://i.imgur.com/Lod13YD.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -324,8 +325,7 @@ https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
 
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinema World MPD
-https://s.id/cwdvn
-http://gg.gg/cinemaworld8M
+http://iptvzin.asuscomm.com:9876/rtp/232.84.2.172:10840
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
