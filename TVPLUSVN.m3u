@@ -178,14 +178,14 @@ https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
-http://183.182.100.241:1938/threstr2/spotv/playlist.m3u8
-#https://s.id/spotv
+#EXTINF:-1 tvg-id="spotv1" group-title="📦🍬 VTV💯🔔" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV ASIA
+http://202.150.161.68/spotv1/index.m3u8
+#EXTINF:-1 tvg-id="spotv2" group-title="📦🍬 VTV💯🔔" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 ASIA
+http://202.150.161.68/spotv2/index.m3u8
 #EXTINF:-1 tvg-name="SPOTV2" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
-http://183.182.100.241:1938/threstr2/spotv2/playlist.m3u8
-#https://s.id/spo2tv
 #EXTINF:-1 tvg-id="btv5hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onaction1.jpg",BTV5 - ON Sports Action
 https://wintv.fun/360/2380/index.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 FHD² 
@@ -217,30 +217,12 @@ https://iplogger.com/xplusrelax
 http://b4tv.live/b4tv/b4tv/84.m3u8
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4boxplus.png", B4BOX PLUS (Kênh phim trực tiếp song song)
 http://b4tv.live/b4tv/b4tv/120.m3u8
-#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://b4tv.live/logob4select.png", B4SELECT (Kênh chương trình theo yêu cầu)
-http://b4tv.live/b4tv/b4tv/168.m3u8
+#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4men.png", B4MEN 
+http://b4tv.live/b4tv/b4tv/1.m3u8
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.47/logotubevent.png", B4TUBEVENT 1
 http://b4tv.live/b4tv/b4tv/55.m3u8
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.47/logotubevent.png", B4TUBEVENT 2
 http://b4tv.live/b4tv/b4tv/56.m3u8
-#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT+ 1
-http://b4tv.live/b4tv/b4tv/19.m3u8
-#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT+ 2
-http://b4tv.live/b4tv/b4tv/20.m3u8
-#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT+ 3
-http://b4tv.live/b4tv/b4tv/21.m3u8
-#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4men.png", B4MEN 
-http://b4tv.live/b4tv/b4tv/1.m3u8
-#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.471/b4event.png", B4EVENT1 
-http://b4tv.live/b4tv/b4tv/3.m3u8
-#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4event.png", B4EVENT2 
-http://b4tv.live/b4tv/b4tv/47.m3u8
-#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4event.png", B4EVENT3 
-http://b4tv.live/b4tv/b4tv/48.m3u8
-#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4connect.png", B4CONNECT1
-http://b4tv.live/b4tv/b4tv/86.m3u8
-#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="http://103.172.78.47/b4connect.png", B4CONNECT2
-http://b4tv.live/b4tv/b4tv/76.m3u8
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhchannel_thumb.png", VThanh Channel
 http://viettel.nekocdn.xyz/vthanhchannel/mpegts
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio
@@ -412,12 +394,11 @@ http://viettel.nekocdn.xyz/BBCEarth/index.m3u8
 https://coca.dl.dropboxusercontent.com/s/p7rywcf2mhbv69ajjcq1w/ 																																	 ㅤ?bbcearth      										 													 &rlkey=xbc6bol3pkm3ymcgydjhnmebg
 #https://s.id/BBCEarthMYVN
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle MPD
-http://gg.gg/BBCLifeStyleMYHD
+http://iptvquan.duckdns.org:9876/udp/225.1.2.52:30120
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
 https://coca.dl.dropboxusercontent.com/s/2vs4t8cqfy1tuu9ujy3lq/?bbclifestyle&rlkey=iy79w78so3t0qfqfradbovwbo  
-#https://s.id/BBCLifeStyleMYVN
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿⭐️ Lifestyle ⭐️🔍" logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
 http://tinyurl.com/HGTV360
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿⭐️ Lifestyle ⭐️🔍" logo="http://images.zaltv.club/logo/da-vinc.png", Da Vinci HD
