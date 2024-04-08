@@ -130,14 +130,12 @@ https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u
 http://code.vthanhtivi.pw/ytlive/get2.php?id=TructiepXSMB
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",Vie Giải trí FHD 
 https://tthd.site/360/180/index.m3u8
-
 http://str1.cvtv.xyz/vie?token=live
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8", ON FUBOL HD B4
 http://gg.gg/HaNoiIPTV-ON_Sports_HD
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/12/q9t4h7r2_vtvcab3aff1eee1e3d3fe4b30ff5963e00b1305_296_168.webp" group-title="📦🍬 VTV💯🔔" ,ON SPORTS HD VIEON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://is.am/5mns/vtvcab3
-#https://api.wintv.me/vtvcab3/index.m3u8
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies 360HD 
 https://s.id/ONMOVIES
 http://gg.gg/ONMOVIES4M
@@ -242,13 +240,14 @@ http://vthanhtivi.pw/vthanhevent2/mpegts
 #EXTINF:-1 tvg-id="999" tvg-name="測試02" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="🎬😜 Phim 🔍📣", PLAYY 영화
 https://iplogger.com/playykr
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINEK FHD
-http://is.am/5n86
+http://is.am/5ngx
 #EXTINF:0 tvg-id="kaction" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTIONK FHD
-http://is.am/5n87
+http://is.am/5ngp
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬😜 Phim 🔍📣" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://s.id/HTVCPhim360
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN FHD
-http://viettel.nekocdn.xyz/AXN/index.m3u8
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.121:10660
+http://iptvquan.duckdns.org:9876/udp/225.1.4.9:30120
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD MPD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -268,9 +267,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
 https://coca.dl.dropboxusercontent.com/s/bk6el8frz1udohx/
 #EXTINF:0 tvg-id="hbohd" group-title="🎬😜 Phim 🔍📣" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO FHD MY+
-http://viettel.nekocdn.xyz/HBO/index.m3u8
-#EXTINF:0 tvg-id="maxhd" group-title="🎬😜 Phim 🔍📣" logo="https://i.imgur.com/F0N0TmU.jpg", max
-http://viettel.nekocdn.xyz/max/index.m3u8
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.101:10648
+#EXTINF:0 tvg-id="maxhd" group-title="🎬😜 Phim 🔍📣" logo="https://i.imgur.com/F0N0TmU.jpg", Cinemax
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.117:10654
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Little_Saigon_TV_logo.svg/254px-Little_Saigon_TV_logo.svg.png", Little Saigon TV
 https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-logo="https://hqth.me/ibclogo", IBC VietMy
@@ -973,25 +972,23 @@ https://tiemnhazunn.click/japantv/?id=55
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="http://livean.yhvserve.com:9083/query/s/iF6iKCiap5agDJYZhyVjwg==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Cinema 🇯🇵 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #EXTINF:0 group-title="🚩🚩🚩Foreign🚩🚩🚩" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/330px-KBS_2_logo.svg.png", KBS2_🇰🇷
-https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1708418306&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDg0MTgzMDZ9fX1dfQ__&Signature=Kowjxj5n9zLl1yTbAOkgh9V688mFFucsMyGthvzMVla2Y9kV~M0sK3jTiOPvkXI6OKJz8GmbGpAWqgeXXTuj~b8HBuZqJhmFLwb78wcwBmeTe98OAk6gG9Tcjs4kdb1Lb6vkP1Z3~0BTthKzoHez-eE49Wb6dcZG1iR~qaAYh~b9PBVAPxAEywXU26JRadNMFMkfpID~Pis34-ElkGUUOqNTcj~fFT2~aCLOgY~vxJc8DSJkAXOIrodXBv-5RaCM~XjP5oL2z5cnSMgGjW5FOSdfBZOmfV70yKm3gh1grGbo9yO7W65SRAhnvIw1QD~-hdmkL0G5YGqBky1FlB~0ZA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 #EXTINF:0 group-title="🚩🚩🚩Foreign🚩🚩🚩" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/2560px-KBS_DRAMA.svg.png", KBSDRAMA_🇰🇷
 http://mytv.dothome.co.kr/ch/catv/2.php/.m3u8
 #EXTINF:0 group-title="🚩🚩🚩Foreign🚩🚩🚩" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/300px-Munhwa_Broadcasting_Company.svg.png",MBC_🇰🇷
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:0 group-title="🚩🚩🚩Foreign🚩🚩🚩" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS_🇰🇷 
-http://jp.vthanhnetwork.com/SBS/index.m3u8
+http://vnpt.nekocdn.xyz:8080/SBS/index.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD AIS_🇹🇭
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003-avc1_5000000=5-mp4a_64000_tha=6.m3u8
-#EXTINF:-1 tvg-id="Channel3.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD_🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://www.livedoomovies.com:4432/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="Channel3.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD LAO_🇹🇭
+https://ctrl.laotv.la/live/3HD/index.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-59098.jpg",CH5 HD AIS_🇹🇭
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/HLS/V0007-avc1_5000000=3-mp4a_64000_tha=7.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-59098.jpg",CH5 HD LAO_🇹🇭
 https://ctrl.laotv.la/live/Thai5/index.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png", CH7 HD_🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://str1.cvtv.xyz/CH7?token=live
+https://ctrl.laotv.la/live/Thai7/index.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"   tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",CH7 HD AIS_🇹🇭
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018-avc1_5000000=7-mp4a_64000_tha=2.m3u8
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://i.imgur.com/9apyiI0.png", ONE HD_🇹🇭
