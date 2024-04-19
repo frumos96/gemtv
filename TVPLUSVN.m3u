@@ -237,6 +237,7 @@ http://iptvquan.duckdns.org:9876/udp/225.1.4.9:30120
 https://coca.dl.dropboxusercontent.com/s/pywyfr2s5rd54afsseyyw/ 																																	 ㅤ?axn      										 													 &rlkey=bqbee9gyf2cwuuk4zaqcjurgq#EXTVLCOPT:http-referer=http://sctvonline.vn
 #https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
+http://iptvzin.asuscomm.com:9876/rtp/232.84.2.51:10516
 http://iptvquan.duckdns.org:9876/udp/225.1.1.139:30120
 https://s.id/Warnervn
 #EXTINF:0 tvg-id="kix" group-title="🎬😜 Phim 🔍📣" logo="https://i.imgur.com/Lod13YD.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
@@ -272,6 +273,7 @@ https://tthd.site/360/159/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?|Referer=https://sctvonline.vn/
 https://tthd.site/360/160/index.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="🎬😜 Phim 🔍📣" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+http://iptvzin.asuscomm.com:9876/rtp/232.84.1.77:8436
 https://tthd.site/360/239/index.m3u8
 #EXTINF:0 tvg-id="inthebox" group-title="🎬😜 Phim 🔍📣" logo="https://cdn.hqth.me/logo/thumbs/189.png",InTheBox
 https://tthd.site/360/235/index.m3u8
@@ -292,7 +294,7 @@ http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155990&extensi
 
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinema World MPD
-http://14.226.177.254:4025/rtp/232.84.2.172:10840
+http://iptvzin.asuscomm.com:9876/rtp/232.84.2.172:10840
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
@@ -347,13 +349,14 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #EXTINF:0 tvg-id="afnhd" group-title="🌿⭐️ Lifestyle ⭐️🔍" logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
+http://iptvzin.asuscomm.com:9876/rtp/232.84.1.115:10236
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://coca.dl.dropboxusercontent.com/s/8mmg3p2r9e01mo8/ 
 https://tthd.site/360/215/index.m3u8
 #EXTINF:0 tvg-id="discoveryhd" group-title="🌿⭐️ Lifestyle ⭐️🔍" logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://viettel.nekocdn.xyz/Discovery/index.m3u8
+http://iptvzin.asuscomm.com:9876/rtp/232.84.2.53:10528
 #EXTINF:-1 group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", DiscoveryHD TV24
 http://s4.nihontv.net:21585/discovery/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate 
@@ -361,6 +364,7 @@ http://s4.nihontv.net:21585/discovery/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
 https://coca.dl.dropboxusercontent.com/s/3dfnjxi7y2o6a42w1dtjd/ 																																	 ㅤ?discovery      										 													 &rlkey=g4r88ck9kaz8y30zje9x88og7#EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:-1 group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia FHD
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.219:11236
 http://iptvquan.duckdns.org:9876/udp/225.1.2.223:30120
 #EXTINF:0 group-title="🌿⭐️ Lifestyle ⭐️🔍" logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png?fit=960%2C540&ssl=1", AMAGI
 https://xplore-roku.amagi.tv/playlist1080-p.m3u8
@@ -369,17 +373,19 @@ https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊台.png" group-title="🌿⭐️ Lifestyle ⭐️🔍",亞洲旅遊台 Asia Travel
 http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 #EXTINF:0 tvg-id="outdoorfhd" group-title="🌿⭐️ Lifestyle ⭐️🔍" logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
+http://iptvzin.asuscomm.com:9876/rtp/232.84.1.107:10218
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://coca.dl.dropboxusercontent.com/s/b1na5fyhm1ix1w1/ 
 https://tthd.site/360/216/index.m3u8
 #EXTINF:-1 group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth FHD
-http://viettel.nekocdn.xyz/BBCEarth/index.m3u8
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.226:11278
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
 https://coca.dl.dropboxusercontent.com/s/p7rywcf2mhbv69ajjcq1w/ 																																	 ㅤ?bbcearth      										 													 &rlkey=xbc6bol3pkm3ymcgydjhnmebg
 #https://s.id/BBCEarthMYVN
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle MPD
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.225:11272
 http://iptvquan.duckdns.org:9876/udp/225.1.2.52:30120
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
