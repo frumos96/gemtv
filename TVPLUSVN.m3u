@@ -121,15 +121,15 @@ https://tthd.site/360/195/index.m3u8
 https://live.canthotv.vn/live/tv_web/chunklist.m3u8
 #EXTINF:0 tvg-id="vinhlong1hd"type="stream" channelId="-1" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/103.png" tvg-chno="41" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtNzIwcCIsImV4cCI6MTYzMjA1NzkzOX0.ZjZ3z2_rhWMYzMCmJp3paek9drRsC67UM4uJupr9bVs-/thvl1-720p/chunks_dvr_range-${start}-900.m3u8", Vĩnh Long 1 HD SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://27.67.64.83:18080//252.m3u8?AdaptiveType=HLS&SessionID=6c2b9133-3ed6-4220-918d-e5b1862b32f9&MinBw=0&MaxBw=2000000
-https://tthd.site/360/25/index.m3u8
-#EXTINF:0 tvg-id="vinhlong2hd"type="stream" channelId="-1" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/104.png" tvg-chno="42" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 2 HD 360
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://27.67.64.73:18080//249.m3u8?AdaptiveType=HLS&SessionID=184a41fe-0e86-48db-a4ef-1c1e003cff82&MinBw=0&MaxBw=2000000
-https://tthd.site/360/26/index.m3u8
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8https://tthd.site/360/25/index.m3u8
+#EXTINF:0 tvg-id="vinhlong2hd"type="stream" channelId="-1" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/104.png" tvg-chno="42" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Vĩnh Long 2 HD 360
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8
+http://27.67.64.73:18080//249.m3u8?AdaptiveType=HLS&SessionID=184a41fe-0e86-48db-a4ef-1c1e003cff82&MinBw=0&MaxBw=2000000
+https://tthd.site/360/26/index.m3u8
 #EXTINF:-1 tvg-id="haiphong" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/145.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/407/auto/dvr-${start}-${end}.m3u8", THP HD | TH Hải Phòng
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 https://1011337676.vnns.net/CDN-FPT02/HAIPHONG-SD-ABR/playlist.m3u8
@@ -223,6 +223,7 @@ http://is.am/5ngx
 #EXTINF:0 tvg-id="kaction" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTIONK FHD
 http://is.am/5ngp
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬😜 Phim 🔍📣" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
+https://1011337676.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 https://tthd.site/360/15/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN FHD
 http://iptvzin.asuscomm.com:9876/rtp/232.84.3.121:10660
@@ -242,6 +243,7 @@ https://s.id/Warnervn
 https://coca.dl.dropboxusercontent.com/s/bk6el8frz1udohx/ 
 #EXTINF:0 tvg-id="hbohd" group-title="🎬😜 Phim 🔍📣" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO FHD MY+
 http://iptvzin.asuscomm.com:9876/rtp/232.84.3.101:10648
+http://s4.nihontv.net:21585/hbo/index.m3u8
 #EXTINF:0 tvg-id="maxhd" group-title="🎬😜 Phim 🔍📣" logo="https://i.imgur.com/F0N0TmU.jpg", Cinemax
 http://iptvzin.asuscomm.com:9876/rtp/232.84.3.117:10654
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Little_Saigon_TV_logo.svg/254px-Little_Saigon_TV_logo.svg.png", Little Saigon TV
