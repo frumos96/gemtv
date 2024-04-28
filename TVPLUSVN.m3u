@@ -1341,6 +1341,7 @@ http://muka03.wanicelife.com:8880/3ca7043n04/asfde32e2/1713
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 1 HD🇮🇱
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:00:02&stream=213392&extension=ts&play_token=R4P9QnxUjm&sn2=062014N014671
 http://2615a5d9.edmonst.net/iptv/GGP3ZAYPXGWHWL/12249/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
@@ -1367,13 +1368,14 @@ http://muka03.wanicelife.com:8880/3ca7043n04/asfde32e2/61758
 http://2615a5d9.edmonst.net/iptv/GGP3ZAYPXGWHWL/12253/index.m3u8
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:BF:8F:D1&stream=213390&extension=ts&play_token=ZyNOx7f75N&sn2=
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-live-1027.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5 Live HD🇮🇱
-
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:00:02&stream=213389&extension=ts&play_token=PcphEdGfTR&sn2=062014N014671
 http://2615a5d9.edmonst.net/iptv/GGP3ZAYPXGWHWL/12254/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-stars-1828.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5 Stars HD🇮🇱
 http://muka03.wanicelife.com:8880/3ca7043n04/asfde32e2/61793
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:00:02&stream=213387&extension=ts&play_token=dAFqx8qTzm&sn2=062014N014671
 http://2615a5d9.edmonst.net/iptv/GGP3ZAYPXGWHWL/12255/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5+ HD🇮🇱
-
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:00:02&stream=213388&extension=ts&play_token=dF3Jwc1pD5&sn2=062014N014671
 http://2615a5d9.edmonst.net/iptv/GGP3ZAYPXGWHWL/12256/index.m3u8
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="👑 SPORT ASEAN🌏🔥", CCTV5 HD_🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -1505,11 +1507,10 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:b9:f0:90&stream=82270&extension
 #EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-vamos-1601.png",#Vamos 🇪🇸
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:b9:f0:90&stream=55527&extension=ts&play_token=SCVpPUolPJ&sn2=
 #EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",⚽ Movistar  LIGA CAMPEONES HD 720p
-http://cartatv.es:8080/Bernardo/123456789/399377
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:00:02&stream=55577&extension=ts&play_token=TalZniWzqE&sn2=062014N014671
 #EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png",DEPORTES: ⚽ M+  LIGA CAMPEONES 2 HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:00:02&stream=480414&extension=ts&play_token=JFVU2zMvax&sn2=062014N014671
 http://cartatv.es:8080/Bernardo/123456789/399379
-#EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DEPORTES: M+  MULTIDEPORTE
-http://cartatv.es:8080/Bernardo/123456789/93358
 #EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",DEPORTES: M+ DEPORTES HD 720P
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:b9:f0:90&stream=55586&extension=ts&play_token=qoeujhjBSV&sn2=
 http://cartatv.es:8080/Bernardo/123456789/93142
