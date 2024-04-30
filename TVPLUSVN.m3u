@@ -304,7 +304,6 @@ http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/71059.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
-https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1347,13 +1346,7 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #https://s.id/peacockepl
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="📣🔴Livestream📌♾💟",PREMIER|LEAGUE_peacok_MPD(OTT.NAVIGATOR)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="📣🔴Livestream📌♾💟",PREMIER~LEAGUE_pluto
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="📣🔴Livestream📌♾💟",Paramount+ Pluto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61368&extension=ts&play_token=OTGHDYA41S&sn2=
