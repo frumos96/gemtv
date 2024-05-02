@@ -147,7 +147,7 @@ http://hoatv001.ddns.net:9981/stream/mux/bedb37103fc67d10e2379e5481886491?
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ONFUBOLNews B4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://s.id/ONFNEWS
-http://m3u.at/Khichtv-cab18?/index.m3u8
+#http://m3u.at/Khichtv-cab18?/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",Vie Giải trí FHD 
 https://dethich.pw/360/180/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies 360HD 
