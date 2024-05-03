@@ -301,23 +301,13 @@ http://hanzoitc.drayddns.com:35051/rtp/232.84.2.172:10840
 #KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
 https://coca.dl.dropboxusercontent.com/s/4wvpwzef6r5t9vewse188/ 				
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="🎬😜 Phim 🔍📣",TVN_ASIA_🇰🇷
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
-https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/71055.m3u8
 #EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="🎬😜 Phim 🔍📣",TVN_MOVIES_🇰🇷
 http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/71059.m3u8
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-logo="http://gg.gg/131flp", THRILL ID
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kr6k6TR/one.png" group-title="🎬😜 Phim 🔍📣",SONY ONE
-http://iptvtree.net:8080/F14995/a84c0963/165077
+http://muka03.wanicelife.com:8880/3ca7043n04/asfde32e2/71053
 #EXTINF:-1 tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Boo-Play.jpg" group-title="🎬😜 Phim 🔍📣",ASTRO BOO
 http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/1697.m3u8
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🎬😜 Phim 🔍📣",ViuTV🇭🇰
@@ -1330,7 +1320,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=295371&extensio
 
 ---------------------------------------SPORT ASEAN----------------------------------------
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1_🇲🇾 STL
-http://muka03.wanicelife.com:8880/3ca7043n04/asfde32e2/59220
+http://muka03.wanicelife.com:8880/3ca7043n04/asfde32e2/1722
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHh_Kff4-kzcuh6nNJ_LLJ8/ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
