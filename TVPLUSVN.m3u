@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml" m3uautoload=2
 #EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml" refresh="3600" m3uautoload=3  
 #EXTM3U url-tvg="https://epg.mammothtv.my.id/local/epg.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/arabiapremiumeng.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/india.xml,https://www.bevy.be/bevyfiles/poland.xml,https://www.bevy.be/bevyfiles/russia.xml,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml" refresh="3600" m3uautoload=4  
-#PLAYLISTINF:frumos96 version="v8"  url="https://s.id/khichtivi"  url="https://calemtv.000webhostapp.com/cltv.txt" url="http://khanggtivi.xyz/" url="http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG" url="https://www.thesportsdb.com/" url="https://www.sporteventz.com/en/"url="https://www.livesoccertv.com/" url="https://sport-tv-guide.live/" url="https://www.liveaugoal.com/" 
+#PLAYLISTINF:frumos96 version="v8"  url="http://gg.gg/ffshze" url="https://s.id/khichtivi"  url="https://calemtv.000webhostapp.com/cltv.txt" url="http://khanggtivi.xyz/" url="http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG" url="https://www.thesportsdb.com/" url="https://www.sporteventz.com/en/"url="https://www.livesoccertv.com/" url="https://sport-tv-guide.live/" url="https://www.liveaugoal.com/" 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 360
@@ -227,7 +227,6 @@ http://is.am/5ngx
 http://is.am/5ngp
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬😜 Phim 🔍📣" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 http://m3u.at/htvc-phim-hd?@/playlist.m3u8
-https://1011337676.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 https://dethich.pw/360/15/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN FHD
 http://113.162.44.19:8889/rtp/232.84.3.121:10660
