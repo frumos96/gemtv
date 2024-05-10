@@ -29,8 +29,6 @@ https://dethich.pw/360/4/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV3 LAOTV
-https://ctrl.laotv.la/live/VTV3/index.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://s4.nihontv.net:21585/vtv4/index.m3u8
@@ -990,26 +988,16 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 http://vnpt.nekocdn.xyz:8080/SBS/index.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD AIS_🇹🇭
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003-avc1_5000000=5-mp4a_64000_tha=6.m3u8
-#EXTINF:-1 tvg-id="Channel3.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD LAO_🇹🇭
-https://ctrl.laotv.la/live/3HD/index.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-59098.jpg",CH5 HD AIS_🇹🇭
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/HLS/V0007-avc1_5000000=3-mp4a_64000_tha=7.m3u8
-#EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-59098.jpg",CH5 HD LAO_🇹🇭
-https://ctrl.laotv.la/live/Thai5/index.m3u8
-#EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png", CH7 HD_🇹🇭
-https://ctrl.laotv.la/live/Thai7/index.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"   tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",CH7 HD AIS_🇹🇭
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018-avc1_5000000=7-mp4a_64000_tha=2.m3u8
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://i.imgur.com/9apyiI0.png", ONE HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ctrl.laotv.la/live/OneHD/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:-1 tvg-chno="28" tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://i.imgur.com/RSQLFiU.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CH 8_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ctrl.laotv.la/live/CH8/index.m3u8
-#EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/3bbe12fc-c38e-4746-9deb-30392fb3d5ef.png", True4U🇹🇭
-https://ctrl.laotv.la/live/True4U/index.m3u8
-#EXTINF: group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="http://glivehomecdn.s3.byteark.com/TV/CH-045.png", TRUE FILMHD1🇹🇭
-https://ctrl.laotv.la/live/TureFilm/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:-1 tvg-id="" group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🚩🚩🚩Foreign🚩🚩🚩" logo="https://cdn.hqth.me/logo/217.png", KBS World
@@ -1056,10 +1044,8 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 ---------------------------------------🔴| Livestream------------------------------
 #EXTINF:-1 tvg-id="ksport1hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png",SPORT1K🇻🇳 FHD
 http://is.am/5nvs
-https://ctrl.laotv.la/live/K+Sport1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://images.fptplay.net/media/channels/icon_channel_kpc_165655724357.png",SPORT2K🇻🇳 FHD
 http://is.am/5nvt
-https://ctrl.laotv.la/live/K+Sport2/index.m3u8
 #EXTINF:-1 group-title="👑 SPORT ASEAN🌏🔥" tvg-logo="http://kpluss.com.vn/wp-content/uploads/2018/05/Kplus_logo.png",K+1 ( Live )
 http://is.am/5nv4
 #EXTINF:-1 group-title="👑 SPORT ASEAN🌏🔥" tvg-logo="http://kpluss.com.vn/wp-content/uploads/2018/05/Kplus_logo.png",K+2 ( Live )
@@ -1422,41 +1408,31 @@ https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png" group-title="👑 SPORT ASEAN🌏🔥",True Premier League 1 HD LAO_🇹🇭 
-https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png" group-title="👑 SPORT ASEAN🌏🔥",True Premier League 2 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png" group-title="👑 SPORT ASEAN🌏🔥",True Premier League 2 HD LAO_🇹🇭 
-https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png" group-title="👑 SPORT ASEAN🌏🔥",True Premier League 3 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="👑 SPORT ASEAN🌏🔥", PPTV HD AIS_🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
 https://tinyurl.com/PPTVTHLAND
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="👑 SPORT ASEAN🌏🔥", PPTV HD LAO_🇹🇭
-https://ctrl.laotv.la/live/PPTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="👑 SPORT ASEAN🌏🔥",True Sport 1 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="👑 SPORT ASEAN🌏🔥",True Sport1 LAO_🇹🇭
-https://edge1.laotv.la/live/TrueSport6/index.m3u8
-http://gg.gg/TRUESPORT1
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="👑 SPORT ASEAN🌏🔥",True Sport 2 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="👑 SPORT ASEAN🌏🔥",True Sport 2 LAO_🇹🇭
-http://gg.gg/TRUESPORT2
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="👑 SPORT ASEAN🌏🔥",True Sport 3 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="👑 SPORT ASEAN🌏🔥",True Sport 3 LAO_🇹🇭
-http://gg.gg/TRUESPORT3
 #EXTINF:1 tvg-id="TrueSportHD4.th" tvg-logo="https://i.postimg.cc/8cWt32Fj/20220927-064449.png" group-title="👑 SPORT ASEAN🌏🔥", True Sport 4 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
