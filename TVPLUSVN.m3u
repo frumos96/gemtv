@@ -987,10 +987,13 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:0 group-title="🚩🚩🚩Foreign🚩🚩🚩" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS_🇰🇷 
 http://vnpt.nekocdn.xyz:8080/SBS/index.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD AIS_🇹🇭
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003-avc1_5000000=5-mp4a_64000_tha=6.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-59098.jpg",CH5 HD AIS_🇹🇭
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/HLS/V0007-avc1_5000000=3-mp4a_64000_tha=7.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"   tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",CH7 HD AIS_🇹🇭
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018-avc1_5000000=7-mp4a_64000_tha=2.m3u8
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://i.imgur.com/9apyiI0.png", ONE HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1419,7 +1422,6 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="👑 SPORT ASEAN🌏🔥", PPTV HD AIS_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-
 https://tinyurl.com/PPTVTHLAND
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="👑 SPORT ASEAN🌏🔥",True Sport 1 HD_🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
