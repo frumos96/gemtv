@@ -121,7 +121,7 @@ https://1011337676.vnns.net/CDN-FPT02/HAIPHONG-SD-ABR/playlist.m3u8
 https://dethich.pw/360/60/index.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png" catchup="append" catchup-days="2" catchup-source="https://live.thhp.vn/vod/index.m3u8?st=${start}000&et=${end}000&c=thpplus", THP+ HD | TH Hải Phòng
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
-
+#EXTINF:0 tvg-id="vtvcab1hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_22/1600760787759/55ff2c9812b2_640_360.png",VTVCab1 Vie Giai TRi FHD
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/12/q9t4h7r2_vtvcab3aff1eee1e3d3fe4b30ff5963e00b1305_296_168.webp" group-title="📦🍬 VTV💯🔔" ,ON SPORTS FHD 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -150,6 +150,7 @@ http://m3u.at/Khichtv-cab1-fh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://1.org.vn/vcab4
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", ON E Channel
+http://m3u.at/vtv14-echannl?index-m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8",ON Vie Dramas FHD
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?|Referer=https://sctvonline.vn/
