@@ -42,7 +42,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8?
 #EXTINF:0 tvg-id="vtv5tn" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên 360
 http://171.238.181.52:18080/308.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/5.png" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 FHD Viettel
-http://171.238.181.52:18080/194.m3u8
+https://tth.vn/VTV5
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8
@@ -299,6 +299,7 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34//71053
 #EXTINF:-1 tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Boo-Play.jpg" group-title="🎬😜 Phim 🔍📣",ASTRO BOO
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34//1697
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🎬😜 Phim 🔍📣",ViuTV🇭🇰
+https://sc2024.stream-link.org/live/4211315362.php?id=h534whs
 https://live.hkdvb.com/hls/live/99.m3u8?token=680446446348623
 #EXTINF:-1 tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="🎬😜 Phim 🔍📣",ViuTV Six🇭🇰
 https://live.hkdvb.com/hls/live/96.m3u8?token=680446446348623
@@ -1256,6 +1257,7 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="📣🔴Livestream📌♾💟",Paramount+ Pluto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/69239
 http://pal.alphatx.me:80/play/live.php?mac=00:1B:79:42:DD:FD&stream=45466&extension=ts&play_token=gZrEUoNLRE
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/04/la-chaine-tv-canal-plus-premiere-league.png",Canal + Premier League
 http://balancer.platinum-tv.com:8888/canal_premier_league/index.m3u8?token=45ff4343360b210439743894d691d6c3
