@@ -142,18 +142,22 @@ http://m3u.at/Khichtv-cab18?/index.m3u8
 http://m3u.at/vtvcab18-hd?-index.m3u8
 https://s.id/ONFNEWS
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",Vie Giải trí FHD 
+https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab1/index.m3u8
 http://m3u.at/vtvcab1
 http://m3u.at/Khichtv-cab1-fh
 #https://wintv.fun/360/180/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies 360HD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hoatv001.ddns.net:9981/stream/mux/641081654786df622d45dca41ed9991f?
+https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab4/index.m3u8
+#http://hoatv001.ddns.net:9981/stream/mux/641081654786df622d45dca41ed9991f?
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", ON E Channel
-http://hoatv001.ddns.net:9981/stream/mux/86fd37fb1be9ee5f195ae0b12bb7ff3c?
+https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab5/index.m3u8
+#http://hoatv001.ddns.net:9981/stream/mux/86fd37fb1be9ee5f195ae0b12bb7ff3c?
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8",ON Vie Dramas FHD
-http://hoatv001.ddns.net:9981/stream/mux/67e0620c54e062b6239b59e11e6fde06?
+https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab19/index.m3u8
+#http://hoatv001.ddns.net:9981/stream/mux/67e0620c54e062b6239b59e11e6fde06?
 https://s.net.vn/Khichtivi-live-cab19-playlist-m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv15hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD SSPORT2
