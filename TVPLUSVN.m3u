@@ -130,6 +130,7 @@ http://m3u.at/Khichtv-vtvcab3?/index.m3u8
 http://m3u.at/Khich-vtvcab6?index.m3u8
 http://m3u.at/Khich-cab6-plus?khichiptv
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/22/7bzwc1y8_vtvcab16d94c489eda7dd7690cc161c53595f2d9_296_168.webp" group-title="📦🍬 VTV💯🔔" ,ON FootballHD VIEON
+https://liveh12.vtvcab.vn/hls/ONFOOTBALL123/04.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://m3u.at/Khichtv-cab16?/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ONFUBOLNews B4
@@ -162,10 +163,12 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?|Referer=https://sct
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-name="SPOTV" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-http://protv.fun/play/live.php?mac=00:1A:79:77:FD:51&extension=ts&stream=941564
+https://sc2024.stream-link.org/live/42113158208.php?id=s818hst
+#http://protv.fun/play/live.php?mac=00:1A:79:77:FD:51&extension=ts&stream=941564
 #EXTINF:-1 tvg-name="SPOTV2" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-http://protv.fun/play/live.php?mac=00:1A:79:77:FD:51&extension=ts&stream=941563
+https://sc2024.stream-link.org/live/42113158208.php?id=s653msf
+#http://protv.fun/play/live.php?mac=00:1A:79:77:FD:51&extension=ts&stream=941563
 #EXTINF:-1 tvg-id="btv5hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://assets-.gviet.vn/images/hq/posters/onaction1.jpg",BTV5 - ON Sports Action
 http://m3u.at/sctv-btv5-sd
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1  #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -174,9 +177,11 @@ https://wintv.fun/360/2380/index.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 FHD² 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://s.id/SCTV4HD
-https://iplogger.com/SCTV4
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
 #EXTINF:-1 group-title="📦🍬 VTV💯🔔" tvg-id="sctv6hd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6ˢᵛ²
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
 https://tth.vn/Khi%CC%81ch-TiVi-live.8080-SCTV6-FHD-keyok-playlist.m3u8
 https://wintv.fun/360/232/index.m3u8
 #EXTINF:0 tvg-id="sctv16hd" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 FHD²
@@ -192,13 +197,12 @@ http://home1.tranducanh.com:4444/udp/225.1.2.244:30120
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://thumbs4.imagebam.com/e1/71/0e/MEP34SZ_t.jpg",XPLUS RELAX
 https://iplogger.com/xplusrelax
 #EXTINF:-1 tvg-id="999" tvg-name="測試02" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="🎬😜 Phim 🔍📣", PLAYY 영화
-https://sc2024.stream-link.org/live/14191163234.php?id=h235jhw
-https://iplogger.com/playykr
+https://sc2024.stream-link.org/live/42113158208.php?id=m476tmc
 #EXTINF:0 tvg-id="kcinehd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINEK FHD
-https://sc2024.stream-link.org/live/14191163234.php?id=h996dhf
+https://sc2024.stream-link.org/live/42113158208.php?id=m269fmw
 http://is.am/5ngx
 #EXTINF:0 tvg-id="kaction" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTIONK FHD
-https://sc2024.stream-link.org/live/14191163234.php?id=h605php
+https://sc2024.stream-link.org/live/42113158208.php?id=h389uhp
 http://is.am/5ngp
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬😜 Phim 🔍📣" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://wintv.fun/360/15/index.m3u8
@@ -215,9 +219,8 @@ https://s.id/Warnervn
 #http://hoatv001.ddns.net:9981/stream/mux/4fcc9071ac5390a3fc977c59f87a7e23?
 #http://113.162.44.19:8889/rtp/232.84.2.51:10516
 #http://iptvquan.duckdns.org:9876/udp/225.1.1.139:30120
-https://s.id/Warnervn
 #EXTINF:0 tvg-id="kix" group-title="🎬😜 Phim 🔍📣" logo="https://i.imgur.com/Lod13YD.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
-https://sc2024.stream-link.org/live/14191163234.php?id=h872dhs
+https://sc2024.stream-link.org/live/42113158208.php?id=h740rha
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate 
 https://coca.dl.dropboxusercontent.com/s/bk6el8frz1udohx
 #EXTINF:0 tvg-id="hbohd" group-title="🎬😜 Phim 🔍📣" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO FHD 
@@ -261,7 +264,7 @@ https://tth.vn/intheboxhd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="🎬😜 Phim 🔍📣",CCTV_6.MOVIE
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="🎬😜 Phim 🔍📣",IQYI🇲🇾
-https://maper.info/IQYI_shareext
+https://sc2024.stream-link.org/live/42113158208.php?id=h769shs
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317" group-title="🎬😜 Phim 🔍📣",STAR SELECT MOVIES HD🇮🇳
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="foxlifehd.in" tvg-logo="https://tinyurl.com/FOXLIFEINIMG" group-title="🎬😜 Phim 🔍📣",FOX LIFE HD🇮🇳
@@ -293,9 +296,9 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34//71053
 #EXTINF:-1 tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Boo-Play.jpg" group-title="🎬😜 Phim 🔍📣",ASTRO BOO
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34//1697
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🎬😜 Phim 🔍📣",ViuTV🇭🇰
-https://sc2024.stream-link.org/live/14191163234.php?id=h985rhd
+https://sc2024.stream-link.org/live/42113158208.php?id=h058thn
 #EXTINF:-1 tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="🎬😜 Phim 🔍📣",ViuTV Six🇭🇰
-https://sc2024.stream-link.org/live/14191163234.php?id=h668ghw
+https://sc2024.stream-link.org/live/42113158208.php?id=h501khk
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",SkyRomance TV 🇩🇪
 http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/7231/index.m3u8
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://image.lichphimrap.com/resize-image.php?src=raps/cinebox.png&" group-title="🎬😜 Phim 🔍📣", Cinebox HD
@@ -356,14 +359,11 @@ https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊台.png" group-title="🌿⭐️ Lifestyle ⭐️🔍",亞洲旅遊台 Asia Travel
 http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 #EXTINF:0 tvg-id="outdoorfhd" group-title="🌿⭐️ Lifestyle ⭐️🔍" logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
-
 https://wintv.fun/360/216/index.m3u8
 http://113.162.44.19:8889/rtp/232.84.1.107:10218
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://coca.dl.dropboxusercontent.com/s/b1na5fyhm1ix1w1/ 
 #EXTINF:-1 group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth FHD
-
-#https://tth.vn/bbcearth
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #KODIPROP:inputstream.adaptive.license_key=https://coca.dl.dropboxusercontent.com/ 
@@ -1274,7 +1274,8 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.webhd.ru/lb/premium123/index.m3u8
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 2_🇲🇾 STL
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/59219
+http://apk.androidtrex.com/play/live.php?mac=00:1A:79:F7:F2:C6&extension=ts&stream=1016545
+#http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/59219
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium124/index.m3u8
