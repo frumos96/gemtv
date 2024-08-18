@@ -331,8 +331,7 @@ https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 #EXTINF:-1 tvg-id="novaplay" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nova_Play_logo.svg/1000px-Nova_Play_logo.svg.png",NovaPlay Brazil
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1592383770.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kr6k6TR/one.png" group-title="🎬😜 Phim 🔍📣",SONY ONE
-http://lzoq.serv00.net/daili/Smartv.php?id=One
-#http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/71053
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/71053
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/300px-Thrilllogo.webp.png" group-title="🎬😜 Phim 🔍📣",Thrill
 http://lzoq.serv00.net/daili/Smartv.php?id=Thrill
 #EXTINF:-1 tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Boo-Play.jpg" group-title="🎬😜 Phim 🔍📣",ASTRO BOO
@@ -369,7 +368,7 @@ https://api.wintv.me/360/215/index.m3u8
 https://coca.dl.dropboxusercontent.com/s/8mmg3p2r9e01mo8/ 
 #EXTINF:0 tvg-id="discoveryhd" group-title="🌿⭐️ Lifestyle ⭐️🔍" logo="https://cdn.hqth.me/logo/thumbs/204.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://api.wintv.me/360/215/index.m3u8
+https://khanggtivi.xyz/vuminhthanh/vmt2024/discovery/index.m3u8
 #http://s4.nihontv.net:21585/discovery/index.m3u8
 ##http://hoatv001.ddns.net:9981/stream/mux/57d7c58bb5ab12ed6c93a3392a3a7368?
 ###EXTVLCOPT:http-user-agent=ExoPlayerLib/tiviMate 
@@ -380,12 +379,8 @@ https://coca.dl.dropboxusercontent.com/s/3dfnjxi7y2o6a42w1dtjd/ 																
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://khanggtivi.xyz/vuminhthanh/vmt2024/discoveryasia/index.m3u8
 #http://ntdung.duckdns.org:27589/udp/225.1.4.25:30120
-#EXTINF:0 group-title="🌿⭐️ Lifestyle ⭐️🔍" logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png?fit=960%2C540&ssl=1", AMAGI
-https://xplore-roku.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-logo="https://www.tastemade.com.br/icons/icon-72x72.png?v=77aa54c80c1f1d706e21e9787677ea4e",Tastemade Travelᴴᴰ
 https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊台.png" group-title="🌿⭐️ Lifestyle ⭐️🔍",亞洲旅遊台 Asia Travel
-http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 #EXTINF:0 tvg-id="outdoorfhd" group-title="🌿⭐️ Lifestyle ⭐️🔍" logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
 https://api.wintv.me/360/216/index.m3u8
 http://113.162.44.19:8889/rtp/232.84.1.107:10218
