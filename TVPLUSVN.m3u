@@ -131,6 +131,7 @@ https://coca.dl.dropboxusercontent.com/s/f66ggfxnbbtdqk1/ 																						
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
 http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.190:30120
 #EXTINF:0 tvg-id="htv9hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD (HD 8Mbps)
+http://api.wintv.me/360/194/index.m3u8?htv9
 http://ntdung.duckdns.org:27589/udp/225.1.1.190:30120
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="💛| HTV" tvg-logo="https://i.ibb.co/kmMHzKJ/HTVTHETHAO.png", HTV THỂ THAO 360
 https://api.wintv.me/360/195/index.m3u8
@@ -430,6 +431,7 @@ https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #EXTINF:-1 tvg-id="animalhd" tvg-name="Animal Planet_HD" group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-logo="https://i.imgur.com/AApqW63.jpg",Animal Planet_HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-id="historyhd" tvg-name="History" tvg-logo="https://i.ibb.co/d2dJNWn/cchistory.webp" group-title="🌿⭐️ Lifestyle ⭐️🔍",🍀|History TV
+http://api.wintv.me/360/9856/index.m3u8?history
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/63515
 #EXTINF:0 group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png",Canal Off
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/101711
@@ -708,6 +710,7 @@ https://api.wintv.me/360/69/index.m3u8
 #EXTINF:-1 tvg-id="quangngai" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://i.imgur.com/Xh6cZmD.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/409/auto/dvr-${start}-${offset}.m3u8",PTQ HD - QUẢNG NGÃI
 http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="baria" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/tonghop/brt/dvr-${start}-${offset}.m3u8", BRT HD | TH Bà Rịa Vũng Tàu
+https://api.wintv.me/360/94/index.m3u8?vungtau
 https://oipf0znpmnliv.vcdn.cloud/hls/brvt/index.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/115.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/402/auto/dvr-${start}-${end}.m3u8", BTV1 HD | TH Bình Dương
 https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
@@ -765,6 +768,8 @@ http://tv.ctvcamau.vn/live/tv/tv.m3u8
 http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/18084/index.m3u8
 #EXTINF:0 group-title="🎵|Music" tvg-id="6273" tvg-logo="http://epg.it999.ru/img2/6273.png" tvg-rec="0",FRESH Russian Pop HD
 http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/18085/index.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="🎵|Music" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
+https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
 #EXTINF:-1 tv-id="Jasmin TV" tvg-logo="https://image.roku.com/channels/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png" group-title="🎵|Music",海外|Jasmin TV
 http://gg.gg/JasminTV
 #EXTINF:-1 tvg-name="POWER LOVE" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgA5oYN1Lr2PjakdQv.png" group-title="🎵|Music", POWER LOVE
