@@ -231,16 +231,8 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:0 tvg-id="" group-title="📦🍬 VTV💯🔔" tvg-logo="https://s.id/PladioImg",Pladio
 http://ntdung.duckdns.org:27589/udp/225.1.2.244:30120
-#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://thumbs4.imagebam.com/e1/71/0e/MEP34SZ_t.jpg",XPLUS RELAX
-https://iplogger.com/xplusrelax
 #EXTINF:-1 tvg-id="999" tvg-name="測試02" tvg-logo="http://www.stream-link.org/tv_logo/test.png" group-title="🎬😜 Phim 🔍📣", PLAYY 영화
 https://sc2024.stream-link.org/live/42113158208.php?id=m476tmc
-#EXTINF:0 tvg-id="kcinehd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-cine.png", CINEK FHD
-https://sc2024.stream-link.org/live/42113158208.php?id=m269fmw
-http://is.am/5ngx
-#EXTINF:0 tvg-id="kaction" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-action.png",ACTIONK FHD
-https://sc2024.stream-link.org/live/42113158208.php?id=h389uhp
-http://is.am/5ngp
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🎬😜 Phim 🔍📣" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 http://thvip.site/360/15/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN FHD
@@ -896,8 +888,7 @@ http://132.145.84.42:9981/stream/channelid/1661787843?profile=pass
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003-avc1_5000000=5-mp4a_64000_tha=6.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-59098.jpg",CH5 HD AIS_🇹🇭
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/HLS/V0007-avc1_5000000=3-mp4a_64000_tha=7.m3u8
+https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"   tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",CH7 HD AIS_🇹🇭
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018-avc1_5000000=7-mp4a_64000_tha=2.m3u8
@@ -951,10 +942,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?cc|Referer=htt
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
 
 ---------------------------------------🔴| Livestream------------------------------
-#EXTINF:-1 tvg-id="ksport1hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png",SPORT1K🇻🇳 FHD
-http://is.am/5nvs
-#EXTINF:-1 tvg-id="ksport2hd" group-title="👑 SPORT ASEAN🌏🔥" logo="https://images.fptplay.net/media/channels/icon_channel_kpc_165655724357.png",SPORT2K🇻🇳 FHD
-http://is.am/5nvt
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/2554/index.m3u8
