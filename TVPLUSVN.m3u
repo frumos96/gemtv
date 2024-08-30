@@ -198,11 +198,11 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?|Referer=https://sct
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-name="SPOTV" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sc2024.stream-link.org/live/42113158208.php?id=s818hst
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #http://protv.fun/play/live.php?mac=00:1A:79:77:FD:51&extension=ts&stream=941564
 #EXTINF:-1 tvg-name="SPOTV2" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sc2024.stream-link.org/live/42113158208.php?id=s653msf
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #http://protv.fun/play/live.php?mac=00:1A:79:77:FD:51&extension=ts&stream=941563
 #EXTINF:-1 tvg-id="btv5hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://assets-.gviet.vn/images/hq/posters/onaction1.jpg",BTV5 - ON Sports Action
 http://m3u.at/sctv-btv5-sd
@@ -250,6 +250,7 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/warnertv/index.m3u8
 ###http://113.162.44.19:8889/rtp/232.84.2.51:10516
 ####http://iptvquan.duckdns.org:9876/udp/225.1.1.139:30120
 #EXTINF:0 tvg-id="kix" group-title="🎬😜 Phim 🔍📣" logo="https://i.imgur.com/Lod13YD.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
+https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
 https://d1abp075u76pbq.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd|Referer=https://www.visionplus.id/
@@ -885,19 +886,17 @@ http://132.145.84.42:9981/stream/channelid/725280131?profile=pass
 #EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/JTBC2.jpg/revision/latest?cb=20190616070617" group-title="🚩🚩🚩Foreign🚩🚩🚩",JTBC2
 http://132.145.84.42:9981/stream/channelid/1661787843?profile=pass
 #EXTINF:-1 tvg-id="Channel3.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD AIS_🇹🇭
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003-avc1_5000000=5-mp4a_64000_tha=6.m3u8
+https://edge2a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-59098.jpg",CH5 HD AIS_🇹🇭
 https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"   tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",CH7 HD AIS_🇹🇭
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018-avc1_5000000=7-mp4a_64000_tha=2.m3u8
+https://edge2a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://i.imgur.com/9apyiI0.png", ONE HD_🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge2a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://i.imgur.com/RSQLFiU.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CH 8_🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://i.imgur.com/ejPxGmU.png",MCOT HD_🇹🇭
+https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🚩🚩🚩Foreign🚩🚩🚩" logo="https://cdn.hqth.me/logo/217.png", KBS World
@@ -1093,6 +1092,8 @@ http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/55284
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/55282
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/All-logos4.gif" group-title="👑 SPORT ASEAN🌏🔥",Sony Sports Ten 3 HD_🇮🇳
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/55281
+#EXTINF:-1 group-title="👑 SPORT ASEAN🌏🔥", tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",Sony Sports Ten 5 HD_🇮🇳
+http://humsab.xyz/S_Ten5/index.m3u8
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-star-sports-1-226.png" group-title="👑 SPORT ASEAN🌏🔥",Star Sports 1 HD_🇮🇳
 http://41.205.93.154/STARSPORTS1/index.m3u8
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/55273
