@@ -243,13 +243,14 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
 #http://hoatv001.ddns.net:9981/stream/mux/3d933f79df3d477b9471a2eeda8656b3?
 http://113.162.44.19:8889/rtp/232.84.3.117:10654
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Little_Saigon_TV_logo.svg/254px-Little_Saigon_TV_logo.svg.png", Little Saigon TV
-https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
-#EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-logo="https://hqth.me/ibclogo", IBC VietMy
-https://59d39900ebfb8.streamlock.net/ibctv/ibctv/chunklist_w1416721353.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 10) ExoPlayerLib/2.13.3
+https://59d39900ebfb8.streamlock.net/8298/8298/playlist.m3u8
+#EXTINF:-1  group-title = "🎬😜 Phim 🔍📣" tvg-logo = "https://vietprocast.relentlessinnovations.dev/uploads/tv_image/sm/ibc-tv.png",IBC TV HD
+https://live.relentlessinnovations.net:1936/ibc/ibc/playlist.m3u8
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-logo="https://static.wixstatic.com/media/b454b3_9f59027f4bef46d68ca91012930dd2f4~mv2.png", IVTV
-https://59d39900ebfb8.streamlock.net/8478/8478/chunklist_w1073359317.m3u8
+https://59d39900ebfb8.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-logo="https://procasttv.com/app/uploads/tv_image/saigon-tv.png",Saigon TV
-https://live.relentlessinnovations.net:1936/saigontv/saigontv/chunklist_w438437719.m3u8
+https://live.relentlessinnovations.net:1936/saigontv/saigontv/playlist.m3u8
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-logo="https://setchannel.tv/wp-content/uploads/2019/08/SET-web-logo.png",SET TV
 https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="boxmovie1" group-title="🎬😜 Phim 🔍📣" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
@@ -262,14 +263,14 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?|Referer=https://
 http://thvip.site/360/160/index.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="🎬😜 Phim 🔍📣" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits 360
 http://thvip.site/360/239/index.m3u8
-#EXTINF:0 tvg-id="boxhits" group-title="🎬😜 Phim 🔍📣" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits server 2
+#EXTINF:0 tvg-id="boxhits" group-title="🎬😜 Phim 🔍📣" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://khanggtivi.xyz/vuminhthanh/vmt2024/boxhits/index.m3u8
 #EXTINF:0 tvg-id="inthebox" group-title="🎬😜 Phim 🔍📣" logo="https://cdn.hqth.me/logo/thumbs/189.png",InTheBox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/inthebox/index.m3u8
 #https://tth.vn/intheboxhd
-#EXTINF:-1 tvg-id="inthebox" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://cdn.hqth.me/logo/category/itb.png",InTheBox 360
+#EXTINF:-1 tvg-id="inthebox" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://cdn.hqth.me/logo/category/itb.png",InTheBox² 360
 http://thvip.site/360/235/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="🎬😜 Phim 🔍📣",CCTV_6.MOVIE
 https://iptv.stcwl.xyz/udp/239.10.0.103:1025
@@ -696,6 +697,8 @@ https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="http://n.ysyz.top:99/buyaolian/cctv15.png", CCTV15音乐HD
 http://175.178.236.58:8088/china/ysp.php?ch=cctv15
+#EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="🎵|Music",Clubbingtv
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://i.imgur.com/FeFMOxH.png", MTV HD
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:BF:8F:D1&stream=44055&extension=ts&play_token=bnCXuxzgjM&sn2=
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/69/hd/dvr-${start}-${end}.m3u8", Music Box HD
@@ -707,11 +710,9 @@ http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/10063/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://www.lyngsat.com/logo/tv/mm/musictop-ar.png", MUSICTOP HD
 http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/10072/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://static.vecteezy.com/system/resources/previews/006/249/962/non_2x/music-logo-icon-initial-letter-z-music-logo-design-template-element-vector.jpg", Z! MUSIC HD
-http://5.61.54.61/iptv/2XGCY732NCTX4V/14138/index.m3u8
+http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/14138/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png", 1HD Music
 https://sc.id-tv.kz/1hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="http://images.zaltv.club/logo/clubbingtv.png", ClubbingTV HD
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="http://images.zaltv.club/logo/v2.jpg", V2BEAT HD
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/1200px-VH1_2020.svg.png", VH1 HD
@@ -813,14 +814,16 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8
 #EXTINF:-1 tvg-id="nhkworldhd" tvg-name="NHK World Japan_HD" group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://i.imgur.com/OJd9r6E.png",NHK WORLD JAPAN_HD🇯🇵
+https://thvip.site/360/106/index.m3u8?nhk-world
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="dw" tvg-name="DW_HD" group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://i.imgur.com/op6hPn3.png",DW_HD
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="channelnewsasia" tvg-name="Channel NewsAsia_HD" group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://i.imgur.com/MztDCW5.png",Channel NewsAsia_HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN_HD" group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN_HD
-https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
+http://p1.cvtv.xyz:81/cnn?token=live
 #EXTINF:-1 tvg-name="BBC News" group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://i.imgur.com/LjOE7VC.png",BBC World News HD
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/index.m3u8|Referer=http://sctvonline.vn/
 http://gg.gg/BBCWorldNewsMYVN
 
@@ -830,6 +833,7 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/animax/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd"  group-title="👶| Thiếu nhi" tvg-logo="https://i.imgur.com/OLeTUpu.png",Cartoon Network_HD
 http://s4.nihontv.net:21585/cartoon/index.m3u8
 #EXTINF:-1 group-title="👶| Thiếu nhi" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Cartoonito%20HD.png",CARTOONITO HD
+https://khanggtivi.xyz/vuminhthanh/vmt2024/cartoonito/index.m3u8
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 group-title="👶| Thiếu nhi" tvg-id="zoomoo.id" tvg-logo="https://i.imgur.com/ciTJrnl.png",Zoo Moo Asia
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
@@ -843,6 +847,7 @@ http://gg.gg/DreamworkMYVN
 #EXTINF:0 type="stream" channelId="-1" group-title="👶| Thiếu nhi" logo="https://dl.dropboxusercontent.com/s/lslvqe41s8j7itv/PBS", PBS Kids HD
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="👶| Thiếu nhi" logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png", Happy Kids HD
+https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 type="stream" channelId="-1" group-title="👶| Thiếu nhi" logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids_Logo.png", Rotana Kids HD
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
