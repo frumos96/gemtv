@@ -98,17 +98,17 @@ https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/129.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/60/auto/dvr-${start}-${end}.m3u8", DaNangTV2 HD
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/playlist.m3u8
 #EXTINF:0 tvg-id="htv2hd" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/48.png" tvg-chno="25" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8", HTV2 360
-http://gamsgo.cyou:8080/658f1808/6f0671d0/172014
 http://thvip.site/360/191/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?
+http://gamsgo.cyou:8080/658f1808/6f0671d0/172014
 #http://113.162.44.19:8889/rtp/232.84.2.182:9306
 ##http://iptvquan.duckdns.org:9876/udp/225.1.1.193:30120
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.imgur.com/L8fXB1M.png" group-title="📦🍬 VTV💯🔔" tvg-chno="29" ,HTV7 SCTV
-http://gamsgo.cyou:8080/658f1808/6f0671d0/172002
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
+#http://gamsgo.cyou:8080/658f1808/6f0671d0/172002
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.imgur.com/L8fXB1M.png" group-title="📦🍬 VTV💯🔔" tvg-chno="29" ,HTV7 FHD
 https://vc.101vn.com/htv/htvcmb.php?id=256 
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/r2LgsYR/HTV9.png" group-title="📦🍬 VTV💯🔔" tvg-chno="30",HTV9 SCTV
@@ -186,12 +186,12 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?|Referer=https://sct
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-name="SPOTV" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-http://gamsgo.cyou:8080/658f1808/6f0671d0/165105
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+http://gamsgo.cyou:8080/658f1808/6f0671d0/165105
 #EXTINF:-1 tvg-name="SPOTV2" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-http://gamsgo.cyou:8080/658f1808/6f0671d0/298506
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+http://gamsgo.cyou:8080/658f1808/6f0671d0/298506
 #EXTINF:-1 tvg-id="btv5hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://assets-.gviet.vn/images/hq/posters/onaction1.jpg",BTV5 - ON Sports Action
 http://m3u.at/sctv-btv5-sd
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1  #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -314,10 +314,10 @@ http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/71053
 #KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
 https://d1abp075u76pbq.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/300px-Thrilllogo.webp.png" group-title="🎬😜 Phim 🔍📣",Thrill
-http://gamsgo.cyou:8080/658f1808/6f0671d0/157580
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
 https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|Referer=https://www.visionplus.id/
+http://gamsgo.cyou:8080/658f1808/6f0671d0/157580
 #EXTINF:-1 tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Boo-Play.jpg" group-title="🎬😜 Phim 🔍📣",ASTRO BOO
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583//1697
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/Fitness%20TV.jpg" group-title="🌿⭐️ Lifestyle ⭐️🔍",Fitness TV
@@ -695,8 +695,8 @@ https://listen.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg" group-title="🎵|Music",Music°On! TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="http://n.ysyz.top:99/buyaolian/cctv15.png", CCTV15音乐HD
-http://175.178.236.58:8088/china/ysp.php?ch=cctv15
+#EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="http://n.ysyz.top:99/buyaolian/cctv15.png", CCTV15🇨🇳 音乐HD
+https://iptv.stcwl.xyz/udp/239.10.0.195:1025
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="🎵|Music",Clubbingtv
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://i.imgur.com/FeFMOxH.png", MTV HD
@@ -747,7 +747,7 @@ https://iptv.stcwl.xyz/udp/239.10.0.179:1025
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",江苏卫视HD Giang Tô🇨🇳
 https://iptv.stcwl.xyz/udp/239.10.0.180:1025
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",北京卫视HD Bắc Kinh🇨🇳
-https://iptv.stcwl.xyz/udp/udp/239.10.0.131:1025
+https://iptv.stcwl.xyz/udp/239.10.0.131:1025
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",东方卫视HD Dragon TV🇨🇳
 https://iptv.stcwl.xyz/udp/239.10.0.183:1025
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",深圳卫视HD Thâm Quyến🇨🇳
@@ -758,6 +758,8 @@ https://iptv.stcwl.xyz/udp/239.10.0.205:1025
 https://iptv.stcwl.xyz/udp/239.10.0.77:1025
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",海南卫视HD Hải Nam🇨🇳
 https://iptv.stcwl.xyz/udp/239.11.0.172:1025
+#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",重庆汽摩 Ô tô vs xe máy Trùng Khánh🇨🇳
+https://iptv.stcwl.xyz/udp/239.10.0.232:1025
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="http://live.yoitv.com:9083/query/s/gnpNcLEhwujjXOxTl7gaJg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS-Nippon TV🇯🇵
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="tbs" tvg-name="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="🚩🚩🚩Foreign🚩🚩🚩",TBS🇯🇵
@@ -1025,6 +1027,8 @@ http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12256/index.m3u8
 https://iptv.stcwl.xyz/udp/239.10.0.102:1025
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5+.png" group-title="👑 SPORT ASEAN🌏🔥", CCTV5+ HD_🇨🇳
 https://iptv.stcwl.xyz/udp/239.20.0.203:2204
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="👑 SPORT ASEAN🌏🔥",风云足球-CCTV Fengyun Football
+https://iptv.stcwl.xyz/udp/239.11.0.59:1025
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="👑 SPORT ASEAN🌏🔥", PPTV HD AIS_🇹🇭
 https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
