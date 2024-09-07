@@ -739,15 +739,17 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61465&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61430&extension=ts&play_token=hYEPk43PWu&sn2=
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX🇺🇸
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61403&extension=ts&play_token=xhDFDIaqFh&sn2=
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",北京卫视HD Bắc Kinh🇨🇳
+https://iptv.stcwl.xyz/udp/239.10.0.131:1025
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telemundo-73.png",湖南卫视HD Hồ Nam🇨🇳
 https://iptv.stcwl.xyz/udp/239.10.0.115:1025
 http://220.164.192.48:50085/tsfile/live/0107_1.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",四川卫视 Tứ Xuyên🇨🇳
+https://iptv.stcwl.xyz/udp/239.10.0.204:1025
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",浙江卫视HD Chiết Giang🇨🇳
 https://iptv.stcwl.xyz/udp/239.10.0.179:1025
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",江苏卫视HD Giang Tô🇨🇳
 https://iptv.stcwl.xyz/udp/239.10.0.180:1025
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",北京卫视HD Bắc Kinh🇨🇳
-https://iptv.stcwl.xyz/udp/239.10.0.131:1025
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",东方卫视HD Dragon TV🇨🇳
 https://iptv.stcwl.xyz/udp/239.10.0.183:1025
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",深圳卫视HD Thâm Quyến🇨🇳
@@ -756,6 +758,10 @@ https://iptv.stcwl.xyz/udp/239.10.0.132:1025
 https://iptv.stcwl.xyz/udp/239.10.0.205:1025
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",东南卫视HD Đông Nam Phúc Kiến🇨🇳
 https://iptv.stcwl.xyz/udp/239.10.0.77:1025
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",广东卫视 Quảng Đông🇨🇳
+https://iptv.stcwl.xyz/udp/239.10.0.141:1025
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",广西卫视 Quảng Tây🇨🇳
+https://iptv.stcwl.xyz/udp/239.10.0.246:1025
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",海南卫视HD Hải Nam🇨🇳
 https://iptv.stcwl.xyz/udp/239.11.0.172:1025
 #EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",重庆汽摩 Ô tô vs xe máy Trùng Khánh🇨🇳
