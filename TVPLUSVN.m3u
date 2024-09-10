@@ -55,6 +55,7 @@ http://thvip.site/360/207/index.m3u8
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên FHD (Only FPT)
 http://homelab.nguyenvinh.id.vn:9981/stream/channelid/1368492985?auth=PcetW49VQ.Gr1Glc9TGqaQpoMhag&profile=pass
 #EXTINF:0 tvg-id="vtv5hd" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/5.png" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 FHD Viettel
+http://p1.cvtv.xyz/vtv5?token=live
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8
