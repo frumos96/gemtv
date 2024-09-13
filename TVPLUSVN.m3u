@@ -152,6 +152,7 @@ https://tth.vn/Khichtv80-cab3-hd
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://tth.vn/vtvcab-zbk-vtvcab6.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/22/7bzwc1y8_vtvcab16d94c489eda7dd7690cc161c53595f2d9_296_168.webp" group-title="📦🍬 VTV💯🔔" ,ON FootballHD VIEON
+https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
@@ -181,7 +182,7 @@ https://thvip.site/360/182/index.m3u8
 https://thvip.site/360/177/index.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD SSPORT2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?|Referer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv17hd" group-title="💚SCTV💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD SSPORT
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?|Referer=https://sctvonline.vn/
@@ -390,23 +391,6 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Tranvel XP" tvg-logo="http://displaytivi.github.io/albums/travelxp.png" group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-shift="-24",Tranvel XP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-
----------------------------------------beIN Fubol 🇹🇷----------------------------------------
-#EXTINF:-1 tvg-id="fashionhd" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion FILMS
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sport-max-1-742.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",beIN SP 1 🇹🇷⁴ᴷ
-http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/664785
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sport-max-2-743.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",beIN SP 2 🇹🇷⁴ᴷ
-http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/664794
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sport-3-642.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",beINSP 3 🇹🇷 PL
-http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/664802
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sport-3-642.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",beINSP 4 🇹🇷 BUNDESLIGA
-http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/664805
-#EXTINF:-1 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN⁴ᴷ 
-https://7pal.short.gy/bein-uhd
-#EXTINF:-1 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州⁴ᴷ
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-
 
 #-*------------------------------------------VTVCAB-*------------------------------------------#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡➡️OnPlus🐬✅" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",Vie Giải trí SCTV
@@ -690,6 +674,7 @@ http://thvip.site/360/289/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
 #EXTINF:-1 tvg-id="kloopy" tvg-logo="https://i.ibb.co/JR1nZYb/Kaloopy-cc.png" group-title="🎵|Music",海外|Kaloopy
+https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://coca.dl.dropboxusercontent.com/s/koiq1049gt89pg5/ 																																 ㅤ?kaloopy								 													 |Referer=https://sctvonline.vn/ 
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -976,6 +961,68 @@ http://nv1connect.com:80/tamtam/tjfYkCbP3s/69239
 http://pal.alphatx.me:80/play/live.php?mac=00:1B:79:42:DD:FD&stream=45466&extension=ts&play_token=gZrEUoNLRE
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Sky Sports PremierLeague UK HD
 http://p1.cvtv.xyz/pl?token=live
+---------------------------------------beIN Fubol 🇹🇷----------------------------------------
+#EXTINF:-1 tvg-id="fashionhd" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion FILMS
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sport-max-1-742.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",beIN SP 1 🇹🇷⁴ᴷ
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/664785
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sport-max-2-743.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",beIN SP 2 🇹🇷⁴ᴷ
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/664794
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sport-3-642.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",beINSP 3 🇹🇷 PL
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/664802
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sport-3-642.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",beINSP 4 🇹🇷 BUNDESLIGA
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/664805
+#EXTINF:-1 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN⁴ᴷ 
+https://7pal.short.gy/bein-uhd
+#EXTINF:-1 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png",苏州⁴ᴷ
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hW8G92t/Box.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",🎶 BOX Music ⁴ᴷ
+http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/19282/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/gm6Cc0q/relax.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",🍀| BOX Relax ⁴ᴷ
+http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/19283/index.m3u8
+#EXTINF:-1 tvg-id="lovenature" tvg-name="Love Nature ⁴ᵏ" tvg-logo="https://i.ibb.co/Wzm2SCb/51713cb38f60e82562a65727ce7d5493-icon.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",🍀| Love Nature ⁴ᵏ
+#EXTVLCOPT:network-caching=1000
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?cc
+#EXTINF:0 tvg-logo="https://i.ibb.co/nCJ8dtt/Picsart-22-12-22-21-42-09-506.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",🍀| TravelXP ⁴ᴷ
+http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/14026/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMs0vvK/Ultra-Nature.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",🍀| ULTRA NATURE TV ⁴ᴷ
+http://extraott.com:80/live/7921751389/6097373662/36969.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/k6YFzZK/home.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",🍀| Home ⁴ᴷ
+http://185.193.88.10/iptv/AHMQNVLWUTM5PW/4002/index.m3u8
+http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/4002/index.m3u8
+#EXTINF:-1 tvg-id="Clarity4K.us" tvg-name="Clarity ⁴ᵏ" tvg-logo="https://i.ibb.co/hHFBv1G/Clarity-cc.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",🍀| Clarity ⁴ᵏ
+#EXTVLCOPT:network-caching=1000
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:0 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-logo="https://i.ibb.co/pLr9bX3/Sky-Nature.png",🍀| SKY HIGH NATURE ⁴ᴷ HDR
+http://185.193.88.10/iptv/AHMQNVLWUTM5PW/14248/index.m3u8
+http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/14247/index.m3u8
+#EXTINF:0 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-logo="https://i.ibb.co/pLr9bX3/Sky-Nature.png",🍀| SKY HIGH NATURE ⁴ᴷ
+http://185.193.88.10/iptv/AHMQNVLWUTM5PW/14247/index.m3u8
+http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/14247/index.m3u8
+#EXTINF:0 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-logo="https://i.ibb.co/VLd5vpb/Quadro4k.png",🍀| Quadro ⁴ᴷ
+http://185.193.88.10/iptv/AHMQNVLWUTM5PW/19262/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.ibb.co/7JGXSC5/Bloomberg-Television.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",Bloomberg ⁴ᴷ
+https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+#EXTINF:-1 tvg-id="digi" tvg-name="digi" tvg-logo="https://i.ibb.co/7QcdPTM/Digi.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",DIGI ⁴ᴷ
+http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/355192
+#EXTINF:0 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-id="2878" tvg-logo="http://epg.it999.ru/img/2878.png" tvg-rec="0",Sky Sport UHD DE
+http://185.193.88.10/iptv/AHMQNVLWUTM5PW/19044/index.m3u8
+#http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/19044/index.m3u8
+#EXTINF:-1 tvg-id="beIN4K.qa" tvg-logo="https://i.ibb.co/CQtjqCk/Be-IN-SPORTS-4-K-Logo.jpg" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",⚽ BeIN UHD ⁴ᴷ HDR
+http://doubleclicktv.live/70376812/52663544/327643
+#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-logo="https://i.ibb.co/zb84wJh/ziggo.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",Ziggo Sport ⁴ᴷ
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/31246/index.m3u8
+#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-name="SPORT5" tvg-logo="https://i.ibb.co/fFB348B/sport5.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",SPORT 5 ⁴ᴷ
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/16019/index.m3u8
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.ibb.co/44KZ1yK/elevensports1-4k-1-632x221-1.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",⚽ ElevenSport ⁴ᴷ
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/20068/index.m3u8
+#http://185.193.88.10/iptv/AHMQNVLWUTM5PW/20068/index.m3u8
+#EXTINF:-1 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",FUSSBALL.TV 1ᵁᴴᴰ
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639320.m3u8
+#EXTINF:-1 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",FUSSBALL.TV 2ᵁᴴᴰ
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639317.m3u8
+#EXTINF:-1 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",FUSSBALL.TV 3ᵁᴴᴰ
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639314.m3u8
 
 ---------------------------------------SPORT ASEAN----------------------------------------
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1_🇲🇾 STL
@@ -1014,8 +1061,8 @@ http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12253/index.m3u8
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/61758
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-live-1027.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5 Live HD🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://gamsgo.cyou:8080/658f1808/6f0671d0/91281
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12254/index.m3u8
+http://gamsgo.cyou:8080/658f1808/6f0671d0/91281
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-stars-1828.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5 Stars HD🇮🇱
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12255/index.m3u8
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/61793
@@ -1123,6 +1170,7 @@ http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123808
 #EXTINF:-1 tvg-ID="elevensports6.pt" tvg-name="[PT] ELEVEN SPORTS 6 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports6.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",[PT] ELEVEN SPORTS 6 FHD ◉ rec
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123809
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",CANAL+ FOOT HD web 🇫🇷
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=388877&extension=ts&play_token=QsJ23W8f89&sn2=
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/28084
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-360-2807.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",CANAL+ FOOT360 HD web 🇫🇷
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/2789
