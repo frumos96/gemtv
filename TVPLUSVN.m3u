@@ -286,14 +286,12 @@ http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/63534
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/starmovieshd.png" group-title="🎬😜 Phim 🔍📣",STAR SELECT MOVIES HD🇮🇳
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/63510
 
-
-
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🎬😜 Phim 🔍📣",ViuTV🇭🇰
+http://221.127.18.221:9981/stream/channelid/1190160288?ticket=11d0a67a8a6d3ba4bdcb256bf130e48c1a4221c5&profile=pass
+#EXTINF:-1 tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="🎬😜 Phim 🔍📣",ViuTV Six🇭🇰
 http://221.127.18.221:9981/stream/channelid/2134513294?ticket=b574a2f234ef6f22c7c624852d8dbf289aed1dfb&profile=pass
 https://live.hkdvb.com/hls/live/96.m3u8?token=680446446396170
-#EXTINF:-1 tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="🎬😜 Phim 🔍📣",ViuTV Six🇭🇰
-http://221.127.18.221:9981/stream/channelid/1190160288?ticket=11d0a67a8a6d3ba4bdcb256bf130e48c1a4221c5&profile=pass
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",SkyRomance TV 🇩🇪
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/7231/index.m3u8
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://image.lichphimrap.com/resize-image.php?src=raps/cinebox.png&" group-title="🎬😜 Phim 🔍📣", Cinebox HD
@@ -1017,12 +1015,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/16019/index.m3u8
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.ibb.co/44KZ1yK/elevensports1-4k-1-632x221-1.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",⚽ ElevenSport ⁴ᴷ
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/20068/index.m3u8
 #http://185.193.88.10/iptv/AHMQNVLWUTM5PW/20068/index.m3u8
-#EXTINF:-1 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",FUSSBALL.TV 1ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639320.m3u8
-#EXTINF:-1 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",FUSSBALL.TV 2ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639317.m3u8
-#EXTINF:-1 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",FUSSBALL.TV 3ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639314.m3u8
 
 ---------------------------------------SPORT ASEAN----------------------------------------
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1_🇲🇾 STL
