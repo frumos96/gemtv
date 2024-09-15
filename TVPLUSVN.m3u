@@ -217,12 +217,12 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 tvg-id="vtc1" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/🇻🇳| VTC Digital - VOV1-hd/dvr-${start}-${offset}.m3u8", 🇻🇳| VTC 1 HD
+#EXTINF:-1 tvg-id="vtc1hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/🇻🇳| VTC Digital - VOV1-hd/dvr-${start}-${offset}.m3u8", 🇻🇳| VTC 1 HD
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
-#EXTINF:-1 tvg-id="vtc7" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7 - TodayTV
+#EXTINF:-1 tvg-id="vtc7hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7 - TodayTV
 http://thvip.site/360/201/index.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/todaytv/index.m3u8
-#EXTINF:-1 tvg-id="vtc14" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14
+#EXTINF:-1 tvg-id="vtc14hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14
 http://thvip.site/360/17/index.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="🎬😜 Phim 🔍📣" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",CINE MyK+
 http://is.am/5mf7/khichtivi/k+3/index.m3u8 
@@ -518,30 +518,30 @@ http://thvip.site/360/15/index.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="💛| HTV" logo="https://cdn.hqth.me/logo/thumbs/61.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcplus_4000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Plus HD
 http://m3u.at/htvc-plus-fhd?@/playlist.m3u8
 ---------------------------------------💙| 🇻🇳| VTC Digital - VOV----------------------------------------
-#EXTINF:-1 tvg-id="🇻🇳| VTC Digital - VOV" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
+#EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
 http://thvip.site/360/16/index.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/vtc1/index.m3u8
-#EXTINF:-1 tvg-id="🇻🇳| VTC Digital - VO" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
+#EXTINF:-1 tvg-id="vtc2hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
 http://thvip.site/360/196/index.m3u8
-#EXTINF:-1 tvg-id="🇻🇳| VTC Digital - VOV" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
+#EXTINF:-1 tvg-id="vtc3hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
 http://thvip.site/360/197/index.m3u8
-#EXTINF:-1 tvg-id="🇻🇳| VTC Digital - VOV" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
+#EXTINF:-1 tvg-id="vtc4hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
 http://thvip.site/360/198/index.m3u8
-#EXTINF:-1 tvg-id="🇻🇳| VTC Digital - VOV" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
+#EXTINF:-1 tvg-id="vtc5hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
 https://oipf0znpmnliv.vcdn.cloud/hls/vtc5/index.m3u8
 #http://thvip.site/360/199/index.m3u8
-#EXTINF:-1 tvg-id="🇻🇳| VTC Digital - VOV" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
+#EXTINF:-1 tvg-id="vtc6hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
 http://thvip.site/360/200/index.m3u8
-EXTINF:-1 tvg-id="🇻🇳| VTC Digital - VOV" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
+EXTINF:-1 tvg-id="vtc8hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
 http://thvip.site/360/202/index.m3u8
-#EXTINF:-1 tvg-id="🇻🇳| VTC Digital - VOV" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9
+#EXTINF:-1 tvg-id="vtc9hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9
 https://oipf0znpmnliv.vcdn.cloud/hls/vtc9/index.m3u8
 http://thvip.site/360/203/index.m3u8
-#EXTINF:-1 tvg-id="🇻🇳| VTC Digital - VOV" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10
+#EXTINF:-1 tvg-id="vtc10hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10
 http://thvip.site/360/204/index.m3u8
-#EXTINF:-1 tvg-id="🇻🇳| VTC Digital - VOV" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
+#EXTINF:-1 tvg-id="vtc11hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
 http://thvip.site/360/205/index.m3u8
-#EXTINF:-1 tvg-id="🇻🇳| VTC Digital - VOV" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16
+#EXTINF:-1 tvg-id="vtc16hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16
 http://thvip.site/360/18/index.m3u8
 
 ---------------------------------------Thiết yếu----------------------------------------
