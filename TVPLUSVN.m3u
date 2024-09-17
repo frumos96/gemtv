@@ -142,6 +142,7 @@ http://thvip.site/360/60/index.m3u8
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/12/q9t4h7r2_vtvcab3aff1eee1e3d3fe4b30ff5963e00b1305_296_168.webp" group-title="📦🍬 VTV💯🔔" ,ON SPORTS FHD 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://hqth.me/ONSPORT_DLK
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://tth.vn/Khichtv80-cab3-hd
@@ -158,7 +159,8 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://2576277975.global.cdnfastest.com/live/DUONGCHI/index.m3u8?expire=1861716660&sign=4a139bc4bf53f33f2fc13947d84e9dcd
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ONFUBOLNews B4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://hqth.me/ONSPORTSNEWS_DLK
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -251,7 +253,7 @@ http://113.162.44.19:8889/rtp/232.84.3.117:10654
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Little_Saigon_TV_logo.svg/254px-Little_Saigon_TV_logo.svg.png", Little Saigon TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 10) ExoPlayerLib/2.13.3
 https://59d39900ebfb8.streamlock.net/8298/8298/playlist.m3u8
-#EXTINF:-1  group-title = "🎬😜 Phim 🔍📣" tvg-logo = "https://vietprocast.relentlessinnovations.dev/uploads/tv_image/sm/ibc-tv.png",IBC TV HD
+#EXTINF:-1  group-title="🎬😜 Phim 🔍📣" tvg-logo = "https://vietprocast.relentlessinnovations.dev/uploads/tv_image/sm/ibc-tv.png",IBC TV HD
 https://live.relentlessinnovations.net:1936/ibc/ibc/playlist.m3u8
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-logo="https://static.wixstatic.com/media/b454b3_9f59027f4bef46d68ca91012930dd2f4~mv2.png", IVTV
 https://59d39900ebfb8.streamlock.net/8014/8014/playlist.m3u8
@@ -259,6 +261,8 @@ https://59d39900ebfb8.streamlock.net/8014/8014/playlist.m3u8
 https://live.relentlessinnovations.net:1936/saigontv/saigontv/playlist.m3u8
 #EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-logo="https://setchannel.tv/wp-content/uploads/2019/08/SET-web-logo.png",SET TV
 https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🎬😜 Phim 🔍📣" tvg-id="cinemaworld" tvg-logo="https://i.imgur.com/KcEAjUh.png",Cinema World HD
+http://ntdung.duckdns.org:27589/udp://225.1.1.142:30120
 #EXTINF:0 tvg-id="boxmovie1" group-title="🎬😜 Phim 🔍📣" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=https://sctvonline.vn/
@@ -775,11 +779,13 @@ http://204.194.65.49:9981/stream/channelid/419874070?ticket=8994994C9378AA31323B
 EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/300px-Logo_tvN.svg.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",tvN
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/51805
 #EXTINF:-1 tvg-id="Channel3.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD AIS_🇹🇭
-https://edge2a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+#https://edge2a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-59098.jpg",CH5 HD AIS_🇹🇭
 https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"   tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",CH7 HD AIS_🇹🇭
-https://edge2a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
+#https://edge2a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0012.png", ONE HD_🇹🇭
 https://edge2a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0006.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CH 8_🇹🇭
@@ -987,30 +993,6 @@ http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/4002/index.m3u8
 #EXTINF:-1 tvg-id="Clarity4K.us" tvg-name="Clarity ⁴ᵏ" tvg-logo="https://i.ibb.co/hHFBv1G/Clarity-cc.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",🍀| Clarity ⁴ᵏ
 #EXTVLCOPT:network-caching=1000
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:0 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-logo="https://i.ibb.co/pLr9bX3/Sky-Nature.png",🍀| SKY HIGH NATURE ⁴ᴷ HDR
-http://185.193.88.10/iptv/AHMQNVLWUTM5PW/14248/index.m3u8
-http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/14247/index.m3u8
-#EXTINF:0 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-logo="https://i.ibb.co/pLr9bX3/Sky-Nature.png",🍀| SKY HIGH NATURE ⁴ᴷ
-http://185.193.88.10/iptv/AHMQNVLWUTM5PW/14247/index.m3u8
-http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/14247/index.m3u8
-#EXTINF:0 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-logo="https://i.ibb.co/VLd5vpb/Quadro4k.png",🍀| Quadro ⁴ᴷ
-http://185.193.88.10/iptv/AHMQNVLWUTM5PW/19262/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.ibb.co/7JGXSC5/Bloomberg-Television.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",Bloomberg ⁴ᴷ
-https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
-#EXTINF:-1 tvg-id="digi" tvg-name="digi" tvg-logo="https://i.ibb.co/7QcdPTM/Digi.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",DIGI ⁴ᴷ
-http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/355192
-#EXTINF:0 group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉" tvg-id="2878" tvg-logo="http://epg.it999.ru/img/2878.png" tvg-rec="0",Sky Sport UHD DE
-http://185.193.88.10/iptv/AHMQNVLWUTM5PW/19044/index.m3u8
-#http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/19044/index.m3u8
-#EXTINF:-1 tvg-id="beIN4K.qa" tvg-logo="https://i.ibb.co/CQtjqCk/Be-IN-SPORTS-4-K-Logo.jpg" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",⚽ BeIN UHD ⁴ᴷ HDR
-http://doubleclicktv.live/70376812/52663544/327643
-#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-logo="https://i.ibb.co/zb84wJh/ziggo.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",Ziggo Sport ⁴ᴷ
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/31246/index.m3u8
-#EXTINF:-1 tvg-id="5SPORT.4K.[Sport.5.4K].il" tvg-name="SPORT5" tvg-logo="https://i.ibb.co/fFB348B/sport5.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",SPORT 5 ⁴ᴷ
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/16019/index.m3u8
-#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.ibb.co/44KZ1yK/elevensports1-4k-1-632x221-1.png" group-title="🎉🔥📺 4K 🇺 🇭 🇩🔒📣🎉",⚽ ElevenSport ⁴ᴷ
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/20068/index.m3u8
-#http://185.193.88.10/iptv/AHMQNVLWUTM5PW/20068/index.m3u8
 
 ---------------------------------------SPORT ASEAN----------------------------------------
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="👑 SPORT ASEAN🌏🔥",Astro SuperSport 1_🇲🇾 STL
