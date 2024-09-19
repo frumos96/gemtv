@@ -1160,12 +1160,22 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+#EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://i.imgur.com/3lUvO5p.png",ARENA SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+
+#EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://i.imgur.com/5OewfNe.png",ARENA SPORT 1X2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 #EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",SuperSport PSL
-https://7pal.short.gy/spersppsl
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18532&extension=ts
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",SuperSport Premier League_🇿🇦
-https://7pal.short.gy/spersppl
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",SuperSport Football_🇿🇦
-https://7pal.short.gy/sperspfb
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Матч! ФУТБОЛ 1 HD
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/2407/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Матч! ФУТБОЛ 2 HD
