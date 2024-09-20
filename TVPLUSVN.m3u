@@ -507,7 +507,7 @@ http://thvip.site/360/14/index.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/60.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 http://thvip.site/360/15/index.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="💛| HTV" logo="https://cdn.hqth.me/logo/thumbs/61.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcplus_4000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Plus HD
-http://m3u.at/htvc-plus-fhd?@/playlist.m3u8
+http://thvip.site/360/132/index.m3u8?htvcplus
 
 ---------------------------------------💙| VTC Digital💙----------------------------------------
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC Digital💙" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
@@ -1015,7 +1015,7 @@ https://iptv.stcwl.xyz/udp/239.10.0.102:1025
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5+.png" group-title="👑 SPORT ASEAN🌏🔥", CCTV5+ HD_🇨🇳
 http://120.77.28.4:8648/mgu.php?id=cctv5p
 https://iptv.stcwl.xyz/udp/239.20.0.203:2204
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="👑 SPORT ASEAN🌏🔥",风云足球-CCTV Fengyun Football
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="👑 SPORT ASEAN🌏🔥",风云足球-CCTV Fengyun Football🇨🇳
 http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 http://cfss.cc/cdn/hy/25725150.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="👑 SPORT ASEAN🌏🔥", PPTV HD AIS_🇹🇭
@@ -1096,10 +1096,7 @@ https://ddy6.mizhls.ru/ddy8/premium94/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy6.mizhls.ru/ddy8/premium99/tracks-v1a1/mono.m3u8
 #http://5.62.130.10:80/iptv/iptv/38
-#EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sport HD10_🇶🇦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://ddy6.mizhls.ru/ddy8/premium100/tracks-v1a1/mono.m3u8
+
 
 
 ---------------------------------------SPORT EUROPE----------------------------------------
@@ -1121,20 +1118,20 @@ http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/192288
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium571/index.m3u8
-#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="[PT] ELEVEN SPORTS 1 HD" tvg-logo="https://img.logo-cdn.cc/elevensports1.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",[PT] ELEVEN SPORTS 1 HD
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="[PT] ELEVEN SPORTS 1 HD" tvg-logo="https://img.logo-cdn.cc/elevensports1.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",ELEVEN SPORTS 1🇵🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy6.mizhls.ru/ddy6/premium455/tracks-v1a1/mono.m3u8
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/105656
-#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="[PT] ELEVEN SPORTS 2 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports2.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",[PT] ELEVEN SPORTS 2 FHD ◉ rec
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="[PT] ELEVEN SPORTS 2 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports2.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",ELEVEN SPORTS 2🇵🇹
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123805
-#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="[PT] ELEVEN SPORTS  3 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports3.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",[PT] ELEVEN SPORTS  3 FHD ◉ rec
+#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="[PT] ELEVEN SPORTS  3 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports3.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",ELEVEN SPORTS 3🇵🇹
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123806
-#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="[PT] ELEVEN SPORTS 4 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports4.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",[PT] ELEVEN SPORTS 4 FHD ◉ rec
+#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="[PT] ELEVEN SPORTS 4 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports4.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",ELEVEN SPORTS 4🇵🇹
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123807
-#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="[PT] ELEVEN SPORTS 5 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports5.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",[PT] ELEVEN SPORTS 5 FHD ◉ rec
+#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="[PT] ELEVEN SPORTS 5 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports5.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",ELEVEN SPORTS 5🇵🇹
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123808
-#EXTINF:-1 tvg-ID="elevensports6.pt" tvg-name="[PT] ELEVEN SPORTS 6 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports6.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",[PT] ELEVEN SPORTS 6 FHD ◉ rec
+#EXTINF:-1 tvg-ID="elevensports6.pt" tvg-name="[PT] ELEVEN SPORTS 6 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports6.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",ELEVEN SPORTS 6🇵🇹
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123809
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",CANAL+ FOOT HD web 🇫🇷
 http://eurogenius.pro:8080/trasmorenReSHARE1/85UtE6EnH2Nj/607740
@@ -1190,11 +1187,6 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-#EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://i.imgur.com/3lUvO5p.png",ARENA SPORT 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-
 
 #EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://i.imgur.com/5OewfNe.png",ARENA SPORT 1X2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1206,9 +1198,9 @@ http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18532&extension=
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",SuperSport Football_🇿🇦
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Матч! ФУТБОЛ 1 HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Матч! ФУТБОЛ 1🇷🇺
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/2407/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Матч! ФУТБОЛ 2 HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Матч! ФУТБОЛ 2🇷🇺
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/2420/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2005.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Матч! ФУТБОЛ 3 HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2005.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Матч! ФУТБОЛ 3🇷🇺
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/2408/index.m3u8
