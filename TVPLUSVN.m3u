@@ -119,7 +119,7 @@ http://thvip.site/360/194/index.m3u8
 #http://ntdung.duckdns.org:27589/udp/225.1.1.190:30120
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="💛| HTV" tvg-logo="https://i.ibb.co/kmMHzKJ/HTVTHETHAO.png", HTV THỂ THAO 360
 http://thvip.site/360/195/index.m3u8
-#EXTINF:0  group-title="📦🍬 VTV💯🔔" logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.webp", THTPCT | Cần Thơ
+#EXTINF:0  group-title="📦🍬 VTV💯🔔" logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.webp", THTPCT-Cần Thơ
 https://live.canthotv.vn/live/tv_web/chunklist.m3u8
 #EXTINF:0 tvg-id="vinhlong1hd" type="stream" channelId="-1" group-title="📦🍬 VTV💯🔔" logo="https://cdn.hqth.me/logo/thumbs/103.png" tvg-chno="41" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtNzIwcCIsImV4cCI6MTYzMjA1NzkzOX0.ZjZ3z2_rhWMYzMCmJp3paek9drRsC67UM4uJupr9bVs-/thvl1-720p/chunks_dvr_range-${start}-900.m3u8",THVL1ᴱᴺᵀᴱᴿᵀᴬᴵᴺᴹᴱᴺᵀ
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -139,7 +139,7 @@ http://thvip.site/360/60/index.m3u8
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/12/q9t4h7r2_vtvcab3aff1eee1e3d3fe4b30ff5963e00b1305_296_168.webp" group-title="📦🍬 VTV💯🔔" ,ᴼᴺSPORTS 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/ONSPORTHD
+http://gg.gg/ONFUBOL3
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://tth.vn/Khichtv80-cab3-hd
@@ -150,11 +150,11 @@ https://tth.vn/Khichtv80-cab3-hd
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://tth.vn/vtvcab-zbk-vtvcab6.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/22/7bzwc1y8_vtvcab16d94c489eda7dd7690cc161c53595f2d9_296_168.webp" group-title="📦🍬 VTV💯🔔" ,ᴼᴺFootball VIEON
+http://gg.gg/ONFUBOL16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://tth.vn/Cab16-hd
-https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8",ᴼᴺFUBOL News B4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/ONSPORT-NEWS
@@ -165,8 +165,6 @@ https://hqth.me/ONSPORTSNEWS_DLK
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://2576277975.global.cdnfastest.com/live/TONGGIANG/index.m3u8?expire=1861716660&sign=214edd9fdbd3ee8eecb2fdbe61e1cd69
-http://m3u.at/ONSPORT-NEWS
-http://m3u.at/vtvcab18-hd?-index.m3u8
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",ᴼᴺVie Giải trí
 http://thvip.site/360/180/index.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab1/index.m3u8
@@ -234,14 +232,12 @@ http://thvip.site/360/15/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://khanggtivi.xyz/vuminhthanh/vmt2024/axn/index.m3u8
 #EXTINF:0 tvg-id="axnhd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXNᴹᵒᵛⁱᵉˢ  (Only FPT)
-http://42.118.17.203:9898/udp/225.1.2.225:30120
 http://ntdung.duckdns.org:27589/udp/225.1.2.225:30120
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warnerᴹᵒᵛⁱᵉˢ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://khanggtivi.xyz/vuminhthanh/vmt2024/warnertv/index.m3u8
 http://125hvt.khanggtivi.xyz:21585/wbtv/index.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🎬😜 Phim 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warnerᴹᵒᵛⁱᵉˢ (Only FPT)
-http://42.118.17.203:9898/udp/225.1.1.139:30120
 http://ntdung.duckdns.org:27589/udp/225.1.4.14:30120
 #EXTINF:0 tvg-id="hbohd" group-title="🎬😜 Phim 🔍📣" logo="https://imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBOᴹᵒᵛⁱᵉˢ  FHD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -350,17 +346,14 @@ http://thvip.site/360/215/index.m3u8
 https://khanggtivi.xyz/vuminhthanh/vmt2024/discovery/index.m3u8
 #EXTINF:-1 group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asiaᴸᴵᶠᴱˢᵀᵞᴸᴱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://42.118.17.203:9898/udp/225.1.4.25:30120
 #http://ntdung.duckdns.org:27589/udp/225.1.4.25:30120
 http://ntdung.duckdns.org:27589/udp/225.1.2.223:30120
 https://khanggtivi.xyz/vuminhthanh/vmt2024/discoveryasia/index.m3u8
 #EXTINF:0 tvg-id="outdoorfhd" group-title="🌿⭐️ Lifestyle ⭐️🔍" logo="https://cdn.hqth.me/logo/thumbs/208.png", OutdoorChannelᴸᴵᶠᴱˢᵀᵞᴸᴱ
 http://thvip.site/360/216/index.m3u8
 #EXTINF:-1 group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earthᴸᴵᶠᴱˢᵀᵞᴸᴱ
-http://42.118.17.203:9898/udp/225.1.4.21:30120
 http://ntdung.duckdns.org:27589/udp/225.1.4.21:30120
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="🌿⭐️ Lifestyle ⭐️🔍" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBCᴸᴵᶠᴱˢᵀᵞᴸᴱ
-http://42.118.17.203:9898/udp/225.1.4.23:30120
 http://ntdung.duckdns.org:27589/udp/225.1.4.23:30120
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿⭐️ Lifestyle ⭐️🔍" logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTVᴸᴵᶠᴱˢᵀᵞᴸᴱ
 http://thvip.site/360/99/index.m3u8
