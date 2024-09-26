@@ -188,11 +188,9 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?|Referer=https://sct
 #EXTINF:-1 tvg-name="SPOTV" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#http://gamsgo.cyou:8080/658f1808/6f0671d0/165105
 #EXTINF:-1 tvg-name="SPOTV2" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-#http://gamsgo.cyou:8080/658f1808/6f0671d0/298506
 #EXTINF:-1 tvg-id="btv5hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://assets-.gviet.vn/images/hq/posters/onaction1.jpg",BTV5 -ᴼᴺSports Action
 https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1  #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
@@ -281,7 +279,7 @@ http://120.77.28.4:8648/mgu.php?id=cctv6
 http://118.81.48.104:8085/rtp/226.0.2.23:8096
 https://iptv.stcwl.xyz/udp/239.10.0.103:1025
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="🎬😜 Phim 🔍📣",IQYI🇲🇾ᴹᵒᵛⁱᵉˢ 
-https://sc2024.stream-link.org/live/42113158208.php?id=h769shs
+http://gg.gg/iQIYIMY
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/starmovies.png" group-title="🎬😜 Phim 🔍📣",STARᴹᵒᵛⁱᵉˢ🇮🇳
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/63511
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -1003,19 +1001,25 @@ http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/61793
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5+ HD🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12256/index.m3u8
-#EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="👑 SPORT ASEAN🌏🔥", CCTV5ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ_🇨🇳
+#EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="👑 SPORT ASEAN🌏🔥", CCTV5ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ🇨🇳
 http://120.77.28.4:8648/mgu.php?id=cctv5
 https://iptv.stcwl.xyz/udp/239.10.0.102:1025
-#EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5+.png" group-title="👑 SPORT ASEAN🌏🔥", CCTV5+ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ_🇨🇳
+#EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5+.png" group-title="👑 SPORT ASEAN🌏🔥", CCTV5+ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ🇨🇳
 http://120.77.28.4:8648/mgu.php?id=cctv5p
 https://iptv.stcwl.xyz/udp/239.20.0.203:2204
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="👑 SPORT ASEAN🌏🔥",风云足球-CCTV Fengyun Footballᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ🇨🇳
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="👑 SPORT ASEAN🌏🔥",风云足球-CCTV Fengyunᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ🇨🇳
 http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 http://cfss.cc/cdn/hy/25725150.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="👑 SPORT ASEAN🌏🔥", PPTVᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ_🇹🇭
 https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:-1 tvg-id="beinsports1" tvg-logo="https://i.ibb.co/mtGttGH/ccbein1.jpg" group-title="👑 SPORT ASEAN🌏🔥",BEIN Sports 1🇲🇾
+http://gg.gg/beIN1MY
+#EXTINF:-1 tvg-id="beinsports2" tvg-logo="https://i.ibb.co/KGSMWn6/ccbein2.png" group-title="👑 SPORT ASEAN🌏🔥",BEIN Sports 2🇲🇾
+http://gg.gg/beIN2MY
+#EXTINF:-1 tvg-id="beinsports3" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/bein-sports-3-4K.png" group-title="👑 SPORT ASEAN🌏🔥",BEIN Sports 3🇲🇾
+http://gg.gg/beIN3MY
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/9e/Sony_Sports_Ten_1_2022.png/revision/latest?cb=20221211181900" group-title="👑 SPORT ASEAN🌏🔥",SonySportsTen 1ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ_🇮🇳
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/63537
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/55284
