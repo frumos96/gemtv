@@ -1001,6 +1001,10 @@ http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/61793
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png" group-title="👑 SPORT ASEAN🌏🔥",YES Sport 5+ HD🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12256/index.m3u8
+#EXTINF:-1 group-title="👑 SPORT ASEAN🌏🔥" tvg-id="ksport1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png",K+ SPORT 1
+http://gg.gg/1c6f1z
+#EXTINF:-1 group-title="👑 SPORT ASEAN🌏🔥" tvg-id="ksport2hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-2.png", K+ SPORT 2
+http://gg.gg/1c6f0k
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="👑 SPORT ASEAN🌏🔥", CCTV5ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ🇨🇳
 http://120.77.28.4:8648/mgu.php?id=cctv5
 https://iptv.stcwl.xyz/udp/239.10.0.102:1025
@@ -1050,6 +1054,7 @@ http://gamsgo.cyou:8080/658f1808/6f0671d0/82628
 http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871
 #http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/55269
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-751.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sport1ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ_🇶🇦
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://ddy6.mizhls.ru/ddy6/premium91/tracks-v1a1/mono.m3u8
@@ -1060,6 +1065,7 @@ https://ddy6.mizhls.ru/ddy6/premium91/tracks-v1a1/mono.m3u8
 https://ddy6.mizhls.ru/ddy6/premium92/tracks-v1a1/mono.m3u8
 #http://5.62.130.10:80/iptv/iptv/29
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sport3ᴸᴬᴸᴵᴳᴬ_🇶🇦
+http://188.93.236.142:8080/live/431714716778004/68da21d2dca3/25108.m3u8?token=Q0FaWEpZFFsXU1dSAFVTUgQDUFNUD10FAAUFV1cHBgYIUFQBD1QFAA0VGEZGFUdTUl9qWwIVAlNXAgBcGENHQ10RbVBdEwxDAwINVARUFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRmYRceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://ddy6.mizhls.ru/ddy6/premium93/tracks-v1a1/mono.m3u8
@@ -1137,37 +1143,6 @@ http://eurogenius.pro:8080/trasmorenReSHARE1/85UtE6EnH2Nj/1019744
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/28084
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-360-2807.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",CANAL+ FOOT360web 🇫🇷
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/2789
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-name="Arena Sport 1" tvg-logo="https://i.postimg.cc/52XQDnv1/Arena-Sport-1-RS-logo.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Arena Sport 1  
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-name="Arena Sport 2" tvg-logo="https://i.postimg.cc/2yH3KZSV/Arena-Sport-2-RS-logo.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Arena Sport 2 
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-name="Arena Sport 3" tvg-logo="https://i.postimg.cc/MGyH84Gk/Arena-Sport-3-RS-logo.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Arena Sport 3 
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" tvg-name="Arena Sport 4" tvg-logo="https://i.postimg.cc/T2HRBGcL/Arena-Sport-4-RS-logo.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Arena Sport 4 
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport5" tvg-name="Arena Sport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTwSm7jZwiQNk2yRW-UtLClBnGuhnbf43HQ&usqp=CAU" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Arena Sport 5
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 tvg-id="ArenaSport6" tvg-name="Arena Sport 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRFkHdFchk_UxdqI8spa0L7vRpjiSyu9MDA&usqp=CAU" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",Arena Sport 6  
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
-
 #EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺", ARENA SPORT PREMIUM 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1190,6 +1165,10 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+#EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-id="arena-sport-premier_league" tvg-logo="https://i.postimg.cc/QtJtqpZp/20231118-221613.png",Arena Sport Premier league
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",SuperSport PSL
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18532&extension=ts
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",SuperSport Premier League_🇿🇦
