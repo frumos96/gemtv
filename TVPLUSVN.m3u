@@ -746,10 +746,12 @@ http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
 #https://edge2a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-59098.jpg",CH5 HD AIS_🇹🇭
 https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🚩🚩🚩Foreign🚩🚩🚩"   tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",CH7 HD AIS_🇹🇭
 http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
 #https://edge2a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0012.png", ONE HD_🇹🇭
+https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 https://edge2a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0006.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",CH 8_🇹🇭
 https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
@@ -1065,7 +1067,8 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m
 http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 http://cfss.cc/cdn/hy/25725150.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="👑 SPORT ASEAN🌏🔥", PPTVᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ_🇹🇭
-https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/chunklist_w852002394_b1128000_slThai.m3u8
+#https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:-1 tvg-id="beinsports1" tvg-logo="https://i.ibb.co/mtGttGH/ccbein1.jpg" group-title="👑 SPORT ASEAN🌏🔥",BEIN Sports 1🇲🇾
