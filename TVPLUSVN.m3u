@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1 
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml" m3uautoload=2
-#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml" refresh="3600" m3uautoload=3  
+#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml" refresh="3600" m3uautoload=3  
 #EXTM3U url-tvg="https://epg.mammothtv.my.id/local/epg.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/arabiapremiumeng.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/india.xml,https://www.bevy.be/bevyfiles/poland.xml,https://www.bevy.be/bevyfiles/russia.xml,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml" refresh="3600" m3uautoload=4  
 #PLAYLISTINF:frumos96 version="v8"  url="https://s.id/ch4t3" url="https://s.id/90czia" url="http://gg.gg/ffshze" url="https://s.id/khichtivi" url="http://khanggtivi.xyz/" url="http://gg.gg/hieu3r" url="https://pastebin.com/raw/RZrz4tbG" url="https://www.thesportsdb.com/" url="https://www.sporteventz.com/en/"url="https://www.livesoccertv.com/" url="https://sport-tv-guide.live/" url="https://www.liveaugoal.com/" 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
@@ -1216,6 +1216,12 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 #EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-id="arena-sport-premier_league" tvg-logo="https://i.postimg.cc/QtJtqpZp/20231118-221613.png",Arena Sport Premier league
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9353&type=drm
+https://sritv.serv00.net/red/play.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
