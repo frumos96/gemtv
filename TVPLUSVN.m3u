@@ -1072,12 +1072,35 @@ http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/chunklist_w8520
 #https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:-1 tvg-id="beinsports1" tvg-logo="https://i.ibb.co/mtGttGH/ccbein1.jpg" group-title="👑 SPORT ASEAN🌏🔥",BEIN Sports 1🇲🇾
+#EXTINF:-1 tvg-id="beinsports1" tvg-logo="https://i.ibb.co/mtGttGH/ccbein1.jpg" group-title="👑 SPORT ASEAN🌏🔥",BEIN Sports¹ 🇲🇾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001
 http://gg.gg/beIN1MY
-#EXTINF:-1 tvg-id="beinsports2" tvg-logo="https://i.ibb.co/KGSMWn6/ccbein2.png" group-title="👑 SPORT ASEAN🌏🔥",BEIN Sports 2🇲🇾
+#EXTINF:-1 tvg-id="beinsports2" tvg-logo="https://i.ibb.co/KGSMWn6/ccbein2.png" group-title="👑 SPORT ASEAN🌏🔥",BEIN Sports² 🇲🇾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&tenantId=6001
 http://gg.gg/beIN2MY
-#EXTINF:-1 tvg-id="beinsports3" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/bein-sports-3-4K.png" group-title="👑 SPORT ASEAN🌏🔥",BEIN Sports 3🇲🇾
+#EXTINF:-1 tvg-id="beinsports3" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png" group-title="👑 SPORT ASEAN🌏🔥",BEIN Sports³ 🇲🇾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
 http://gg.gg/beIN3MY
+#EXTINF:-1 tvg-id="beinsports4" tvg-logo="https://i.ibb.co/wLGqW0B/bein4.png" group-title="👑 SPORT ASEAN🌏🔥",BEIN Sports⁴ 🇲🇾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
+
+
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/9e/Sony_Sports_Ten_1_2022.png/revision/latest?cb=20221211181900" group-title="👑 SPORT ASEAN🌏🔥",SS Ten¹ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ_🇮🇳
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/63537
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/55284
@@ -1111,50 +1134,60 @@ http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ddy6.mizhls.ru/ddy6/premium91/tracks-v1a1/mono.m3u8
+https://webhdrunns.mizhls.ru/lb/premium91/index.m3u8
 #http://5.62.130.10:80/iptv/iptv/28
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sport2ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ_🇶🇦
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ddy6.mizhls.ru/ddy6/premium92/tracks-v1a1/mono.m3u8
+https://webhdrunns.mizhls.ru/lb/premium92/index.m3u8
 #http://5.62.130.10:80/iptv/iptv/29
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sport3ᴸᴬᴸᴵᴳᴬ_🇶🇦
-http://188.93.236.142:8080/live/431714716778004/68da21d2dca3/25108.m3u8?token=Q0FaWEpZFFsXU1dSAFVTUgQDUFNUD10FAAUFV1cHBgYIUFQBD1QFAA0VGEZGFUdTUl9qWwIVAlNXAgBcGENHQ10RbVBdEwxDAwINVARUFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRmYRceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/901.ts
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ddy6.mizhls.ru/ddy6/premium93/tracks-v1a1/mono.m3u8
+https://webhdrunns.mizhls.ru/lb/premium93/index.m3u8
 #http://5.62.130.10:80/iptv/iptv/32
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sport4ᴸᴵᴳᵁᴱ ¹_🇶🇦
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/902.ts
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ddy6.mizhls.ru/ddy6/premium94/tracks-v1a1/mono.m3u8
+https://webhdrunns.mizhls.ru/lb/premium94/index.m3u8
 #http://5.62.130.10:80/iptv/iptv/33
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sport5ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ_🇶🇦
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/905.ts
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ddy6.mizhls.ru/ddy6/premium95/tracks-v1a1/mono.m3u8
+https://webhdrunns.mizhls.ru/lb/premium95/index.m3u8
 #http://5.62.130.10:80/iptv/iptv/34
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sport6_🇶🇦
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/904.ts
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ddy6.mizhls.ru/ddy6/premium96/tracks-v1a1/mono.m3u8
+https://webhdrunns.mizhls.ru/lb/premium96/index.m3u8
 #http://5.62.130.10:80/iptv/iptv/35
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sport7_🇶🇦
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/907.ts
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ddy6.mizhls.ru/ddy6/premium97/tracks-v1a1/mono.m3u8
+https://webhdrunns.mizhls.ru/lb/premium97/index.m3u8
 #http://5.62.130.10:80/iptv/iptv/36
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-8-qa-2870.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sport8ᴸᴬᴸᴵᴳᴬ_🇶🇦
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/906.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://ddy6.mizhls.ru/ddy8/premium94/tracks-v1a1/mono.m3u8
+https://webhdrunns.mizhls.ru/lb/premium98/index.m3u8
 #http://5.62.130.10:80/iptv/iptv/37
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-9-qa-2871.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sport9_🇶🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://ddy6.mizhls.ru/ddy8/premium99/tracks-v1a1/mono.m3u8
+https://webhdrunns.mizhls.ru/lb/premium99/index.m3u8
 #http://5.62.130.10:80/iptv/iptv/38
-
+#EXTINF:-1 tvg-name="beIN Sports MENA English 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sports MENA English 1
+https://webhdrunns.mizhls.ru/lb/premium61/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="beIN Sports MENA English 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sports MENA English 2
+https://webhdrunns.mizhls.ru/lb/premium90/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="beIN Sports MENA English 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-english-3-1168.png" group-title="👑 SPORT ASEAN🌏🔥",beIN Sports MENA English 3
+https://webhdrunns.mizhls.ru/lb/premium46/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
 ---------------------------------------SPORT EUROPE----------------------------------------
@@ -1175,11 +1208,19 @@ http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/192288
 #EXTINF:-1 tvg-name="SportDigital Fussball" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png",SportDigital Fussball
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://ddy6.mizhls.ru/ddy6/premium571/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium571/index.m3u8
+#EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-1-589.png",PLAY FUBOL1 🇧🇪
+http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/52359 
+#EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-2-590.png",PLAY FUBOL2 🇧🇪
+http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/52360
+#EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-3-591.png",PLAY FUBOL3 🇧🇪
+http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/52361
+#EXTINF:-1 group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺" tvg-logo="https://img.logo-cdn.cc//dazn2.png",DAZN 2 🇪🇸 
+
 #EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="[PT] ELEVEN SPORTS 1 HD" tvg-logo="https://img.logo-cdn.cc/elevensports1.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",ELEVEN SPORTS 1🇵🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://ddy6.mizhls.ru/ddy6/premium455/tracks-v1a1/mono.m3u8
+https://webhdrunns.mizhls.ru/lb/premium455/index.m3u8
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/105656
 #EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="[PT] ELEVEN SPORTS 2 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports2.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",ELEVEN SPORTS 2🇵🇹
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123805
@@ -1192,10 +1233,9 @@ http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123808
 #EXTINF:-1 tvg-ID="elevensports6.pt" tvg-name="[PT] ELEVEN SPORTS 6 FHD ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports6.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",ELEVEN SPORTS 6🇵🇹
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123809
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",CANAL+ FOOTweb 🇫🇷
-http://eurogenius.pro:8080/trasmorenReSHARE1/85UtE6EnH2Nj/607740
-http://eurogenius.pro:8080/trasmorenReSHARE1/85UtE6EnH2Nj/1019744
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/28084
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-360-2807.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺",CANAL+ FOOT360web 🇫🇷
+http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/54738
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/2789
 #EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="⚽⭕️💢 SPORT EUROPE ⭕️💢🇪🇺", ARENA SPORT PREMIUM 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
