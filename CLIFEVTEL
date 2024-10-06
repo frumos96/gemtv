@@ -1,5 +1,0 @@
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MV8ujwcLhmzMHUe2aOkDfA", "kid":"kDBhyh+FTHyrWNVYgcatoQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live-zlr1.tv360.vn/manifest/K-PLUS-NS-HD-50fps/master.mpd?timestamp=1683260235&token=3d0da806ad8866d0393cd8934a2988bb&manifestfilter=video_bitrate:1-3600000&uid=17702071
