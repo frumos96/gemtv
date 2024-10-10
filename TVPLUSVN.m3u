@@ -1126,11 +1126,13 @@ http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/664805
 #EXTINF:-1 group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN⁴ᴷ 
 https://7pal.short.gy/bein-uhd
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-751.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",beIN Sport1ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ_🇶🇦
+https://tinyurl.com/Bein1QA
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://webhdrunns.mizhls.ru/lb/premium91/index.m3u8
 #http://5.62.130.10:80/iptv/iptv/28
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",beIN Sport2ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ_🇶🇦
+https://tinyurl.com/BEINF2QA
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://webhdrunns.mizhls.ru/lb/premium92/index.m3u8
@@ -1176,13 +1178,6 @@ https://webhdrunns.mizhls.ru/lb/premium98/index.m3u8
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium99/index.m3u8
 #http://5.62.130.10:80/iptv/iptv/38
-#EXTINF:-1 tvg-name="beIN Sports MENA English 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",beIN Sports MENA English 1
-https://webhdrunns.mizhls.ru/lb/premium61/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="beIN Sports MENA English 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",beIN Sports MENA English 2
-https://webhdrunns.mizhls.ru/lb/premium90/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="beIN Sports MENA English 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-english-3-1168.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",beIN Sports MENA English 3
-https://webhdrunns.mizhls.ru/lb/premium46/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
 
 ---------------------------------------SPORT EUROPE----------------------------------------
 #EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-vamos-1601.png",#Vamos 🇪🇸
@@ -1263,6 +1258,14 @@ https://sritv.serv00.net/red/play.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-super-sport-1-691.png",Super Sport 1🇦🇱
+https://tinyurl.com/SS01AL
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-super-sport-2-692.png",Super Sport 2🇦🇱
+https://tinyurl.com/SS02AL
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-super-sport-3-693.png",Super Sport 3🇦🇱
+https://tinyurl.com/SS03AL
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-super-sport-3-693.png",Super Sport 3🇦🇱
+https://tinyurl.com/SS04AL
 #EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport PSL
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18532&extension=ts
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport Premier League_🇿🇦
