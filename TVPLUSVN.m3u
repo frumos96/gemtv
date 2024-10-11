@@ -243,6 +243,7 @@ http://ntdung.duckdns.org:27589/udp/225.1.4.14:30120
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:0 tvg-id="maxhd" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" logo="https://i.imgur.com/F0N0TmU.jpg",Cinemaxᴹᵒᵛⁱᵉˢ 
+https://tth.vn/cinemax720p
 http://magmas5.com:8000/gooodseerveriptv/X7MY8691HH/131025
 #EXTINF:-1 group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Little_Saigon_TV_logo.svg/254px-Little_Saigon_TV_logo.svg.png",Little Saigon TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 10) ExoPlayerLib/2.13.3
@@ -296,6 +297,9 @@ https://live.hkdvb.com/hls/live/96.m3u8?token=680446446396170
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/7231/index.m3u8
 #EXTINF:-1 tvg-id="GOLDEN-plus" tvg-logo="https://www.tvplusgratis.com/imge/goldenplus.png"  group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",GOLDEN PLUS en Vivo🇧🇷
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/101221
+#EXTINF:-1 tvg-id="cinemaworld" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", Cinema World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/cinemaworld720p
 #EXTINF:-1 group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" tvg-logo="https://th.bing.com/th/id/R.c8476c526f4e39285fb72b98f1885d5b?rik=XoubR7DCFNXwfA&pid=ImgRaw&r=0",Hallmark Channel 🇺🇸
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/3125
 #EXTINF:-1 tvg-logo="https://iplogger.com/hallmarklog0" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",Hallmarkᴹᵒᵛⁱᵉˢ & Mysteries 🇺🇸
