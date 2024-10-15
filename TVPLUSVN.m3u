@@ -1026,11 +1026,12 @@ http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/61793
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",YES Sport 5+ HD🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12256/index.m3u8
-#EXTINF:-1 group-title="👑🎉 🌏ASIA FUOL📺🔥🎉" tvg-id="ksport1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-1.png",FUBOL+ 1
-http://gg.gg/1c6f1z
-#EXTINF:-1 group-title="👑🎉 🌏ASIA FUOL📺🔥🎉" tvg-id="ksport2hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/k-sport-2.png",FUBOL+ 2
-http://is.am/5mf7/khichtivi/k+3/index.m3u8 
-http://gg.gg/1c6f0k
+#EXTINF:-1 tvg-id="99" tvg-name="NOW新聞台" tvg-logo="https://www.nowtv.now.com/media/s-logo/630_e.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", NOW Sports Prime🇭🇰
+https://live.hkdvb.com/hls/live/630.m3u8?token=680446446318360
+#EXTINF:-1 tvg-id="99" tvg-name="NOW新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", NOW Sports Premier League🇭🇰
+https://live.hkdvb.com/hls/live/621.m3u8?token=680446446318360
+#EXTINF:-1 tvg-id="99" tvg-name="NOW新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", NOW Sports 632 (La Liga)🇭🇰
+https://live.hkdvb.com/hls/live/632.m3u8?token=680446446318360
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", CCTV5ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ🇨🇳
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5+.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", CCTV5+ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ🇨🇳
