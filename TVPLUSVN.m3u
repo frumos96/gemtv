@@ -171,9 +171,11 @@ https://thvip.site/360/182/index.m3u8
 https://thvip.site/360/177/index.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="💚ˢᶜᵗᵛ💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png",ˢᶜᵗᵛ15 SSPORT2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://103.171.91.5/play/u2p_e4wGSh0vafm-3bmTbKJiKMjo5cCycWahXI1Ip64/ts
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv17hd" group-title="💚ˢᶜᵗᵛ💚" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png",ˢᶜᵗᵛ17 SSPORT
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-name="SPOTV" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -1000,6 +1002,14 @@ http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1719
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",Astro SuperSport 5 _🇲🇾
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1713
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Astro_Premier_League.svg/revision/latest/scale-to-width-down/1000?cb=20241016162457" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",Astroᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ 1_🇲🇾 STL
+http://iptv12k.com:35461/654321/123456/972
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/300px-Astro_Premier_League_1_%282024%29.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",Astroᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ 2_🇲🇾 STL
+http://iptv12k.com:35461/654321/123456/971
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/300px-Astro_Grandstand_%282024%29.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",Astro Grandstand_🇲🇾 STL
+http://iptv12k.com:35461/654321/123456/970
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",Astro Football_🇲🇾 STL
+http://iptv12k.com:35461/654321/123456/969
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",YES Sport 1 HD🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12249/index.m3u8
@@ -1234,11 +1244,17 @@ https://tinyurl.com/SS03AL
 #EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-super-sport-3-693.png",Super Sport 3🇦🇱
 https://tinyurl.com/SS04AL
 #EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport PSL
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18532&extension=ts
+http://iptv12k.com:35461/654321/123456/5006
+http://iptv12k.com:35461/654321/123456/5666
+#http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18532&extension=ts
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport Premier League_🇿🇦
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
+http://iptv12k.com:35461/654321/123456/5005
+http://iptv12k.com:35461/654321/123456/5671
+#http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport Football_🇿🇦
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
+http://iptv12k.com:35461/654321/123456/5003
+http://iptv12k.com:35461/654321/123456/5670
+#http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",Матч! ФУТБОЛ 1🇷🇺
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/2407/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",Матч! ФУТБОЛ 2ᴸᴬᴸᴵᴳᴬ🇷🇺
