@@ -1185,12 +1185,23 @@ http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/192288
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://webhdrunns.mizhls.ru/lb/premium571/index.m3u8
 #EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-1-589.png",PLAY FUBOL1 🇧🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
 http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/52359 
 #EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-2-590.png",PLAY FUBOL2 🇧🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd  
 http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/52360
 #EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-play-sports-3-591.png",PLAY FUBOL3 🇧🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd 
 http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/52361
-#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img.logo-cdn.cc//dazn2.png",DAZN 2 🇪🇸 
 
 #EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="[PT] ELEVEN SPORTS 1 HD" tvg-logo="https://img.logo-cdn.cc/elevensports1.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",DAZN ¹🇵🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
