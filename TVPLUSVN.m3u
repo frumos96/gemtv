@@ -698,13 +698,26 @@ https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/in
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/330px-MBC_Drama_Plus_TV_Channel_Logo.png",MBC+ Drama🇦🇪
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC🇺🇸
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61387&extension=ts&play_token=Tl9MpGzhEz&sn2=
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium53/index.m3u8
+##http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61387&extension=ts&play_token=Tl9MpGzhEz&sn2=
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS🇺🇸
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61465&extension=ts&play_token=JvDex2QUYX&sn2=
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium52/index.m3u8
+##http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61465&extension=ts&play_token=JvDex2QUYX&sn2=
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC🇺🇸
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61430&extension=ts&play_token=hYEPk43PWu&sn2=
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium51/index.m3u8
+##http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61430&extension=ts&play_token=hYEPk43PWu&sn2=
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX🇺🇸
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61403&extension=ts&play_token=xhDFDIaqFh&sn2=
+
+##http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61403&extension=ts&play_token=xhDFDIaqFh&sn2=
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",北京卫视 Bắc Kinh🇨🇳
 http://iptv12k.com:35461/654321/123456/1312
 http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&livodToken=43dbb4a601652fcaea2ddbd73cd2f2f488aff86faee350276951eadd10dfb441_1720508364_604800&fromCDN=ws
@@ -1104,23 +1117,20 @@ http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/664805
 #EXTINF:-1 group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/143A81D2-1039-4A83-8C5F-5E1E207AC977.png",BeIN⁴ᴷ 
 https://7pal.short.gy/bein-uhd
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-751.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",beINS1ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ_🇶🇦
-https://tinyurl.com/Bein1QA
+http://ktv.im:8080/kk56712/kk12345/49522
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://webhdrunns.mizhls.ru/lb/premium91/index.m3u8
-#http://5.62.130.10:80/iptv/iptv/28
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",beINS2ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ_🇶🇦
-https://tinyurl.com/BEINF2QA
+http://ktv.im:8080/kk56712/kk12345/49523
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://webhdrunns.mizhls.ru/lb/premium92/index.m3u8
-#http://5.62.130.10:80/iptv/iptv/29
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",beINS3ᴸᴬᴸᴵᴳᴬ_🇶🇦
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/901.ts
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://webhdrunns.mizhls.ru/lb/premium93/index.m3u8
-#http://5.62.130.10:80/iptv/iptv/32
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",beINS4ᴸᴵᴳᵁᴱ ¹_🇶🇦
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/902.ts
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
@@ -1132,30 +1142,25 @@ http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/905.ts
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://webhdrunns.mizhls.ru/lb/premium95/index.m3u8
-#http://5.62.130.10:80/iptv/iptv/34
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",beINS6_🇶🇦
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/904.ts
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://webhdrunns.mizhls.ru/lb/premium96/index.m3u8
-#http://5.62.130.10:80/iptv/iptv/35
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",beINS7_🇶🇦
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/907.ts
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://webhdrunns.mizhls.ru/lb/premium97/index.m3u8
-#http://5.62.130.10:80/iptv/iptv/36
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-8-qa-2870.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",beINS8ᴸᴬᴸᴵᴳᴬ_🇶🇦
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/906.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium98/index.m3u8
-#http://5.62.130.10:80/iptv/iptv/37
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-9-qa-2871.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",beINS9_🇶🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium99/index.m3u8
-#http://5.62.130.10:80/iptv/iptv/38
 
 ---------------------------------------SPORT EUROPE----------------------------------------
 #EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-vamos-1601.png",#Vamos 🇪🇸
