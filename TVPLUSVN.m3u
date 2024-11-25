@@ -761,6 +761,7 @@ http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:0 group-title="🚩🚩🚩Foreign🚩🚩🚩" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/2560px-KBS_DRAMA.svg.png", KBSDRAMA_🇰🇷
 http://mytv.dothome.co.kr/ch/catv/2.php/.m3u8
 #EXTINF:0 group-title="🚩🚩🚩Foreign🚩🚩🚩" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/300px-Munhwa_Broadcasting_Company.svg.png",MBC_🇰🇷
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 http://gg.gg/MBCKOREA
 #EXTINF:0 group-title="🚩🚩🚩Foreign🚩🚩🚩" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/300px-Seoul_Broadcasting_System_logo.svg.png", SBS_🇰🇷 
 http://204.194.65.49:9981/stream/channelid/419874070?ticket=8994994C9378AA31323B92C6EF6C38EB63CC7F01&profile=pass
@@ -962,6 +963,7 @@ http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=Fif
 #EXTINF:-1 tvg-logo="https://www.liveaugoal.com/images/tv/migu.png" group-title="📣🔴Livestream📌♾💟",咪咕²⁹ 🇨🇳
 http://111.13.111.242/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-usa-network-74.png",USA Network
+https://7pal.short.gy/usanetwork
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/69239
 http://pal.alphatx.me:80/play/live.php?mac=00:1B:79:42:DD:FD&stream=45466&extension=ts&play_token=gZrEUoNLRE
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",SkySportsᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ UK
@@ -1001,16 +1003,22 @@ http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12253/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-live-1027.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",YES Sport 5 Live HD🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12254/index.m3u8
-http://gamsgo.cyou:8080/658f1808/6f0671d0/91281
+###http://gamsgo.cyou:8080/658f1808/6f0671d0/91281
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-stars-1828.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",YES Sport 5 Stars HD🇮🇱
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12255/index.m3u8
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",YES Sport 5+ HD🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12256/index.m3u8
+#EXTINF:-1 tvg-id="630" tvg-name="NOW新聞台" tvg-logo="https://www.nowtv.now.com/media/s-logo/630_e.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", NOW Sports Prime🇭🇰
+https://live.hkdvb.com/hls/live/630.m3u8?token=680446446303541
 #EXTINF:-1 tvg-id="99" tvg-name="NOW新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", NOW Sports Premier League🇭🇰
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
+https://live.hkdvb.com/hls/live/621.m3u8?token=680446446303541
+###http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
+#EXTINF:-1 tvg-id="632" tvg-name="NOW新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", NOW Sports 632 (La Liga)🇭🇰
+https://live.hkdvb.com/hls/live/632.m3u8?token=680446446303541
 #EXTINF:-1 tvg-id="99" tvg-name="NOW新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", Hub Premier 2⁴
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
+https://7pal.short.gy/HubP2uhd
+###http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", CCTV5ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ🇨🇳
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0a8daf617d4530fe59311611a96dcccfd6a7c054c880e8d1cef242c8da5f0a32_1720507885_604800&fromCDN=ws
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5+.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", CCTV5+ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ🇨🇳
@@ -1279,15 +1287,15 @@ https://tinyurl.com/SS04AL
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/2457701096.m3u8
-#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport PSL
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport PSL
 http://iptv12k.com:35461/654321/123456/5006
 http://iptv12k.com:35461/654321/123456/5666
 #http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18532&extension=ts
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport Premier League_🇿🇦
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport Premier League_🇿🇦
 http://iptv12k.com:35461/654321/123456/5005
 http://iptv12k.com:35461/654321/123456/5671
 #http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
-#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport Football_🇿🇦
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport Football_🇿🇦
 http://iptv12k.com:35461/654321/123456/5003
 http://iptv12k.com:35461/654321/123456/5670
 #http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
