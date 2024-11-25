@@ -844,15 +844,11 @@ https://tv.TruyenHinh.Click/CoBan/tv360.sk8/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_480_270.png", TV360+9
 https://tv.TruyenHinh.Click/CoBan/tv360.sk9/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Lvtt1.jpg",LVTT
-https://doitac.nekocdn.xyz/LVTTTV/index.m3u8
+http://37.27.111.214:8080/live/13/hls.m3u8
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/KPTTV.jpg",KPTTV
-https://doitac.nekocdn.xyz/KPTTV/index.m3u8
+http://37.27.111.214:8080/live/14/hls.m3u8
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Tpv1hd.jpg",TPV
-https://doitac.nekocdn.xyz/TPV/index.m3u8
-#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/HostWeekly.jpg",Host Weekly
-https://doitac.nekocdn.xyz/HostWeekly/index.m3u8
-#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://static.wikia.nocookie.net/central/images/b/b3/Host_media.png/revision/latest?cb=20240221105022",HNMAVIDEO
-https://doitac.nekocdn.xyz/HMNAV/index.m3u8
+http://37.27.111.214:8080/live/15/hls.m3u8
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Cá Heo
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@caheohd1.flv
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://thethaoso.com/wp-content/uploads/2021/12/cakhia-tv.jpg", CAKHIA Meo
