@@ -310,7 +310,9 @@ http://grandprix2023.asuscomm.com:8889/bysid/96
 #EXTINF:-1 group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" tvg-id="4462" tvg-logo="http://epg.it999.ru/img/4462.png" tvg-rec="0",SkyRomanceᴱᴺᵀᴱᴿᵀᴬᴵᴺᴹᴱᴺᵀ🇩🇪
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/7231/index.m3u8
 #EXTINF:-1 tvg-id="GOLDEN-plus" tvg-logo="https://www.tvplusgratis.com/imge/goldenplus.png"  group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",GOLDEN PLUS en Vivo🇧🇷
-http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/101221
+http://45.11.57.156:8000/live/Lapsus0OO22x1x/03987ClI1119mx22x/150101.m3u8
+http://45.11.57.156:8000/live/Lapsus0OO22x1x/03987ClI1119mx22x/3648.m3u8
+#http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/101221
 #EXTINF:-1 tvg-id="cinemaworld" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://antm.dynu.net:14285/rtp/232.84.1.44:8244
@@ -724,7 +726,8 @@ http://de1se01.v2beat.live/playlist.m3u8
 
 ---------------------------------------🚩🚩🚩Foreign🚩🚩🚩----------------------------------------
 #EXTINF:-1 tvg-id="A3Series" tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png" group-title="🚩🚩🚩Foreign🚩🚩🚩", A3Series🇪🇸
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B6:3E:1F&stream=55431&extension=ts&play_token=wXoVLiEihz&sn2=
+http://45.11.57.156:8000/live/Lapsus0OO22x1x/03987ClI1119mx22x/126387.m3u8
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:B6:3E:1F&stream=55431&extension=ts&play_token=wXoVLiEihz&sn2=
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/240px-Mbc1logo.png",MBC🇦🇪
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
