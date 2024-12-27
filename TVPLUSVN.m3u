@@ -219,6 +219,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE SCTV
+http://125hvt.ddns.net:21585/kcine/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8
 #EXTINF:-1 tvg-id="kactionhd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION SCTV 
@@ -279,7 +280,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=235
 https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=235
 https://ott1.sgchill.io.vn/backend/vmttv/ancaplinklasucvat/source/tv360/235/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",CCTV6ᴹᵒᵛⁱᵉˢ 
-https://api.livednow.org/migu/624878396?sign=gAAAAABnJQaJafJqq1eWb8YmhIWea1BS9BlQm0THH7VeWxGuy9oIaVhxRoQGvRPC-iQttxfNt5XSy62Oco3v1dSK-jdfE1qRupSKEzzTsZWSkF4e9V0v58yLJjL2Sr384xl2FjlXju88V6DFU2wzKE8l15OOOXjYXfQ4kipX0eskqYM5rW4lRm00T5-RcbMV-pRaZP2GY4xrLmFu89SiW_BrBoZSkzWtQw%3D%3D
+https://www.freetv.top/migu/624878396.m3u8?migutoken=3638b426669ed9e6dcdc0c1b9dac688bbbb9ce27ae997cafed48aedebaaac4f3ce0386fdf5f633c9d0b54dfec8100f11c55b6ad9c8f7a903ca3e404e3658b994b37f2d32f11e670da41c4b53f2
 http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=426917&extension=ts&play_token=uq54xOYACl
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",IQYI🇲🇾ᴹᵒᵛⁱᵉˢ 
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37349
@@ -386,9 +387,9 @@ https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=99
 #EXTINF:-1 tvg-id="historyhd" tvg-name="History" tvg-logo="https://i.ibb.co/d2dJNWn/cchistory.webp" group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿",🍀|History³⁶⁰ᴸᴵᶠᴱˢᵀᵞᴸᴱ
 https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=9856
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿",CCTV9🇨🇳
-https://api.livednow.org/migu/673168140?sign=gAAAAABnJQaJczaFD2Dm0MiUA7gPLnjJXYK_gyl5Pu_u8p9OeYI-ehJ0xsJlAFrfJb8lI5Z_jS7MfLv0KOxdV3pPKjwa3rLV--1PEX4w7kHKnKaIiHFThRd01Jh2r4jqqbkUYs25h18hcG-P8cslcwXdTsVWXkYLU9LXZ1b2phkDNocgaNhqF4tdjiFUquYmsFv4wo4mnhECNUQEDIZlrBSCI8ern_wZ9A%3D%3D
+https://www.freetv.top/migu/673168140.m3u8?migutoken=0da58ce201ccbaa27adea8bad67c52c5982d593a4a81c4ad50f52378e1195084ebc7af82791a319d9d68933866d72de7168332e6884503ab10c0fadb12bf6d5edf08d16b45cc379df009de1e82
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿",CCTV10🇨🇳
-https://api.livednow.org/migu/624878405?sign=gAAAAABnJQaJuIaAkfwyvkmIxWlIPJtomu4qPzobFL9l9ysmXRk59f2VlbULRaMO4vhaMi5eyEAAROZ93s86jMVz_WelsWSh_TS6kEfuiYQ0ZPWT0gX7zh9TPVYZuB0F6EpWdC4j20-GqftXNQrXtJ8ynbL5E07YLhDypdySrTTqYmkDHzw3GVzmAChOlc4pkOTtMACSy6FG1I9yjQYQsK-DICeXCzOpNA%3D%3D
+https://www.freetv.top/migu/624878405.m3u8?migutoken=b17c936db85883119acd55fde071a88249d655dd6e2020f6b8870fad7f56b265ce23b34544faeec3a81ed5e572453118c83563098ec78770a94cd56bfe5f7de4aba6a8aafd509d925d313dcb4a
 #EXTINF:0 group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png",Canal Offᴸᴵᶠᴱˢᵀᵞᴸᴱ
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/101711
 #EXTINF:-1 tvg-id="arirang" group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirangᴸᴵᶠᴱˢᵀᵞᴸᴱ
@@ -538,16 +539,22 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=9
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="💛| HTV" tvg-logo="https://i.ibb.co/kmMHzKJ/HTVTHETHAO.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV THỂ THAO
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=195
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/55.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt 
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=13
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/56.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Gia đình 
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=11
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/57.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcphunu_4000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phụ nữ 
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=12
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/58.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcdulich_4000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Du lịch Cuộc sống 
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=133
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/59.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmusic_4000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Ca nhạc 
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=14
 #EXTINF:-1 tvg-id="htvcplushd" group-title="💛| HTV" logo="https://cdn.hqth.me/logo/thumbs/61.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcplus_4000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Plus HD
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=132
 
 ---------------------------------------💙| VTC Digital💙----------------------------------------
@@ -714,10 +721,11 @@ https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg" group-title="🎵|Music",Music°On! TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="http://n.ysyz.top:99/buyaolian/cctv15.png", CCTV15🇨🇳 音乐HD
-https://api.livednow.org/migu/673168223?sign=gAAAAABnJQaJTAdjyIunNB2htwEBLRb1FYBlzi1bvKtpu8FjDxoPOpUf3Zm4Ig0OoWdjhRA_QznhrTYz5QZIUMdeWAj5OAsBnz5kpaUh8AA72K2nGcP7wOnk6rMos9fFv4W1DKH3MlJLbkeJbBPqPS7GhcN-rcvjfFq_98SiwLhUaxbAQRClt0i1YM3K-w8VjyZxK4GdvpgTgF6F9zsPDnKpvZasWTg0tg%3D%3D
+https://www.freetv.top/migu/673168223.m3u8?migutoken=c2619f77bbfe7eab7639a9a2dca845dac85dca21cadbaf4aeeb270463ef2fc93b1f4df20e4a62a348b11629d72b1ca86c849e9ed49143129d29d604b5574e4ad894abf226d92f324c4729a82df
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="🎵|Music",Clubbingtv
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://i.imgur.com/FeFMOxH.png", MTV HD
+http://78.130.250.2:8023/play/a022/index.m3u8
 http://magmas5.com:8000/gooodseerveriptv/X7MY8691HH/131318
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="https://static.vecteezy.com/system/resources/previews/006/249/962/non_2x/music-logo-icon-initial-letter-z-music-logo-design-template-element-vector.jpg", Z! MUSIC HD
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/14138/index.m3u8
@@ -1059,9 +1067,9 @@ http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12255/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/12256/index.m3u8
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", CCTV5ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ🇨🇳
-https://api.livednow.org/migu/641886683?sign=gAAAAABnJQaJQR1RWvJdO-lcstWeo8ynxrCpkpk2ab-EDA3Mhvi3h_ISCmtysyMTO4m54zF4MCSaEnrjtLr06Bb88e3yFYCfgZ8CAd3er1KmU84rx3TuvFObIXVEXq3aGw6fD8mlViOfns_jS-WNc95wl6Svxs-K6MQu_3InGlpxMzntNPtcHyQdMI4RdtLOCCTiSmsm84pMVzVZLwpTq4f3UiEnX2Ry9g%3D%3D
+https://www.freetv.top/migu/641886683.m3u8?migutoken=3be440b83940d80dff6d54171c96d0b639ad4e1b7d9ab42ddc0fd8625b1b886a8737247555702e5606c7071d3563932ff237cdbbd8fa7ae75e24bbdab5c6f0dccc571b4c64a56dc596c8ecb7e0
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5+.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", CCTV5+ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ🇨🇳
-https://api.livednow.org/migu/641886773?sign=gAAAAABnJQaJQbuxWhHsgahuYFW5zC6rbdu4E8aLKyFb6heHyySngE9y_cN8tWdKxA1kabgc8mQSVGDq1Bu6HYYjBp8hZ8oWg0U375ncxuDjV4D0R-w_90qd95qYFAg1NLoLnufukd9XK1rPaitS6MZQ9gE6XHaPKQQwFxXwlNT0Acxmug92V4uwkr4kpUFf6UcH-y1VKYynIhOD1UwRuYHSrZ56uHu7LQ%3D%3D
+https://www.freetv.top/migu/641886773.m3u8?migutoken=5237927f277b192ed9a5e3ae615ff4f891508f96f79be057c8e9f6c55cfdc4e0bc2c9c6a9ae64bc153e42f34a4306ec13b5f31664d5737fd0ca202577d01bf5e2609235f907074eeceaa2976e0
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",风云足球-CCTV Fengyunᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ🇨🇳
 http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 http://cfss.cc/cdn/hy/25725150.m3u8
