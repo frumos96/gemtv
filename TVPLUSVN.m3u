@@ -106,6 +106,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
 #http://gamsgo.cyou:8080/658f1808/6f0671d0/172002
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.imgur.com/L8fXB1M.png" group-title="📦🍬 VTV💯🔔" tvg-chno="29" ,HTV7ᴱᴺᵀᴱᴿᵀᴬᴵᴺᴹᴱᴺᵀ
+#EXTVLCOPT:http-referrer=https://hplus.com.vn/
 https://vc.101vn.com/htv/htvcmb.php?id=256
 https://stream1.freetv.fun/74ebca1cd0de4d4caf43a8ac7d0200ecf5af26a63775d90e78d83041de45094a.ctv
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/r2LgsYR/HTV9.png" group-title="📦🍬 VTV💯🔔" tvg-chno="30",HTV9ˢᶜᵗᵛ
@@ -113,9 +114,11 @@ https://stream1.freetv.fun/74ebca1cd0de4d4caf43a8ac7d0200ecf5af26a63775d90e78d83
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
 #EXTINF:0 tvg-id="htv9hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9ᴱᴺᵀᴱᴿᵀᴬᴵᴺᴹᴱᴺᵀ
+#EXTVLCOPT:http-referrer=https://hplus.com.vn/
 https://vc.101vn.com/htv/htvcmb.php?id=2667
 #http://ntdung.duckdns.org:27589/udp/225.1.1.190:30120
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="💛| HTV" tvg-logo="https://i.ibb.co/kmMHzKJ/HTVTHETHAO.png", HTV THỂ THAO 360
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=htvthethao&sct
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.165/test/123/playlist.mpegts
 http://antm.dynu.net:14285/rtp/232.84.3.88:11524
@@ -539,6 +542,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8?|Refere
 ---------------------------------------HTV----------------------------------------
 
 #EXTINF:-1 tvg-id="htv1" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/htv1/dvr-${start}-${offset}.m3u8", HTV1
+#EXTVLCOPT:http-referrer=https://hplus.com.vn/
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=190
 #EXTINF:-1 tvg-id="htv3" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3 - Heo TV
@@ -546,10 +550,9 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=192
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/htv-key/dvr-${start}-${offset}.m3u8", HTV Key
+#EXTVLCOPT:http-referrer=https://hplus.com.vn/
 https://vc.101vn.com/htv/htvcmb.php?id=2528
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=9
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="💛| HTV" tvg-logo="https://i.ibb.co/kmMHzKJ/HTVTHETHAO.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV THỂ THAO
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=195
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/55.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt 
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=13
