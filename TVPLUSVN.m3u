@@ -231,9 +231,8 @@ http://125hvt.ddns.net:21585/kcine/index.m3u8
 http://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8
 #EXTINF:-1 tvg-id="kactionhd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION SCTV 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusAction/01.m3u8
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1984950986?profile=pass
 #EXTINF:-1 tvg-id="antvhd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/QztqOe0.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTVᴱᴺᵀᴱᴿᵀᴬᴵᴺᴹᴱᴺᵀ
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="vtc1hd" group-title="📦🍬 VTV💯🔔" tvg-logo=""https://i.imgur.com/7HD60aD.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/VTC Digital💙1-hd/dvr-${start}-${offset}.m3u8",VTC1ᴺᴱᵂˢ
@@ -289,15 +288,6 @@ https://www.freetv.top/migu/624878396.m3u8?migutoken=3638b426669ed9e6dcdc0c1b9da
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",IQYI🇲🇾ᴹᵒᵛⁱᵉˢ 
 http://iptv12k.com:35461/654321/123456/708
 #https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37349
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/starmovies.png" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",STARᴹᵒᵛⁱᵉˢ🇮🇳
-https://hodam:66668888@tvh.hothanhdam.dsmynas.com/stream/channelid/916837844
-#http://antm.dynu.net:14285/rtp/232.84.1.96:8550
-##http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/63511
-###http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/starmovieshd.png" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",STAR SELECTᴹᵒᵛⁱᵉˢ 🇮🇳
-https://hodam:66668888@tvh.hothanhdam.dsmynas.com/stream/channelid/1946352900
-#http://antm.dynu.net:14285/rtp/232.84.1.97:8556
-##http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/63510
 #EXTINF:-1 tvg-id="foxlifehd.in" tvg-logo="https://tinyurl.com/FOXLIFEINIMG" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",&FLIXᴱᴺᵀᴱᴿᵀᴬᴵᴺᴹᴱᴺᵀ🇮🇳
 http://iptv12k.com:35461/654321/123456/8975
 
@@ -1073,8 +1063,10 @@ http://iptv12k.com:35461/654321/123456/7983
 http://iptv12k.com:35461/654321/123456/7981
 http://iptv12k.com:35461/654321/123456/7982
 #EXTINF:-1 tvg-id="ksport1hd" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+¹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/110317627?profile=pass
 #EXTINF:-1 tvg-id="ksport2hd" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+²
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1882525202?profile=pass
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",YES Sport 1 HD🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
