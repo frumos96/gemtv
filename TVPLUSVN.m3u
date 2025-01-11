@@ -98,11 +98,13 @@ https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="📦🍬 VTV💯🔔" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/29/17/1688032881225/1295179c46fd_480_270.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/60/auto/dvr-${start}-${end}.m3u8", DANAG2ᴱᴺᵀᴱᴿᵀᴬᴵᴺᴹᴱᴺᵀ
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/playlist.m3u8
 #EXTINF:0 tvg-id="htv2hd" group-title="📦🍬 VTV💯🔔" logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823424622/fd4c849487f6_480_270.png" tvg-chno="25" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8", HTV2ᴱᴺᵀᴱᴿᵀᴬᴵᴺᴹᴱᴺᵀ
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 https://vc.101vn.com/htv/htvcmb.php?id=2669
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.imgur.com/L8fXB1M.png" group-title="📦🍬 VTV💯🔔" tvg-chno="29" ,HTV7ˢᶜᵗᵛ
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
 #http://gamsgo.cyou:8080/658f1808/6f0671d0/172002
@@ -307,8 +309,11 @@ http://45.11.57.156:8000/live/Lapsus0OO22x1x/03987ClI1119mx22x/3648.m3u8
 #http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/101221
 #EXTINF:-1 tvg-id="cinemaworld" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://tdgtech.net:3022/udp/225.1.1.142:30120
 http://antm.dynu.net:14285/rtp/232.84.1.44:8244
 https://tth.vn/cinemaworld720p
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",KIX
+http://tdgtech.net:3022/udp/225.1.2.144:30120
 #EXTINF:-1 group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" tvg-logo="https://th.bing.com/th/id/R.c8476c526f4e39285fb72b98f1885d5b?rik=XoubR7DCFNXwfA&pid=ImgRaw&r=0",Hallmark Channel 🇺🇸
 http://iptv12k.com:35461/654321/123456/5812
 #EXTINF:-1 tvg-logo="https://iplogger.com/hallmarklog0" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",Hallmarkᴹᵒᵛⁱᵉˢ & Mysteries 🇺🇸
@@ -364,6 +369,7 @@ http://125hvt.ddns.net:21585/discovery/index.m3u8
 http://antm.dynu.net:14285/rtp/232.84.2.53:10528
 #EXTINF:-1 group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asiaᴸᴵᶠᴱˢᵀᵞᴸᴱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://tdgtech.net:3022/udp/225.1.2.223:30120
 http://antm.dynu.net:14285/rtp/232.84.3.219:11236
 #http://ntdung.duckdns.org:27589/udp/225.1.4.25:30120
 http://ntdung.duckdns.org:27589/udp/225.1.2.223:30120
@@ -371,6 +377,7 @@ http://ntdung.duckdns.org:27589/udp/225.1.2.223:30120
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=216
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earthᴸᴵᶠᴱˢᵀᵞᴸᴱ
+http://tdgtech.net:3022/udp/225.1.2.24:30120
 http://antm.dynu.net:14285/rtp/232.84.3.226:11278
 http://ntdung.duckdns.org:27589/udp/225.1.4.21:30120
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBCᴸᴵᶠᴱˢᵀᵞᴸᴱ
