@@ -208,7 +208,7 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/cctr7qN/astro-badminton.png" group-title="📦🍬 VTV💯🔔",Astro Badminton
-http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71105.m3u8
+http://iptv12k.com:35461/654321/123456/970
 #EXTINF:0 tvg-id="sctv4hd" group-title="📦🍬 VTV💯🔔" logo="https://i.ibb.co/rHsWYhW/sctv4-hd.png",ˢᶜᵗᵛ4 ᴺᴱᵂˢ² 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
@@ -237,7 +237,8 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusAction/01.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/QztqOe0.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTVᴱᴺᵀᴱᴿᵀᴬᴵᴺᴹᴱᴺᵀ
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" logo="https://i.imgur.com/pAqskAN.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVCᴹᵒᵛⁱᵉˢ 
-https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=15
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+#https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=15
 #EXTINF:-1 tvg-id="axnhd" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXNᴹᵒᵛⁱᵉˢ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://125hvt.ddns.net:21585/axn/index.m3u8
@@ -289,10 +290,12 @@ http://iptv12k.com:35461/654321/123456/8975
 
 ---------------------------------------PHIM----------------------------------------
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",ViuTVᴱᴺᵀᴱᴿᵀᴬᴵᴺᴹᴱᴺᵀ🇭🇰
+http://115.44.11.4:8001/bysid/99
 http://50.7.234.10:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 http://grandprix2023.asuscomm.com:8889/bysid/99
 ##http://221.127.18.221:9981/stream/channelid/1190160288?ticket=11d0a67a8a6d3ba4bdcb256bf130e48c1a4221c5&profile=pass
 #EXTINF:-1 tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",Viu6ᴱᴺᵀᴱᴿᵀᴬᴵᴺᴹᴱᴺᵀ🇭🇰
+http://115.44.11.4:8001/bysid/96
 http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 http://grandprix2023.asuscomm.com:8889/bysid/96
@@ -310,7 +313,8 @@ http://tdgtech.net:3022/udp/225.1.1.142:30120
 http://antm.dynu.net:14285/rtp/232.84.1.44:8244
 https://tth.vn/cinemaworld720p
 #EXTINF:-1 tvg-id="kix" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",KIX
-http://tdgtech.net:3022/udp/225.1.2.144:30120
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+#http://tdgtech.net:3022/udp/225.1.2.144:30120
 #EXTINF:-1 group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" tvg-logo="https://th.bing.com/th/id/R.c8476c526f4e39285fb72b98f1885d5b?rik=XoubR7DCFNXwfA&pid=ImgRaw&r=0",Hallmark Channel 🇺🇸
 http://iptv12k.com:35461/654321/123456/5812
 #EXTINF:-1 tvg-logo="https://iplogger.com/hallmarklog0" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",Hallmarkᴹᵒᵛⁱᵉˢ & Mysteries 🇺🇸
@@ -1019,12 +1023,12 @@ http://iptv12k.com:35461/654321/123456/971
 http://iptv12k.com:35461/654321/123456/7988
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/300px-Astro_Grandstand_%282024%29.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",Astro Grandstand_🇲🇾 STL
 http://iptv12k.com:35461/654321/123456/5221
-http://iptv12k.com:35461/654321/123456/970
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",Astro Football_🇲🇾 STL
 http://iptv12k.com:35461/654321/123456/969
 http://iptv12k.com:35461/654321/123456/7983
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",W Sport_🇲🇾 STL
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",Astro Football Plus_🇲🇾 STL
 http://iptv12k.com:35461/654321/123456/7981
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",W Sport_🇲🇾 STL
 http://iptv12k.com:35461/654321/123456/7982
 #EXTINF:-1 tvg-id="ksport1hd" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+¹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
