@@ -228,11 +228,12 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE MYTV
 http://125hvt.ddns.net:21585/kcine/index.m3u8
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1642319258?profile=pass
 http://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8
 #EXTINF:-1 tvg-id="kactionhd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION MYTV 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1984950986?profile=pass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1490899242?profile=pass
 http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusAction/01.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/QztqOe0.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTVᴱᴺᵀᴱᴿᵀᴬᴵᴺᴹᴱᴺᵀ
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
@@ -281,6 +282,7 @@ https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
 http://hoatv001.ddns.net:8002/ott/tv3603.php?id=235
 https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=235
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",CCTV6ᴹᵒᵛⁱᵉˢ 
+http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv6
 https://www.freetv.top/migu/624878396.m3u8?migutoken=3638b426669ed9e6dcdc0c1b9dac688bbbb9ce27ae997cafed48aedebaaac4f3ce0386fdf5f633c9d0b54dfec8100f11c55b6ad9c8f7a903ca3e404e3658b994b37f2d32f11e670da41c4b53f2
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",IQYI🇲🇾ᴹᵒᵛⁱᵉˢ 
 http://iptv12k.com:35461/654321/123456/708
@@ -309,6 +311,7 @@ http://45.11.57.156:8000/live/Lapsus0OO22x1x/03987ClI1119mx22x/3648.m3u8
 #http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/101221
 #EXTINF:-1 tvg-id="cinemaworld" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1635131019?profile=pass
 http://tdgtech.net:3022/udp/225.1.1.142:30120
 http://antm.dynu.net:14285/rtp/232.84.1.44:8244
 https://tth.vn/cinemaworld720p
@@ -316,6 +319,8 @@ https://tth.vn/cinemaworld720p
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 #http://tdgtech.net:3022/udp/225.1.2.144:30120
 #EXTINF:-1 group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" tvg-logo="https://th.bing.com/th/id/R.c8476c526f4e39285fb72b98f1885d5b?rik=XoubR7DCFNXwfA&pid=ImgRaw&r=0",Hallmark Channel 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium320/index.m3u8
 http://iptv12k.com:35461/654321/123456/5812
 #EXTINF:-1 tvg-logo="https://iplogger.com/hallmarklog0" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜",Hallmarkᴹᵒᵛⁱᵉˢ & Mysteries 🇺🇸
 #EXTVLCOPT:http-origin=https://topembed.pw
@@ -371,6 +376,7 @@ http://125hvt.ddns.net:21585/discovery/index.m3u8
 http://antm.dynu.net:14285/rtp/232.84.2.53:10528
 #EXTINF:-1 group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asiaᴸᴵᶠᴱˢᵀᵞᴸᴱ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1125304013?profile=pass
 http://tdgtech.net:3022/udp/225.1.2.223:30120
 http://antm.dynu.net:14285/rtp/232.84.3.219:11236
 #http://ntdung.duckdns.org:27589/udp/225.1.4.25:30120
@@ -379,10 +385,12 @@ http://ntdung.duckdns.org:27589/udp/225.1.2.223:30120
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=216
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earthᴸᴵᶠᴱˢᵀᵞᴸᴱ
+http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/511426851?profile=pass
 http://tdgtech.net:3022/udp/225.1.2.24:30120
 http://antm.dynu.net:14285/rtp/232.84.3.226:11278
 http://ntdung.duckdns.org:27589/udp/225.1.4.21:30120
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBCᴸᴵᶠᴱˢᵀᵞᴸᴱ
+http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/513117364?profile=pass
 http://antm.dynu.net:14285/rtp/232.84.3.225:11272
 http://ntdung.duckdns.org:27589/udp/225.1.4.23:30120
 #EXTINF:0 type="stream" channelId="-1" group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿" logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV³⁶⁰ᴸᴵᶠᴱˢᵀᵞᴸᴱ
@@ -392,8 +400,10 @@ https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=99
 https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
 https://th88vip.x10.bz/getlink/play/ott/tv3603.php?id=9856
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿",CCTV9🇨🇳
+http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv9
 https://www.freetv.top/migu/673168140.m3u8?migutoken=0da58ce201ccbaa27adea8bad67c52c5982d593a4a81c4ad50f52378e1195084ebc7af82791a319d9d68933866d72de7168332e6884503ab10c0fadb12bf6d5edf08d16b45cc379df009de1e82
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿",CCTV10🇨🇳
+http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv10
 https://www.freetv.top/migu/624878405.m3u8?migutoken=b17c936db85883119acd55fde071a88249d655dd6e2020f6b8870fad7f56b265ce23b34544faeec3a81ed5e572453118c83563098ec78770a94cd56bfe5f7de4aba6a8aafd509d925d313dcb4a
 #EXTINF:0 group-title="🌿⭐️🔥ᴸᴵᶠᴱˢᵀᵞᴸᴱ🔥⭐️🌿" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png",Canal Offᴸᴵᶠᴱˢᵀᵞᴸᴱ
 http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/101711
@@ -593,7 +603,6 @@ https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u
 http://hoatv001.ddns.net:8002/ott/tv3603.php?id=64
 #EXTINF:-1 tvg-id="namdinh" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/159.png",NTV-Nam Định
 https://live.fptplay53.net/epzsd1/namdinh_hls.smil/chunklist.m3u8
-
 https://tv.TruyenHinh.Click/CoBan/141/TuyetDoiKhongKinhDoanh
 http://hoatv001.ddns.net:8002/ott/tv3603.php?id=73
 #EXTINF:-1 tvg-id="quangninh1" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/168.png", QTV1-Quảng Ninh
@@ -605,6 +614,8 @@ https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u
 #EXTINF:-1 tvg-id="thainguyen" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/176.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/406/auto/dvr-${start}-${end}.m3u8", TN1-Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:0 tvg-id="tuyenquang" group-title="🟦🟦Địa phương🇻🇳🟦🟦" logo="https://cdn.hqth.me/logo/thumbs/182.png", Tuyên Quang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.tuyenquangtv.vn/channel/tuyenquang/channel/tuyenquang_1080p/chunks.m3u8
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
 http://hoatv001.ddns.net:8002/ott/tv3603.php?id=92
 #EXTINF:-1 tvg-id="vinhphuc" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/183.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/57/auto/dvr-${start}-${end}.m3u8", VP HD | TH Vĩnh Phúc
@@ -614,11 +625,12 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=p
 #EXTINF:-1 tvg-id="nghean" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/160.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/453/auto/dvr-${start}-${end}.m3u8", NTV-Nghệ An
 https://cdn.mediatech.vn/natvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/179.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/168/auto/dvr-${start}-${end}.m3u8", TRT-Huế
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
 https://tv.TruyenHinh.Click/CoBan/152/TuyetDoiKhongKinhDoanh
 http://hoatv001.ddns.net:8002/ott/tv3603.php?id=63
 #EXTINF:-1 tvg-id="gialai" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/138.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/172/auto/dvr-${start}-${end}.m3u8", THGL-Gia Lai
+https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist.m3u8
 https://tv.TruyenHinh.Click/CoBan/143/TuyetDoiKhongKinhDoanh
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=55
 #EXTINF:-1 tvg-id="daklak" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/130.png", DRT-Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/150.png", KTV-Khánh Hòa
@@ -631,11 +643,11 @@ http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="http://cdn.hqth.me/logo/thumbs/124.png", BTV-Bình Thuận
 https://64d0d74b76158.streamlock.net:443/BTVTV/binhthuantv/chunklist_w1166505719.m3u8
 #EXTINF:-1 tvg-id="baria" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/tonghop/brt/dvr-${start}-${offset}.m3u8", BRT-Bà Rịa Vũng Tàu
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=94
-https://oipf0znpmnliv.vcdn.cloud/hls/brvt/index.m3u8
+https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/115.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/402/auto/dvr-${start}-${end}.m3u8", BTV1-Bình Dương
-https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
+https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/116.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/38/auto/dvr-${start}-${end}.m3u8", BTV2-Bình Dương
+https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/btv2/index.m3u8
@@ -663,7 +675,7 @@ https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/147.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/181/auto/dvr-${start}-${end}.m3u8", HGTV-Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 #EXTINF:-1 tvg-id="angiang" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/107.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/34/auto/dvr-${start}-${end}.m3u8", ATV-An Giang
-http://hoatv001.ddns.net:8002/ott/tv3603.php?id=35
+https://tv.TruyenHinh.Click/CoBan/123/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="kiengiang" group-title="🟦🟦Địa phương🇻🇳🟦🟦" tvg-logo="https://cdn.hqth.me/logo/thumbs/151.png" catchup="append" catchup-days="2" catchup-source="https://tv.kgtv.vn/replay/index2.php/kgtv/${start}_${end}.m3u8", KG-Kiên Giang
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
@@ -696,6 +708,7 @@ https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg" group-title="🎵|Music",Music°On! TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0 type="stream" channelId="-1" group-title="🎵|Music" logo="http://n.ysyz.top:99/buyaolian/cctv15.png", CCTV15🇨🇳 音乐HD
+http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv15
 https://www.freetv.top/migu/673168223.m3u8?migutoken=c2619f77bbfe7eab7639a9a2dca845dac85dca21cadbaf4aeeb270463ef2fc93b1f4df20e4a62a348b11629d72b1ca86c849e9ed49143129d29d604b5574e4ad894abf226d92f324c4729a82df
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="🎵|Music",Clubbingtv
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
@@ -737,7 +750,8 @@ https://xyzdddd.mizhls.ru/lb/premium52/index.m3u8
 https://xyzdddd.mizhls.ru/lb/premium51/index.m3u8
 ##http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61430&extension=ts&play_token=hYEPk43PWu&sn2=
 #EXTINF:-1 group-title="🚩🚩🚩Foreign🚩🚩🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX🇺🇸
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium54/index.m3u8
 ##http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61403&extension=ts&play_token=xhDFDIaqFh&sn2=
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🚩🚩🚩Foreign🚩🚩🚩",北京卫视 Bắc Kinh🇨🇳
 http://iptv12k.com:35461/654321/123456/1312
@@ -1032,10 +1046,10 @@ http://iptv12k.com:35461/654321/123456/7981
 http://iptv12k.com:35461/654321/123456/7982
 #EXTINF:-1 tvg-id="ksport1hd" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+¹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/110317627?profile=pass
+http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/2000475896?profile=pass
 #EXTINF:-1 tvg-id="ksport2hd" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1882525202?profile=pass
+http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1860957148?profile=pass
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",YES Sport 1 HD🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12249/index.m3u8
@@ -1061,6 +1075,7 @@ http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12255/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12256/index.m3u8
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", CCTV5ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ🇨🇳
+http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv5
 https://www.freetv.top/migu/641886683.m3u8?migutoken=3be440b83940d80dff6d54171c96d0b639ad4e1b7d9ab42ddc0fd8625b1b886a8737247555702e5606c7071d3563932ff237cdbbd8fa7ae75e24bbdab5c6f0dccc571b4c64a56dc596c8ecb7e0
 #EXTINF:0  Logo="http://images.zaltv.club/logo/cctv-5+.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉", CCTV5+ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ🇨🇳
 https://www.freetv.top/migu/641886773.m3u8?migutoken=5237927f277b192ed9a5e3ae615ff4f891508f96f79be057c8e9f6c55cfdc4e0bc2c9c6a9ae64bc153e42f34a4306ec13b5f31664d5737fd0ca202577d01bf5e2609235f907074eeceaa2976e0
@@ -1328,17 +1343,94 @@ https://tinyurl.com/SS04AL
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://joaquinito02.es/vavoo/2457701096.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport PSL
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium413/index.m3u8
 http://iptv12k.com:35461/654321/123456/5006
 http://iptv12k.com:35461/654321/123456/5666
 #http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18532&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport Premier League_🇿🇦
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium414/index.m3u8
 http://iptv12k.com:35461/654321/123456/5005
 http://iptv12k.com:35461/654321/123456/5671
 #http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",SuperSport Football_🇿🇦
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium56/index.m3u8
 http://iptv12k.com:35461/654321/123456/5003
 http://iptv12k.com:35461/654321/123456/5670
 #http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="ACTION.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" tvg-name="SuperSport Action",SuperSport Action
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium420/index.m3u8
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="CRICKET.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-cricket-za.png?raw=true" tvg-name="SuperSport Cricket",SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium368/index.m3u8
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="GOLF.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-golf-za.png?raw=true" tvg-name="SuperSport Golf",SuperSport Golf
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium422/index.m3u8
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="GRANDSTAND.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-grandstand-za.png?raw=true" tvg-name="SuperSport Grandstand",SuperSport Grandstand
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium412/index.m3u8
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="LA.LIGA.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" tvg-name="SuperSport LaLiga",SuperSport LaLiga
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium415/index.m3u8
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="MAXIMO.1.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" tvg-name="SuperSport MaXimo 1",SuperSport MaXimo 1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium572/index.m3u8
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="MOTORSPORT.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-motorsport-za.png?raw=true" tvg-name="SuperSport Motorsport",SuperSport Motorsport
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium424/index.m3u8
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="RUGBY.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-rugby-za.png?raw=true" tvg-name="SuperSport Rugby",SuperSport Rugby
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium421/index.m3u8
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="TENNIS.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-tennis-za.png?raw=true" tvg-name="SuperSport Tennis",SuperSport Tennis
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium423/index.m3u8
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="VARIETY.1.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety1-za.png?raw=true" tvg-name="SuperSport Variety 1",SuperSport Variety 1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium416/index.m3u8
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="VARIETY.2.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety2-za.png?raw=true" tvg-name="SuperSport Variety 2",SuperSport Variety 2
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium417/index.m3u8
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="VARIETY.3.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety3-za.png?raw=true" tvg-name="SuperSport Variety 3",SuperSport Variety 3
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium418/index.m3u8
+#EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="VARIETY.4.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety4-za.png?raw=true" tvg-name="SuperSport Variety 4",SuperSport Variety 4
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium419/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",Матч! ФУТБОЛ 1🇷🇺
 http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/2407/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",Матч! ФУТБОЛ 2ᴸᴬᴸᴵᴳᴬ🇷🇺
