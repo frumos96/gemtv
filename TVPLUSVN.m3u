@@ -232,9 +232,17 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-name="SPOTV" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-name="SPOTV2" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/WboSBgl.jpg",True SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/cctr7qN/astro-badminton.png" group-title="📦🍬 VTV💯🔔",Astro Badminton
 http://iptv12k.com:35461/654321/123456/970
@@ -1049,6 +1057,24 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1B:79:42:DD:FD&stream=45466&extens
 #EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",SkySportsᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ UK
 http://p1.cvtv.xyz/pl?token=live
 http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/29071.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 tvg-id="PeacockTV" group-title="📣🔴Livestream📌♾💟"  tvg-logo=" ",PeacockTV Premier League
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 1
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 group-title="📣🔴Livestream📌♾💟" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 2
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 ---------------------------------------SPORT ASEAN----------------------------------------
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Astro_Premier_League.svg/revision/latest/scale-to-width-down/1000?cb=20241016162457" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",Astroᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ 1_🇲🇾 STL
 http://iptv12k.com:35461/654321/123456/972
@@ -1071,6 +1097,18 @@ http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/2000475896
 #EXTINF:-1 tvg-id="ksport2hd" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://mytv123:mytv11234@hothanhdam.dsmynas.com:9981/stream/channelid/1860957148?profile=pass
+#EXTINF:-1 group-title="👑🎉 🌏ASIA FUOL📺🔥🎉" tvg-id="spotvprime.kr" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/7e36da649acf52299449f70a1412fdbf.png",SPOTV Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178|Referer=https://kakotv.com/
+
+#EXTINF:-1 group-title="#EXTINF:-1 group-title="👑🎉 🌏ASIA FUOL📺🔥🎉" tvg-id="spotvprime.kr" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/7e36da649acf52299449f70a1412fdbf.png",SPOTV Prime" tvg-id="spotvprime.kr" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/8b3a24e8f2e7e5a5d591d94e1420990d.png",SPOTV Prime 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=spotv_on2_540&sid=dXSaxlJ06SWPlS0XX3TDcz1W2xmXPEDnmCaXafvb&secret=3f9a6459cb275a41fd1f1a3862550759&time=1737314559|Referer=https://kakotv.com/
+
+#EXTINF:-1 group-title="#EXTINF:-1 group-title="👑🎉 🌏ASIA FUOL📺🔥🎉" tvg-id="spotvprime.kr" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/7e36da649acf52299449f70a1412fdbf.png",SPOTV Prime" tvg-id="spotvprime.kr" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/784ba49d34bc3b29f93ab906a3adabc0.png",SPOTV Prime Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
+
 #EXTINF:-1 Logo="https://img.sport-tv-guide.live/images/tv-station-il-sport-1-1021.png" group-title="👑🎉 🌏ASIA FUOL📺🔥🎉",YES Sport 1 HD🇮🇱
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/12249/index.m3u8
@@ -1262,11 +1300,25 @@ http://eurogenius.pro:8080/trasmorenReSHARE1/85UtE6EnH2Nj/61284
 http://eurogenius.pro:8080/trasmorenReSHARE1/85UtE6EnH2Nj/61290
 #EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img.logo-cdn.cc//dazn1.png",DAZN 1 🇪🇸 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-037/stream.mpd
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium445/index.m3u8
 #http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/192289
 #EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img.logo-cdn.cc//dazn2.png",DAZN 2 🇪🇸 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-038/stream.mpd
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium446/index.m3u8
 #http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/192288
@@ -1294,46 +1346,46 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
 http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/52361
 
 #EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="[PT] ELEVEN SPORTS 1 HD" tvg-logo="https://img.logo-cdn.cc/elevensports1.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",DAZN ¹🇵🇹
-http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/54740
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/54740
 #http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/105656
 #EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="[PT] ELEVEN SPORTS 2  ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports2.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",DAZN ²🇵🇹
-http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/54741
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd
+http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/54741
 #http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123805
 #EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="[PT] ELEVEN SPORTS  3  ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports3.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",DAZN ³🇵🇹
-http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/53509
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd
+http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/53509
 #http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123806                 
 #EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="[PT] ELEVEN SPORTS 4  ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports4.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",DAZN ⁴🇵🇹
-http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/53510
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd
+http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/53510
 #http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123807
 #EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="[PT] ELEVEN SPORTS 5  ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports5.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",DAZN ⁵🇵🇹
-http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/53511
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
+http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/53511
 #http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123808
 #EXTINF:-1 tvg-ID="elevensports6.pt" tvg-name="[PT] ELEVEN SPORTS 6  ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports6.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",DAZN ⁶🇵🇹
-http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/53512
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
+http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/53512
 #http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123809
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺",CANAL+ FOOTweb 🇫🇷
 http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/50145
@@ -1343,16 +1395,25 @@ http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/54738
 http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/2789
 #EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺", ARENA SPORT PREMIUM 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium134/index.m3u8
 
 #EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺", ARENA SPORT PREMIUM 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium135/index.m3u8
 
 #EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺", ARENA SPORT PREMIUM 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium139/index.m3u8
 #EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-id="arena-sport-premier_league" tvg-logo="https://i.postimg.cc/QtJtqpZp/20231118-221613.png",Arena Sport Premier league
@@ -1361,6 +1422,7 @@ https://webhdrunns.mizhls.ru/lb/premium139/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-super-sport-1-691.png",Super Sport 1🇦🇱
 https://tinyurl.com/SS01AL
 #EXTINF:-1 group-title="🍀⭕️💢EURO FUOL🔒⚽🇪🇺" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-super-sport-2-692.png",Super Sport 2🇦🇱
